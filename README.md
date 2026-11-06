@@ -2,30 +2,22 @@
 
 Explore Beyond the Lens.
 
-简体中文摄影百科、摄影原理实验室与品牌博物馆。React + TypeScript，静态构建；使用 hash 路由支持静态托管的直接链接。
+摄影百科、原理实验室与品牌博物馆。当前正式目录：**100款数码相机、逐款真实照片、6695项带来源参数**，另有20篇知识条目与三个互动实验。
 
-## 开发
+React / TypeScript / Vite，hash路由支持静态托管。
 
 ```sh
-npm install
+npm ci
 npm run dev
-npm run build
 npm test
+npm run build
 ```
 
-构建产物为 `dist/`。依赖锁文件随代码提交；后续可使用 `npm ci`。
+构建输出dist。部署使用ChatGPT Sites，沿用.openai/hosting.json的站点标识和原有访问范围。
 
-## 工程资料
-
+- [本次范围、来源与限制](docs/RELEASE-DIGITAL-100.md)
+- [独立验收](docs/DIGITAL-FINAL-QA.md)
 - [设计规范](docs/DESIGN.md)
-- [架构](docs/ARCHITECTURE.md)
-- [数据与来源](docs/DATA.md)
-- [验收记录](docs/ACCEPTANCE.md)
+- [数据接口](docs/DIGITAL-CONTRACT.md)
 
-## 范围与发布
-
-本版本是分阶段开发的首批成果，不代表 60–80 款相机数据库已经完成。只将实际完成来源核对的数据标为已核验；原始产品图使用原创示意图，不能作为产品外观依据。
-
-目标托管为 ChatGPT Sites，不采用 Vercel。当前构建为静态 Vite 输出，可配置 Sites `static.directory` 为 `dist`。仅在 Sites 创建工具返回真实 project_id 后写入 `.openai/hosting.json`，不编造站点标识。
-
-公开发布必须得到用户确认。当前环境缺少 Sites 打包辅助脚本及浏览器 QA 工具，因此在线预览和 Safari 实机兼容性尚未验证。
+审阅后的源数据位于src/cameras，每款机型一个JSON文件，顺序位于src/camera-order.json。npm安装、测试、开发和构建时自动运行scripts/build-catalog.mjs，生成应用数据及验证所需的批次文件；生成文件不纳入版本库。只编辑逐款源文件，采集结果须再次审阅。未知信息保留未知；未执行相机实测。照片逐张保留署名与许可。

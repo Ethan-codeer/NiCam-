@@ -1,0 +1,626 @@
+{
+  "id": "canon-r5-mark-ii",
+  "name": "Canon EOS R5 Mark II",
+  "brand": "canon",
+  "year": 2024,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 45.0,
+  "width": 138.5,
+  "height": 101.2,
+  "depth": 93.5,
+  "description": "Canon EOS R5 Mark II，全画幅可换镜头无反相机。",
+  "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "image-sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "36 x 24 mm Full Frame back-illuminated stacked CMOS sensor",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 45 百万像素",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "总像素",
+          "value": "约 50.3 百万像素",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "画幅比例",
+          "value": "3:2",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "低通滤镜",
+          "value": "内置／固定",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "除尘系统",
+          "value": "EOS integrated cleaning system",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "彩色滤镜",
+          "value": "RGB 原色滤镜",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "机身防抖",
+          "value": "支持, 最高 8.5-Stops advantage at the center and 7.5-stops peripheral depending on the lens used",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Yaw, pitch, and roll image stabilization performance, based on the CIPA 2024 standard 使用 RF 24-105mm F2.8 L IS USM Z at a focal length of 105mm"
+        }
+      ]
+    },
+    {
+      "id": "image-processor",
+      "title": "影像处理器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "DIGIC Accelerator and DIGIC X",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "lens",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "RF / RF-S / EF and EF-S lenses can be attached using: Mount Adapter EF-EOS R Control Ring Mount Adapter EF-EOS R, Drop-In Filter Mount Adapter EF-EOS R / EF-M lenses are not compatible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "焦距换算",
+          "value": "Equivalent to 1.0x the focal length of the lens 使用 RF and EF lenses, 1.6x 使用 EF-S and RF-S lenses.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focusing",
+      "title": "对焦系统",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "Dual Pixel Intelligent AF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "对焦工作范围",
+          "value": "EV -6.5 – 21 (23°C时 & ISO100)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "最低照度自动对焦：使用 f/1.2 镜头、中央对焦点、单次自动对焦，23°C、ISO 100；不含采用 DS 柔焦镀膜的 RF 镜头。"
+        },
+        {
+          "label": "对焦模式",
+          "value": "单次自动对焦, 伺服自动对焦, AI Focus AF (in A+ Scene Intelligent 自动 mode )",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "对焦点选择",
+          "value": "Automatic selection: Face + tracking. 1053 Available AF areas when automatically selected / 手动 selection: Spot AF / 手动 selection: 1-point AF (AF frame size can be changed) 5850 (stills)/ (4500) movie AF positions available / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 999 maximum focusing zones, where the width and hight is also adjustable) / 手动 selection: Whole area AF / 手动 selection: Spot AF (Whole area tracking servo AF OFF) / 手动 selection: 1-point AF (Whole area tracking servo AF OFF) / 手动 selection: AF point Expansion 4 points (up, down, left, right) (Whole area tracking servo AF OFF) / 手动 selection: AF point Expansion surrounding (Whole area tracking servo AF OFF)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "追踪对焦",
+          "value": "Humans (Eyes, Face, Head, Upper half of body, Body), Animals (Dogs, Cats, Birds and Horses) or Vehicles (Racing cars or Motor bikes, Airplanes and Trains), Register People Priority (最高 10 x 10 registered people), Action Priority (Football, Basketball, Volleyball, American Football(使用 Firmware v. 1.3.0 or later))",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Only available for still photos and electronic shutter. If the person's size on the screen is small, or if part of the subject is hidden or multiple subjects are crowded together, identification accuracy may decrease. / Supported actions: - Soccer: Shoot, header, short pass, long pass, dribble, clear, place kick, save by keeper, throw in, sliding tackle - Basketball: Shoot, rebound, pass, dribble, free throw, jump ball - Volleyball: Spike, toss, receive, serve - American Football: Carry, Pass, Reception, Punt, Kickoff, Quarterback catching a snap, Ball held above the waist"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "Locked when shutter button is pressed halfway or AF ON is pressed in 单次自动对焦 AF mode. Using customised button set to AF stop in AI servo",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "Emitted by built in LED or optional dedicated Speedlite (flash)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "手动对焦",
+          "value": "Selected on lens",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "exposure-control",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光模式",
+          "value": "Real-time 使用图像传感器, 6144-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (约 9.5% of screen at centre) / (3) Spot metering: Centre spot metering (约 5.3% screen at centre) AF point-linked spot metering not provided / (4) Centre weighted average metering",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV -3 – 20 (23°C时, ISO100, 使用 evaluative metering)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "自动: AE lock takes effect when focus is achieved 手动: By AE lock button in P, Av, Fv, Tv and M modes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "自动包围曝光",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "防闪烁拍摄",
+          "value": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz. Maximum continuous shooting speed may decrease available 使用 both electronic and 机械快门 / High Frequency anti flicker shooting for M and TV modes / Electronic 1st-curtain: 1/50.0 to 1/2048.0 sec. / 电子快门: 1/50.0 to 1/8192.0 sec. / Movie recording: 1/50.0 to 1/8192.0 sec. (NTSC/PAL) / Maximum continuous shooting speed may decrease.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "originalValue": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz. Maximum continuous shooting speed may decrease available 使用 both electronic and mechanical shutter / High Frequency anti flicker shooting for M and TV modes / Electronic 1st-curtain: 1/50.0 to 1/2048.0 sec. / 电子快门: 1/50.0 to 1/8192.0 sec. / Movie recording: 1/50.0 to 1/8192.0 sec. (NTSC/PAL) / Maximum continuous shooting speed may decrease."
+        },
+        {
+          "label": "感光度",
+          "value": "自动 100-51200 (in 1/3-stop or 1 stop increments) / ISO can be expanded to L:50, H1:102400",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Recommended Exposure Index. Expanded ISO speeds are not available when [HDR shooting (PQ): HDR PQ] is set."
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "电子控制 焦平面快门 and 电子快门 function on sensor",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "快门速度",
+          "value": "Mechanical / Electronic 1st-curtain: 30-1/8000 sec (1/2 or 1/3 stop increments), Bulb / Electronic: 30-1/32000 (1/2 or 1/3 stop increments 最高 1/16000 then 1 stop until 1/32000), Bulb / (Total shutter speed range. Available range varies by shooting mode)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "快门释放",
+          "value": "Soft touch electromagnetic release",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "white-balance",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "自动白平衡 使用 the imaging sensor supported by deep learning technology / 自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "设置",
+          "value": "White balance compensation: / 1. Blue/Amber +/-9 / 2. Magenta/Green +/-9",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "自定义白平衡",
+          "value": "支持, 5 setting can be registered, 4 colour temperature values assignable to a custom button(Firmware v. 1.3.0)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "白平衡包围",
+          "value": "+/-3 levels in single level increments 3, 2, 5 or 7 bracketed 张图像 per shutter release / Selectable Blue/Amber bias or Magenta/Green bias",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "viewfinder",
+      "title": "取景器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "0.5-inch OLED colour EVF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "显示点数",
+          "value": "5.76 Million dots (1600x1200)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "视野覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约 0.76x",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "使用 50mm lens at 无限远, -1m-1 dpt"
+        },
+        {
+          "label": "眼点",
+          "value": "约 24mm (from eyepiece lens centre)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-4 to +2 m-1 (dioptre)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "显示性能",
+          "value": "Power saving: 59.94 fps Smooth 119.98 fps , supress low frame rate 60 -119.8fps (7 level of brightness)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Low light AF performance will be reduced when supress low frames is used"
+        },
+        {
+          "label": "取景信息",
+          "value": "AF point information, Eye Control pointer, Exposure level indicator, Shooting mode, ISO speed, Shutter speed, Aperture, Number of remaining multiple exposures, Exposure compensation, HDR shooting, Highlight tone priority, Multiple-exposure shooting, Multi Shot Noise Reduction, Number of self-timer shooting, Digital Lens Optimizer, Maximum burst, AF method, Battery level, Electronic level size, Card free space (%) display, AF operation, Exposure simulation, Drive mode, AEB, Metering mode, FEB, Anti-flicker shooting, Still photo cropping, Aspect ratio, 自动 Lighting Optimizer, AE lock, Picture Style, Flash-ready, White balance, Flash off, White balance correction, FE lock, Image Quality, High-speed sync, Bluetooth function, Wi-Fi function, Multi-function lock warning, Histogram, Electronic level, Lens information, focus distance scale, vertical exposure scale, Grid,",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "景深预览",
+          "value": "支持, via customised button",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "lcd-monitor",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "8.0cm (3.2\") TFT Colour LCD, 约 2.1百万点",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "originalValue": "8.0cm (3.2\") TFT Colour LCD, approx. 2.1million dots"
+        },
+        {
+          "label": "覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "可视角度",
+          "value": "约 170° vertically and horizontally",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "表面涂层",
+          "value": "Anti-smudge coating provided.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "亮度调节",
+          "value": "手动: Adjustable to one of seven levels Colour Tone Adjustment: 4 settings",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "触控操作",
+          "value": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "显示选项",
+          "value": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen / (6) Off",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "flash",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "E-TTL II flash metering, 手动 flash, MULTI flash (stroboscopic), 自动 external flash metering, 手动 external flash metering",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "When [Cropping/aspect ratio: Full-frame/1:1/4:3/16:9] is set: 1/200 sec 机械快门 / 1/250 electronic 1st curtain, 1/160 sec 电子快门 / When [Cropping/aspect ratio: 1.6x (crop)] is set: 1/250 sec 机械快门 / 1/320 electronic 1st curtain, 1/250 sec 电子快门",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "When using EL/EX Speedlite and [Sync speed priority: Enable] is set",
+          "originalValue": "When [Cropping/aspect ratio: Full-frame/1:1/4:3/16:9] is set: 1/200 sec mechanical shutter / 1/250 electronic 1st curtain, 1/160 sec 电子快门 / When [Cropping/aspect ratio: 1.6x (crop)] is set: 1/250 sec mechanical shutter / 1/320 electronic 1st curtain, 1/250 sec 电子快门"
+        },
+        {
+          "label": "闪光曝光补偿",
+          "value": "'+/- 3EV in 1/3 increments 使用 EX and EL series Speedlite flashes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "闪光包围曝光",
+          "value": "'+/- 3EV in 1/3 increments 使用 EX and EL series Speedlite flashes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "闪光曝光锁定",
+          "value": "支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "后帘同步",
+          "value": "支持 via Speedlite",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "热靴与同步端子",
+          "value": "支持/支持 and Multi-function shoe",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "外接闪光灯兼容",
+          "value": "EL series Speedlites, EX series Speedlites, Macrolites, Wireless multi-flash support",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "外接闪光灯控制",
+          "value": "via camera menu screen",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄性能",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "Stills: Scene Intelligent 自动, Flexible priority AE, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (x3) / Movie: Scene Intelligent 自动, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "照片风格",
+          "value": "自动, 标准, 人像, 风光, 精细细节, 中性, 可靠设置, 单色, 用户自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "色彩空间",
+          "value": "SDR: sRGB and Adobe RGB HDR PQ: BT.2020 / Highlight Tone Priority (3 settings) / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction (3 settings) (still only) / Clarity / High ISO speed noise reduction (4 settings) (still and video) / Lens optical correction: / - Peripheral illumination correction, Chromatic aberration correction Distortion correction (during/after still photo shooting, during video only) / - Focus breathing correction(during video only) / - Diffraction correction, / - Digital Lens Optimizer (during/after still photo shooting)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "图像处理",
+          "value": "Resize to M, S1, S2 / Cropping: JPEG 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / Cropping of 张图像 / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using 触摸屏 operation / - Neural Network Upscaling / RAW image processing / Neural Network Noise Reduction / Multiple exposure / HDR / HEIF to Jpeg conversion (inc Batch conversion) / Focus Bracketing and in camera composition",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "originalValue": "Resize to M, S1, S2 / Cropping: JPEG 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / Cropping of 张图像 / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using touch screen operation / - Neural Network Upscaling / RAW image processing / Neural Network Noise Reduction / Multiple exposure / HDR / HEIF to Jpeg conversion (inc Batch conversion) / Focus Bracketing and in camera composition"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single, Continuous High+, Continuous High, Continuous Low, Customisable Continuous shooting speeds, Self-timer (2s+remote, 10s+remote, continuous)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "连续拍摄",
+          "value": "最高 约 12 fps. 使用 机械快门/1st curtain electronic speed maintained for 760 JPEG or 230/95(CFexpress/SD card) RAW 张图像 or 30 FPS 使用 电子快门 speed maintained for 200 JPEG or 93/86(CFexpress/SD card) RAW 张图像. / 自定义 Continuous shooting speed 使用 电子快门 selectable options 30 / 20 / 15 / 12 / 10 / 7.5 / 5 / 3 / 2 / 1 FPS depending on the drive mode. / Pre-Continuous shooting is possible from 15 张 before the shutter button is fully pressed when the AF is on for 15 张 or more. / Pre-Continous shooting ON/OFF via customised button.(Firmware v. 1.3.0 or later)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Under Canon testing standards 使用 CFexpress/SD card and during servo AF, only RF lenses and some EF lenses can be used for continuous shooting at the maximum speed. The continuous shooting speed may be reduced by the lens, shutter speed, aperture, flash, subject conditions, and brightness (for example, when shooting in a dark place). Continuous shooting speed is slower when flicker is detected, even if anti-flicker shooting is off. For more details please see the User's Guide at “https://cam.start.canon”",
+          "originalValue": "最高 约 12 fps. 使用 机械快门/1st curtain electronic speed maintained for 760 JPEG or 230/95(CFexpress/SD card) RAW 张图像 or 30 FPS 使用 electronic shutter speed maintained for 200 JPEG or 93/86(CFexpress/SD card) RAW 张图像. / 自定义 Continuous shooting speed 使用 电子快门 selectable options 30 / 20 / 15 / 12 / 10 / 7.5 / 5 / 3 / 2 / 1 FPS depending on the drive mode. / Pre-Continuous shooting is possible from 15 张 before the shutter button is fully pressed when the AF is on for 15 张 or more. / Pre-Continous shooting ON/OFF via customised button.(Firmware v. 1.3.0 or later)"
+        },
+        {
+          "label": "间隔定时器",
+          "value": "Built in",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "file-type",
+      "title": "图像文件",
+      "rows": [
+        {
+          "label": "静态图像格式",
+          "value": "RAW 14 bit: RAW and C-RAW (Canon original RAW 3rd edition) / Dual Pixel RAW (Firmware v. 1.3.0 or later) / JPEG 8 bit: 10 compression options / HEIF 10 bit: 10 compression options / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.1",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "RAW与JPEG同时记录",
+          "value": "支持, any combination of RAW + JPEG or RAW + HEIF possible,",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "图像尺寸",
+          "value": "RAW/ C-RAW: / 3:2 ratio 8192x5464, 1.6x (crop) 5088x3392 / JPEG/ HEIF: / 3:2 ratio (L, RAW, C-RAW) 8192x5464, (M) 6000x4000, (S1) 4176x2784, (S2) 2400x1600 / 1.6x (crop) (L) 5088x3392, (S2) 2400x1600 / 4:3 ratio (L) 7280x5464, (M) 5328x4000, (S1) 3712x2784, (S2) 2112x1600 / 16:9 ratio (L) 8192x4608, (M) 6000x3368, (S1) 4176x2344, (S2) 2400x1344 / 1:1 ratio (L) 5456x5456, (M) 4000x4000, (S1) 2784x2784, (S2) 1600x1600 / In-camera Neural Network Upscaling 最高 16384x10928 (179MP)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Supported 张图像: JPEG / HEIF 张图像, Upscaled 张图像 can be cropped. The following 张图像 cannot be in-camera upscaled: RAW/C-RAW 张图像, Images shot 使用 a camera that is not the same model, Images resized or cropped by a camera, computer, or other device, In-camera upscaled 张图像, Image size: Other than L, [Cropping/aspect ratio]: Other than Full-frame, Images shot 使用 cropped shooting using an RF-S or EF-S lens, Images frame grabbed from movies, Images shot 使用 the [Dual shooting (still&movie): On] setting. It may take some time for processing 张图像. Shooting is not possible until the image processing finishes."
+        },
+        {
+          "label": "文件夹",
+          "value": "New folders can be manually created, named and selected / Movie folder structure is adopting the XF-HEVC S / XF-AVC S format",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "文件编号",
+          "value": "(1) Consecutive numbering / (2) 自动-reset / (3) 手动 reset",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "文件命名",
+          "value": "Still: / Preset code Unique 4-digit character string + 4-digit file number / 2 User Presets / Movie: / Adopting the XF-HEVC S / XF-AVC S format / Camera index, Reel number, Clip number, Codec type, Shooting start date, Shooting start time, Random ID, User defined 5 characters, Stream number, (Proxy)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "eos-movie",
+      "title": "视频",
+      "rows": [
+        {
+          "label": "视频格式",
+          "value": "RAW/SRAW Video: 8K DCI(17:9) / 4K DCI(17:9) / MP4 Video: 8K DCI/UHD (17:9/16:9) 4K DCI/UHD (17:9/16:9), 2K/全高清 (17:9/16:9) / 8K/4K/2K/全高清: XF-HEVC S/H.265, Audio: Linear PCM / AAC / 4K/2K/全高清: MPEG-4 AVC S/H.264, Audio: Linear PCM / AAC / 8K RAW 4K RAW: 12bit CRM Audio: Linear PCM / AAC / 8K/4K/FullHD Time-lapse movie mode",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Recording is possible only 使用时 an CFexpress card."
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "RAW (Light) (17:9) 8192 x 4320 (59.94, 50, 29.97, 25, 24, 23.98 fps) / RAW (标准) (17:9) 8192 x 4320 (29.97, 25, 24, 23.98 fps) / SRAW (标准, Light) (17:9) 4096 x 2160 (59.94, 50, 29.97, 25, 24, 23.98 fps) / 8K DCI (17:9) 8192 x 4320 (29.97, 25, 24, 23.98 fps) 2-3 type of intra or Long GOP / 8K UHD (16:9) 7680 x 4320 (29.97, 25, 23.98 fps) 2-3 type of intra or Long GOP / 4K DCI (17:9) 4096 x 2160 (119.9, 100, 59.94, 50, 29.97, 25, 24, 23.98 fps) 3 type of intra or Long GOP / 4K UHD (16:9) 3840 x 2160 (119.9, 100, 59.94, 50, 29.97, 25, 23.98 fps) 3 type of intra or Long GOP / 2K DCI (17:9) 2048 x 1080 (239.76, 200, 119.9, 100, 59.94, 50, 29.97, 25, 24, 23.98 fps) Intra frame or Long GOP / 全高清 (16:9) 1920 x 1080 (239.76, 200, 119.9, 100, 59.94, 50, 29.97, 25, 23.98 fps) Intra frame or Long GOP / HDR movie recording at 最高 59.94p in Normal modes of 4K DCI/UHD, 2K DCI/UHD, 全高清 / HDR movie recording at 最高 29.97p in Fine modes of 4K DCI/UHD, 2K DCI/UHD, 全高清",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "8K UHD 4K UHD and 全高清 are 94% horizontal coverage of the image area, RAW, SRAW, 8K DCI, 4K DCI and 2K DCI are 100%, DCI movie cropping mode is 62.1% and UHD/HD movie cropping mode is 58.1% of the horizonal area. / HDR movie mode is not available when recording RAW movies. If the cameras internal temperature becomes too high the maximum recording time will be reduced"
+        },
+        {
+          "label": "内部记录色彩采样",
+          "value": "8K/ 4K/ 2K/ 全高清 - YCbCr4:2:0 or YCbCr4:2:2 8-bit or 10bit",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "Canon Log",
+          "value": "自定义 Picture: / C1: Canon 709 / C2: Canon Log 2 / C3: Canon Log 3 / C4: PQ / C5: HLG / C6: BT.709 标准 / C7 - C20: 用户自定义 / Picture Styles: 自动, 标准, 人像, 风光, 精细细节, 中性, 可靠设置, 单色, 用户自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "单段视频长度",
+          "value": "Max duration 6 hours. (excluding High Frame Rate movies). 不支持 4 GB file limit 使用 exFAT formatted card.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "If the cameras internal temperature becomes too high the maximum recording time will be reduced"
+        },
+        {
+          "label": "高帧率视频",
+          "value": "MP4 Video: / 4K – DCI 4096x2160 / UHD 3840x2160 at 119.9 / 100 fps / 2K – DCI 2048x1080 / UHD 1920x1080 at 239.76 / 200 / 119.9 / 100 fps / 全高清 1920 x1080 at 239.76 / 200 / 119.9 / 100 fps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "使用 [High Frame Rate: Disable] setting, movie is recorded 使用 audio and the movie is played back at actual speed. 使用 [High Frame Rate: Enable] setting, no audio is recorded and the movie is played in slow motion at 29.97 fps (NTSC) /25.00 fps (PAL) when played back. Only exFAT-formatted cards can be used for recording (recording to FAT32-formatted cards is not possible)."
+        },
+        {
+          "label": "视频截帧",
+          "value": "35.4-MP JPEG still image frame grab from 8K DCI movie possible / 33.2-MP JPEG still image frame grab from 8K UHD movie possible / 8.8-MP JPEG still image frame grab from 4K DCI movie possible / 8.3-MP JPEG still image frame grab from 4K UHD movie possible / (HEIF only possible when HDR PQ is set) / Dual Shooting (Still & Movie): / Movie Output: / Main recording format: XF-AVC S YCC420 8bit / Movie recording size: 全高清 (Normal) at 29.97p / 25p (LGOP) / Still Drive mode (JPEG only at the resolution of 8K(7680×4320) and Aspect ratio: 约 16:9): / High speed (最高 约 7.5 张/sec. (NTSC), 最高 约 6.2 张/sec. (PAL)) / Low speed (最高 约 5.0 张/sec. (NTSC), 最高 约 4.1 张/sec. (PAL)) / Single shooting",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "The camera cannot frame grab still photos from RAW movies and movies recorded when [自定义 Picture: On] is set. In-camera resizing or cropping and in-camera upscaling are not available for frame-grabbed still photos. / Movie recording does not stop during still photo shooting. Movies are recorded to card 1, and still photos are recorded to card 2 (a card needs to be inserted in each slot). The settings during movie recording are applied to still photos. AF/AE operates 使用 the settings suitable for movie recording. The colour tone may differ from that of normal still photos depending on the timing of still photo shooting. Additional restrictions may apply for more details please see the User's Guide. (https://cam.start.canon)",
+          "originalValue": "35.4-megapixel JPEG still image frame grab from 8K DCI movie possible / 33.2-megapixel JPEG still image frame grab from 8K UHD movie possible / 8.8-megapixel JPEG still image frame grab from 4K DCI movie possible / 8.3-megapixel JPEG still image frame grab from 4K UHD movie possible / (HEIF only possible when HDR PQ is set) / Dual Shooting (Still & Movie): / Movie Output: / Main recording format: XF-AVC S YCC420 8bit / Movie recording size: 全高清 (Normal) at 29.97p / 25p (LGOP) / Still Drive mode (JPEG only at the resolution of 8K(7680×4320) and Aspect ratio: 约 16:9): / High speed (最高 approx. 7.5 张/sec. (NTSC), 最高 approx. 6.2 张/sec. (PAL)) / Low speed (最高 approx. 5.0 张/sec. (NTSC), 最高 approx. 4.1 张/sec. (PAL)) / Single shooting"
+        },
+        {
+          "label": "视频码率",
+          "value": "CRM: / 8K RAW 标准 (29.97p/25.00p/24.00p/23.98p): 约 2600 Mbps / 8K RAW Light (59.94p/50.00p): 约 2600 Mbps / 8K RAW Light (29.97p): 约 1670 Mbps / 8K RAW Light (25p): 约 1400 Mbps / 8K RAW Light (24.00p/23.98p): 约 1340 Mbps / 4K SRAW 标准 (59.94p): 约 1860 Mbps / 4K SRAW 标准 (50p): 约 1550 Mbps / 4K SRAW 标准 (29.97p): 约 930 Mbps / 4K SRAW 标准 (25.00p/24.00p/23.98p): 约 780 Mbps / 4K SRAW Light (59.94p): 约 840 Mbps / 4K SRAW Light (50p): 约 700 Mbps / 4K SRAW Light (29.97p): 约 420 Mbps / 4K SRAW Light (25.00p/24.00p/23.98p): 约 350 Mbps / MP4 8K DCI/UHD Normal: / XF-HEVC S YCC422 10bit / High Quality Intra 24p / 23.98p: 约 1920 Mbps / 标准 Intra 25p: 约 1500 Mbps / Light Intra 25p: 约 1000 Mbps / 标准 LGOP 25p: 约 540 Mbps / XF-HEVC S YCC420 10bit 标准 LGOP / 29.97p/25.00p/24.00p/23.98p: 约 400 Mbps / MP4 4K DCI/UHD Fine / Normal (Oversampled from 8K / Not oversampled): / XF-HEVC S YCC422 10bit 标准 LGOP / 29.97p/25.00p/24.00p/23.98p: 约 135 Mbps / XF-HEVC / XF-AVC S S YCC420 10bit / 8bit 标准 LGOP / 29.97p/25.00p/24.00p/23.98p: 约 100 Mbps / XF-AVC S YCC422 10bit / High Quality Intra 25p: 约 500 Mbps / 标准 Intra 25p: 约 375 Mbps / Light Intra 25p: 约 250 Mbps / 标准 LGOP 29.97p/25.00p/24.00p/23.98p: 约 150 Mbps / MP4 4K DCI/UHD Normal (Not oversampled): / XF-HEVC S YCC422 10bit 标准 LGOP / 119.9p / 100p: 约 450 Mbps / 59.94p/50.00p: 约 225 Mbps / XF-HEVC / XF-AVC S S YCC420 10bit / 8bit 标准 LGOP / 119.9p / 100p: 约 300 Mbps / 59.94p/50.00p: 约 150 Mbps / XF-AVC S YCC422 10bit / High Quality Intra 50p: 约 1000 Mbps / 标准 Intra 100p: 约 1500 Mbps / 标准 Intra 50p: 约 750 Mbps / Light Intra 100p: 约 1000 Mbps / Light Intra 50p: 约 500 Mbps / 标准 LGOP 100p: 约 500 Mbps / 标准 LGOP 50p: 约 250 Mbps / MP4 2K DCI / FullHD Fine / Normal (Oversampled from 4K / Not oversampled): / XF-HEVC S YCC422 10bit 标准 LGOP / 59.94p/50.00p/29.97p/25.00p/24.00p/23.98p: 约 50 Mbps / XF-HEVC / XF-AVC S S YCC420 10bit / 8bit 标准 LGOP / 59.94p/50.00p/29.97p/25.00p/24.00p/23.98p: 约 35 Mbps / XF-AVC S YCC422 10bit / 标准 Intra 25p/50p: 约 125/250 Mbps / 标准 LGOP 59.94p/50.00p/29.97p/25.00p/24.00p/23.98p: 约 50 Mbps / MP4 2K DCI/UHD Normal (Not oversampled): / XF-HEVC S YCC422 10bit 标准 LGOP / 239.76p / 200p: 约 200 Mbps / 119.88p / 100p: 约 100 Mbps / XF-HEVC / XF-AVC S S YCC420 10bit / 8bit 标准 LGOP / 239.76p / 200p: 约 140 Mbps / 119.88p / 100p: 约 70 Mbps / XF-AVC S YCC422 10bit / 标准 Intra 200p: 约 1000 Mbps / 标准 Intra 100p: 约 500 Mbps / 标准 LGOP 200p: 约 200 Mbps / 标准 LGOP 100p: 约 100 Mbps / Proxy movie (2K-DCI Normal / 全高清 Normal) / XF-HEVC S YCC420 10bit / XF-AVC S YCC420 8bit 标准 LGOP / 59.94p/50p/29.97p/25p/24p/23.98p: 约 16 Mbps / XF-HEVC S YCC420 10bit / XF-AVC S YCC420 8bit Light LGOP / 59.94p/50p/29.97p/25p/24p/23.98p: 约 9 Mbps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "双卡记录",
+          "value": "支持 (including Proxy recording)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "麦克风",
+          "value": "内置 mono microphone (48 Khz, 24/16-bit x 2 channels) / Audio format: / LPCM / 24 bit / 4CH / AAC / 16 bit / 2CH",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "HDMI显示",
+          "value": "Output to external monitor only (output of 张图像 and shooting information, 张图像 are recorded to the card) / Camera screen and External Monitor output (Simultaneous recording to camera and external recorder, camera screen shows 张图像 使用 shooting information)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "HDMI CEC 不支持"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "8K RAW or 4K SRAW ProRes recording via HDMI / 4K (DCI) 59.94p / 50p/29.97p /25p/24p/ 23.98p, / 4K (UHD) 59.94p / 50p/ 29.97p / 25p / 23.98p, / 全高清 59.94p / 60i / 59.94i / 50p / 50i / 480p 59.94p / 576p 50p / Uncompressed YCbCr 4:2:2, 10-bit, sound output via HDMI is also possible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "8K and 4K ProRes RAW: For compatibility 使用 external recorders please check the external recorder manufacturer sites."
+        },
+        {
+          "label": "视频感光度",
+          "value": "自动: 100-25600, H: 最高 51200 (when custom picture is off) / 手动: 100-25600, H: 最高 51200 (when custom picture is off)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "电脑接口",
+          "value": "SuperSpeed Plus USB 3.2 Gen 2 USB Type-C® connector",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "无线网络",
+          "value": "Wireless LAN (IEEE 802.11ax 2×2 MIMO) (6 GHz / 5 GHz / 2.4 GHz), 使用 Bluetooth 5.3 support",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "6GHz is infrastructure only and camera AP is 不支持. / Wi-Fi use may be restricted in certain countries or regions"
+        },
+        {
+          "label": "其他接口",
+          "value": "HDMI out (Type A, HDMI-CEC 不支持), External Microphone In (Stereo mini jack), Headphone socket (Stereo mini jack), N3-type terminal (remote control terminal), PC Sync terminal.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Cannot be connected using an interface cable. Requires Multi-Function Shoe Adapter AD-E1. / Total weight including camera, lens, microphone, and other accessories should not exceed 1 kg / 35.3 oz. Some lenses may block sound in the shooting environment from external microphones, which may prevent sound from being picked up correctly."
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "1x CFexpress type B maximum capacity 8 TB (compatible 使用 CFexpress 2.0 and VPG400) / 1x SD/SDHC/SDXC and UHS-II",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "power-source",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "可充电锂离子电池 LP-E6P (supplied)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "LP-E6 cannot be used. Use of LP-E6P is recommended. When using the LP-E6NH/LP-E6N, the network (Wi-Fi/Ethernet) functions and multi-function shoe accessories that require heavy power supply from the camera cannot be used. Pre-continuous shooting, HDMI RAW output, and dual shooting (still & movie) are not available. Continuous shooting speed may be reduced. During movie recording, resolution, image quality, and frame rate are limited. For details, refer to Supplemental Information for EOS R5 Mark II on the Canon website (http://cam.start.canon)."
+        },
+        {
+          "label": "电池续航",
+          "value": "使用 LCD 约 630 张 (23°C时) / 使用 Viewfinder 约 340 张 (23°C时)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/",
+          "condition": "Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode / Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode"
+        },
+        {
+          "label": "电量显示",
+          "value": "6 levels + percentage",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "节电",
+          "value": "Power turns off after 30 seconds, 1, 3, 5, 10 or 30mins",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "physical-specifications",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "机身材质",
+          "value": "镁合金 body and Chassis 使用 some components consisting of polycarbonate 使用 glass fibre",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "工作环境",
+          "value": "0 – 40 °C, 85% or less humidity",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "外形尺寸（宽×高×深）",
+          "value": "约 138.5×101.2×93.5 mm",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        },
+        {
+          "label": "机身重量",
+          "value": "约 656 g (746 g 使用 card and battery)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r5-mark-ii/specifications/"
+        }
+      ]
+    }
+  ]
+}

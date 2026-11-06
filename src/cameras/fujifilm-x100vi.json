@@ -1,0 +1,625 @@
+{
+  "id": "fujifilm-x100vi",
+  "name": "Fujifilm X100VI",
+  "brand": "fujifilm",
+  "year": 2024,
+  "format": "APS-C",
+  "type": "固定镜头相机",
+  "megapixels": 40.2,
+  "width": 128.0,
+  "height": 74.8,
+  "depth": 55.3,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "感光元件",
+          "value": "23.5mm x 15.7mm (APS-C) X-Trans CMOS 5 HR with primary color filter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "有效像素",
+          "value": "40.2 millions pixels",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "传感器清洁",
+          "value": "Ultra Sonic Vibration",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "图像处理器",
+          "value": "X-Processor 5",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "记录尺寸 / [L]",
+          "value": "4:3 6864 x 5152 / 3:2 7728 x 5152 / 16:9 7728 x 4344 / 1:1 5152 x 5152 / 5:4 6432 x 5152",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "记录尺寸 / [M]",
+          "value": "4:3 4864 x 3648 / 3:2 5472 x 3648 / 16:9: 5472 x 3080 / 1:1 3648 x 3648 / 5:4 4560 x 3648",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "记录尺寸 / [S]",
+          "value": "4:3 3456 x 2592 / 3:2 3888 x 2592 / 16:9 3888 x 2184 / 1:1 2592 x 2592 / 5:4 3264 x 2592",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD Card (-2GB)SDHC Card (-32GB)SDXC Card (-2TB)UHS-I*Please see the Fujifilm website (https://www.fujifilm-x.com/support/compatibility/cameras/) to check memory card compatibility.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "静态文件格式 / DCF",
+          "value": "Compliant with Design rule for Camera File system (DCF2.0)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "静态文件格式 / JPEG",
+          "value": "Exif Ver.2.32",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "静态文件格式 / HEIF",
+          "value": "4:2:2 10bit",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "静态文件格式 / RAW",
+          "value": "14bit RAW (RAF original format)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "静态文件格式 / TIFF",
+          "value": "8bit / 16bit RGB (In-camera Raw Conversion Only)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / 文件格式",
+          "value": "MOV HEVC/H.265, Linear PCM (Stereo sound 24bit / 48KHz sampling)MPEG-4 AVC/H.264, Linear PCM (Stereo sound 24bit / 48KHz sampling) MP4 MPEG-4 AVC/H.264, AAC",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "无线传输 / 标准",
+          "value": "IEEE802.11a/b/g/n/ac (standard wireless protocol)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "无线传输 / 加密",
+          "value": "WPA/WPA2 mixed mode, WPA3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "无线传输 / 接入模式",
+          "value": "Infrastructure",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "Bluetooth® / 标准",
+          "value": "Bluetooth Ver. 4.2 (Bluetooth low energy)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "Bluetooth® / 工作频率 (Center Frequency)",
+          "value": "2402〜2480MHz",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "接口 / 数字接口",
+          "value": "USB Type-C USB 10Gbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "接口 / HDMI 输出",
+          "value": "HDMI Micro connector (Type D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "接口 / 其他接口",
+          "value": "Microphone / shutter release input: ø2.5mm / Hot shoe",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "全景 / [L]",
+          "value": "Vertical: 2160 x 9600 / Horizontal: 9600 x 1440",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "全景 / [M]",
+          "value": "Vertical: 2160 x 6400 / Horizontal: 6400 x 1440",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "数码增距",
+          "value": "70mm* / 50mm* / 35mm*(Normal) / *35mm format equivalent",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "防抖 / 机构",
+          "value": "影像传感器 shift mechanism with 5-axis compensation",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Image sensor shift mechanism with 5-axis compensation"
+        },
+        {
+          "label": "防抖 / 补偿效果",
+          "value": "6.0 stops",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "防抖 / 数码防抖",
+          "value": "Yes (movie mode only)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "防抖 / 防抖增强",
+          "value": "Yes (movie mode only)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 曝光包围",
+          "value": "2 frames / 3 frames / 5 frames / 7 frames / 9 frames",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 胶片模拟包围",
+          "value": "Any 3 types of film simulation selectable",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 动态范围包围",
+          "value": "100% / 200% / 400%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / HDR 模式",
+          "value": "AUTO / 2 / 4 / 8 / 800% +",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 创意滤镜",
+          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / 视频 Compression",
+          "value": "Long GOP",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / 6.2K(16:9)",
+          "value": "File Size 6240 x 3510 Frame Rate 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / DCI4K HQ(17:9)",
+          "value": "File Size 4096 x 2160 Frame Rate 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / 4K HQ(16:9)",
+          "value": "File Size 3840 x 2160 Frame Rate 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / DCI4K(17:9)",
+          "value": "File Size 4096 x 2160 Frame Rate 59.94p / 50p / 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / 4K(16:9)",
+          "value": "File Size 3840 x 2160 Frame Rate 59.94p / 50p / 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / Full HD(17:9)",
+          "value": "File Size 2048 x 1080 Frame Rate 59.94p / 50p / 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / Full HD(16:9)",
+          "value": "File Size 1920 x 1080 Frame Rate 59.94p / 50p / 29.97p / 25p / 24p / 23.98p Bitrate 200Mbps / 100Mbps / 50Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / Full HD(17:9) High Speed Rec.",
+          "value": "File Size 2048 x 1080 Frame Rate 240p / 200p / 120p / 100p Bitrate 200Mbps (recording)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "视频记录 / Full HD(16:9) High Speed Rec.",
+          "value": "File Size 1920 x 1080 Frame Rate 240p / 200p / 120p / 100p Bitrate 200Mbps (recording)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "胶片模拟",
+          "value": "20 modesPROVIA/StandardVelvia/VividASTIA/SoftClassic ChromeREALA ACEPRO Neg.HiPRO Neg.StdClassic Neg.Nostalgic Neg.ETERNA/CinemaETERNA BLEACH BYPASSACROSACROS + Ye FilterACROS + R FilterACROS + G FilterBlack & WhiteBlack & White + Ye FilterBlack & White + R FilterBlack & White + G FilterSepia",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "单色调节",
+          "value": "支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Yes"
+        },
+        {
+          "label": "颗粒效果 / 颗粒强度",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "颗粒效果 / 尺寸",
+          "value": "LARGE, SMALL",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "彩色效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "彩色蓝色效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "平滑皮肤效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "动态范围 / 静态照片",
+          "value": "Still AUTO / 100％ / 200％ / 400％ ISO Restriction DR100%: No limit、DR200%: ISO250 or more、DR400%: ISO500 or more",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "动态范围 / 视频",
+          "value": "Movie 100％ / 200％ / 400％ ISO Restriction DR100%: No limit、DR200%: ISO250 or more、DR400%: ISO500 or more",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "清晰度",
+          "value": "±5 steps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "自拍 / 静态照片",
+          "value": "10sec. / 2sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "自拍 / 视频",
+          "value": "10sec. / 5sec. / 3sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "Yes (Setting : Interval, Number of shots, Starting time, Interval timer shooting exposure smoothing, Interval priority mode)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头 / 类型",
+          "value": "FUJINON single focal length lens",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "镜头 / 焦距",
+          "value": "f=23mm (35mm format equivalent: 35mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "镜头 / 最大光圈",
+          "value": "F2.0",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "镜头 / 镜头结构",
+          "value": "8 elements in 6 groups (includes 2 aspherical elements)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "镜头 / ND 滤镜",
+          "value": "Yes (4 stops)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "光圈",
+          "value": "F2 – F16 1/3EV step (controlled with 9-blade aperture diaphragm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "对焦范围",
+          "value": "约 10cm to infinity / 3.9in. to infinity",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Approx. 10cm to infinity / 3.9in. to infinity"
+        },
+        {
+          "label": "转换镜头",
+          "value": "WIDE / TELE / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 焦点包围",
+          "value": "AUTO / MANUAL",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "对焦 / 模式",
+          "value": "Single AF / Continuous AF / MF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "对焦 / 类型",
+          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "对焦 / 对焦区域",
+          "value": "Single Point AF 13×9 / 25×17 (Changeable size of AF frame) Zone AF 3×3 / 5×5 / 7×7 / Custom1-3 from 117 areas on 13×9 grid All Yes",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "对焦 / 主体识别",
+          "value": "Yes (Animal/Bird/Automobile/Motorcycle&Bike/Airplane/Train)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度 / 静态照片",
+          "value": "Standard Output AUTO1AUTO2AUTO3ISO125～12800 (1/3 step) Extended Output ISO64ISO80ISO100ISO25600ISO51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "感光度 / 视频",
+          "value": "Standard Output AUTOISO125～12800 (1/3 step) Extended Output ISO25600",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256-zone metering / Multi / Spot / Average / Center Weighted",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "曝光补偿 / 静态照片",
+          "value": "-5.0EV～+5.0EV 1/3EV step",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "曝光补偿 / 视频",
+          "value": "-2.0EV～+2.0EV 1/3EV step",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 感光度包围",
+          "value": "±1/3EV / ±2/3EV / ±1EV",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 白平衡包围",
+          "value": "±1 / ±2 / ±3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "驱动模式 / 多重曝光",
+          "value": "Yes (Max. 9 frames) / Additive / Average / Bright / Dark",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "白平衡 / 自动",
+          "value": "White Priority / Auto / Ambience Priority",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "白平衡 / 自定义",
+          "value": "Custom1 – 3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "白平衡 / 色温范围",
+          "value": "2500K～10000K",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "白平衡 / 预设",
+          "value": "Daylight / Shade / Fluorescent Light-1 / Fluorescent Light-2 / Fluorescent Light-3 / Incandescent Light / Underwater",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "Lens Shutter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "快门速度 / 机械快门",
+          "value": "P Mode 30 sec. to 1/4000sec. A Mode 30 sec. to 1/4000sec. S/M Mode 15 min. to 1/4000 sec. Bulb 最高 60 min.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "P Mode 30 sec. to 1/4000sec. A Mode 30 sec. to 1/4000sec. S/M Mode 15 min. to 1/4000 sec. Bulb up to 60 min."
+        },
+        {
+          "label": "快门速度 / 电子快门",
+          "value": "P Mode 30 sec. to 1/180000 sec. A Mode 30sec. to 1/180000 sec. S/M Mode 15 min. to 1/180000 sec. Bulb 1 sec. Fixed",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "快门速度 / 机械加电子快门",
+          "value": "P Mode 30 sec. to 1/180000 sec. A Mode 30 sec. to 1/180000 sec. S/M Mode 15 min. to 1/180000 sec. Bulb 最高 60 min. Notes *机械快门 works until 1/4000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "P Mode 30 sec. to 1/180000 sec. A Mode 30 sec. to 1/180000 sec. S/M Mode 15 min. to 1/180000 sec. Bulb up to 60 min. Notes *Mechanical shutter works until 1/4000 sec."
+        },
+        {
+          "label": "快门速度 / 视频",
+          "value": "6.2K 1/4000 sec. to 1/24 sec. 4K/DCI4K 1/4000 sec. to 1/24 sec. FHD 1/4000 sec. to 1/24 sec. Notes *Cannot choose slower shutter speed than framerate for some settings.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "闪光灯 / Shoe Mount Flash",
+          "value": "Sync. Mode 1st Curtain2nd Curtain Flash Mode TTL (TTL AUTO / STANDARD / SLOW SYNC. )MANUALMULTI *When EF-X500 is setOFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "热靴",
+          "value": "Yes (Dedicated TTL Flash compatible)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器 / OVF",
+          "value": "OVF Reverse Galilean viewfinder with electronic bright frame display Coverage Of Frame Area V.s. Capturing Area 约 95% Magnification approx x0.52",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "OVF Reverse Galilean viewfinder with electronic bright frame display Coverage Of Frame Area V.s. Capturing Area approx. 95% Magnification approx x0.52"
+        },
+        {
+          "label": "取景器 / EVF",
+          "value": "EVF 0.5 inch OLED Color Viewfinder / 约 3.69 百万点 Coverage Of Viewing Area Vs. Capturing Area 约 100% Eyepoint 约 16.8mm (from the Rear End of the Camera’s Eyepiece) Diopter Adjustment -4～+2m-1 Magnification 0.66x with 50mm Lens (35mm Equivalent) at infinity and Diopter set to -1.0m-1 Diagonal Angle Of View 约 32° (Horizontal angle of view: 约 27° )Built-In Eye Sensor",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "EVF 0.5 inch OLED Color Viewfinder / Approx. 3.69 million dots Coverage Of Viewing Area Vs. Capturing Area Approx. 100% Eyepoint Approx. 16.8mm (from the Rear End of the Camera’s Eyepiece) Diopter Adjustment -4～+2m-1 Magnification 0.66x with 50mm Lens (35mm Equivalent) at infinity and Diopter set to -1.0m-1 Diagonal Angle Of View approx. 32° (Horizontal angle of view: approx. 27° )Built-In Eye Sensor"
+        },
+        {
+          "label": "液晶屏 / 液晶屏",
+          "value": "3.0 inch tilting 触摸屏 color LCD monitor",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "3.0 inch tilting touch screen color LCD monitor"
+        },
+        {
+          "label": "液晶屏 / 宽高比",
+          "value": "3:2",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "液晶屏 / 像素点",
+          "value": "约 1.62 百万点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Approx. 1.62 million dots"
+        },
+        {
+          "label": "触屏模式 / 拍摄模式",
+          "value": "ShootingAFFocus AreaOFFDouble Tap Setting (ON/OFF)Touch Function Setting (ON/OFF)EVF Touch Screen Area Setting",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "触屏模式 / 回放模式",
+          "value": "SwipePinch-in / Pinch-outDouble-tapDrag",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源 / 电源",
+          "value": "NP-W126S Li-ion battery (included)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "电源 / 照片续航",
+          "value": "Economy Mode 约 360 / 450 frames (EVF / OVF) Normal Mode 约 310 / 450 frames (EVF / OVF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Economy Mode Approx. 360 / 450 frames (EVF / OVF) Normal Mode Approx. 310 / 450 frames (EVF / OVF)"
+        },
+        {
+          "label": "电源 / 实际视频续航",
+          "value": "6.2K 约 45min. (29.97p) 4K 约 45min. (59.94p) Full HD 约 50min. (59.94p)、约 55min. (120P) Notes *Face detection is set to OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "6.2K Approx. 45min. (29.97p) 4K Approx. 45min. (59.94p) Full HD Approx. 50min. (59.94p)、Approx. 55min. (120P) Notes *Face detection is set to OFF"
+        },
+        {
+          "label": "电源 / 连续视频续航",
+          "value": "6.2K 约 70min. (29.97p) 4K 约 70min. (59.94p) Full HD 约 85min. (59.94p) Notes *Face detection is set to OFF / *Approximate number of frames or movie recording time that can be taken with a fully-charged based on CIPA Standard.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "6.2K Approx. 70min. (29.97p) 4K Approx. 70min. (59.94p) Full HD Approx. 85min. (59.94p) Notes *Face detection is set to OFF / *Approximate number of frames or movie recording time that can be taken with a fully-charged based on CIPA Standard."
+        },
+        {
+          "label": "尺寸 / 宽度",
+          "value": "128.0mm",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "尺寸 / 高度",
+          "value": "74.8mm",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "尺寸 / 深度",
+          "value": "55.3mm",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "尺寸 / 最小深度",
+          "value": "(33.2mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "重量 / 含电池和存储卡",
+          "value": "约 521g",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Approx. 521g"
+        },
+        {
+          "label": "重量 / 不含电池和存储卡",
+          "value": "约 471g",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/",
+          "originalValue": "Approx. 471g"
+        },
+        {
+          "label": "工作环境 / 工作温度",
+          "value": "0℃～+40℃",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        },
+        {
+          "label": "工作环境 / 工作湿度",
+          "value": "10% – 80% (no condensation)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100vi/specifications/"
+        }
+      ]
+    }
+  ]
+}

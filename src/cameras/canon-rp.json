@@ -1,0 +1,564 @@
+{
+  "id": "canon-rp",
+  "name": "Canon EOS RP",
+  "brand": "canon",
+  "year": 2019,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 26.2,
+  "width": 132.5,
+  "height": 85.0,
+  "depth": 70.0,
+  "description": "Canon EOS RP，全画幅可换镜头无反相机。",
+  "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "image-sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "35.9 x 24 mm CMOS",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 26.2 Megapixels",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "总像素",
+          "value": "约 27.1 Megapixels",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "画幅比例",
+          "value": "3:2",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "低通滤镜",
+          "value": "内置／固定",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "除尘系统",
+          "value": "EOS integrated cleaning system",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "彩色滤镜",
+          "value": "原色滤镜",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "image-processor",
+      "title": "影像处理器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "DIGIC 8",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "lens",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "RF (EF and EF-S lenses can be attached using Mount Adapter EF-EOS R, Control Ring Mount Adapter EF-EOS R, or Drop-In Filter Mount Adapter EF-EOS R. EF-M lenses are not compatible)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "焦距换算",
+          "value": "Equivalent to 1.0x the focal length of the lens 使用 RF and EF lenses 1.6x 使用 EF-S",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "autofocus",
+      "title": "对焦系统",
+      "rows": [
+        {
+          "label": "自动对焦系统",
+          "value": "全像素双核CMOS AF（图像传感器相位检测）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "自动对焦覆盖",
+          "value": "水平约88%、垂直约100%；覆盖范围随镜头而变",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "对焦工作范围",
+          "value": "EV -5至18（23°C、ISO100；此规格页未列出测试镜头条件）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "自动对焦模式",
+          "value": "单次自动对焦、伺服自动对焦",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "对焦区域与点位",
+          "value": "自动人脸追踪与眼部AF；手动单点可改变框大小，4779个可选位置；支持定点AF、4点扩展、周围扩展及9区区域AF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "单次AF时半按快门或按AF-ON锁定；伺服AF可自定义AF停止按钮",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "自动对焦辅助灯",
+          "value": "内置LED",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "手动对焦",
+          "value": "通过镜头选择；支持峰值对焦",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "exposure-control",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光模式",
+          "value": "Real-time 使用图像传感器, 384-zone metering (24x16) / (1) Evaluative metering (linked to all AF points) / (2) Partial metering (约 5.5% of viewfinder at centre) / (3) Spot metering: Centre spot metering (约 2.7% viewfinder at centre) / AF point-linked spot metering not provided / (4) centre-weighted average metering",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "originalValue": "Real-time 使用图像传感器, 384-zone metering (24x16) / (1) Evaluative metering (linked to all AF points) / (2) Partial metering (approx. 5.5% of viewfinder at centre) / (3) Spot metering: Centre spot metering (approx. 2.7% viewfinder at centre) / AF point-linked spot metering not provided / (4) centre-weighted average metering"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV -3 to 20 (23°C时, ISO100, 使用 evaluative metering)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "自动: AE lock takes effect when focus is achieved / 手动: By AE lock button in P, Av, Fv, Tv and M modes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB).",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "自动包围曝光",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "防闪烁拍摄",
+          "value": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz. Maximum continuous shooting speed may decrease",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "感光度",
+          "value": "自动 100-40000 (in 1/3-stop or whole stop increments) / ISO can be expanded to L:50, H1: 51200, H2: 102400,",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "电子控制 焦平面快门",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "快门速度",
+          "value": "30-1/4000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "快门释放",
+          "value": "Soft touch electromagnetic release",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "white-balance",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "自动白平衡 使用 the imaging sensor",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "设置",
+          "value": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置 / White balance compensation: / 1. Blue/Amber +/-9 / 2. Magenta/Green +/-9",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "自定义白平衡",
+          "value": "支持, 1 setting can be registered",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "白平衡包围",
+          "value": "+/-3 levels in single level increments / Selectable Blue/Amber bias or Magenta/Green bias",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "viewfinder",
+      "title": "取景器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "0.39-inch OLED colour EVF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "显示点数",
+          "value": "2.36 Million dots",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "视野覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约 0.70x",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "condition": "使用 50mm lens at 无限远, -1m-1 dpt"
+        },
+        {
+          "label": "眼点",
+          "value": "约 22 mm (from eyepiece lens centre) / -4 to +1 m-1 (dioptre)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "取景信息",
+          "value": "AF point information, Exposure level indicator, Number of remaining multiple exposures, Exposure compensation, HDR shooting, Highlight tone priority, Multiple-exposure shooting, ISO speed, Possible 张, Multi Shot Noise Reduction, Number of self-timer shooting, Digital Lens Optimizer, Maximum burst, AF method, Battery level, AF operation, Exposure simulation, Drive mode, AEB, Metering mode, FEB, Anti-flicker shooting, Still photo cropping, Shooting mode, Aspect ratio, Scene icons 自动 Lighting Optimizer, AE lock Picture Style, Flash-ready, White balance, Flash off White balance correction, FE lock, Image Quality, High-speed sync, Bluetooth function, Shutter speed, Wi-Fi function, Multi-function lock warning, Histogram, Aperture Electronic level, Lens information",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "景深预览",
+          "value": "支持, via customised button",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "monitor",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏",
+          "value": "7.5厘米（3.0英寸）Clear View LCD II，约104万点",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "显示屏覆盖率",
+          "value": "约100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "显示屏视角",
+          "value": "水平及垂直均约170°",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "显示屏亮度",
+          "value": "手动7级调整",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "触摸操作",
+          "value": "电容触摸；菜单、速控、回放、放大、照片与视频AF点选择；照片支持触摸快门",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "显示选项",
+          "value": "基本设置、详细设置、直方图与双轴电子水平、无信息、速控画面",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "flash",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "E-TTL II 自动 Flash, Metered 手动",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/180 sec",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "闪光曝光补偿",
+          "value": "+/- 3 EV in 1/3 or 1/2 increments 使用 EX series Speedlite flashes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "闪光包围曝光",
+          "value": "支持, 使用 compatible External Flash",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "闪光曝光锁定",
+          "value": "支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "后帘同步",
+          "value": "支持 via Speedlite",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "外接闪光灯兼容",
+          "value": "E-TTL II 使用 EX series Speedlite, wireless multi-flash support",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "外接闪光灯控制",
+          "value": "via camera menu screen",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄性能",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "Stills: Scene Intelligent 自动, Special Scene (人像, Group Photo, 风光, Sports, Kids, Panning , Close-up, Food, Night 人像, Handheld Night Scene, HDR Backlight Control, Silent Mode), Flexible priority AE, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (C1/C2/C3) / Movie: 自动 exposure, 手动, HDR",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "照片风格",
+          "value": "自动, 标准, 人像, 风光, 精细细节, 中性, 可靠设置, 单色, 用户自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB and Adobe RGB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "图像处理",
+          "value": "Highlight Tone Priority / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction / High ISO speed noise reduction (4 settings) (stills and video) / Lens optical correction (3): / Peripheral illumination correction / Chromatic aberration correction / Distortion correction / / Diffraction correction / Digital Lens Optimizer (during/after still photo shooting) / Resize to M, S1, S2 / Cropping: JPEG 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / - 43 cropping sizes selectable, from 11% to 95% (diagonal) / - Switch between vertical and horizontal cropping orientation / - Image straightening, tilt correction / - Cropping frame can be moved using 触摸屏 operation / RAW image processing / Multiple exposure / HDR",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "condition": "Frame grab 张图像 from 4K movies and 张图像 shot in S2 quality cannot be resized / RAW image processing during image Playback only 使用 RAW",
+          "originalValue": "Highlight Tone Priority / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction / High ISO speed noise reduction (4 settings) (stills and video) / Lens optical correction (3): / Peripheral illumination correction / Chromatic aberration correction / Distortion correction / / Diffraction correction / Digital Lens Optimizer (during/after still photo shooting) / Resize to M, S1, S2 / Cropping: JPEG 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / - 43 cropping sizes selectable, from 11% to 95% (diagonal) / - Switch between vertical and horizontal cropping orientation / - Image straightening, tilt correction / - Cropping frame can be moved using touch screen operation / RAW image processing / Multiple exposure / HDR"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single, Continuous High, Continuous Low, Self timer (2 s + remote, 10 s + remote, continuous)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "连续拍摄",
+          "value": "最高 约 5 fps speed maintained until card full (JPEG) or 50 RAW 张图像 / 最高 4 fps 使用 AF Tracking",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "condition": "Large/Fine resolution / Based on Canon's testing conditions, JPEG, ISO 100, 标准 Picture Style. Maximum fps and buffer capacity may be reduced depending on the cameras settings, light level, subject, memory card brand and capacity, image recording quality, ISO speed, drive mode, Picture Style, 自定义 functions etc. / Figures quoted are 使用时 使用 UHS-II SD memory card",
+          "originalValue": "最高 approx. 5 fps speed maintained until card full (JPEG) or 50 RAW 张图像 / 最高 4 fps 使用 AF Tracking"
+        },
+        {
+          "label": "间隔定时器",
+          "value": "支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "file-type",
+      "title": "图像文件",
+      "rows": [
+        {
+          "label": "静态图像格式",
+          "value": "JPEG / RAW: RAW, C-RAW (14-bit, Canon original RAW 3rd edition) / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.1",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "RAW与JPEG同时记录",
+          "value": "支持, any combination of RAW + JPEG possible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "图像尺寸",
+          "value": "JPEG: / 3:2 ratio (L, RAW, C-RAW) 6240x4160, (M1) 4160x2768, (S1) 3120x2080, (S2) 2400x1600 / 1.6x (crop) (L) 3888x2592, (S2) 2400x1600 / 4:3 ratio (L) 5536x4160, (M1) 3680x2768, (S1) 2768x2080, (S2) 2112x1600 / 16:9 ratio (L) 6240x3504, (M1) 4160x2336, (S1) 3120x1752, (S2) 2400x1344 / 1:1 ratio (L) 4160x4160, (M1) 2768x2768, (S1) 2080x2080, (S2) 1600x1600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "文件夹",
+          "value": "New folders can be manually created and selected",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "文件编号",
+          "value": "(1) Consecutive numbering / (2) 自动 reset / (3) 手动 reset",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "eos-movie",
+      "title": "视频",
+      "rows": [
+        {
+          "label": "视频格式",
+          "value": "RF/EF lenses: 4K, 全高清, HD. / EF-S lenses: 4K or HD / MPEG4 AVC/H.264 variable (average) bit rate, Audio: AAC",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "4K (16:9) 3840 x 2160 (25, 23.98 fps) intra frame / 4K Time-lapse (16:9) 3840 x 2160 (29.97, 25 fps) All-I / 全高清 (16:9) 1920 x 1080 (59.94, 50, 29.97, 25 fps) intra frame, intra frame lite (29.97, 25 fps) / 全高清 HDR (16:9) 1920 x 1080 (29.97, 25 fps) intra frame / HD (16:9) 1280 x 720 (59.94, 29.97, 50, 25 fps) intra frame / HD HDR(16:9) 1280 x 720 (29.97, 25 fps) intra frame",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "condition": "Recording 4K movies requires a memory card 使用 a UHS-I/UHS speed class of 3 or higher"
+        },
+        {
+          "label": "内部记录色彩采样",
+          "value": "4K / 全高清 / HD - YCbCr4:2:0 (8-bit)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "Canon Log",
+          "value": "不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "单段视频长度",
+          "value": "4K and 全高清 - Max duration 29min 59sec. (excluding High Frame Rate movies). 不支持 4GB file limit 使用 exFAT SDXC card.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "高帧率视频",
+          "value": "不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "视频码率",
+          "value": "MP4: / 4K (16:9) 3840 x 2160 (25, 23.98 fps) IPB 120Mbps / 869 MB/min / 全高清 (59.94p/50.00p)/IPB 约 60 Mbps / 440MB/min / 全高清 (29.97p/25.00p)/IPB: 约 30 Mbps / 225MB/min / 全高清 (29.97p/25.00p)/IPB Lite: 约 12 Mbps / 87MB/min / HD (59.94p/50.00p)/IPB 约 26 Mbps / 196MB/min / 全高清 (29.97p/25.00p)/IPB: 约 13 Mbps / 103MB/min",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "麦克风",
+          "value": "内置 stereo microphones (48 kHz, 16-bit x 2 channels)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "HDMI显示",
+          "value": "Output to external Monitor only 使用 or without information display",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "4K (UHD) and 全高清 or HD recording, uncompressed YCbCr 4:2:2, 8-bit. Sound output via HDMI is also possible. / When outputting to external monitor no 张图像 are recorded to the card and Wi-Fi communication is disabled",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "视频感光度",
+          "value": "4K - 自动: 100-12800, H2: 102400 / 全高清/HD - 自动: 100-25600, H2:102400",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "电脑接口",
+          "value": "Equivalent to Hi-Speed USB (USB 2.0) Type-C connector",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "无线网络",
+          "value": "Wireless LAN (IEEE 802.11b/g/n) (2.4 GHz only), 使用 Bluetooth support Features supported: EOS Utility, Smartphone, Upload to Web , 自动 transfer, Wireless printing",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "condition": "Wi-Fi use may be restricted in certain countries or regions / In order to comply 使用 security regulation EU RED EN18031 products shipped from June 2025 do not include this function. For customers who purchased a product before this date, the function can be removed via optional firmware from July 2025."
+        },
+        {
+          "label": "其他接口",
+          "value": "HDMI mini out (Type C, HDMI-CEC compatible), External Microphone In/Line In (Stereo mini jack), Headphone socket (Stereo mini jack), E3-type terminal (remote control terminal)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "1x SD/SDHC/SDXC and UHS-II",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "power-source",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "可充电锂离子电池 LP-E17 (supplied)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "电池续航",
+          "value": "约 250 张 (23°C时) / 约 240 张 (0°C时)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/",
+          "condition": "Based on the CIPA Standards and using the battery supplied 使用 the camera, except where indicated"
+        },
+        {
+          "label": "电量显示",
+          "value": "4 levels + percentage",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "节电",
+          "value": "Power turns off after 30 seconds, 1, 3, 5, 10 or 30 mins",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "physical-specifications",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "工作环境",
+          "value": "0 – 40 °C, 85% or less humidity",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "外形尺寸（宽×高×深）",
+          "value": "132.5 × 85.0 × 70.0 mm",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        },
+        {
+          "label": "机身重量",
+          "value": "约 440 g",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-rp/specifications/"
+        }
+      ]
+    }
+  ]
+}

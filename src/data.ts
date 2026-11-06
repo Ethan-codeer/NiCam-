@@ -1,24 +1,21 @@
+import digitalCameras from "./digital-cameras.json";
+import expandedBrands from "./expanded-brands.json";
+export type SpecRow = { label: string; value: string; sourceUrl: string; condition?: string; originalValue?: string };
+export type SpecGroup = { id: string; title: string; rows: SpecRow[] };
 export type Camera = {
-  id: string; name: string; brand: string; year: number; format: string; type: string;
+  id: string; name: string; brand: string; year: number | null; format: string; type: string;
   megapixels: number | null; width: number | null; height: number | null; depth: number | null;
-  description: string; sourceUrl: string; verification: 'verified' | 'pending';
+  description: string; sourceUrl: string; verification: 'verified' | 'pending'; digital?: boolean; specGroups?: SpecGroup[];
 };
 export type Brand = { id: string; name: string; description: string; timeline: { year: number; event: string }[]; sourceUrl: string };
 export type Article = { id: string; title: string; english: string; summary: string; body: string[]; relatedCameraIds: string[]; lab: string | null; sourceUrl: string };
 
 // Dimensions are manufacturer body dimensions in millimetres (width × height × depth).
 // Pending records are editorial seeds awaiting a full field-by-field official-source audit.
-export const cameras: Camera[] = [
-  { id: 'nikon-z8', name: 'Nikon Z 8', brand: 'nikon', year: 2023, format: '全画幅', type: '无反相机', megapixels: 45.7, width: 144, height: 118.5, depth: 83, description: '以 4570 万有效像素与无反系统的高速响应，兼顾精细静态影像与动态拍摄。', sourceUrl: 'https://imaging.nikon.com/imaging/lineup/mirrorless/z_8/', verification: 'verified' },
-  { id: 'nikon-zf', name: 'Nikon Z f', brand: 'nikon', year: 2023, format: '全画幅', type: '无反相机', megapixels: 24.5, width: 144, height: 103, depth: 49, description: '机械拨盘与现代自动对焦相遇。Z f 将尼康的经典操作语言带入全画幅无反系统。', sourceUrl: 'https://imaging.nikon.com/imaging/lineup/mirrorless/z_f/', verification: 'verified' },
-  { id: 'canon-r5', name: 'Canon EOS R5', brand: 'canon', year: 2020, format: '全画幅', type: '无反相机', megapixels: 45, width: 138.5, height: 97.5, depth: 88, description: '以高像素与高速拍摄兼顾风光、商业和动态题材的 EOS R 系统机身。', sourceUrl: 'https://www.canon-europe.com/cameras/eos-r5/specifications/', verification: 'pending' },
-  { id: 'sony-a7iv', name: 'Sony α7 IV', brand: 'sony', year: 2021, format: '全画幅', type: '无反相机', megapixels: null, width: null, height: null, depth: null, description: '面向照片与视频创作的混合型机身，以 E 卡口连接广泛的镜头选择。', sourceUrl: 'https://www.sony.co.uk/electronics/interchangeable-lens-cameras/ilce-7m4-body-kit/specifications', verification: 'pending' },
-  { id: 'fujifilm-x100vi', name: 'FUJIFILM X100VI', brand: 'fujifilm', year: 2024, format: 'APS-C', type: '固定镜头相机', megapixels: null, width: null, height: null, depth: null, description: '固定 23mm 镜头与混合取景器构成轻便的日常观察工具，延续 X100 系列的拍摄节奏。', sourceUrl: 'https://www.fujifilm-x.com/global/products/cameras/x100vi/specifications/', verification: 'pending' },
-  { id: 'leica-q3', name: 'Leica Q3', brand: 'leica', year: 2023, format: '全画幅', type: '固定镜头相机', megapixels: 60.3, width: 130, height: 80.3, depth: 92.6, description: '全画幅传感器搭配固定 28mm 镜头，为街头与环境叙事提供清晰而直接的视角。', sourceUrl: 'https://leica-camera.com/en-int/photography/cameras/q/q3-black/technical-specification', verification: 'pending' },
-  { id: 'hasselblad-x2d', name: 'Hasselblad X2D 100C', brand: 'hasselblad', year: 2022, format: '中画幅', type: '无反相机', megapixels: 102, width: null, height: null, depth: null, description: '一亿像素中画幅机身，重视静态影像的细节、色彩和从容的构图体验。', sourceUrl: 'https://www.hasselblad.com/x-system/x2d-100c/', verification: 'pending' },
-];
+export const cameras: Camera[] = digitalCameras as Camera[];
 
 export const brands: Brand[] = [
+  ...(expandedBrands as Brand[]),
   { id: 'nikon', name: 'Nikon 尼康', description: '从光学仪器到 F 卡口单反，再到 Z 系统，尼康的历史始终与专业影像实践交织。', timeline: [{ year: 1917, event: '日本光学工业株式会社成立' }, { year: 1959, event: 'Nikon F 发布' }, { year: 2018, event: 'Z 系统全画幅无反相机发布' }], sourceUrl: 'https://www.nikon.com/company/corporate/history/' },
   { id: 'canon', name: 'Canon 佳能', description: '以 EOS 系统连接自动对焦、数字单反与 RF 卡口无反时代，服务多样的影像创作。', timeline: [{ year: 1937, event: '精机光学工业株式会社成立' }, { year: 1987, event: 'EOS 系统诞生' }, { year: 2018, event: 'EOS R 系统发布' }], sourceUrl: 'https://global.canon/en/corporate/history/' },
   { id: 'sony', name: 'Sony 索尼', description: '将电子技术、传感器与影像系统相结合，α 系列推动了全画幅无反相机的普及。', timeline: [{ year: 1946, event: '东京通信工业成立' }, { year: 2006, event: '推出 α100 数码单反' }, { year: 2013, event: '推出 α7 与 α7R 全画幅无反' }], sourceUrl: 'https://www.sony.com/en/SonyInfo/CorporateInfo/History/' },

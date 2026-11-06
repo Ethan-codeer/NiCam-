@@ -1,0 +1,637 @@
+{
+  "id": "canon-r7",
+  "name": "Canon EOS R7",
+  "brand": "canon",
+  "year": 2022,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 32.5,
+  "width": 132.0,
+  "height": 90.4,
+  "depth": 91.7,
+  "description": "Canon EOS R7，APS-C可换镜头无反相机。",
+  "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "image-sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "约 22.3 × 14.8 mm (APS-C) CMOS",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        },
+        {
+          "label": "有效像素",
+          "value": "32.5MP",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "总像素",
+          "value": "34.4MP",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "画幅比例",
+          "value": "3:2",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "低通滤镜",
+          "value": "内置／固定",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "除尘系统",
+          "value": "EOS integrated cleaning system",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "彩色滤镜",
+          "value": "原色滤镜",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "机身防抖",
+          "value": "支持, 最高 8-stops advantage depending on the lens used. / 7-stops 使用 the RF-S 18-150mm F3.5-6.3 IS STM",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Yaw/Pitch direction, based on the CIPA standard, 8.0 stops 使用 RF 24-105mm F4 L IS USM at a focal distance of 105mm. Depending on the time of purchase, the lens firmware needs to be updated. For details on supported lenses, refer to Supplemental Information of EOS R7 on the website “cam.start.canon”. / 7-stops based on the CIPA standard 使用 RF-S 18-150mm F3.5-6.3 IS STM at a focal length of 150mm"
+        }
+      ]
+    },
+    {
+      "id": "image-processor",
+      "title": "影像处理器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "DIGIC X",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        }
+      ]
+    },
+    {
+      "id": "lens",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "RF (natively supporting RF and RF-S lenses) / EF and EF-S lenses can be attached using Mount Adapter EF-EOS R, EF-EOS R Control Ring Mount Adapter, Drop-in Filter Mount Adapter EF-EOS R / EF-M lenses are not compatible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "The operation of the RF 5.2 mm F 2.8 L DUAL FISHEYE is not guaranteed. Excluding EF-M lenses. Operation of EF Cinema Lens is not guaranteed. Operation of the mount adapter EF-EOS R 0.71 X (sold separately) is not guaranteed."
+        },
+        {
+          "label": "焦距换算",
+          "value": "Equivalent to 1.6x the focal length of the lens 使用 RF/RF-S and EF/EF-S lenses",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focusing",
+      "title": "对焦系统",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "Dual Pixel CMOS AF II",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        },
+        {
+          "label": "自动对焦系统与点数",
+          "value": "使用 Area 100% horizontal and 100% vertical (自动 selection) / 90% horizontal and 100% vertical (手动 selection)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Applicable when subject frame is shown while tracking and a compatible lens is attached to the camera while the full-range AF is active or the subject is detected successfully in another area mode. For details on supported lenses, refer to [Supplemental Information] for EOS R7 in “cam.start.canon”."
+        },
+        {
+          "label": "对焦工作范围",
+          "value": "EV -5 – 20 (23°C时 & ISO100)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "最低照度自动对焦：使用 f/1.2 镜头、中央对焦点、单次自动对焦，23°C、ISO 100；不含采用 DS 柔焦镀膜的 RF 镜头。"
+        },
+        {
+          "label": "对焦模式",
+          "value": "单次自动对焦 / 伺服自动对焦 / 自动 Switch (only in A+ mode)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "对焦点选择",
+          "value": "Automatic selection: 651 Available AF areas when automatically selected / 手动 selection: 1-point AF (AF frame size can be changed) 5915 AF positions available stills ( 4823 Movies) / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 567 maximum focusing zones) / 手动 selection: Whole Area AF (Entire focusing area 使用 651 maximum focusing zones)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "追踪对焦",
+          "value": "Humans (Eyes/Face/Head/Body), Animals (Dogs, Cats and Birds) or Vehicles (Racing cars or Motor bikes)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "Locked when shutter button is pressed halfway or AF ON is pressed in 单次自动对焦 AF mode. Using customised button set to AF stop in AI servo",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "Emitted by built in LED or optional dedicated Speedlite (flash)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "手动对焦",
+          "value": "Selected on lens/camera",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Camera features a manual focus switch therefore MF can be selected on lens/camera Depending on the lens attached. When RF lenses without a focus mode switch are attached manual focus is selected on the camera. When RF/EF lenses 使用 a focus mode switch are attached, the setting on the lens takes precedence, so the setting of the camera’s focus mode switch has no effect."
+        }
+      ]
+    },
+    {
+      "id": "exposure-control",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光模式",
+          "value": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (约 6% of viewfinder at centre) / (3) Spot metering: Centre spot metering (约 3% viewfinder at centre) AF point-linked spot metering not provided / (4) Centre weighted average metering",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV -2 – 20 (23°C时, ISO100, 使用 evaluative metering)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "自动: AE lock takes effect when focus is achieved (AE is locked as soon as subjects are in focus using 单次自动对焦 when set to [C.Fn 2: AE lock meter. mode after focus].) / 手动: By AE lock button in P, Av, Fv, Tv and M modes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "自动包围曝光",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "防闪烁拍摄",
+          "value": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Only available for mechanical shutter. Maximum continuous shooting speed may decrease. High Frequency anti flicker shooting is 不支持."
+        },
+        {
+          "label": "感光度",
+          "value": "自动 100-32000 (in 1/3-stop or whole stop increments) / ISO can be expanded to H: 51200",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "ISO is limited to ISO 200–32000 when [Highlight tone priority] is configured. Expanded ISO speeds cannot be set in HDR mode or for HDR shooting (HDR PQ)."
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "Electronically controlled 焦平面快门 and 电子快门 function in sensor",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        },
+        {
+          "label": "快门速度",
+          "value": "Mechanical: 30-1/8000 sec (1/2 or 1/3 stop increments), Bulb, Electronic: 30-1/16000 (1/2 or 1/3 stop increments 最高 1/8000 then 1 stop until 1/16000) (Total shutter speed range. Available range varies by shooting mode)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "快门释放",
+          "value": "Soft-touch electromagnetic release",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "white-balance",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "自动白平衡 使用 the imaging sensor / 自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        },
+        {
+          "label": "设置",
+          "value": "White balance compensation: / 1. Blue/Amber +/-9 / 2. Magenta/Green +/-9",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "自定义白平衡",
+          "value": "支持, 5 setting can be registered / +/-3 levels in single level increments",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "白平衡包围",
+          "value": "3, 2, 5 or 7 bracketed 张图像 per shutter release / Selectable Blue/Amber bias or Magenta/Green bias",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "viewfinder",
+      "title": "取景器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "0.39 inch OLED colour EVF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        },
+        {
+          "label": "显示点数",
+          "value": "2.36 Million dots (1024x768)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "视野覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约 1.15x",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "使用 3:2 display, an RF 50mm F1.2 L USM lens at 无限远, -1 m-1"
+        },
+        {
+          "label": "眼点",
+          "value": "约 22mm (At -1 m from eyepiece lens end)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-4 to +2 m M (dioptre)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "显示性能",
+          "value": "Power saving: 59.94 fps Smooth 119.98 fps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "The maximum frame rate during AF, half-press of the shutter button, or continuous shooting is 59.94 fps. Note that the display frame rate may be lower depending on the lens you are using and shooting conditions."
+        },
+        {
+          "label": "取景信息",
+          "value": "Accessory attached indicator, AE lock, AEB, AF area, AF method, AF operation, AF point (1-point AF), AF point information, Anti-flicker shooting, Aperture value, Aspect ratio, Audio recording level (manual), Audio recording level indicator (manual), 自动 Lighting Optimizer, Battery level, Bluetooth function, Canon Log, Card for recording/playback, Creative filters, Bulb timer, Digital Lens Optimizer, Digital zoom, Drive mode, Electronic level, 电子快门, Exposure compensation, Exposure level indicator, Exposure simulation, FE lock, FEB, Flash off, Flash-ready, Focus bracketing, focus distance scale, GPS, Grid, HDR PQ, HDR shooting, Headphone volume, Highlight tone priority, High-speed sync, Histogram (Brightness/RGB), Image Quality, Image Stabilizer (IS mode), Interval timer, ISO speed, Lens information, Magnify button, Maximum burst, Metering mode, Movie recording in progress, Movie recording size, Movie recording time available, Movie recording time available/Elapsed recording time, Movie self-timer, Movie 伺服自动对焦, Multi Shot Noise Reduction, Multi Shot Noise Reduction, Multi-function lock warning, Multiple-exposure shooting, 不支持. of remaining 张 for focus bracketing, Number of available 张/Sec. until self-timer shoots, Number of remaining multiple exposures, Number of self-timer shooting, Overheat control, Picture Style, Quick Control button, Shooting mode, Shutter speed, Still photo cropping, Subject to detect, Touch Shutter/Create folder, vertical exposure scale, View Assist, White balance, White balance correction, Wi-Fi function, Wi-Fi signal strength",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "景深预览",
+          "value": "支持, via customised button",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "lcd-monitor",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "7.5 cm (2.95\") TFT colour LCD monitor, 约 1.62 百万点",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting",
+          "originalValue": "7.5 cm (2.95\") TFT colour LCD monitor, 约 1.62 million dots"
+        },
+        {
+          "label": "覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "可视角度",
+          "value": "约 170° vertically and horizontally",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "表面涂层",
+          "value": "Anti-smudge.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "亮度调节",
+          "value": "手动: Adjustable to one of seven levels / Colour Tone Adjustment: 4 settings",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "触控操作",
+          "value": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "显示选项",
+          "value": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen / (6) Display off",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "flash",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "E-TTL II 自动 Flash, Metered 手动",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/250 sec. 机械快门 / 1/320 sec. electronic 1st curtain / Flash photography is not available 使用 电子快门.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "originalValue": "1/250 sec. mechanical shutter / 1/320 sec. electronic 1st curtain / Flash photography is not available 使用 电子快门."
+        },
+        {
+          "label": "闪光曝光补偿",
+          "value": "+/- 3EV in 1/3 increments 使用 EX series Speedlite flashes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "闪光包围曝光",
+          "value": "支持, 使用 compatible External Flash (+/- 3EV in 1/3- or 1/2-stop increments 使用 EX/EL series Speedlite flashes)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "闪光曝光锁定",
+          "value": "支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "后帘同步",
+          "value": "支持, via Speedlite",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "热靴与同步端子",
+          "value": "支持/不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "外接闪光灯兼容",
+          "value": "E-TTL II 使用 EX/EL series Speedlite, wireless multi-flash support",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "外接闪光灯控制",
+          "value": "via camera menu screen",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄性能",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "Stills: Scene Inteligent 自动, 13 Special Scene modes(including Panning/Panoramic Shot), Creative Filters, Flexible priority AE, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (x3) / Movie: Scene Inteligent 自动 movies, HDR Movies, Creative Filters, Movie 自动 Exposure, Shutter priority AE, Aperture priority AE, 手动, and 自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "照片风格",
+          "value": "自动, 标准, 人像, 风光, 精细细节, 中性, 可靠设置, 单色, 用户自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB and Adobe RGB / Fixed at HDR PQ / Highlight Tone Priority (3 settings) / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction (3 settings) / High ISO speed noise reduction (4 settings) (still and video) / Clarity (+/- 4) / Lens optical correction: / - Peripheral illumination correction, Chromatic aberration correction, Distortion correction (during/after still photo shooting, during video only) / - Diffraction correction, Digital Lens Optimizer (during/after still photo shooting)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "图像处理",
+          "value": "Resize JPEG / HEIF 张图像 to M, S1, S2 / Cropping: JPEG / HEIF 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / Cropping of 张图像 / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using 触摸屏 operation / RAW image processing / Cloud RAW image processing / Multiple exposure / HDR / HEIF to Jpeg conversion",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "originalValue": "Resize JPEG / HEIF 张图像 to M, S1, S2 / Cropping: JPEG / HEIF 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / Cropping of 张图像 / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using touch screen operation / RAW image processing / Cloud RAW image processing / Multiple exposure / HDR / HEIF to Jpeg conversion"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single, Continuous High+, Continuous High, Continuous Low, Self-timer (2s+remote, 10s+remote, continous)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "连续拍摄",
+          "value": "最高 约 15 FPS 使用 机械快门/1st curtain 电子快门 该速度可连续记录 224 JPEG or 51 RAW 张图像 / 最高 约 30 FPS 使用 电子快门 该速度可连续记录 126 JPEG or 42 RAW 张图像",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Continuous shooting speed may be slower depending on subject/shooting conditions or the battery type/condition or the camera setup or the lens used, etc.. Refer to Advanced User Guide for details. For information on lenses that support the maximum continuous shooting speed 使用 servo AF, refer to Supplemental Information of EOS R7 on the website “cam.start.canon”. / Under Canon testing standards 使用 32GB UHS-II card (during 单次自动对焦, ISO 100, 标准 Picture Style) Number of 张图像 depends on various settings and lens used. For details on supported lenses, refer to “cam.start.canon” / Continuous shooting speed may be slower depending on subject/shooting conditions or the camera setup or the lens used, etc.. Refer to Advanced User Guide for details. For information on lenses that support the maximum continuous shooting speed 使用 servo AF, refer to Supplemental Information of EOS R7 on the website “cam.start.canon”. Depending on the nature of subject or shooting conditions, rolling shutter image distortion may occur. / Under Canon testing standards 使用 32GB UHS-II card (during 单次自动对焦, ISO 100, 标准 Picture Style) Number of 张图像 depends on various settings and lens used. For details on supported lenses, refer to “cam.start.canon”",
+          "originalValue": "最高 约 15 FPS 使用 机械快门/1st curtain electronic shutter 该速度可连续记录 224 JPEG or 51 RAW 张图像 / 最高 约 30 FPS 使用 电子快门 该速度可连续记录 126 JPEG or 42 RAW 张图像"
+        },
+        {
+          "label": "间隔定时器",
+          "value": "Built in",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "file-type",
+      "title": "图像文件",
+      "rows": [
+        {
+          "label": "静态图像格式",
+          "value": "RAW 14 bit: RAW and C-RAW (Canon original RAW 3rd edition) / JPEG 8 bit: 2 compression options / HEIF 10 bit: 2 compression options / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.1",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "RAW与JPEG同时记录",
+          "value": "支持, any combination of RAW + JPEG or RAW + HEIF possible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "图像尺寸",
+          "value": "RAW/ C-RAW: / 3:2 ratio 6960x4640 / JPEG/ HEIF: / 3:2 ratio (L) 6960x4640, (M) 4800x3200, (S1) 3472x2320, (S2) 2400x1600 / 4:3 ratio (L) 6160x4640, (M) 4256x3200, (S1) 3072x2320, (S2) 2112x1600 / 16:9 ratio (L) 6960x3904, (M) 4800x2688, (S1) 3472x1952, (S2) 2400x1344 / 1:1 ratio (L) 4640x4640, (M) 3200x3200, (S1) 2320x2320, (S2) 1600x1600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "文件夹",
+          "value": "New folders can be manually created, named and selected",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "文件编号",
+          "value": "(1) Continouos numbering / (2) 自动 reset / (3) 手动 reset",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "文件命名",
+          "value": "2 User presets",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "eos-movie",
+      "title": "视频",
+      "rows": [
+        {
+          "label": "视频格式",
+          "value": "MP4 Video: / 4K UHD, 全高清 (16:9) / 4K/ 全高清: H.265 / HEVC, Audio: AAC / Linear PCM / 4K/ 全高清: H.264 / MPEG-4 AVC, Audio: AAC / Linear PCM",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "4K UHD Fine (16:9) 3840 x 2160 (29.97, 25, 23.98 fps) inter frame / light inter frame / 4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame / 4K UHD Crop (16:9) 3840 x 2160 (59.94, 50 fps) inter frame / light inter frame / 4K / 全高清 Time-lapse (16:9) 3840 x 2160 / 1920 x 1080 (29.97, 25 fps) intra frame / 全高清 (16:9) 1920 x 1080 (59.94, 50, 29.97, 25, 23.98 fps) inter frame / light inter frame / 全高清 (16:9) 1920 x 1080 HDR (29.97, 25 fps) inter frame / / * Audio compression is restricted to [AAC] in Basic Zone modes. / * Only [AAC] is available for audio compression of IPB (Light).",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Generated from 7K oversampling. / Playback frame rate; sound is not recorded"
+        },
+        {
+          "label": "内部记录色彩采样",
+          "value": "4K UHD / 全高清 - YCbCr4:2:0 8-bit or YCbCr4:2:2 10bit (when HDR PQ or CLOG3 is ON)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "Canon Log",
+          "value": "支持, Canon Log 3",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "单段视频长度",
+          "value": "Max duration 6 hours (excluding High Frame Rate movies). 不支持 4 GB file limit 使用 exFAT formatted card.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "最高 movie contnuous recording time available: Normal: 6 hr. High Frame Rate movie (全高清 120/100fps): 90 min. If the camera's internal temperature becomes too high the recording time may reduce. 4K 30p HQ: 约 60 min. if starting from +23°C. 4K 60p Crop: 约 60 min. if starting from +23°C."
+        },
+        {
+          "label": "高帧率视频",
+          "value": "全高清 1920 x 1080 at 100 fps or 119.9 fps / Recorded as 1/4-speed slow motion movie",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "In High frame Rate Movie mode sound is not recorded"
+        },
+        {
+          "label": "视频截帧",
+          "value": "8.3-MP JPEG still image frame grab from 4K UHD movie possible / (HEIF only possible when HDR PQ is set)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Movies enabling extraction: 4K Fine / 4K / 4K Crop Extracted still photos cannot be resized or cropped within the camera.",
+          "originalValue": "8.3-megapixel JPEG still image frame grab from 4K UHD movie possible / (HEIF only possible when HDR PQ is set)"
+        },
+        {
+          "label": "视频码率",
+          "value": "MOV: MP4 Canon Log: Off, HDR PQ: Off: / 4K UHD / 4K UHD(Fine) (29.97p/25.00p/23.98p): IPB 约 120 Mbps / 4K UHD / 4K UHD(Fine) (29.97p/25.00p/23.98p): IPB Light 约 60 Mbps / 4K UHD / 4K UHD(crop) (59.94p/50.00p): IPB 约 230 Mbps / 4K UHD / 4K UHD(crop) (59.94p/50.00p): IPB Light 约 120 Mbps / 4K UHD Time-lapse (29.97p/25.00p): ALL-I 约 470 Mbps / 全高清 (119.9p / 100p): IPB 约 120 Mbps / 全高清 (119.9p / 100p): IPB Light 约 70 Mbps / 全高清 (59.94p/50.00p): IPB 约 60 Mbps / 全高清 (59.94p/50.00p): IPB light 约 35 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB 约 30 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB Light 约 12 Mbps / 全高清 Time-lapse (29.97p/25.00p):ALL-I 约 90 Mbps / MOV: MP4 Canon Log: On, or HDR PQ: On / 4K UHD / 4K UHD(Fine) (29.97p/25.00p/23.98p): IPB 约 170 Mbps / 4K UHD / 4K UHD(Fine) (29.97p/25.00p/23.98p): IPB Light 约 85 Mbps / 4K UHD / 4K UHD(crop) (59.94p/50.00p): IPB 约 340 Mbps / 4K UHD / 4K UHD(crop) (59.94p/50.00p): IPB Light 约 170 Mbps / 4K UHD Time-lapse (29.97p/25.00p): ALL-I 约 470 Mbps / 全高清 (119.9p / 100p): IPB 约 180 Mbps / 全高清 (119.9p / 100p): IPB Light 约 100 Mbps / 全高清 (59.94p/50.00p): IPB 约 90 Mbps / 全高清 (59.94p/50.00p): IPB light 约 50 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB 约 45 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB Light 约 28 Mbps / 全高清 Time-lapse (29.97p/25.00p):ALL-I 约 135 Mbps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "双卡记录",
+          "value": "支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "麦克风",
+          "value": "内置 stereo microphone (48 Khz, 16-bit x 2 channels)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "HDMI显示",
+          "value": "Output to external monitor only (output of 张图像 and shooting information, 张图像/video are recorded to the card) / Camera screen and External Monitor output (Recording to camera is not possible, use 使用 external recorder, camera screen shows 张图像 使用 shooting information)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "自动: / - 4K (UHD) 59.94p / 50.00p/29.97p /25.00p/23.98p, / - 1080 59.94p / 59.94i, 50.00p / 50.00i / - 480 59.94p / - 576 50p / 1080p: / - 1080 59.94p / 59.94i, 50.00p / 50.00i / - 480 59.94p / - 576 50p / Uncompressed YCbCr 4:2:0, 8-bit or when HDR PQ or CLOG3 is enabled YCbCr 4:2:2, 10-bit, sound output via HDMI is also possible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "视频感光度",
+          "value": "自动: 100-12800, H: 25600 / 手动: 100-12800, H: 16000-25600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "The default setting range when set to Canon Log 3 is L and ISO 800–12800"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "电脑接口",
+          "value": "SuperSpeed Plus USB 3.2 Gen 2 USB Type-C connector also used for computer communication / smartphone communication / USB power.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "无线网络",
+          "value": "Wireless LAN (IEEE802.11b/g/n) (2.4 GHz), 使用 Bluetooth 4.2 support Features supported - EOS Utility, Smartphone, Upload to image.canon, Wireless printing",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "其他接口",
+          "value": "HDMI Micro out (Type D, HDMI-CEC 不支持) / External Microphone In (3.5mm Stereo mini jack) / Headphone socket (3.5mm Stereo mini jack) / RS-60E3-type terminal (remote control terminal)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Digital compass 不支持. Cannot be connected using an interface cable. Requires Multi-Function Shoe Adapter AD-E1. / Note that total camera mount load capacity for camera, lens, microphone, and other accessories should not exceed 1 kg /35.3 oz. When using an external microphone, depending on the lens used, the sound may be interrupted by the lens and then the sound may not be properly collected."
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "2x SD/SDHC/SDXC and UHS-II",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continous shooting"
+        }
+      ]
+    },
+    {
+      "id": "power-source",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "可充电锂离子电池 LP-E6NH (supplied) , LP-E6N, LP-E6",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "使用 LP-E6NH / LP-E6N, charging over USB is supported. 使用 LP-E6 or unauthenticated batteries, charging over USB is 不支持. Batteries may not be charged unless the remaining battery level is low."
+        },
+        {
+          "label": "电池续航",
+          "value": "使用 LCD 约 770 张 (23°C时) / 使用 Viewfinder 约 500 张 (23°C时)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode / Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode"
+        },
+        {
+          "label": "电量显示",
+          "value": "6 levels + percentage",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "节电",
+          "value": "Screen dimmer: 5 sec. / 10 sec. / 15 sec. / 20 sec. /25 sec. / 30 sec. / Disable / Screen off: 5 sec. / 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / 自动 power off: 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / Viewfinder off: 1 min. / 3 min. / Disable",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/",
+          "condition": "If the camera remains idle until the specified time elapses, the screen is dimmed and lower video frame rates are used. [Power off] and [Screen off] can be assigned to buttons using button customization."
+        }
+      ]
+    },
+    {
+      "id": "physical-specifications",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "机身材质",
+          "value": "Primarily consists of a magnesium alloy and high-strength engineering plastic",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "工作环境",
+          "value": "0 – 40 °C, 85% or less humidity",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "外形尺寸（宽×高×深）",
+          "value": "约 132.0 x 90.4 x 91.7 mm",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        },
+        {
+          "label": "机身重量",
+          "value": "约 530 g (612g 使用 card and battery, Based on CIPA guidelines.)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r7/specifications/"
+        }
+      ]
+    }
+  ]
+}

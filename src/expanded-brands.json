@@ -1,0 +1,30 @@
+[
+  {
+    "id": "olympus",
+    "name": "Olympus 奥林巴斯",
+    "description": "数码影像器材档案。可浏览相关机型及原始规格来源；品牌历史资料将逐步补充。",
+    "timeline": [],
+    "sourceUrl": "https://explore.omsystem.com/"
+  },
+  {
+    "id": "panasonic",
+    "name": "Panasonic 松下",
+    "description": "数码影像器材档案。可浏览相关机型及原始规格来源；品牌历史资料将逐步补充。",
+    "timeline": [],
+    "sourceUrl": "https://www.panasonic.com/"
+  },
+  {
+    "id": "pentax",
+    "name": "Pentax 宾得",
+    "description": "数码影像器材档案。可浏览相关机型及原始规格来源；品牌历史资料将逐步补充。",
+    "timeline": [],
+    "sourceUrl": "https://www.ricoh-imaging.co.jp/"
+  },
+  {
+    "id": "ricoh",
+    "name": "Ricoh 理光",
+    "description": "数码影像器材档案。可浏览相关机型及原始规格来源；品牌历史资料将逐步补充。",
+    "timeline": [],
+    "sourceUrl": "https://www.ricoh-imaging.co.jp/"
+  }
+]

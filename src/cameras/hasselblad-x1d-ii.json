@@ -1,0 +1,266 @@
+{
+  "id": "hasselblad-x1d-ii",
+  "name": "Hasselblad X1D II 50C",
+  "brand": "hasselblad",
+  "year": null,
+  "format": "中画幅",
+  "type": "无反相机",
+  "megapixels": 50,
+  "width": 148.0,
+  "height": 97.0,
+  "depth": 70.0,
+  "description": "Hasselblad X1D II 50C 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "约 5000 万像素 CMOS",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "43.8 × 32.9 mm",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "分辨率",
+          "value": "8272 × 6200",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "像元尺寸",
+          "value": "5.3 × 5.3 μm",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "色深与动态范围",
+          "value": "16 bit",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "色彩管理",
+          "value": "Hasselblad HNCS 自然色彩解决方案",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "图像尺寸与文件",
+          "value": "3FR RAW 平均 106MB；JPEG 最高约 22MB",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "视频分辨率",
+          "value": "2720 × 1530 或 1920 × 1080，29.97fps",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头兼容",
+          "value": "XCD；HC/HCD、V、XPan 镜头须相应转接环",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "自动对焦系统",
+          "value": "反差检测",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "对焦区域",
+          "value": "最多 117 个可选对焦点",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "对焦模式",
+          "value": "自动 / 手动，支持即时手动覆盖",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "对焦方式",
+          "value": "手动模式可用 100% 放大或峰值辅助",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "显示屏",
+          "value": "3.6 英寸 TFT，236 万点，完整触摸操作",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "取景器",
+          "value": "OLED，369 万点",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "取景倍率",
+          "value": "0.87×",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "取景覆盖率",
+          "value": "100%",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "ISO 范围",
+          "value": "自动；ISO 100–25600",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "测光",
+          "value": "点测光、中央重点、中央点",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门系统",
+          "value": "电子控制镜间快门，可选电子快门",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "快门范围",
+          "value": "镜间快门 68 分钟–1/2000 秒（XCD）",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "电子快门",
+          "value": "68 分钟–1/10000 秒",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "闪光同步",
+          "value": "机械快门全速同步",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "闪光控制",
+          "value": "Nikon 兼容 TTL；补偿 −3 至 +3 EV",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "动态范围",
+          "value": "最高 14 挡",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "文件格式",
+          "value": "3FR RAW、全尺寸 JPEG",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "连拍速度",
+          "value": "RAW 最高 2.7 张/秒",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "驱动模式",
+          "value": "单张、连拍、自拍、间隔、曝光包围、焦点包围",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "视频格式",
+          "value": "H.264，4:2:0 8 bit",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "单段视频限制",
+          "value": "每段最长 29 分 59 秒，16:9 全传感器宽度",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储方式",
+          "value": "双 UHS-II SD，最高 1TB；溢出 / 备份模式",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "USB 连接",
+          "value": "USB 3.0 Type-C，5Gbit/s",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "其他接口",
+          "value": "音频输入 / 输出",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "无线网络 / 定位",
+          "value": "802.11 b/g/n/a/ac（a/ac 随地区）；内置 GPS",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电池与供电",
+          "value": "7.27V / 3400mAh；兼容 3200mAh；USB 机内充电",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "工作温度",
+          "value": "−10 至 45°C",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "机身材料",
+          "value": "机械加工铝合金",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "1/4 英寸",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "机身尺寸",
+          "value": "仅机身 148 × 97 × 70 mm",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        },
+        {
+          "label": "重量",
+          "value": "650 g（仅机身）；766 g（含电池及 SD 卡）",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/X1D_II_50C_Datasheets/1.0/x1D-ii-50c-data-sheet-en.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "id": "fujifilm-x-t30",
+  "name": "Fujifilm X-T30",
+  "brand": "fujifilm",
+  "year": 2019,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 26.1,
+  "width": 118.4,
+  "height": 82.8,
+  "depth": 46.8,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "26.1 百万像素",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "26.1 million pixels"
+        },
+        {
+          "label": "感光元件",
+          "value": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 with primary color filter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "传感器清洁",
+          "value": "Ultra Sonic Vibration",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "记录尺寸",
+          "value": "L: (3:2) 6240 x 4160 / (16:9) 6240 x 3512 / (1:1) 4160 x 4160 / M: (3:2) 4416 x 2944 / (16:9) 4416x 2488 / (1:1) 2944 x 2944 / S: (3:2) 3120 x 2080 / (16:9) 3120x 1760 / (1:1) 2080 x 2080",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD Card (-2G) / SDHC Card (-32G) / SDXC Card (-512G) UHS-I",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "静态文件格式 / 静态照片",
+          "value": "JPEG (Exif Ver.2.3)*1, RAW : 14bit RAW(RAF original format), RAW+JPEG",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "无线传输 / 标准",
+          "value": "IEEE 802.11b / g / n (standard wireless protocol)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "无线传输 / 加密",
+          "value": "WEP / WPA / WPA2 mixed mode",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "无线传输 / 接入模式",
+          "value": "Infrastructure",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "无线传输 / 标准",
+          "value": "Bluetooth Ver. 4.2 (Bluetooth low energy)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "无线功能",
+          "value": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, PC Autosave, Image Transfer Order, instax printer print",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "接口 / 数字接口",
+          "value": "USB Type-C (USB3.1 Gen1) / * To use the USB Type-C terminal as a headphone jack socket, it requires a USB Type-C to Φ3.5mm stereo mini-pin jack adapter cable compatible with analog audio input/output(USB Type-C Audio Adapter Accessory Mode)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "接口 / HDMI 输出",
+          "value": "HDMI micro connector (Type D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "接口 / 其他接口",
+          "value": "Φ2.5mm, stereo mini connector [Microphone]",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "FUJIFILM X mount",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "对焦 / 模式",
+          "value": "Single AF / Continuous AF / MF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "对焦 / 类型",
+          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "对焦 / 对焦区域",
+          "value": "Single point AF: EVF / LCD: 13×9 / 25×17 (Changeable size of AF frame) / Zone AF: 3×3 / 5×5 / 7×7 from 91 areas on 13×9 grid / Wide/Tracking AF: (最高 18 area) * AF-S: Wide / AF-C: Tracking / All",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "Single point AF: EVF / LCD: 13×9 / 25×17 (Changeable size of AF frame) / Zone AF: 3×3 / 5×5 / 7×7 from 91 areas on 13×9 grid / Wide/Tracking AF: (up to 18 area) * AF-S: Wide / AF-C: Tracking / All"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度",
+          "value": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(最高 ISO12800) / ISO160 to 12800(1/3 EV step) / Extended output sensitivity : ISO80 / 100 / 125 / 25600 / 51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(up to ISO12800) / ISO160 to 12800(1/3 EV step) / Extended output sensitivity : ISO80 / 100 / 125 / 25600 / 51200"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P(Program AE) / A(Aperture Priority AE) / S(Shutter Speed Priority AE) / M(Manual Exposure)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "白平衡",
+          "value": "Automatic Scene recognition / Custom1-3 / Color temperature selection (2500K-10000K) / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "防抖",
+          "value": "Supported with OIS type lenses",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "连拍",
+          "value": "约 30fps [Only 电子快门, 1.25 x Crop ] (JPEG： 26 frames Lossless compression RAW： 17 frames Uncompressed RAW： 17 frames) / 约 20fps [Only 电子快门, 1.25 x Crop ] (JPEG： 53 frames Lossless compression RAW： 17 frames Uncompressed RAW： 17 frames) / 约 10fps [Only 电子快门, 1.25 x Crop ] (JPEG： 95 frames Lossless compression RAW： 18 frames Uncompressed RAW： 18 frames) / 约 20fps [Only 电子快门 ] (JPEG: 32 frames Lossless compression RAW: 17 frames Uncompressed RAW: 17 frames) / 约 10fps [Only 电子快门 ] (JPEG: 81 frames Lossless compression RAW: 18 frames Uncompressed RAW: 18 frames) / 约 8fps (JPEG: 90 frames Lossless compression RAW: 18 frames Uncompressed RAW: 18 frames) / 约 5fps (JPEG: 205 frames Lossless compression RAW: 24 frames Uncompressed RAW: 19 frames) / 约 4fps (JPEG: 209 frames Lossless compression RAW: 28 frames Uncompressed RAW: 20 frames) / 约 3fps (JPEG: 216 frames Lossless compression RAW: 34 frames Uncompressed RAW: 21 frames) / Pre-shot: 约 30fps [Only 电子快门, 1.25 x Crop ] (max. 10 frames while half press, max. 12 frames after full press, total max. 22 frames) / Pre-shot: 约 20fps [Only 电子快门, 1.25 x Crop ] (max. 10 frames while half press, max. 22 frames after full press, total max. 32 frames) / Pre-shot: 约 10fps [Only 电子快门, 1.25 x Crop ] (max. 10 frames while half press, max. 68 frames after full press, total max. 78 frames) / * recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 26 frames Lossless compression RAW： 17 frames Uncompressed RAW： 17 frames) / Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 53 frames Lossless compression RAW： 17 frames Uncompressed RAW： 17 frames) / Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 95 frames Lossless compression RAW： 18 frames Uncompressed RAW： 18 frames) / Approx. 20fps [Only electronic shutter ] (JPEG: 32 frames Lossless compression RAW: 17 frames Uncompressed RAW: 17 frames) / Approx. 10fps [Only electronic shutter ] (JPEG: 81 frames Lossless compression RAW: 18 frames Uncompressed RAW: 18 frames) / Approx. 8fps (JPEG: 90 frames Lossless compression RAW: 18 frames Uncompressed RAW: 18 frames) / Approx. 5fps (JPEG: 205 frames Lossless compression RAW: 24 frames Uncompressed RAW: 19 frames) / Approx. 4fps (JPEG: 209 frames Lossless compression RAW: 28 frames Uncompressed RAW: 20 frames) / Approx. 3fps (JPEG: 216 frames Lossless compression RAW: 34 frames Uncompressed RAW: 21 frames) / Pre-shot: Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (max. 10 frames while half press, max. 12 frames after full press, total max. 22 frames) / Pre-shot: Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (max. 10 frames while half press, max. 22 frames after full press, total max. 32 frames) / Pre-shot: Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (max. 10 frames while half press, max. 68 frames after full press, total max. 78 frames) / * recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames"
+        },
+        {
+          "label": "自动包围",
+          "value": "AE Bracketing (Frames: -2, -3, +3, +2, ±9, ±7, ±5, ±3 Step: 1/3EV, 2/3EV, 1EV, 4/3EV、5/3EV、2EV、7/3EV、8/3EV、3EV) / Film simulation bracketing(Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV / ±2/3EV / ±1EV) / White Balance Bracketing (±1 / ±2 / ±3) / Focus Bracketing (Frames: 1 - 999, Step: 1-10, Interval: 0 - 10s)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "自拍",
+          "value": "10sec. / 2sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "Yes (Setting : Interval, Number of shots, Starting time)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "拍摄功能",
+          "value": "Advanced SR AUTO, Face / Eye detection AF, Auto Red-eye Removal, Select custom setting, Panorama, Color space, Setting (Color, Sharpness, D-range, Highlight tone, Shadow tone), Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Lens Modulation Optimizer, Pre-AF, Number of Focus Points setting, MF Assist, Focus check, Focus Peak Highlight, Electronic level, Multiple exposure, Release priority / Focus priority selection, Fn button setting , ISO AUTO control, Instant AF setting (AF-S/AF-C), AF-C CUSTOM SETTINGS , SHUTTER AF , SHUTTER AE , AF-ON , Interlock spot AE & Focus area, Focus area setting, AE-L/AF-L button setting, Edit/Save Quick menu, Preview exp./WB in manual mode, Shutter Type, Touch Screen Setting, Sports Finder Mode, Pre-Shot, Flicker Reduction",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "胶片模拟",
+          "value": "16 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Black & White, Black & White+Ye Filter, Black & White+R Filter, Black & White+G Filter, Sepia, ACROS, ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, ETERNA/Cinema) / B & W Adjustment: -9~+9",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "颗粒效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "彩色效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "动态范围",
+          "value": "AUTO, 100%, 200%, 400%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "创意滤镜",
+          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "回放功能",
+          "value": "RAW conversion, Image rotate, Auto image rotate, Face Detection, Red-eye removal, Photobook assist, Erase selected frames, Multi-frame playback (with micro thumbnail), Slide show, Protect, Crop, Resize, Panorama, Favorites, Voice Memo Setting",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "回放功能 / 工作频率 / [Center frequency]",
+          "value": "2402 - 2480MHz",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "其他功能",
+          "value": "Exif Print, 35 Languages, Date/Time, Time difference, Sound & Flash OFF, Performance Setting, Preview exp. in Manual mode, LCD Brightness, LCD Color, Preview Pic. Effect, DISP. Custom Setting , LARGE INDICATORS MODE(EVF) , LARGE INDICATORS MODE(LCD) , LARGE INDICATORS DISP. SETTING , Copyright Setting",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "Focal Plane Shutter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "快门速度 / 机械快门",
+          "value": "P mode: 4sec. to 1/4000sec. / A mode: 30sec. to 1/4000sec. / S/M mode: 15min. to 1/4000sec. / Bulb mode: 最高 60min.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "P mode: 4sec. to 1/4000sec. / A mode: 30sec. to 1/4000sec. / S/M mode: 15min. to 1/4000sec. / Bulb mode: up to 60min."
+        },
+        {
+          "label": "快门速度 / 电子快门",
+          "value": "P mode: 4sec. to 1/32000sec. / A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. / Bulb mode: 1sec. Fixed",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "快门速度 / 机械加电子快门",
+          "value": "P mode: 4sec. to 1/32000sec. / A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. / Bulb mode: 最高 60min.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "P mode: 4sec. to 1/32000sec. / A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. / Bulb mode: up to 60min."
+        },
+        {
+          "label": "快门速度 / 闪光同步速度",
+          "value": "1/180 sec. or slower",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "闪光灯",
+          "value": "Manual pop-up flash (Super Intelligent Flash) / Guide number : 约 7 (ISO200 · m) / 约 5 (ISO100 · m)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "Manual pop-up flash (Super Intelligent Flash) / Guide number : approx. 7 (ISO200 · m) / approx. 5 (ISO100 · m)"
+        },
+        {
+          "label": "闪光模式 / 闪光模式",
+          "value": "TTL(FLASH AUTO / STANDARD / SLOW SYNC.) / MANUAL / COMMANDER / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "闪光模式 / SYNC. 模式",
+          "value": "1ST CURTAIN / 2ND CURTAIN",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "热靴",
+          "value": "Yes (Dedicated TTL Flash compatible)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "0.39 inch 约 2.36 百万点 OLED Color Viewfinder / Coverage of viewing area vs. capturing area: 约 100% / Magnification: 0.62× with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: 约 31° (Horizontal angle of view: 约 26° ) Built-in eye sensor / AUTO Brightness Setting: 50～800cd/㎡",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "0.39 inch approx. 2.36 million dots OLED Color Viewfinder / Coverage of viewing area vs. capturing area: approx. 100% / Magnification: 0.62× with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: approx. 31° (Horizontal angle of view: approx. 26° ) Built-in eye sensor / AUTO Brightness Setting: 50～800cd/㎡"
+        },
+        {
+          "label": "液晶屏",
+          "value": "3.0 inch, aspect ratio 3:2, 约 1.04 百万点 触摸屏 color LCD monitor(约 100% coverage)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "3.0 inch, aspect ratio 3:2, approx. 1.04 million dots touch screen color LCD monitor(approx. 100% coverage)"
+        },
+        {
+          "label": "液晶屏 / 文件格式",
+          "value": "MOV (MPEG-4 AVC/H.264,Audio: Linear PCM / Stereo sound 24bit / 48KHz sampling)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "液晶屏 / 视频尺寸 / 帧率 / 录制时长",
+          "value": "[DCI 4K(4096×2160)] / 29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 10min / / [4K(3840×2160)] / 29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 10min / / [Full HD(2048 ×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 15min. / / [Full HD(1920×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 15min. / / [Full HD(1920×1080) High speed rec.] / 120p/100p 200Mbps(recording) 最高 约 6min. / * For recording movies, use a SD memory card with UHS Speed Class 3 or higher. / * Although movie recording will continue without interruption when the file size reaches 4GB, subsequent footage will be recorded to a separate file which must be viewed separately.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "[DCI 4K(4096×2160)] / 29.97p/25p/24p/23.98p 200Mbps/100Mbps up to approx. 10min / / [4K(3840×2160)] / 29.97p/25p/24p/23.98p 200Mbps/100Mbps up to approx. 10min / / [Full HD(2048 ×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps up to approx. 15min. / / [Full HD(1920×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps up to approx. 15min. / / [Full HD(1920×1080) High speed rec.] / 120p/100p 200Mbps(recording) up to approx. 6min. / * For recording movies, use a SD memory card with UHS Speed Class 3 or higher. / * Although movie recording will continue without interruption when the file size reaches 4GB, subsequent footage will be recorded to a separate file which must be viewed separately."
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "NP-W126S Li-ion battery (included)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "电源 / 照片续航",
+          "value": "约 380 frames (Normal Mode) When XF35mmF1.4 R is set.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "Approx. 380 frames (Normal Mode) When XF35mmF1.4 R is set."
+        },
+        {
+          "label": "尺寸",
+          "value": "118.4mm (W) x 82.8mm (H) x 46.8mm (D) / 4.66in. (W) x 3.26in. (H) x 1.84in. (D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "重量",
+          "value": "约 383g / 13.5 oz. (including battery and memory card) / 约 333g / 11.8 oz. (excluding accessories, battery and memory card)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/",
+          "originalValue": "Approx. 383g / 13.5 oz. (including battery and memory card) / Approx. 333g / 11.8 oz. (excluding accessories, battery and memory card)"
+        },
+        {
+          "label": "工作温度",
+          "value": "0°C - 40°C (+32°F - +104°F)C",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "工作湿度",
+          "value": "10 - 80% (no condensation)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        },
+        {
+          "label": "启动时间",
+          "value": "Approx 0.4sec. / * Fujifilm research",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t30/specifications/"
+        }
+      ]
+    }
+  ]
+}

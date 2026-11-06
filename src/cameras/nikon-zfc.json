@@ -1,0 +1,383 @@
+{
+  "id": "nikon-zfc",
+  "name": "Nikon Z fc",
+  "brand": "nikon",
+  "year": null,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 20.9,
+  "width": 134.5,
+  "height": 93.5,
+  "depth": 43.5,
+  "description": "Nikon Z fc，尼康DX格式Z卡口无反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
+  "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "g1",
+      "title": "基本规格",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "可更换镜头数码相机",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "尼康Z卡口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "兼容镜头",
+          "value": "Z mount NIKKOR lenses F mount NIKKOR lenses (mount adapter required); restrictions may apply",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "20.9百万像素",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "类型",
+          "value": "23.5 x 15.7 mm CMOS传感器 (尼康DX格式)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "总像素",
+          "value": "21.51百万像素",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "存储与画质",
+      "rows": [
+        {
+          "label": "文件格式",
+          "value": "NEF (RAW): 12 or 14 bit JPEG: JPEG-Baseline compliant with fine (约 1:4), normal (约 1:8) or basic (约 1:16) compression NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "优化校准",
+          "value": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat, Creative Picture Controls (Dream, Morning, Pop, Sunday, Somber, Dramatic, Silence, Bleached, Melancholic, Pure, Denim, Toy, Sepia, Blue, Red, Pink, Charcoal, Graphite, Binary, Carbon); selected Picture Control can be modified; storage for custom Picture Controls",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD (Secure Digital) and UHS-I compliant SDHC and SDXC memory cards",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "TTL metering using camera image sensor",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "Matrix Center-weighted Spot Highlight-weighted",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "测光范围 (ISO 100 and f/2.0 lens at 20°C/68°F)",
+          "value": "-4 to 17 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "感光度（推荐曝光指数）",
+          "value": "ISO 100 to 51200 in steps of 1/3; can also be set to 约 1 EV above ISO 51200 (ISO 102400 equivalent) or to 约 2 EV above ISO 51200 (ISO 204800 equivalent); auto ISO sensitivity control available",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "动态D-Lighting",
+          "value": "Can be selected from auto, extra high, high, normal, low or off",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "视频与音频",
+      "rows": [
+        {
+          "label": "测光模式",
+          "value": "Matrix Center-weighted Highlight-weighted",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 120p, 100p, 60p, 50p, 30p, 25p, 24p 1920 x 1080 slow-motion; 30p (x4), 25p (x4), 24p (x5p)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "视频文件格式",
+          "value": "MOV, MP4",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "视频编码",
+          "value": "H.264/MPEG-4 Advanced Video Coding",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "录音格式",
+          "value": "Linear PCM (for video recorded in MOV format), AAC (for video recorded in MP4 format)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "录音装置",
+          "value": "Built-in stereo or external microphone with attenuator option; sensitivity adjustable",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "感光度（推荐曝光指数）",
+          "value": "M: Manual selection (ISO 100 to 25600 in steps of 1/3); auto ISO sensitivity control (ISO 100 to 25600) available with selectable upper limit P, S, A: Auto ISO sensitivity control (ISO 100 to 25600) with selectable upper limit Auto: Auto ISO sensitivity control (ISO 100 to 25600)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "动态D-Lighting",
+          "value": "Can be selected from extra high, high, normal, low or off",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "其他功能",
+          "value": "Time-lapse video recording, electronic vibration reduction, time codes",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "测光系统",
+          "value": "TTL metering using camera image sensor",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "取景系统",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "1.0-cm/0.39-in. 约 2360k-dot (XGA) OLED 电子取景器 with color balance and auto and 7-level manual brightness controls",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "1.0-cm/0.39-in. 约 2360k-dot (XGA) OLED electronic viewfinder with color balance and auto and 7-level manual brightness controls"
+        },
+        {
+          "label": "视野率",
+          "value": "约 100% horizontal and 100% vertical",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约 1.02x (50 mm lens at infinity, -1.0 m -1 )",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏类型",
+          "value": "7.5-cm/3.0-in., 约 1040k-dot 可翻转 TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, and color balance and 11-level manual brightness controls",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "7.5-cm/3.0-in., 约 1040k-dot vari-angle TFT touch-sensitive LCD with 170° viewing angle, approximately 100% frame coverage, and color balance and 11-level manual brightness controls"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "快门系统",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "电子控制纵走式焦平面机械快门; 电子前帘快门; 电子快门",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "Electronically-controlled vertical-travel focal-plane mechanical shutter; electronic front-curtain shutter; electronic shutter"
+        },
+        {
+          "label": "快门速度",
+          "value": "Using the shutter-speed dial: 1/4000 to 4 s (1 step), bulb, time, X (Flash sync) Using the main command dial: 1/4000 to 30 s (1/3 step, can be extended 最高 900 s in mode M), bulb, time, X (Flash Sync)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "Using the shutter-speed dial: 1/4000 to 4 s (1 step), bulb, time, X (Flash sync) Using the main command dial: 1/4000 to 30 s (1/3 step, can be extended up to 900 s in mode M), bulb, time, X (Flash Sync)"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "拍摄驱动",
+      "rows": [
+        {
+          "label": "释放模式",
+          "value": "Single frame, continuous L, continuous H, continuous H (extended), Self-timer",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "连拍速度",
+          "value": "Continuous L: 约 1 to 4 fps Continuous H: 5 fps Continuous H (extended): 11 fps",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "自动对焦",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "Hybrid phase-detection/contrast AF with AF assist",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "对焦检测范围  (In photo mode, AF-S, ISO 100, f/1.8 lens, 20°C/68°F)",
+          "value": "-4.5 to +19 EV (without low-light AF: -3 to +19 EV)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "对焦点 (In photo mode, single-point AF, DX format)",
+          "value": "209 focus points",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "自动对焦区域",
+          "value": "Pinpoint AF; single-point AF; dynamic-area AF; wide-area AF (S), wide-area AF (L), wide-area AF (L-people); wide-area AF (L-animals); auto-area AF; auto-area AF (people); auto-area AF (animals); pinpoint AF and dynamic-area AF available in photo mode only",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "闪光控制",
+          "value": "TTL: i-TTL flash control; i-TTL balanced fill-flash is used with matrix, center-weighted, and highlight-weighted metering, standard i-TTL fill-flash with spot metering",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "闪光模式",
+          "value": "Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, off",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "尼康创意闪光系统",
+          "value": "i-TTL flash control, optical Advanced Wireless Lighting, FV lock, Color Information Communication, auto FP high-speed sync",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "Auto (3 types), natural light auto, direct sunlight, cloudy, shade, incandescent, fluorescent (3 types), flash, choose color temperature (2500 K to 10000 K), preset manual (最高 6 values can be stored), all with fine-tuning except choose color temperature",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "Auto (3 types), natural light auto, direct sunlight, cloudy, shade, incandescent, fluorescent (3 types), flash, choose color temperature (2500 K to 10000 K), preset manual (up to 6 values can be stored), all with fine-tuning except choose color temperature"
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": "包围拍摄",
+      "rows": [
+        {
+          "label": "包围拍摄类型",
+          "value": "Exposure and/or flash, white balance, and ADL",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": "机身与环境",
+      "rows": [
+        {
+          "label": "工作环境",
+          "value": "Temperature: 0°C to 40°C/32°F to 104°F; Humidity: 85% or less (no condensation)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约 134.5 x 93.5 x 43.5 mm/5.3 x 3.7 x 1.8 in.",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "重量",
+          "value": "约 445 g/15.7 oz. with battery and memory card but without body cap; 约 390 g/13.8 oz. (camera 仅机身)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "约 445 g/15.7 oz. with battery and memory card but without body cap; 约 390 g/13.8 oz. (camera body only)"
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "USB接口",
+          "value": "Type C USB connector (SuperSpeed USB); connection to built-in USB port is recommended",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "Type D HDMI connector",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "音频输入",
+          "value": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "Wi-Fi无线连接",
+          "value": "提供",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "Available"
+        },
+        {
+          "label": "Bluetooth无线连接",
+          "value": "提供",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html",
+          "originalValue": "Available"
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": "电源系统",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "One EN-EL25 Rechargeable Li-ion Battery",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        },
+        {
+          "label": "充电适配器",
+          "value": "EH-7P Charging AC Adapter (available separately)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_fc/index.html"
+        }
+      ]
+    }
+  ]
+}

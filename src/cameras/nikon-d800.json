@@ -1,0 +1,570 @@
+{
+  "id": "nikon-d800",
+  "name": "Nikon D800",
+  "brand": "nikon",
+  "year": null,
+  "format": "全画幅",
+  "type": "单反相机",
+  "megapixels": 36.3,
+  "width": 146.0,
+  "height": 123.0,
+  "depth": 81.5,
+  "description": "Nikon D800，尼康FX全画幅F卡口数码单反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
+  "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "g1",
+      "title": "基本规格",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "可换镜头数码单反相机",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "尼康F卡口，带AF耦合与AF触点",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "兼容镜头",
+          "value": "支持G/D型AF尼克尔、其他兼容AF尼克尔及P型镜头；PC镜头有功能限制，IX及F3AF镜头不可用。非CPU AI镜头可在A/M模式使用，非AI不可用。支持DX镜头；电子测距受镜头最大光圈及对焦点限制，详见官方兼容说明。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・GまたはDタイプレンズ（PCレンズ一部制限あり） ・GまたはDタイプ以外のAFレンズ（IX用レンズ、F3AF用镜头使用不可） ・Pタイプレンズ ・非CPUレンズ（ただし、非AIレンズは使用不可）：露出モードA、Mで使用可能 ・DXレンズ（撮像范围は［DX（24×16）1.5×］） ・開放F値がf/5.6以上明るいレンズで、フォーカスエイド可能。ただしフォーカスポイント11点は、f/8以上明るいレンズで、フォーカスエイド可能。"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "3630万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "图像传感器",
+          "value": "35.9×24.0mmCMOS传感器、尼康FX全画幅",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "总像素",
+          "value": "3677万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "除尘系统",
+          "value": "图像传感器清洁、图像除尘参考数据获取（另售Capture NX 2必要）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "存储与画质",
+      "rows": [
+        {
+          "label": "照片尺寸",
+          "value": "成像范围〔FX（36×24）1.0×〕时： 7360×4912像素（尺寸L）、5520×3680像素（尺寸M）、3680×2456像素（尺寸S） ；成像范围〔1.2×（30×20）1.2×〕时： 6144×4080像素（尺寸L）、4608×3056像素（尺寸M）、3072×2040像素（尺寸S） ；成像范围〔DX（24×16）1.5×〕时： 4800×3200像素（尺寸L）、3600×2400像素（尺寸M）、2400×1600像素（尺寸S） ；成像范围〔5：4（30×24）〕时： 6144×4912像素（尺寸L）、4608×3680像素（尺寸M）、3072×2456像素（尺寸S） ；FX基准（视频）格式（成像范围［FX（36×24）1.0×］视频实时取景中拍摄照片时）； 6720×3776像素（尺寸L）、5040×2832像素（尺寸M）、3360×1888像素（尺寸S） ；DX基准（视频）格式（成像范围［DX（24×16）1.5×］视频实时取景中拍摄照片时）： 4800×2704像素（尺寸L）、3600×2024像素（尺寸M）、2400×1352像素（尺寸S） ；注：成像范围［1.2×（30×20）1.2×］或［5：4（30×24）］、视频实时取景中拍摄照片时、「FX基准（视频）格式」时的图像尺寸为准。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・撮像范围〔FX（36×24）1.0×〕の場合： 7360×4912像素（尺寸L）、5520×3680像素（尺寸M）、3680×2456像素（尺寸S） ・撮像范围〔1.2×（30×20）1.2×〕の場合： 6144×4080像素（尺寸L）、4608×3056像素（尺寸M）、3072×2040像素（尺寸S） ・撮像范围〔DX（24×16）1.5×〕の場合： 4800×3200像素（尺寸L）、3600×2400像素（尺寸M）、2400×1600像素（尺寸S） ・撮像范围〔5：4（30×24）〕の場合： 6144×4912像素（尺寸L）、4608×3680像素（尺寸M）、3072×2456像素（尺寸S） ・FXベースの（動画）フォーマット（撮像范围［FX（36×24）1.0×］で動画ライブビュー中に静止画撮影する場合）※： 6720×3776像素（尺寸L）、5040×2832像素（尺寸M）、3360×1888像素（尺寸S） ・DXベースの（動画）フォーマット（撮像范围［DX（24×16）1.5×］で動画ライブビュー中に静止画撮影する場合）： 4800×2704像素（尺寸L）、3600×2024像素（尺寸M）、2400×1352像素（尺寸S） ※撮像范围［1.2×（30×20）1.2×］または［5：4（30×24）］で、動画ライブビュー中に静止画撮影する場合、「FXベースの（動画）フォーマット」时の画像尺寸になります。"
+        },
+        {
+          "label": "画质格式",
+          "value": "RAW12bit/14bit（无损压缩、压缩、未压缩） ；TIFF（RGB） ；JPEG-Baseline兼容、压缩率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸优先时、画质优先可选择 ；RAW及JPEG的同时记录可",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・RAW12bit/14bit（ロスレス圧縮、圧縮、非圧縮） ・TIFF（RGB） ・JPEG-Baseline準拠、圧縮率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸優先時、画質優先選択可能 ・RAWとJPEGの同時記録可能"
+        },
+        {
+          "label": "优化校准",
+          "value": "标准、自然、鲜艳、单色、人像、风景、均可调节、可注册自定义优化校准",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD存储卡、SDHC存储卡、SDXC存储卡（SDHC存储卡、SDXC存储卡为UHS-I符合规格）、CompactFlash存储卡（Type I、UDMA支持）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "SD存储卡、SDHC存储卡、SDXC存储卡（SDHC存储卡、SDXC存储卡はUHS-I符合规格）、CompactFlash存储卡（Type I、UDMA支持）"
+        },
+        {
+          "label": "双卡槽",
+          "value": "支持顺序记录、备份记录、RAW/JPEG分卡记录及卡间复制",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "文件系统",
+          "value": "DCF2.0、DPOF、Exif2.3、PictBridge",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "视频与音频",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "使用图像传感器的TTL测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "1920×1080：30p/25p/24p ；1280×720：60p/50p/30p/25p ；注：60p：59.94fps、50p：50fps、30p：29.97fps、25p：25fps、24p：23.976fps ；注：标准/高画质可选择",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・1920×1080：30p/25p/24p ・1280×720：60p/50p/30p/25p ※60p：59.94fps、50p：50fps、30p：29.97fps、25p：25fps、24p：23.976fps ※标准/高画質選択可能"
+        },
+        {
+          "label": "视频文件格式",
+          "value": "MOV",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "视频编码",
+          "value": "H.264/MPEG-4 AVC",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "录音格式",
+          "value": "线性PCM",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "录音装置",
+          "value": "内置立体声麦克风，支持外接麦克风及立体声录音，可调整麦克风灵敏度。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "内蔵モノラルマイク、可使用外接麦克风（立体声录音）、可调麦克风灵敏度"
+        },
+        {
+          "label": "其他视频功能",
+          "value": "索引标记、延时摄影",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "取景系统",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "眼平五棱镜光学单反取景器",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "视野率",
+          "value": "FX：水平和垂直均约100％（相对于实际画面） ；1.2×：水平和垂直均约97％（相对于实际画面） ；DX：水平和垂直均约97％（相对于实际画面） ；5：4：垂直约100％、水平约97％（相对于实际画面）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・FX：水平和垂直均约100％（相对于实际画面） ・1.2×：水平和垂直均约97％（相对于实际画面） ・DX：水平和垂直均约97％（相对于实际画面） ・5：4：垂直约100％、水平约97％（相对于实际画面）"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约0.7倍（50mm f/1.4镜头使用、∞、-1.0m-1时）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "眼点",
+          "value": "自目镜表面中心起17mm（-1.0m-1时）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-3～+1m-1",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "对焦屏",
+          "value": "B型明亮磨砂对焦屏VIII（AF区域框附、构图网格线显示可）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "B型クリアマットスクリーンVIII（AFエリアフレーム付、構図用格子線表示可能）"
+        },
+        {
+          "label": "反光镜",
+          "value": "快速回位式",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "景深预览",
+          "value": "使用预览按钮收缩光圈；A/M模式收缩至设定光圈，P/S模式收缩至相机控制的光圈。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "プレビューボタンによる絞り込み可能、露出モードA、Mでは設定絞り値まで絞り込み可能、露出モードP、Sでは制御絞り値まで絞り込み可能"
+        },
+        {
+          "label": "镜头光圈",
+          "value": "即时回位、电子控制",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "快门系统",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "电子控制纵走式焦平面快门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "快门速度",
+          "value": "1/8000～30秒（1/3、1/2、1档）、Bulb、X250",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・1/8000～30秒（1/3、1/2、1档）、Bulb、X250"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "X=1/250秒、1/320秒及更低快门速度同步（1/250至1/320秒之间闪光指数下降）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・X=1/250秒、1/320秒及更低快门速度同步（1/250至1/320秒之间闪光指数下降）"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "拍摄驱动",
+      "rows": [
+        {
+          "label": "释放模式",
+          "value": "1张拍摄、低速连拍拍摄、高速连拍拍摄、安静拍摄、自拍定时拍摄、反光镜升起拍摄",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "1张撮影、低速連続撮影、高速連続撮影、静音撮影、セルフタイマー撮影、ミラーアップ撮影"
+        },
+        {
+          "label": "连拍速度",
+          "value": "使用EN-EL15：FX/5:4最高4张/秒，DX/1.2×最高5张/秒。使用MB-D12且装EN-EL15以外电池，或使用EH-5系列外接电源时：FX/5:4仍最高4张/秒，DX最高6张/秒，1.2×最高5张/秒。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・EN-EL15使用時 撮像范围〔FX、5：4〕CL：1～4张/秒、CH：4张/秒 撮像范围〔DX、1.2×〕CL：1～5张/秒、CH：5张/秒 ・マルチパワーバッテリーパック MB-D12（EN-EL15以外の電池使用時）または交流适配器 EH-5b/EH-5a/EH-5使用時 撮像范围〔FX、5：4〕CL：1～4张/秒、CH：4张/秒 撮像范围〔DX〕CL：1～5张/秒CH：6张/秒 撮像范围〔1.2×〕CL：1～5张/秒、CH：5张/秒"
+        },
+        {
+          "label": "自拍定时",
+          "value": "延迟时间：2、5、10、20秒、拍摄张数：1～9张、连拍间隔：0.5、1、2、3秒",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "91K像素（约91,000像素）RGB传感器TTL全开光圈测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "矩阵测光：3D-RGB矩阵测光Ⅲ（G或D型镜头使用时）、RGB矩阵测光Ⅲ（其他的CPU镜头使用时）、RGB矩阵测光（非CPU镜头的镜头信息手动设定时） ；中央重点测光：φ12mm等效测光（中央部重点度约75%）、φ8mm、φ15mm、φ20mm、整个画面的平均的任一项可切换（非CPU镜头使用时为φ12mm、或整个画面的平均） ；点测光：约φ4mm等效（全画面的约1.5%）测光、对焦点于联动测光位置可移动（非CPU镜头使用时为中央固定）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・矩阵测光：3D-RGB矩阵测光Ⅲ（GまたはDタイプ镜头使用時）、RGB矩阵测光Ⅲ（その他のCPU镜头使用時）、RGB矩阵测光（非CPUレンズのレンズ情報手動設定時） ・中央重点测光：φ12mm相当を測光（中央部重点度约75%）、φ8mm、φ15mm、φ20mm、画面全体の平均のいずれか可切换（非CPU镜头使用時はφ12mm、または画面全体の平均） ・点测光：约φ4mm相当（全画面の约1.5%）を測光、フォーカスポイントに連動して測光位置可動（非CPU镜头使用時は中央に固定）"
+        },
+        {
+          "label": "测光范围",
+          "value": "矩阵测光、中央重点测光：0～20EV ；点测光：2～20EV （ISO 100、f/1.4镜头使用时、常温20℃）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・矩阵测光、中央重点测光：0～20EV ・点测光：2～20EV （ISO 100、f/1.4镜头使用時、常温20℃）"
+        },
+        {
+          "label": "测光耦合",
+          "value": "CPU耦合及AI方式",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "曝光与拍摄模式",
+          "value": "P：程序自动（可程序偏移）、S：快门优先自动、A：光圈优先自动、M：手动",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "范围：±5EV、补偿档：1/3、1/2、1档",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "自动包围拍摄",
+          "value": "AE、闪光包围拍摄时、拍摄张数：2～9张、补偿档：1/3、1/2、2/3、1档 ；白平衡包围拍摄时、拍摄张数：2～9张、补偿档：1～3档 ；动态D-Lighting包围拍摄时、拍摄张数：2～5张、拍摄张数2张时仅动态D-Lighting的效果强度可选择",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・AE、フラッシュブラケティング時、拍摄张数：2～9张、补偿档：1/3、1/2、2/3、1档 ・ホワイトバランスブラケティング時、拍摄张数：2～9张、补偿档：1～3档 ・アクティブD-ライティングブラケティング時、拍摄张数：2～5张、拍摄张数が2张の場合のみアクティブD-ライティングの効果の度合いを選択可能"
+        },
+        {
+          "label": "曝光锁定",
+          "value": "通过AE/AF锁定按钮锁定测得的亮度值。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "AE/AFロックボタンによる輝度値ロック方式"
+        },
+        {
+          "label": "感光度",
+          "value": "ISO 100–6400，1/3、1/2或1档步进；可扩展至ISO 50–25600，支持自动感光度控制。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "ISO 100～6400（1/3、1/2、1档）、ISO 100に対し约0.3、0.5、0.7、1EV（ISO 50相当）の減感、ISO 6400に対し约0.3、0.5、0.7、1EV、2EV（ISO 25600相当）の増感、感度自動制御が可能 ・ISO感度は、推奨露光指数"
+        },
+        {
+          "label": "动态D-Lighting",
+          "value": "自动、高+、高、标准、低、关闭",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "自动对焦",
+      "rows": [
+        {
+          "label": "对焦检测范围",
+          "value": "-2～+19EV（ISO 100、常温（20℃））",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "对焦驱动（光学取景）",
+          "value": "支持AF-S单次伺服、AF-C连续伺服及MF手动对焦；AF可按主体状态启动预测跟踪，手动对焦可使用合焦指示。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・自动フォーカス（AF）：シングルAFサーボ（AF-S）、コンティニュアスAFサーボ（AF-C）を選択可能、被写体条件に至自動的に予測駆動フォーカスに移行 ・手动フォーカス（MF）：フォーカスエイド可能"
+        },
+        {
+          "label": "对焦点",
+          "value": "可选择51点或11点对焦点配置。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・AF51点设定时：51点の个对焦点可选 ・AF11点设定时：11点の个对焦点可选"
+        },
+        {
+          "label": "自动对焦区域（光学取景）",
+          "value": "单点AF、动态区域AF（9点、21点、51点）、3D跟踪、自动区域AF",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "使用AE/AF锁定按钮；AF-S模式下也可半按快门锁定对焦。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "AE/AFロックボタン、またはシングルAFサーボ（AF-S）時にシャッターボタン半押し"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "实时取景",
+      "rows": [
+        {
+          "label": "拍摄模式",
+          "value": "照片实时取景、视频实时取景",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "对焦驱动（实时取景）",
+          "value": "支持AF-S单次伺服、AF-F全时伺服和MF手动对焦。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・自动フォーカス（AF）：シングルAFサーボ（AF-S）、常時AFサーボ（AF-F） ・手动フォーカス（MF）"
+        },
+        {
+          "label": "自动对焦区域（实时取景）",
+          "value": "脸部识别AF、宽区域AF、标准区域AF、对象跟踪AF",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "对焦系统",
+          "value": "实时取景使用反差检测AF，可在画面内选择对焦位置；脸部识别和对象跟踪时由相机确定对焦位置。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "コントラストAF方式、全画面の任意の位置でAF可能（脸部识别AFまたは对象跟踪AF时は、カメラが決めた位置でAF可能）"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "内置闪光灯",
+          "value": "按钮手动弹出 闪光指数：约12（手动全功率闪光时约12）（ISO 100；m、20℃）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "押しボタン操作による手動ポップアップ方式 ガイドナンバー：约12（手动フル発光時约12）（ISO 100・m、20℃）"
+        },
+        {
+          "label": "闪光控制",
+          "value": "91K像素（约91,000像素）RGB传感器通过TTL闪光控制学控制：内置闪光、另售尼康闪光灯i-TTL-BL闪光控制（矩阵测光或中央重点测光）、标准i-TTL闪光控制（点测光）可",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "91K像素（约91,000像素）RGBセンサーによるTTL調光制御：内蔵フラッシュ、另售りスピードライトでi-TTL-BL調光（矩阵测光または中央重点测光）、标准i-TTL調光（点测光）可能"
+        },
+        {
+          "label": "闪光模式",
+          "value": "前帘同步、后帘同步、慢速同步、防红眼、禁止闪光；支持自动FP高速同步。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "先幕シンクロ、スローシンクロ、後幕シンクロ、赤目軽減、赤目軽減スローシンクロ、後幕スローシンクロ ・自动FPハイスピードシンクロ可能"
+        },
+        {
+          "label": "闪光补偿",
+          "value": "范围：-3～+1EV、补偿档：1/3、1/2、1档",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "闪光就绪提示",
+          "value": "内置闪光灯或另售闪光灯充电完成时亮起；全功率闪光后的曝光警告以闪烁提示。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "内蔵フラッシュ、另售スピードライト使用時に充電完了で点灯、フル発光による露出警告時は点滅"
+        },
+        {
+          "label": "热靴",
+          "value": "热靴（ISO 518）配备：同步与通信触点、安全锁定机构（锁孔）附",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "尼康创意闪光系统",
+          "value": "支持i-TTL闪光、光学高级无线闪光、闪光色温信息传递、自动FP高速同步、FV锁定、AF辅助照明及模拟闪光；内置闪光可作为指令灯。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "i-TTL調光、アドバンストワイヤレスライティング（光制御）※、発光色温度情報伝達（フラッシュ）、自动FPハイスピードシンクロ、FVロック撮影、マルチポイントAF補助光、モデリング発光 ※内蔵フラッシュによる张ンダーモードあり ・内蔵フラッシュまたは支持スピードライト使用時"
+        },
+        {
+          "label": "同步端口",
+          "value": "同步端口（ISO 519）配备（带防脱螺纹）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "自动（2种）、白炽灯、荧光灯（7种）、晴天、闪光、阴天及晴天阴影；支持6组手动预设和2500–10000K色温设定，各模式可微调。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "自动（2種）、電球、蛍光灯（7種）、晴天、フラッシュ、曇天、晴天日陰、プリセット手动（4件登録可）、色温度設定（2500K～10000K）、いずれも微調整可能"
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏",
+          "value": "3.2型TFT液晶、约92万点（VGA）、可视角度170°、视野率约100%、可调亮度、环境亮度传感器通过液晶屏自动亮度调节功能",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "3.2型TFT液晶、约92万点（VGA）、可视角度170°、视野率约100%、可调亮度、照度センサーによる液晶モニター自動明るさ調整機能"
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": "回放与编辑",
+      "rows": [
+        {
+          "label": "回放功能",
+          "value": "支持单张、缩略图、放大和视频回放、幻灯片、直方图、高光、拍摄与位置信息显示，以及竖拍图像自动旋转。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "1张再生、サムネイル（4、9、72分割）、拡大再生、動画再生、スライドショー（静止画/動画選択再生可能）、ヒストグラム表示、ハイライト表示、撮影画像の縦位置自動回転、画像コメント入力可能（英数字36文字まで）"
+        },
+        {
+          "label": "图像编辑",
+          "value": "提供D-Lighting、红眼校正、裁切、单色与滤镜、图像合成、RAW处理、缩放及倾斜等机内编辑功能；具体菜单见官方规格。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "D-ライティング、赤目补偿、トリミング（3：2/4：3/5：4/16：9/1：1）、モノトーン（白黒/セピア/クール）、フィルター効果（スカイライト/ウォームトーン/赤強調/緑強調/青強調/クロススクリーン/ソフト）、カラーカスタマイズ、画像合成、RAW現像、リ尺寸、簡単レタッチ、傾き补偿、ゆがみ补偿、魚眼効果、塗り絵、カラースケッチ、アオリ効果、ミニチュア効果、セレクトカラー、動画編集（始点/終点の設定、選択フレームの保存）"
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "USB接口",
+          "value": "SuperSpeed USB，USB 3.0 Micro-B端口；建议连接计算机内置USB端口。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "SuperSpeed USB（USB 3.0 Micro-B端子）（标准配备されたUSBポートへの接続を推奨）"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "HDMI Mini端口（Type C）配备、HDMI出力及液晶屏的同时再生可",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "HDMI Mini端口（Type C）配备、HDMI出力と液晶モニターの同時再生可"
+        },
+        {
+          "label": "麦克风输入",
+          "value": "立体声迷你插孔（Φ3.5mm）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "耳机输出",
+          "value": "立体声迷你插孔（Φ3.5mm）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "十针遥控端口",
+          "value": "十针端口支持遥控线和GP-1/GP-1A GPS；使用MC-35转换线可连接兼容NMEA0183 2.01/3.01的GPS设备。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "・リモートコントロール：10ピンターミナルに接続 ・GPS：GPSユニット GP-1（另售）を10ピンターミナルに接続。または、10ピンターミナルに接続したGPS変換コード MC-35（另售）を介して、NMEA0183 Ver.2.01およびVer.3.01に準拠したGPS機器（D-sub9ピンケーブル併用）に接続 ・ワイヤレスリモートコントローラー WR-R10（WR用変換アダプター WR-A10需要）/WR-1（いずれも另售）"
+        },
+        {
+          "label": "有线网络",
+          "value": "通过另售UT-1通信单元连接有线网络。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "另售の通信ユニットUT-1にて有線LAN環境を利用可能"
+        },
+        {
+          "label": "Wi-Fi无线网络",
+          "value": "使用另售WT-5并配合UT-1，或使用WT-4无线传输器连接无线网络。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "另售のワイヤレストランスミッターWT-5（通信ユニットUT-1併用）、WT-4にて無線LAN環境を利用可能"
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": "机身与环境",
+      "rows": [
+        {
+          "label": "三脚架接口",
+          "value": "1/4（ISO 1222）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约146×123×81.5mm",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "重量",
+          "value": "约1000g（电池及SD卡计入，机身盖除外） 约900g（仅机身）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "约1000g（电池及SDカード计入，机身盖除外） 约900g（仅机身）"
+        },
+        {
+          "label": "工作温度",
+          "value": "0℃～40℃",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "工作湿度",
+          "value": "85％以下，无凝露",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "title": "电源系统",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "可充电锂离子电池 EN-EL15（使用一块）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        },
+        {
+          "label": "电池手柄",
+          "value": "另售MB-D12；支持一块EN-EL15或EN-EL18锂离子电池，也支持8节AA碱性、镍氢或锂电池。使用EN-EL18系列需要另售BL-5电池仓盖。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html",
+          "originalValue": "MB-D12（另售）：可充电锂离子电池 EN-EL18（另售）※またはEN-EL15 使用一块。単3形電池（アルカリ電池、ニッケル水素充電池、リチウム電池）8本使用 ※另售のバッテリー室カバー BL-5需要です。"
+        },
+        {
+          "label": "交流适配器",
+          "value": "交流适配器 EH-5b（电源连接器 EP-5B配合使用）（另售）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d800d800e/spec.html"
+        }
+      ]
+    }
+  ]
+}

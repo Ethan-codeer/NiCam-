@@ -1,0 +1,443 @@
+{
+  "id": "sony-a9",
+  "name": "Sony α9",
+  "brand": "sony",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 24.2,
+  "width": 126.9,
+  "height": 95.6,
+  "depth": 73.7,
+  "description": "索尼 E 卡口全画幅无反相机，技术参数据索尼官方规格页整理。",
+  "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "lens",
+      "title": "镜头与卡口",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Sony E 卡口",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "镜头兼容性",
+          "value": "Sony E 卡口镜头",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "35 mm 全画幅 (35.6×23.8mm), Exmor RS CMOS sensor",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "原生画幅比例",
+          "value": "3 : 2",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "除尘系统",
+          "value": "Charge protection coating on optical filter and image sensor shift mechanism",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "总像素",
+          "value": "约 28.3 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 24.2 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "title": "照片记录",
+      "rows": [
+        {
+          "label": "无压缩 RAW",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "14 位 RAW",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB standard (with sYCC gamut) and Adobe RGB standard compatible with TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "动态范围处理",
+          "value": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "创意风格",
+          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "记录格式",
+          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.31, MPF Baseline compliant), RAW (Sony ARW 2.3 format)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "图像质量模式",
+          "value": "RAW, RAW & JPEG (Extra fine, Fine, Standard), JPEG (Extra fine, Fine, Standard)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "视频记录",
+      "rows": [
+        {
+          "label": "创意风格",
+          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "记录格式",
+          "value": "XAVC S, AVCHD format Ver. 2.0 compliant",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "xvYCC standard (x.v.Color when connected via HDMI cable) compatible with TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "视频编码",
+          "value": "XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "音频格式",
+          "value": "XAVC S: LPCM 2ch, AVCHD: Dolby® Digital (AC-3) 2ch, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2ch",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "视频分辨率与帧率（PAL）",
+          "value": "XAVC S 4K: 3840 x 2160 (25p, 100 M), 3840 x 2160 (25p, 60 M), XAVC S HD: 1920 x 1080 (100p, 100 M), 1920 x 1080 (100p, 60 M), 1920 x 1080 (50p, 50 M), 1920 x 1080 (25p, 50 M), AVCHD: 1920 x 1080 (50i, 24 M, FX), 1920 x 1080 (50i, 17 M, FH)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "视频分辨率与帧率（NTSC）",
+          "value": "XAVC S 4K: 3840 x 2160 (30p, 100 M), 3840 x 2160 (24p, 100 M), 3840 x 2160 (30p, 60 M), 3840 x 2160 (24p, 60 M), XAVC S HD: 1920 x 1080 (120p, 100 M), 1920 x 1080 (120p, 60 M), 1920 x 1080 (60p, 50 M), 1920 x 1080 (30p, 50 M), 1920 x 1080 (24p, 50 M), 1920 x 1080 (60p, 25 M), 1920 x 1080 (30p, 16 M), AVCHD: 1920 x 1080 (60i, 24M, FX), 1920 x 1080 (60i, 17M, FH)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "HDMI 视频输出",
+          "value": "3840 x 2160 (30p), 3840 x 2160 (25p), 3840 x 2160 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), YCbCr 4:2:2 8 bit / RGB 8 bit",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "存储卡插槽",
+          "value": "SLOT1: Slot for SD (UHS-I/II compliant) memory card, SLOT2: Multi slot for Memory Stick Duo™/SD (UHS-I compliant) memory card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "双卡记录方式",
+          "value": "Simult. Rec (Still), Simult. Rec (Movie), Simult. Rec (Still/Movie), Sort (JPEG/RAW), Sort (Still/Movie), Copy",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "存储介质",
+          "value": "Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick Micro (M2), SD memory card, SDHC memory card (UHS-I compliant), SDXC memory card (UHS-I/II compliant), microSD memory card, microSDHC memory card, microSDXC memory card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "wb",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent (Warm White / Cool White / Day White / Daylight) / Flash / Underwater / Color Temperature (2500 to 9900K) & color filter (G7 to M7 (57-step), A7 to B7 (29-step)) / Custom",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "对焦",
+      "rows": [
+        {
+          "label": "对焦点",
+          "value": "35 mm 全画幅: 693 points (相位检测 AF), APS-C mode with FF lens: 299 points (相位检测 AF), with APS-C lens: 221 points (相位检测 AF) / 425 points (对比度检测 AF)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "自动对焦检测范围",
+          "value": "EV-3 to EV 20 (ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "对焦系统",
+          "value": "快速混合自动对焦（相位检测/对比度检测）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "支持 (with built-in LED type)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "对焦模式",
+          "value": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (Direct 手动对焦), 手动对焦",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光范围",
+          "value": "EV -3 to EV 20 (at ISO100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "曝光包围",
+          "value": "Bracket: Cont., Bracket: Single, 3/5/9 frames selectable. With 3 or 5 frames, in 1/3, 1/2, 2/3, 1.0, 2.0, or 3.0 EV increments, with 9 frames, in 1/3, 1/2, 2/3, or 1.0 EV increments.",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "曝光模式",
+          "value": "AUTO (iAuto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Movie (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) ), Slow & Quick Motion (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) )",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "ISO 感光度",
+          "value": "[Still images] 机械快门: ISO 100-51200 (ISO numbers up from ISO 50 to ISO 204800 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), 电子快门: ISO 100-25600 (ISO numbers up from ISO 50 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), [Movies] ISO 100-51200 equivalent (ISO numbers 最高 ISO 102400 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "[Still images] 机械快门: ISO 100-51200 (ISO numbers up from ISO 50 to ISO 204800 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), 电子快门: ISO 100-25600 (ISO numbers up from ISO 50 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), [Movies] ISO 100-51200 equivalent (ISO numbers up to ISO 102400 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit)"
+        },
+        {
+          "label": "测光模式",
+          "value": "Multi-segment, Center-weighted, Spot, Spot Standard/Large, Entire Screen Avg., Highlight",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/- 5.0EV(1/3 EV, 1/2 EV steps selectable) (with exposure compensation dial: +/- 3EV (1/3 EV steps))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "Locked when shutter button is pressed halfway. Available with AE lock button. (On/Off/Auto)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+        }
+      ]
+    },
+    {
+      "id": "stabilization",
+      "title": "防抖",
+      "rows": [
+        {
+          "label": "防抖系统",
+          "value": "机内传感器位移防抖",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "finder",
+      "title": "电子取景器",
+      "rows": [
+        {
+          "label": "取景器类型",
+          "value": "0.5 英寸电子取景器",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "分辨率",
+          "value": "3,686,400 点",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "取景视野率",
+          "value": "100%",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "取景倍率",
+          "value": "约 0.78×（50 mm 镜头、无穷远、−1 m⁻¹）",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "眼点距离",
+          "value": "距接目镜约 23 mm，距目镜框约 18.5 mm（−1 m⁻¹）",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "−4.0 至 +3.0 m⁻¹",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏类型",
+          "value": "3.0 英寸 TFT LCD，触摸屏",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "分辨率",
+          "value": "1,440,000 点",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "电子控制纵走式焦平面快门",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "快门速度",
+          "value": "电子快门 1/32000–30 秒；机械快门 1/8000–30 秒及 B 门",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html",
+          "condition": "电子快门 1/32000 秒仅在 S/M 模式；电子快门连拍最慢 1/8 秒。"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/250 秒（索尼闪光灯）",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "连拍与驱动",
+      "rows": [
+        {
+          "label": "最高连拍速度",
+          "value": "电子快门最高约 20 张/秒，另有 10、5 张/秒档",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html",
+          "condition": "索尼测试条件；实际速度随拍摄设置变化。"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "接口",
+      "rows": [
+        {
+          "label": "USB 接口",
+          "value": "Multi/Micro USB，USB 2.0",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "HDMI 接口",
+          "value": "Micro HDMI Type D",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "麦克风接口",
+          "value": "3.5 mm 立体声",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "耳机接口",
+          "value": "3.5 mm 立体声",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "网络接口",
+          "value": "有线 LAN 接口",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "闪光同步接口",
+          "value": "配备",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "电池型号",
+          "value": "NP-FZ100",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "额定电源",
+          "value": "7.2 V；4.1 W",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约 126.9 × 95.6 × 73.7 mm",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "重量（含电池及 SD 卡）",
+          "value": "约 673 g",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "工作温度",
+          "value": "0–40°C",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    },
+    {
+      "id": "wireless",
+      "title": "无线连接",
+      "rows": [
+        {
+          "label": "Wi-Fi",
+          "value": "IEEE 802.11 b/g/n，2.4 GHz",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        },
+        {
+          "label": "蓝牙",
+          "value": "Bluetooth 4.1",
+          "sourceUrl": "https://helpguide.sony.net/ilc/1830/v1/en/contents/TP0002388628.html"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "canon-r5-mark-ii",
+    "file": "Canon EOS R5 Mark II (front, no body cap).jpg",
+    "author": "D. Benjamin Miller",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canon_EOS_R5_Mark_II_(front,_no_body_cap).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Canon_EOS_R5_Mark_II_%28front%2C_no_body_cap%29.jpg"
+  },
+  {
+    "id": "canon-6d-mark-ii",
+    "file": "Canon EOS 6D Mark II by EF50mm F1.2L USM.jpg",
+    "author": "根川大橋 (Negawa Ohashi)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canon_EOS_6D_Mark_II_by_EF50mm_F1.2L_USM.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Canon_EOS_6D_Mark_II_by_EF50mm_F1.2L_USM.jpg"
+  },
+  {
+    "id": "nikon-z5",
+    "file": "Nikon Z 5 w Nikkor 50mm f1.8S.jpg",
+    "author": "Alex 'Florstein' Fedorov",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_Z_5_w_Nikkor_50mm_f1.8S.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Nikon_Z_5_w_Nikkor_50mm_f1.8S.jpg"
+  }
+]

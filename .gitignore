@@ -5,3 +5,9 @@ dist/
 !.env.example
 
 *.tsbuildinfo
+
+__pycache__/
+
+# Generated from the reviewed per-model records
+src/digital-cameras.json
+src/digital-batches/*.json

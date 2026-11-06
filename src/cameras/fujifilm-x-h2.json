@@ -1,0 +1,576 @@
+{
+  "id": "fujifilm-x-h2",
+  "name": "Fujifilm X-H2",
+  "brand": "fujifilm",
+  "year": 2022,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 40.2,
+  "width": 136.3,
+  "height": 92.9,
+  "depth": 84.6,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "FUJIFILM X mount",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 焦点包围",
+          "value": "AUTO / MANUAL",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "对焦 / 模式",
+          "value": "Single AF / Continuous AF / MF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "对焦 / 类型",
+          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "对焦 / 低照度对焦",
+          "value": "Contrast: -4.0EV XF50mmF1.0 attached / Phase Detection: -7.0EV XF50mmF1.0 attached",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "对焦 / 对焦区域",
+          "value": "Single point AF: 13x9 / 25x17 (Changeable size of AF frame) / Zone AF: 3x3 / 5x5 / 7x7 from 117 areas on 13×9 grid / Wide/Tracking AF: Yes (AF-S: Wide / AF-C: Tracking) / All: Yes",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "对焦 / Face/eye detection",
+          "value": "支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Yes"
+        },
+        {
+          "label": "对焦 / 主体识别",
+          "value": "Yes (Animal/Bird/Automobile/Motorcycle&Bike/Airplane/Train)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "感光元件",
+          "value": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 5 HR with primary color filter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "有效像素",
+          "value": "40.2 millions pixels",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "传感器清洁",
+          "value": "Ultra Sonic Vibration",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "图像处理器",
+          "value": "X-Processor 5",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "记录尺寸 / ［L］",
+          "value": "〈4:3〉 6864 x 5152 〈3:2〉 7728 x 5152 〈16:9〉 7728 x 4344 〈1:1〉 5152 x 5152 〈5:4〉 6432x5152",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "记录尺寸 / ［M］",
+          "value": "〈4:3〉 4864 x 3648 〈3:2〉 5472 x 3648 〈16:9〉 5472 x 3080 〈1:1〉 3648 x 3648 〈5:4〉 4560x3648",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "记录尺寸 / ［S］",
+          "value": "〈4:3〉 3456 x 2592 〈3:2〉 3888 x 2592 〈16:9〉 3888 x 2184 〈1:1〉 2592 x 2592 〈5:4〉 3264x2592",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 像素位移多重拍摄",
+          "value": "支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Yes"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD Card (-2GB) / SDHC Card (-32GB) / SDXC Card (-2TB) / UHS-I / UHS-II / Video Speed Class V90 / CFexpress Type B Card (-2TB) / / *Please check Compatibilityfor more detail. / *Please check the list of the operation confirmed CFexpress Type B Card",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "静态文件格式 / DCF",
+          "value": "Compliant with Design rule for Camera File system (DCF2.0)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "静态文件格式 / JPEG",
+          "value": "Exif Ver.2.32*1",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "静态文件格式 / HEIF",
+          "value": "4:2:2 10bit",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "静态文件格式 / RAW",
+          "value": "14bit RAW (RAF original format)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "静态文件格式 / TIFF",
+          "value": "8bit / 16bit RGB (In-camera Raw Conversion Only)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "视频记录 / 文件格式",
+          "value": "MOV: / Apple ProRes 422 HQ, Linear PCM (Stereo sound 24bit / 48KHz sampling) / Apple ProRes 422, Linear PCM (Stereo sound 24bit / 48KHz sampling) / Apple ProRes 422 LT, Linear PCM (Stereo sound 24bit / 48KHz sampling) / HEVC/H.265, Linear PCM (Stereo sound 24bit / 48KHz sampling) / MPEG-4 AVC/H.264, Linear PCM (Stereo sound 24bit / 48KHz sampling) / MP4: / MPEG-4 AVC/H.264, AAC",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "视频记录 / 视频尺寸 / 帧率 / Bitrate",
+          "value": "[8K(16:9)] 7680 x 4320 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [6.2K(16:9)] 6240 x 3510 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [DCI4K HQ(17:9)] 4096 x 2160 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [4K HQ(16:9)] 3840 x 2160 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [DCI4K(17:9)] 4096 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [4K(16:9)] 3840 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(17:9)] 2048 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(16:9)] 1920 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(17:9) High speed rec.] 2048 x 1080 240p/200p/120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [Full HD(16:9) High speed rec.] 1920 x 1080 240p/200p/120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / / *For recording movies, use a CFexpress Type B card or SD memory card with UHS Speed Class 3 or higher. / *For recording movies in 360Mbps, use a CFexpress Type B card or SD memory card with Video Speed Class 60 or higher. / *For recording movies in 720Mbps, use a CFexpress Type B card or SD memory card with Video Speed Class 90 or higher. / *Selectable bitrate will be changed depends on the setting. / *Apple ProRes codec can be only recorded to CFexpress Type B card / *Bitrate for Apple ProRes codec is not selectable. / *Recording time can become short depending on the temperature and/or shooting conditions",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "无线传输 / 标准",
+          "value": "IEEE802.11a/b/g/n/ac (standard wireless protocol)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "无线传输 / 加密",
+          "value": "WPA/WPA2 mixed mode, WPA3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "无线传输 / 接入模式",
+          "value": "Infrastructure",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "Bluetooth® / 标准",
+          "value": "Bluetooth Ver. 4.2 (Bluetooth low energy)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "Bluetooth® / 工作频率 (Center frequency)",
+          "value": "2402 - 2480MHz",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "接口 / 数字接口",
+          "value": "USB Type-C (USB3.2 Gen2x1)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "接口 / HDMI 输出",
+          "value": "HDMI connector (Type A)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "接口 / 其他接口",
+          "value": "ø3.5mm, stereo mini connector (Microphone) / ø3.5mm, stereo mini connector (Headphone) / ø2.5mm, Remote Release Connector / Hot shoe / Synchronized terninal",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "全景 / ［L］",
+          "value": "〈vertical〉 9600 x 2160 〈Horizontal〉 9600 x 1440",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "全景 / ［M］",
+          "value": "〈vertical〉 6400 x 2160 〈Horizontal〉 6400 x 1440",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "数码增距",
+          "value": "2.0x / 1.4x / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "防抖 / 机构",
+          "value": "影像传感器 shift mechanism with 5-axis compensation",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Image sensor shift mechanism with 5-axis compensation"
+        },
+        {
+          "label": "防抖 / 补偿效果",
+          "value": "7.0 stops / *based on CIPA standard / *Pitch/yaw shake only / *With XF35mmF1.4 R lens mounted",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "防抖 / 数码防抖",
+          "value": "Yes (movie mode only)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "防抖 / 防抖增强",
+          "value": "Yes (movie mode only)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "连拍",
+          "value": "CH 电子快门 约 20fps (1.29x Crop) (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 202 frames, Compressed RAW + JPEG 129 frames, Lossless compressed RAW + JPEG 95 frames, Uncompressed RAW + JPEG 90 frames) / / CH 电子快门 约 13fps (1.29x Crop) (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW + JPEG 372 frames, Lossless compressed RAW + JPEG 361 frames, Uncompressed RAW + JPEG 223 frames) / / CH 电子快门 约 10fps (1.29x Crop) (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW + JPEG 1000+ frames, Lossless compressed RAW + JPEG 1000+ frames, Uncompressed RAW + JPEG 1000+ frames) / / CH 电子快门 约 13fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 131 frames, Lossless compressed RAW+JPEG 131 frames, Uncompressed RAW+JPEG 127 frames) / / CH 电子快门 约 8.9fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 769 frames, Lossless compressed RAW+JPEG 751 frames, Uncompressed RAW+JPEG 302 frames) / / CH 机械快门 约 15fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 400 frames, Compressed RAW+JPEG 110 frames, Lossless compressed RAW+JPEG 108 frames, Uncompressed RAW+JPEG 104 frames) / / CH 机械快门 约 10fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 512 frames, Lossless compressed RAW+JPEG 492 frames, Uncompressed RAW+JPEG 223 frames) / / CH 机械快门 约 7.0fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 1000+ frames, Lossless compressed RAW+JPEG 1000+ frames, Uncompressed RAW+JPEG 1000+ frames) / / Pre-shot 电子快门 约 20fps (1.29x Crop) (While half press 20 frames, After full press 1000+ frames) / Pre-shot 电子快门 约 13fps (1.29x Crop) (While half press 13 frames, After full press 1000+ frames) / Pre-shot 电子快门 约 10fps (1.29x Crop) (While half press 10 frames, After full press 1000+ frames) / Pre-shot 电子快门 约 13fps (While half press 13 frames, After full press 1000+ frames) / / *No. of recordable frames are calculated based on CFexpress Type B card in a cold start / *Recordable frames depends on recording media / *Speed of continuous shooting depends on shooting environment and shooting frames",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "CH Electronic shutter Approx. 20fps (1.29x Crop) (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 202 frames, Compressed RAW + JPEG 129 frames, Lossless compressed RAW + JPEG 95 frames, Uncompressed RAW + JPEG 90 frames) / / CH Electronic shutter Approx. 13fps (1.29x Crop) (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW + JPEG 372 frames, Lossless compressed RAW + JPEG 361 frames, Uncompressed RAW + JPEG 223 frames) / / CH Electronic shutter Approx. 10fps (1.29x Crop) (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW + JPEG 1000+ frames, Lossless compressed RAW + JPEG 1000+ frames, Uncompressed RAW + JPEG 1000+ frames) / / CH Electronic shutter Approx. 13fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 131 frames, Lossless compressed RAW+JPEG 131 frames, Uncompressed RAW+JPEG 127 frames) / / CH Electronic shutter Approx. 8.9fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 769 frames, Lossless compressed RAW+JPEG 751 frames, Uncompressed RAW+JPEG 302 frames) / / CH Mechanical shutter Approx. 15fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 400 frames, Compressed RAW+JPEG 110 frames, Lossless compressed RAW+JPEG 108 frames, Uncompressed RAW+JPEG 104 frames) / / CH Mechanical shutter Approx. 10fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 512 frames, Lossless compressed RAW+JPEG 492 frames, Uncompressed RAW+JPEG 223 frames) / / CH Mechanical shutter Approx. 7.0fps (JPEG 1000+ frames, Compressed RAW 1000+ frames, Lossless compressed RAW 1000+ frames, Uncompressed RAW 1000+ frames, Compressed RAW+JPEG 1000+ frames, Lossless compressed RAW+JPEG 1000+ frames, Uncompressed RAW+JPEG 1000+ frames) / / Pre-shot Electronic shutter Approx. 20fps (1.29x Crop) (While half press 20 frames, After full press 1000+ frames) / Pre-shot Electronic shutter Approx. 13fps (1.29x Crop) (While half press 13 frames, After full press 1000+ frames) / Pre-shot Electronic shutter Approx. 10fps (1.29x Crop) (While half press 10 frames, After full press 1000+ frames) / Pre-shot Electronic shutter Approx. 13fps (While half press 13 frames, After full press 1000+ frames) / / *No. of recordable frames are calculated based on CFexpress Type B card in a cold start / *Recordable frames depends on recording media / *Speed of continuous shooting depends on shooting environment and shooting frames"
+        },
+        {
+          "label": "驱动模式 / 曝光包围",
+          "value": "2 frames / 3 frames / 5 frames / 7 frames / 9 frames / *by 1/3EV step, 最高 ±3EV steps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "2 frames / 3 frames / 5 frames / 7 frames / 9 frames / *by 1/3EV step, up to ±3EV steps"
+        },
+        {
+          "label": "驱动模式 / 胶片模拟包围",
+          "value": "Any 3 types of film simulation selectable",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 动态范围包围",
+          "value": "100% / 200% / 400%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / HDR 模式",
+          "value": "AUTO / 200% / 400% / 800% / 800% +",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 创意滤镜",
+          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "视频记录 / 视频 compression",
+          "value": "All Intra / Long GOP",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "胶片模拟",
+          "value": "19 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Classic Neg., Nostalgic Neg., ETERNA/Cinema, ETERNA BLEACH BYPASS, ACROS, ACROS + Ye Filter, ACROS + R Filter, ACROS + G Filter, Black & White, Black & White + Ye Filter, Black & White + R Filter, Black & White + G Filter, Sepia)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "单色调节",
+          "value": "支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Yes"
+        },
+        {
+          "label": "颗粒效果 / 颗粒强度",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "颗粒效果 / 尺寸",
+          "value": "LARGE, SMALL",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "彩色效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "彩色蓝色效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "平滑皮肤效果",
+          "value": "STRONG, WEAK, OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "动态范围 / 静态照片",
+          "value": "AUTO / 100％ / 200％ / 400％ / ISO restriction: DR100%: No limit、DR200%: ISO250 or more、DR400%: ISO500 or more",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "动态范围 / 视频",
+          "value": "100％ / 200％ / 400％ / ISO restriction: DR100%: No limit、DR200%: ISO250 or more、DR400%: ISO500 or more",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "清晰度",
+          "value": "±5 steps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "自拍",
+          "value": "10sec. / 2sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "Yes (Setting : Interval, Number of shots, Starting time, Interval timer shooting exposure smoothing)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度 / 静态照片",
+          "value": "Standard Output: AUTO1 / AUTO2 / AUTO3 /ISO125-12800 (1/3 step) / Extended Output: ISO64 / ISO80 / ISO100 / ISO25600 / ISO51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "感光度 / 视频",
+          "value": "Standard Output: AUTO / ISO125-12800 (1/3 step) / Extended Output: ISO25600",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256-zone metering / Multi / Spot / Average / Center Weighted",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "曝光补偿 / 静态照片",
+          "value": "-5.0EV - +5.0EV 1/3EV step",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "曝光补偿 / 视频",
+          "value": "-2.0EV - +2.0EV 1/3EV step",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 感光度包围",
+          "value": "±1/3EV / ±2/3EV / ±1EV",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 白平衡包围",
+          "value": "±1 / ±2 / ±3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "驱动模式 / 多重曝光",
+          "value": "Yes (Max. 9 frames) / Additive / Average / Bright / Dark",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "白平衡 / 自动",
+          "value": "White Priority / Auto / Ambience Priority",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "白平衡 / 自定义",
+          "value": "Custom1 - 3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "白平衡 / 色温范围",
+          "value": "2500K-10000K",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "白平衡 / 预设",
+          "value": "Daylight / Shade / Fluorescent Light-1 / Fluorescent Light-2 / Fluorescent Light-3 / Incandescent Light / Underwater",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "Focal Plane Shutter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "快门速度 / 机械快门",
+          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb: 最高 60min.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb: up to 60min."
+        },
+        {
+          "label": "快门速度 / 电子快门",
+          "value": "P mode: 4sec. to 1/180000sec. A mode: 30sec. to 1/180000sec. S/M mode: 15min. to 1/180000sec. Bulb: 1sec. Fixed / *The shutter speed ranges for continuous mode may differ from those listed here.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "快门速度 / 电子前帘快门",
+          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb: 最高 60min.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb: up to 60min."
+        },
+        {
+          "label": "快门速度 / 机械加电子快门",
+          "value": "P mode: 4sec. to 1/180000sec. A mode: 30sec. to 1/180000sec. S/M mode: 15min. to 1/180000sec. Bulb: 最高 60min. / *机械快门 works until 1/8000sec. / *The shutter speed ranges for continuous mode may differ from those listed here.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "P mode: 4sec. to 1/180000sec. A mode: 30sec. to 1/180000sec. S/M mode: 15min. to 1/180000sec. Bulb: up to 60min. / *Mechanical shutter works until 1/8000sec. / *The shutter speed ranges for continuous mode may differ from those listed here."
+        },
+        {
+          "label": "快门速度 / 电子前帘加机械快门",
+          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb: up to 60min. / *Electronic front curtain shutter works until 1/2000sec."
+        },
+        {
+          "label": "快门速度 / E-front + 机械加电子快门",
+          "value": "P mode: 4sec. to 1/180000sec. A mode: 30sec. to 1/180000sec. S/M mode: 15min. to 1/180000sec. Bulb: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec, 机械快门 works until 1/8000sec. / *The Electronic Shutter may not be suitable for fast-moving objects or handheld shooting. Flash cannot be used. / *The shutter speed ranges for continuous mode may differ from those listed here.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "P mode: 4sec. to 1/180000sec. A mode: 30sec. to 1/180000sec. S/M mode: 15min. to 1/180000sec. Bulb: up to 60min. / *Electronic front curtain shutter works until 1/2000sec, Mechanical shutter works until 1/8000sec. / *The Electronic Shutter may not be suitable for fast-moving objects or handheld shooting. Flash cannot be used. / *The shutter speed ranges for continuous mode may differ from those listed here."
+        },
+        {
+          "label": "快门速度 / 视频",
+          "value": "8K: 1/8000sec. to 1/24 sec. 6.2K: 1/8000sec. to 1/24 sec. DCI4K/4K: 1/8000sec. to 1/4 sec. FHD: 1/8000sec. to 1/4 sec. / *Cannot choose slower shutter speed than framerate for some settings.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "快门速度 / 闪光同步速度",
+          "value": "机械快门: 1/250sec. or slower",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Mechanical shutter: 1/250sec. or slower"
+        },
+        {
+          "label": "闪光灯 / EF-X8",
+          "value": "Guide Number: 约 11 (ISO200・m) / 约 8 (ISO100・m) / Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Guide Number: approx. 11 (ISO200・m) / approx. 8 (ISO100・m) / Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF"
+        },
+        {
+          "label": "闪光灯 / Shoe mount flash",
+          "value": "Sync. Mode: 1st Curtain / 2nd Curtain / AUTO FP (HSS) / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / MULTI *When EF-X500 is set / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "闪光灯 / Synchronized terminal",
+          "value": "Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: MANUAL",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "热靴",
+          "value": "Yes (Dedicated TTL Flash compatible)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "EVF: 0.5 inch OLED Color Viewfinder, 约 5.76 百万点 / Coverage of Viewing Area vs. Capturing Area: 约 100% / Eyepoint: 约 24mm (from the Rear End of the Camera's Eyepiece) / Diopter Adjustment: -5～+3m-1 / Magnification: 0.80x with 50mm Lens (35mm Equivalent) at infinity and Diopter set to -1.0m-1 / Diagonal Angle of View: 约 40° (Horizontal angle of view: 约 32° ) / Built-In Eye Sensor",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "EVF: 0.5 inch OLED Color Viewfinder, Approx. 5.76 million dots / Coverage of Viewing Area vs. Capturing Area: Approx. 100% / Eyepoint: Approx. 24mm (from the Rear End of the Camera's Eyepiece) / Diopter Adjustment: -5～+3m-1 / Magnification: 0.80x with 50mm Lens (35mm Equivalent) at infinity and Diopter set to -1.0m-1 / Diagonal Angle of View: approx. 40° (Horizontal angle of view: approx. 32° ) / Built-In Eye Sensor"
+        },
+        {
+          "label": "液晶屏",
+          "value": "3.0 inch 可翻转 Touch Screen Color LCD Monitor / Aspect Ratio: 3:2 / Dots: 约 1.62 百万点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "3.0 inch vari-angle Touch Screen Color LCD Monitor / Aspect Ratio: 3:2 / Dots: Approx. 1.62 million dots"
+        },
+        {
+          "label": "触屏模式 / 拍摄模式",
+          "value": "Shooting, AF, Focus Area, OFF, Double Tap Setting (ON/OFF), Touch Function Setting (ON/OFF), Touch Zoom (ON/OFF), EVF Touch Screen Area Setting",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "触屏模式 / 回放模式",
+          "value": "Swipe, Pinch-in / Pinch-out, Double-tap, Drag",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "辅助液晶屏",
+          "value": "1.28 inch Monochrome LCD Monitor / Aspect Ratio: 1:1 / Dots: 128x128-dot",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "NP-W235 Li-ion battery (included)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "电源 / 照片续航",
+          "value": "Economy Mode: 约 680 frames / Normal Mode: 约 540 frames / *When XF35mmF1.4 R is set",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Economy Mode: Approx. 680 frames / Normal Mode: Approx. 540 frames / *When XF35mmF1.4 R is set"
+        },
+        {
+          "label": "电源 / 实际视频续航",
+          "value": "8K: 约 70min. (29.97p) / 4K: 约 75min. (59.94p) / Full HD: 约 85min. (59.94p), 约 90min. (120P) / *Face detection is set to OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "8K: Approx. 70min. (29.97p) / 4K: Approx. 75min. (59.94p) / Full HD: Approx. 85min. (59.94p), Approx. 90min. (120P) / *Face detection is set to OFF"
+        },
+        {
+          "label": "电源 / 连续视频续航",
+          "value": "8K: 约 100min. (29.97p) / 4K: 约 120min. (59.94p) / Full HD: 约 140min. (59.94p) / *Face detection is set to OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "8K: Approx. 100min. (29.97p) / 4K: Approx. 120min. (59.94p) / Full HD: Approx. 140min. (59.94p) / *Face detection is set to OFF"
+        },
+        {
+          "label": "尺寸",
+          "value": "Width: 136.3mm / Height: 92.9mm / Depth: 84.6mm / (Minimum Depth: 42.8mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "重量",
+          "value": "including battery and memory card: 约 660g / excluding battery and memory card: 约 579g",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "including battery and memory card: Approx. 660g / excluding battery and memory card: Approx. 579g"
+        },
+        {
+          "label": "工作环境 / 工作温度",
+          "value": "-10℃ - +40℃",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "工作环境 / 工作湿度",
+          "value": "10% - 80% (no condensation)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/"
+        },
+        {
+          "label": "启动时间",
+          "value": "约 0.49sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2/specifications/",
+          "originalValue": "Approx. 0.49sec."
+        }
+      ]
+    }
+  ]
+}

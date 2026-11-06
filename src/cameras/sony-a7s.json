@@ -1,0 +1,324 @@
+{
+  "id": "sony-a7s",
+  "name": "Sony α7S",
+  "brand": "sony",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 12.2,
+  "width": 126.9,
+  "height": 94.4,
+  "depth": 54.8,
+  "description": "索尼 E 卡口全画幅无反相机，技术参数据索尼官方规格页整理。",
+  "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "lens",
+      "title": "镜头与卡口",
+      "rows": [
+        {
+          "label": "镜头兼容性",
+          "value": "Sony E 卡口镜头",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "Sony E 卡口",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "35 mm",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 12.2 百万像素",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "原生画幅比例",
+          "value": "3:02",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "35 mm 全画幅 (35.6 x 23.8mm) Exmor™ CMOS sensor",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "title": "照片记录",
+      "rows": [
+        {
+          "label": "图像质量模式",
+          "value": "RAW, RAW & JPEG, JPEG Extra fine, JPEG Fine, JPEG Standard",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "视频记录",
+      "rows": [
+        {
+          "label": "视频记录格式",
+          "value": "AVCHD 2.0 / MP4 / XAVC S (最高 1920 x 1080/50p 28Mbps)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+          "originalValue": "AVCHD 2.0 / MP4 / XAVC S (up to 1920 x 1080/50p 28Mbps)"
+        },
+        {
+          "label": "视频编码",
+          "value": "XAVC S: MPEG-4 AVC/H.264 AVCHD: MPEG-4 AVC/H.264 MP4: MPEG-4 AVC/H.264",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "视频分辨率与帧率（NTSC）",
+          "value": "XAVC S: 1920 x 1080 (60p/50Mbps, 30p/50Mbps, 24p/50Mbps), 1280 x 720 (120p/50Mbps) AVCHD: 1920 x 1080 (60p/28Mbps/PS, 60i/24Mbps/FX, 60i/17Mbps/FH, 24p/24Mbps/FX, 24p/17Mbps/FH) MP4: 1440 x 1080 (30fps/12Mbps), 640 x 480 (30fps/3Mbps)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "高清视频输出",
+          "value": "HDMI micro connector (Type-D), BRAVIA Sync (link menu), PhotoTV HD, 4K still image playback",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "存储卡插槽",
+          "value": "Multi slot for Memory Stick Duo / SD Memory card",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "存储介质",
+          "value": "Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick XC-HG Duo, SD memory card, SDHC memory card (UHS-I compliant), SDXC memory card (UHS-I compliant)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "对焦",
+      "rows": [
+        {
+          "label": "自动对焦模式",
+          "value": "单次 AF (AF-S), 连续 AF (AF-C), Direct 手动对焦 (DMF), 手动对焦",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "对焦系统",
+          "value": "对比度检测自动对焦",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+          "originalValue": "Contrast-detection AF"
+        },
+        {
+          "label": "自动对焦检测范围",
+          "value": "EV -4 to EV 20 (at ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "对焦区域",
+          "value": "Wide (25 points) / Center-weighted / Flexible Spot (S/M/L) / Zone",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "对焦点",
+          "value": "25 points",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "1200-zone evaluative metering",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "测光模式",
+          "value": "Multi-segment, Center-weighted, Spot",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV -3 to EV 20 (at ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "曝光模式",
+          "value": "AUTO (iAUTO, Superior Auto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Scene Selection, Sweep Panorama, Movie",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "ISO 感光度",
+          "value": "ISO 50–409600",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "finder",
+      "title": "电子取景器",
+      "rows": [
+        {
+          "label": "取景倍率",
+          "value": "约 0.71x (with 50mm lens at infinity, -1m)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "取景器类型",
+          "value": "0.5\"-type 电子取景器 (color)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+          "originalValue": "0.5\"-type electronic viewfinder (color)"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "分辨率",
+          "value": "921,600 dots",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "显示屏类型",
+          "value": "3.0\" type TFT LCD",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "静音拍摄",
+          "value": "支持 (On/Off)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "电子前帘快门",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "快门速度",
+          "value": "照片： 1/8000 to 30 sec., Bulb 视频： 1/8000 to 1/4 (1/3 step), 最高 1/50 in AUTO mode (最高 1/25 in Auto Slow Shutter mode)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+          "originalValue": "照片： 1/8000 to 30 sec., Bulb 视频： 1/8000 to 1/4 (1/3 step), Up to 1/50 in AUTO mode (up to 1/25 in Auto Slow Shutter mode)"
+        },
+        {
+          "label": "快门类型",
+          "value": "Electronically controlled, vertical-traverse, focal-plane type",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "stabilization",
+      "title": "防抖",
+      "rows": [
+        {
+          "label": "防抖系统",
+          "value": "机身不提供防抖；可使用镜头防抖",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "连拍与驱动",
+      "rows": [
+        {
+          "label": "最高连拍速度",
+          "value": "5 fps (in Speed Priority Continuous Shooting mode)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+          "condition": "索尼标示最高速度；实际速度随镜头、记录格式和拍摄设置变化。"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single shooting, Continuous shooting, Speed Priority Continuous shooting, Self-timer (10/2 sec. delay selectable), Self-timer (Cont.) (10 sec. delay 3/5 exposures selectable), Bracketing (Cont., Single, White Balance, DRO)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "接口",
+      "rows": [
+        {
+          "label": "接口",
+          "value": "Multi/Micro USB Terminal, Multi Interface Shoe, Microphone minijack, Headphone minijack, Vertical Grip Connector",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "高清视频输出",
+          "value": "HDMI micro connector (Type-D), BRAVIA Sync (link menu), PhotoTV HD, 4K still image playback",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "电脑连接",
+          "value": "Mass-storage, MTP, PC remote",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "视频续航（CIPA）",
+          "value": "Actual: 约 55 min. with viewfinder, 约 60 min. with LCD 显示屏 (CIPA 标准) Continuous: 约 90 min. with viewfinder, 约 90 min. with LCD 显示屏 (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "静态照片续航",
+          "value": "最高 380 shots",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications",
+          "originalValue": "Up to 380 shots"
+        },
+        {
+          "label": "电池型号",
+          "value": "NP-FW50 W-series Rechargeable Battery Pack",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "126.9 x 94.4 x 54.8mm, 126.9 x 94.4 x 48.2mm (from grip to monitor); 5 x 3 3/4 x 2 1/4 in., 5 x 3 3/4 x 1 15/16 in. (from grip to monitor)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        },
+        {
+          "label": "重量（机身 / 含电池及存储卡）",
+          "value": "446 g (仅机身) / 489 g (含电池及存储卡)",
+          "sourceUrl": "https://www.sony.com.sg/electronics/support/e-mount-body-ilce-7-series/ilce-7s/specifications"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "id": "fujifilm-x100t",
+  "name": "Fujifilm X100T",
+  "brand": "fujifilm",
+  "year": 2014,
+  "format": "APS-C",
+  "type": "固定镜头相机",
+  "megapixels": 16.3,
+  "width": 126.5,
+  "height": 74.4,
+  "depth": 52.4,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "16.3 百万像素",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "16.3 million pixels"
+        },
+        {
+          "label": "感光元件",
+          "value": "23.6mm × 15.6mm (APS-C) X-Trans CMOS II with primary color filter",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "记录尺寸",
+          "value": "L (3:2) 4896 × 3264 / (16:9) 4896 × 2760 / (1:1) 3264 × 3264 M (3:2) 3456 × 2304 / (16:9) 3456 × 1944 / (1:1) 2304 × 2304 S (3:2) 2496 × 1664 / (16:9) 2496 × 1408 / (1:1) 1664 × 1664 <Motion Panorama> 180° Vertical : 9600 × 2160 Horizontal : 9600 × 1440 120° Vertical: 6400 × 2160 Horizontal: 6400 × 1440",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "Internal memory (约 55MB) SD memory card / SDHC memory card / SDXC (UHS-I) memory card1",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Internal memory (approx. 55MB) SD memory card / SDHC memory card / SDXC (UHS-I) memory card1"
+        },
+        {
+          "label": "文件格式",
+          "value": "still image JPEG (Exif Ver 2.3) 2, RAW (RAF format), RAW+JPEG (Design rule for Camera File system compliant / DPOF-compatible) movie MOV (H.264, Audio : Linear PCM / stereo sound)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "无线传输",
+          "value": "Standard IEEE 802.11b / g / n (standard wireless protocol) Access mode Infrastructure",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "无线功能",
+          "value": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, instax printer print, PC Autosave",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "接口",
+          "value": "Video output - Digital interface USB2.0 (High-Speed) / micro USB terminal * connectable with Remote Release RR-90 (sold separately) HDMI output HDMI Micro connector (Type D) Audio input Microphone / shutter release input: Ø2.5mm, stereo mini connector",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头",
+          "value": "name Fujinon Single focal length lens focal length f=23mm, equivalent to 35mm on a 35mm format full-aperture F2 constitution 6 groups 8 lenses (1 aspherical glass molded lenses included)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "光圈",
+          "value": "F2.0 – F16 1/3EV step (controlled with 9-blade aperture diaphragm)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "对焦距离 / (from lens surface)",
+          "value": "Normal 约 50cm / 1.6 ft. to infinity Macro 约10cm - 2.0m / 3.9 in.- 6.6 ft.",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Normal Approx. 50cm / 1.6 ft. to infinity Macro Approx.10cm - 2.0m / 3.9 in.- 6.6 ft."
+        },
+        {
+          "label": "对焦",
+          "value": "mode Single AF / Continuous AF / MF type Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF), AF assist illuminator available AF frame selection Multi / Area",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度",
+          "value": "AUTO1 / AUTO2 / AUTO3 (Control available 最高 ISO6400), / Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / Extended output sensitivity equivalent to ISO 100, 12800, 25600 and 51200",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "AUTO1 / AUTO2 / AUTO3 (Control available up to ISO6400), / Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / Extended output sensitivity equivalent to ISO 100, 12800, 25600 and 51200"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256-zone metering, Multi / Spot / Average",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "曝光模式",
+          "value": "Programmed AE, Shutter priority AE, Aperture priority AE, Manual exposure",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "-3.0EV – +3.0EV 1/3EV step",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "白平衡",
+          "value": "Automatic scene recognition Preset Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater, Custom, Color temperature selection",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "人脸检测",
+          "value": "YES",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "连拍",
+          "value": "TOP High : 约 6.0 fps (max. 25 frames) Low : 约 3.0 fps (最高 the capacity of the card) * Max. number of frames can be shot in JPEG setting LAST - Best Frame capture -",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "TOP High : approx. 6.0 fps (max. 25 frames) Low : approx. 3.0 fps (up to the capacity of the card) * Max. number of frames can be shot in JPEG setting LAST - Best Frame capture -"
+        },
+        {
+          "label": "自动包围",
+          "value": "AE Bracketing: ±1/3EV, ±2/3EV, ±1EV Film Simulation Bracketing: Any 3 type of Film Simulation selectable Dynamic Range Bracketing: 100% / 200% / 400% ISO sensitivity Bracketing: ±1/3EV, ±2/3EV, ±1EV White Balance Bracketing (±1, ±2, ±3)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "自拍",
+          "value": "10 sec. / 2 sec. delay",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "Yes (Setting: Interval, Number of shots, Startinng time)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "视频记录",
+          "value": "1920 × 1080 pixels / 1280 × 720 pixels (60 fps, 50 fps, 30 fps, 25 fps, 24 fps) with stereo sound",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "拍摄功能",
+          "value": "Face Detection, Select Custom setting, Shutter Type, Conversion Lens, Auto Red-eye Removal, Color, Sharpness, Highlight Tone, Shadow Tone, Noise Reduction, Dynamic Range, Multiple Exposure, Motion Panorama, Film Simulation (PROVIA/STANDARD, Velvia/VIVID, ASTIA/SOFT, CLASSIC CHROME, PRO Neg Hi, PRO Neg. Std, MONOCHROME, MONOCHROME+Ye FILTER, MONOCHROME+R FILTER, MONOCHROME+G FILTER, SEPIA) , Advanced filter (Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Partial color / Soft focus), Electronic level, Histogram display, Framing guideline, Frame No. memory, Pre-AF, Focus Check, Focus Peak Highlight, Digital Split Image™4, Release/Focus Priority, Instant AF Setting, Interlock Spot AE & Focus Area, Edit/Save Quick Menu, Corrected AF Frame, 7 Function Buttons",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "回放功能",
+          "value": "RAW Conversion, Erase, Crop, Resize, Protect, Image Rotate, Auto Red-eye Removal, Slide Show, Photobook Assist, Mark For Upload To, Image Search, Copy, Panorama, Favorites, Face Detection, Multi-frame playback (with micro thumbnail), Histogram display, Exposure warning, Autorotate Playback",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "其他功能",
+          "value": "PictBridge, Exif Print, 35 Languages, Date/Time, Time difference, Shutter sound, Silent mode, Quick start Mode, High Performance, Preview exp. in Manual mode, Monitor sunlight mode, EVF Brightness, EVF Color, LCD Brightness, LCD Color, Preview Pic. Effect, DISP. Custom Setting, Shutter Count, OVF Power Save Mode, Auto Power OFF",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门速度",
+          "value": "Mechanical Shutter (P mode) 4 sec. to 1/4000* sec., (All other modes) 30 sec. to 1/4000* sec. / Bulb (max.60min.), Time 2 sec. to 30 sec. Electronic Shutter 3 1 sec. to 1/32000* sec. (P / A / S /M mode) Bulb / Time 1 sec. fixed Mechanical + Electronic Shutter 3 (P mode) 4 sec. to 1/32000* sec., (All other modes) 30 sec. to 1/32000* sec. / Bulb (max.60min.), Time 2 sec. to 30 sec. / Mechanical Shutter : Bulb - Mechanical Shutter limit / Electronic Shutter : Mechanical Shutter limit - 1/32000 * F2 最高 1/1000 sec., 1/4000 sec. at F8 or smaller aperture",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Mechanical Shutter (P mode) 4 sec. to 1/4000* sec., (All other modes) 30 sec. to 1/4000* sec. / Bulb (max.60min.), Time 2 sec. to 30 sec. Electronic Shutter 3 1 sec. to 1/32000* sec. (P / A / S /M mode) Bulb / Time 1 sec. fixed Mechanical + Electronic Shutter 3 (P mode) 4 sec. to 1/32000* sec., (All other modes) 30 sec. to 1/32000* sec. / Bulb (max.60min.), Time 2 sec. to 30 sec. / Mechanical Shutter : Bulb - Mechanical Shutter limit / Electronic Shutter : Mechanical Shutter limit - 1/32000 * F2 up to 1/1000 sec., 1/4000 sec. at F8 or smaller aperture"
+        },
+        {
+          "label": "闪光灯",
+          "value": "Auto flash (Super Intelligent Flash) / Effective range : (ISO 1600) / 约 50 cm - 9 m / 1.6 ft. - 29.5 ft.",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Auto flash (Super Intelligent Flash) / Effective range : (ISO 1600) / Approx. 50 cm - 9 m / 1.6 ft. - 29.5 ft."
+        },
+        {
+          "label": "闪光模式",
+          "value": "Red-eye Removal OFF Auto, Forced Flash, Suppressed Flash, Slow Synchro, Commander Red-eye Removal ON Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro, Commander",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "热靴",
+          "value": "Yes (Dedicated TTL Flash compatible)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "Hybrid viewfinder Optical viewfinder (OVF) Reverse Galilean viewfinder with electronic bright frame display / 0.5 x magnifications / Coverage of frame area vs. capturing area : 约 92% 电子取景器 (EVF) 0.48-in., 约 2,360K-dot color LCD viewfinder / Coverage of viewing area vs. capturing area : 约 100% / 0.65 x magnifications Electronic rangefinder (ERF) Displays the enlarged focus area on the optical viewfinder Eye sensor installed Eye point 约 15 mm Diopter adjustment -2 - +1 m-1(dpt)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Hybrid viewfinder Optical viewfinder (OVF) Reverse Galilean viewfinder with electronic bright frame display / 0.5 x magnifications / Coverage of frame area vs. capturing area : approx. 92% Electronic viewfinder (EVF) 0.48-in., Approx. 2,360K-dot color LCD viewfinder / Coverage of viewing area vs. capturing area : approx. 100% / 0.65 x magnifications Electronic rangefinder (ERF) Displays the enlarged focus area on the optical viewfinder Eye sensor installed Eye point Approx. 15 mm Diopter adjustment -2 - +1 m-1(dpt)"
+        },
+        {
+          "label": "液晶屏",
+          "value": "3.0-inch, aspect ratio 3:2 约 1040K-dot, TFT color LCD monitor (约 100% coverage)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "3.0-inch, aspect ratio 3:2 approx. 1040K-dot, TFT color LCD monitor (Approx. 100% coverage)"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "NP-95 Li-ion battery (included)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "尺寸",
+          "value": "126.5mm (W) × 74.4mm (H) × 52.4mm (D) / 5.0in. (W) × 2.9in. (H) × 2.1in. (D) / (Minimum Depth : 31.0mm / 1.2 in.)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "重量",
+          "value": "约 440g / 15.5 oz. (including battery and memory card) 约 400g / 14.1 oz. (excluding accessories, battery and memory card)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Approx. 440g / 15.5 oz. (including battery and memory card) Approx. 400g / 14.1 oz. (excluding accessories, battery and memory card)"
+        },
+        {
+          "label": "工作温度",
+          "value": "0 – 40°C (+32°F – +104°F)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "工作湿度",
+          "value": "10 – 80% (no condensation)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html"
+        },
+        {
+          "label": "电池续航 3",
+          "value": "约 330 frames5 (最高 700 frames when OVF POWER SAVE MODE is ON)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100t/appendix/spec/index.html",
+          "originalValue": "Approx. 330 frames5 (up to 700 frames when OVF POWER SAVE MODE is ON)"
+        }
+      ]
+    }
+  ]
+}

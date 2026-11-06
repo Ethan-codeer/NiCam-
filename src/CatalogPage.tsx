@@ -34,6 +34,12 @@ export default function CatalogPage({
   const [sort, setSort] = useState("new");
   const [catalogQ, setCatalogQ] = useState("");
   const [list, setList] = useState(false);
+  const filterKey = JSON.stringify([brand, format, kind, year, mp, sort, catalogQ]);
+  const [pagination, setPagination] = useState({ key: filterKey, count: 24 });
+  const visibleCount = pagination.key === filterKey ? pagination.count : 24;
+  if (pagination.key !== filterKey) {
+    setPagination({ key: filterKey, count: 24 });
+  }
   const reset = () => {
     setBrand("");
     setFormat("");
@@ -47,19 +53,17 @@ export default function CatalogPage({
       (!brand || c.brand === brand) &&
       (!format || c.format === format) &&
       (!kind || c.type === kind) &&
-      (!year || (year === "2000" ? c.year >= 2000 : c.year < 2000)) &&
+      (!year || (c.year !== null && (year === "2000" ? c.year >= 2000 : c.year < 2000))) &&
       (!mp || (c.megapixels !== null && c.megapixels >= Number(mp))) &&
       `${c.name} ${c.brand}`.toLowerCase().includes(catalogQ.toLowerCase()),
   );
-  filtered = [...filtered].sort((a, b) =>
-    sort === "old"
-      ? a.year - b.year
-      : sort === "name"
-        ? a.name.localeCompare(b.name)
-        : sort === "mp"
-          ? (b.megapixels ?? -1) - (a.megapixels ?? -1)
-          : b.year - a.year,
-  );
+  filtered = [...filtered].sort((a, b) => {
+    if (sort === "name") return a.name.localeCompare(b.name);
+    if (sort === "mp") return (b.megapixels ?? -1) - (a.megapixels ?? -1);
+    if (a.year === null) return b.year === null ? 0 : 1;
+    if (b.year === null) return -1;
+    return sort === "old" ? a.year - b.year : b.year - a.year;
+  });
   return (
     <>
       {intro(
@@ -182,7 +186,7 @@ export default function CatalogPage({
         </div>
       )}
       <div className={"product-grid " + (list ? "list-view" : "")}>
-        {filtered.map((c) => (
+        {filtered.slice(0, visibleCount).map((c) => (
           <EquipmentCard
             saved={saved}
             selection={selection}
@@ -193,6 +197,21 @@ export default function CatalogPage({
           />
         ))}
       </div>
+      {filtered.length > 0 && (
+        <div className="catalog-top">
+          <span role="status" aria-live="polite">
+            已显示 {Math.min(visibleCount, filtered.length)} / {filtered.length} 件器材
+          </span>
+          {visibleCount < filtered.length && (
+            <button
+              className="button"
+              onClick={() => setPagination({ key: filterKey, count: visibleCount + 24 })}
+            >
+              加载更多器材（{Math.min(24, filtered.length - visibleCount)} 件）
+            </button>
+          )}
+        </div>
+      )}
       {!filtered.length && (
         <div className="empty">
           <CameraIcon />

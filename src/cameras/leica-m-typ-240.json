@@ -1,0 +1,276 @@
+{
+  "id": "leica-m-typ-240",
+  "name": "Leica M Typ 240",
+  "brand": "leica",
+  "year": null,
+  "format": "全画幅",
+  "type": "旁轴数码相机",
+  "megapixels": 24,
+  "width": 138.6,
+  "height": 80,
+  "depth": 42,
+  "description": "Leica M Typ 240 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "CMOS",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "约 23.9 × 35.8 mm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "分辨率",
+          "value": "DNG 5976 × 3992（约 2400 万像素）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "JPEG 分辨率",
+          "value": "5952 × 3968、4256 × 2832、2976 × 1984、1600 × 1072",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "数据格式",
+          "value": "DNG（无压缩或无损压缩）、JPEG",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "色彩空间",
+          "value": "Adobe RGB、sRGB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "光学取景框线",
+          "value": "28/90、35/135、50/75mm 成对亮框",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "视频分辨率",
+          "value": "1080p、720p、VGA",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "视频帧率",
+          "value": "24/25fps；30fps 仅 VGA",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Leica M 卡口，6 bit 镜头编码传感器",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "镜头系统",
+          "value": "Leica M 16–135mm 镜头",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "对焦模式",
+          "value": "手动；裂像 / 叠影测距",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "光学亮框旁轴，自动视差补偿",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "取景倍率",
+          "value": "0.68×",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "目镜",
+          "value": "−0.5 dpt；可另配 −3 至 +3 dpt 校正镜",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "显示屏",
+          "value": "3 英寸 TFT，921600 点",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "显示覆盖率",
+          "value": "约 100%，最高 170° 可视角",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "显示屏保护",
+          "value": "Gorilla Glass 抗反射保护玻璃",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "实时取景",
+          "value": "支持实时取景及回放",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "有效测距基线",
+          "value": "47.1mm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "感光度范围",
+          "value": "ISO 200–6400，Pull 100，自动 / 手动",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "白平衡",
+          "value": "自动、手动、7 种预设、色温输入",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "测光",
+          "value": "TTL 工作光圈测光；快门帘反射中央重点",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "测光方式",
+          "value": "实时传感器测光可用点、中央重点、多区",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "测光范围",
+          "value": "ISO200、常温及正常湿度：EV0（F1.0）至EV20（F32）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "曝光模式",
+          "value": "光圈优先 A、手动 M",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门系统",
+          "value": "纵走金属叶片焦平面快门",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "快门速度",
+          "value": "光圈优先 60 秒–1/4000 秒；手动 8 秒–1/4000 秒；B 门最长 60 秒",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "闪光同步",
+          "value": "1/180 秒；兼容灯支持 HSS",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "闪光控制",
+          "value": "中央重点 TTL 预闪；前 / 后帘同步",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "文件大小",
+          "value": "DNG 压缩约 20–30MB；未压缩 48.2MB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "连拍速度",
+          "value": "约 3 张/秒，连续不超过 12 张",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "自拍定时",
+          "value": "2 秒 / 12 秒",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "视频格式",
+          "value": "Motion JPEG / QuickTime",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "音频",
+          "value": "内置单声道；另配麦克风适配器可立体声",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD ≤2GB、SDHC ≤32GB、SDXC",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电池与供电",
+          "value": "锂离子电池，7.4V、1800mAh",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "1/4 英寸",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "机身尺寸",
+          "value": "138.6 × 80 × 42 mm（宽×高×深）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "重量",
+          "value": "约680g（含电池）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "工作温度",
+          "value": "0 至 40°C",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        },
+        {
+          "label": "机身材料",
+          "value": "镁合金机身，黄铜顶盖与底盖，人造皮革覆盖",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+        }
+      ]
+    }
+  ]
+}

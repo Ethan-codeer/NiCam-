@@ -25,6 +25,7 @@ import MuseumPages from "./MuseumPages";
 import CatalogPage from "./CatalogPage";
 import ComparePage from "./ComparePage";
 import SearchDialog from "./SearchDialog";
+import SpecificationSheet from "./SpecificationSheet";
 const paths = [
   ["首页", "/", Home],
   ["器材百科", "/catalog", CameraIcon],
@@ -197,7 +198,7 @@ export default function App() {
               </div>
               <div>
                 <strong>
-                  6<sup>大</sup>
+                  {brands.length}<sup>大</sup>
                 </strong>
                 <span>影像品牌档案</span>
               </div>
@@ -227,9 +228,9 @@ export default function App() {
                       ?.name
                   }
                 </b>
-                <small>凝固时间的精密艺术 / ORIGINAL ILLUSTRATION</small>
+                <small>凝固时间的精密艺术 / CAMERA PHOTOGRAPH</small>
               </div>
-              <span>01 — 06</span>
+              <span>01 — {String(cameras.length).padStart(2, "0")}</span>
             </div>
           </div>
         </section>
@@ -248,7 +249,7 @@ export default function App() {
               {
                 title: "器材百科",
                 en: "THE COLLECTION",
-                text: "从经典胶片到数字影像，发现每一台相机背后的独特性格。",
+                text: "探索数码相机的完整参数，发现每一台相机背后的独特性格。",
                 icon: CameraIcon,
                 path: "/catalog",
               },
@@ -351,7 +352,7 @@ export default function App() {
           </div>
           <div>
             {intro(
-              `${c.brand.toUpperCase()} / ${c.year}`,
+              `${c.brand.toUpperCase()} / ${c.year ?? "年份待核验"}`,
               c.name,
               c.description,
             )}
@@ -370,7 +371,7 @@ export default function App() {
               </div>
               <div>
                 <span>发布年份</span>
-                <b>{c.year}</b>
+                <b>{c.year ?? "—"}</b>
               </div>
             </div>
             <div className="actions">
@@ -397,7 +398,7 @@ export default function App() {
                 ?.scrollIntoView({ behavior: "smooth" });
             }}
           >
-            核心参数
+            详细规格
           </a>
           <a
             href="#/camera"
@@ -412,37 +413,7 @@ export default function App() {
           </a>
           <a href="#/catalog">探索相关器材</a>
         </nav>
-        <section id="specs">
-          <h2>核心参数</h2>
-          <div className="spec-table">
-            {[
-              ["品牌", c.brand],
-              ["型号", c.name],
-              ["发布年份", c.year],
-              ["器材类型", c.type],
-              ["传感器 / 胶片画幅", c.format],
-              ["有效像素", val(c.megapixels, " MP")],
-              ["宽度", val(c.width, " mm")],
-              ["高度", val(c.height, " mm")],
-              ["厚度", val(c.depth, " mm")],
-              [
-                "资料状态",
-                c.verification === "verified"
-                  ? "已核对官方资料"
-                  : "待进一步核验",
-              ],
-            ].map(([k, v]) => (
-              <div key={k}>
-                <span>{k}</span>
-                <b>{v}</b>
-              </div>
-            ))}
-          </div>
-          <p className="note">
-            胶片相机不适用数字像素指标；缺少可靠依据的参数保持未知。
-          </p>
-          {source(c.sourceUrl)}
-        </section>
+        <SpecificationSheet key={c.id} camera={c} />
         <section id="story">
           <span className="eyebrow">DESIGN & PERSPECTIVE</span>
           <h2>一种观看世界的方式</h2>
@@ -644,7 +615,7 @@ export default function App() {
         <div className="reading">
           <h2>关于内容</h2>
           <p>
-            本站以精选相机为起点，提供可比较的参数和可亲手探索的光学原理。器材与品牌条目附有公开资料来源，未知数据明确标记。产品视觉为原创示意插画，不作为外观鉴定依据。
+            本站以精选相机为起点，提供可比较的参数和可亲手探索的光学原理。器材与品牌条目附有公开资料来源，未知数据明确标记。器材照片附有作者、授权协议与原始来源链接。
           </p>
           <h2>反馈建议</h2>
           <p>
@@ -685,7 +656,7 @@ export default function App() {
           <span>
             <i /> 持续探索，持续更新
           </span>
-          <small>6 个品牌 · 3 座实验室</small>
+          <small>{brands.length} 个品牌 · 3 座实验室</small>
         </div>
       </aside>
       <div className="shell">

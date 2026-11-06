@@ -1,0 +1,296 @@
+{
+  "id": "leica-m10",
+  "name": "Leica M10",
+  "brand": "leica",
+  "year": null,
+  "format": "全画幅",
+  "type": "旁轴数码相机",
+  "megapixels": 24,
+  "width": 139,
+  "height": 80,
+  "depth": 38.5,
+  "description": "Leica M10 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器",
+          "value": "CMOS，有效面积约24 × 36mm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "分辨率",
+          "value": "DNG™: 5976 x 3992 像素 (24MP), JPEG: 5952 x 3968 像素 (24MP), 4256 x 2832 像素 (12MP), 2976 x 1984 像素 (6MP)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "数据格式",
+          "value": "DNG（无损压缩RAW）、JPEG",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "缓存",
+          "value": "2GB；连续16张图像缓存",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Leica M 卡口，6bit镜头编码传感器",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "镜头系统",
+          "value": "Leica M 镜头；Leica R 镜头须转接环",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "闪光状态显示",
+          "value": "取景器内闪光符号LED",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "目镜",
+          "value": "−0.5dpt；可选−3至+3dpt矫正镜",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "取景框线",
+          "value": "35/135、28/90、50/75mm成对亮框，安装镜头时自动切换",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "视差补偿",
+          "value": "随对焦距离自动调整亮框，补偿镜头与取景器的水平和垂直视差",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "放大倍率",
+          "value": "0.73×",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "取景信息显示",
+          "value": "4位数字及上下曝光警告显示",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "取景框选择器",
+          "value": "可手动切换亮框以比较不同焦距构图",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "自动、手动、8种预设及色温输入",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "测光",
+          "value": "TTL工作光圈测光",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "测光方式",
+          "value": "第一快门帘反射光由测光元件检测",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "测光范围",
+          "value": "常温及正常湿度、ISO100：EV−1（F1.0）至EV20（F32）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "感光度范围",
+          "value": "ISO100–50000；ISO200起1/3挡步进；自动或手动",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "曝光模式",
+          "value": "光圈优先 A、手动 M",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "闪光测光",
+          "value": "中央重点TTL预闪；兼容Leica SF40/SF64/SF26及SCA3502 M5系统闪光灯",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "闪光曝光补偿",
+          "value": "±3EV，1/3EV步进",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "定位 GPS",
+          "value": "通过可选 Leica Visoflex 电子取景器提供；部分地区受法规限制",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "闪光连接",
+          "value": "带中心及控制触点的热靴",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "闪光同步方式",
+          "value": "第一帘或第二帘同步",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/180秒及更慢；兼容HSS系统闪光灯可高速同步",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "闪光测光元件",
+          "value": "相机底部2个带聚光镜的硅光电二极管",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "快门系统",
+          "value": "纵走金属叶片焦平面快门",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "快门速度",
+          "value": "光圈优先125秒–1/4000秒；手动8秒–1/4000秒半挡步进、8–125秒整挡步进；B/T最长125秒",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "快门释放按钮",
+          "value": "两段式，半按启动测光与曝光锁定，全按释放；带标准快门线螺纹",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "数码旁轴测距系统相机",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "文件大小",
+          "value": "DNG约20–30MB；JPEG依分辨率与内容变化",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "基线测距器",
+          "value": "取景器中央亮区提供裂像及叠影测距",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "有效测距基线",
+          "value": "50.6mm（机械基线69.31mm × 0.73）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "后屏",
+          "value": "3英寸TFT LCD，1036800点，约100%视野，Gorilla保护玻璃，sRGB，支持实时取景及回放",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "连拍速度",
+          "value": "约5张/秒；连续约30–40张",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "自拍定时",
+          "value": "2秒或12秒；机身前侧LED与显示屏提示",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD≤2GB、SDHC≤32GB、SDXC≤2TB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "无线网络 Wi-Fi",
+          "value": "IEEE802.11b/g/n，1–11信道，WPA/WPA2，基础设施模式",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "连接接口",
+          "value": "ISO热靴；附加触点连接Leica Visoflex取景器",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "取景系统结构",
+          "value": "大型亮框光学取景器，自动视差补偿",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "电池与供电",
+          "value": "BP-SCL5锂电池，7.4V、1300mAh",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "机身材料",
+          "value": "镁合金机身、人造皮革覆盖、黄铜顶盖与底盖",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "底部不锈钢1/4英寸螺孔",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "使用环境",
+          "value": "0–40 °C",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "机身尺寸",
+          "value": "139 × 80 × 38.5 mm（宽×高×深）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        },
+        {
+          "label": "重量",
+          "value": "约 660g (含电池)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+        }
+      ]
+    }
+  ]
+}

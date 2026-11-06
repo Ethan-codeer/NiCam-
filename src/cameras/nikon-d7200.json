@@ -1,0 +1,592 @@
+{
+  "id": "nikon-d7200",
+  "name": "Nikon D7200",
+  "brand": "nikon",
+  "year": null,
+  "format": "APS-C",
+  "type": "单反相机",
+  "megapixels": 24.16,
+  "width": 135.5,
+  "height": 106.5,
+  "depth": 76.0,
+  "description": "Nikon D7200，尼康DX格式F卡口数码单反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
+  "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "g1",
+      "title": "基本规格",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "可换镜头数码单反相机",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "尼康F卡口，带AF耦合与AF触点",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "兼容镜头",
+          "value": "支持G/E/D型AF尼克尔、其他兼容AF尼克尔及P型镜头；PC镜头有功能限制，IX及F3AF镜头不可用。非CPU AI镜头可在A/M模式使用，非AI不可用。支持DX镜头；电子测距受镜头最大光圈及对焦点限制，详见官方兼容说明。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・G、EまたはDタイプレンズ（PCレンズ一部制限あり） ・G、EまたはDタイプ以外のAFレンズ（IX用レンズ、F3AF用镜头使用不可） ・Pタイプレンズ ・非CPUレンズ（ただし、非AIレンズは使用不可）：撮影モードA、Mで使用可能 ・DXレンズ ・開放F値がf/5.6以上明るいレンズで、フォーカスエイド可能。ただしフォーカスポイント中央1点は、f/8以上明るいレンズで、フォーカスエイド可能。"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "2416万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "图像传感器",
+          "value": "23.5×15.6mm CMOS，尼康DX格式；相对35mm全画幅的焦距视角换算系数约1.5×。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "23.5×15.6mmCMOS传感器、尼康DX格式（焦点距離が约1.5倍のレンズのFXフォーマット（35mm判相当）での画角に相当）"
+        },
+        {
+          "label": "总像素",
+          "value": "2472万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "除尘系统",
+          "value": "图像传感器清洁、图像除尘参考数据获取（Capture NX-D需要）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "存储与画质",
+      "rows": [
+        {
+          "label": "照片尺寸",
+          "value": "成像范围［DX（24×16）］时： 6000×4000像素（尺寸L）、4496×3000像素（尺寸M）、2992×2000像素（尺寸S） ；成像范围［1.3×（18×12）］时： 4800×3200像素（尺寸L）、3600×2400像素（尺寸M）、2400×1600像素（尺寸S） ；成像范围［DX（24×16）］视频实时取景中拍摄照片时： 6000×3368像素（尺寸L）、4496×2528像素（尺寸M）、2992×1680像素（尺寸S） ；成像范围［1.3×（18×12）］视频实时取景中拍摄照片时： 4800×2696像素（尺寸L）、3600×2024像素（尺寸M）、2400×1344像素（尺寸S）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・撮像范围［DX（24×16）］の場合： 6000×4000像素（尺寸L）、4496×3000像素（尺寸M）、2992×2000像素（尺寸S） ・撮像范围［1.3×（18×12）］の場合： 4800×3200像素（尺寸L）、3600×2400像素（尺寸M）、2400×1600像素（尺寸S） ・撮像范围［DX（24×16）］で動画ライブビュー中に静止画撮影する場合： 6000×3368像素（尺寸L）、4496×2528像素（尺寸M）、2992×1680像素（尺寸S） ・撮像范围［1.3×（18×12）］で動画ライブビュー中に静止画撮影する場合： 4800×2696像素（尺寸L）、3600×2024像素（尺寸M）、2400×1344像素（尺寸S）"
+        },
+        {
+          "label": "画质格式",
+          "value": "RAW12bit/14bit（无损压缩、压缩） ；JPEG-Baseline兼容、压缩率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸优先时、画质优先可选择 ；RAW及JPEG的同时记录可",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・RAW12bit/14bit（ロスレス圧縮、圧縮） ・JPEG-Baseline準拠、圧縮率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸優先時、画質優先選択可能 ・RAWとJPEGの同時記録可能"
+        },
+        {
+          "label": "优化校准",
+          "value": "标准、自然、鲜艳、单色、人像、风景、平面、均可调节、可注册自定义优化校准",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD存储卡、SDHC存储卡、SDXC存储卡（SDHC存储卡、SDXC存储卡为UHS-I符合规格）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "SD存储卡、SDHC存储卡、SDXC存储卡（SDHC存储卡、SDXC存储卡はUHS-I符合规格）"
+        },
+        {
+          "label": "双卡槽",
+          "value": "支持顺序记录、备份记录、RAW/JPEG分卡记录及卡间复制",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "文件系统",
+          "value": "DCF2.0、DPOF、Exif2.3、PictBridge",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "视频与音频",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "使用图像传感器的TTL测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "矩阵测光、中央重点测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "1920×1080：60p/50p仅限1.3×（18×12）裁切；30p/25p/24p也可用。1280×720：60p/50p。实际帧率：59.94/50/29.97/25/23.976fps；可选标准或高画质。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・1920×1080（60p/50p）撮像范围が［1.3×（18×12）］の場合のみ設定可能 ・1920×1080：30p/25p/24p ・1280×720：60p/50p 60p：59.94fps、50p：50fps、30p：29.97fps、25p：25fps、24p：23.976fps ※标准/高画質選択可能"
+        },
+        {
+          "label": "最长录制时间",
+          "value": "高画质：1080/60p或50p最长10分钟，1080/30p/25p/24p及720/60p/50p最长20分钟。标准画质：1080/60p或50p最长20分钟，其余上述组合最长29分59秒。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・［動画の画質］高画質（★）時： 10分（1920×1080：60p/50p） 20分（1920×1080：30p/25p/24p、1280×720：60p/50p） ・［動画の画質］标准時： 20分（1920×1080：60p/50p） 29分59秒（1920×1080：30p/25p/24p、1280×720：60p/50p）"
+        },
+        {
+          "label": "视频文件格式",
+          "value": "MOV",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "视频编码",
+          "value": "H.264/MPEG-4 AVC",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "录音格式",
+          "value": "线性PCM",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "录音装置",
+          "value": "内置立体声麦克风、可使用外接麦克风（立体声录音）、可调麦克风灵敏度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "感光度（推荐曝光指数）",
+          "value": "ISO 100～25600",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "其他视频功能",
+          "value": "索引标记、延时摄影",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "取景系统",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "眼平五棱镜光学单反取景器",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "视野率",
+          "value": "成像范围[DX（24×16）]：水平和垂直均约100％（相对于实际画面） ；成像范围[1.3×（18×12）]：水平和垂直均约97％（相对于实际画面）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・撮像范围[DX（24×16）]：水平和垂直均约100％（相对于实际画面） ・撮像范围[1.3×（18×12）]：水平和垂直均约97％（相对于实际画面）"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约0.94倍（50mm f/1.4镜头使用、∞、-1.0m-1时）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "眼点",
+          "value": "自目镜表面中心起19.5mm（-1.0m-1时）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-2～+1m-1",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "对焦屏",
+          "value": "B型明亮磨砂对焦屏II（AF区域框附、构图网格线显示可）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "B型クリアマットスクリーンII（AFエリアフレーム付、構図用格子線表示可能）"
+        },
+        {
+          "label": "反光镜",
+          "value": "快速回位式",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "景深预览",
+          "value": "使用预览按钮收缩光圈；A/M模式收缩至设定光圈，其他拍摄模式收缩至相机控制的光圈。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "プレビューボタンによる絞り込み可能、撮影モードA、Mでは設定絞り値まで絞り込み可能、その他の撮影モードでは制御絞り値まで絞り込み可能"
+        },
+        {
+          "label": "镜头光圈",
+          "value": "即时回位、电子控制",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "快门系统",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "电子控制纵走式焦平面快门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "快门速度",
+          "value": "1/8000～30秒（1/3档、1/2档可切换）、Bulb、Time、X250",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・1/8000～30秒（1/3档、1/2档可切换）、Bulb、Time、X250"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "X=1/250秒、1/320秒及更低快门速度同步（1/250～1/320秒为闪光指数下降）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・X=1/250秒、1/320秒及更低快门速度同步（1/250～1/320秒はガイドナンバーが減少）"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "拍摄驱动",
+      "rows": [
+        {
+          "label": "释放模式",
+          "value": "1张拍摄、低速连拍拍摄、高速连拍拍摄、安静拍摄、自拍定时拍摄、反光镜升起拍摄",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "1张撮影、低速連続撮影、高速連続撮影、静音撮影、セルフタイマー撮影、ミラーアップ撮影"
+        },
+        {
+          "label": "连拍速度",
+          "value": "JPEG或12-bit RAW：DX最高6张/秒，1.3×裁切最高7张/秒；14-bit RAW：DX最高5张/秒，1.3×裁切最高6张/秒。实时取景连拍最高3.7张/秒。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・撮像范围［DX（24×16）］でJPEG画像撮影時または12bitのRAW画像撮影時 CL：约1～6张/秒、CH：约6张/秒 ・撮像范围［1.3×（18×12）］でJPEG画像撮影時または12bitのRAW画像撮影時 CL：约1～6张/秒、CH：约7张/秒 ・撮像范围［DX（24×16）］で14bitのRAW画像撮影時 CL：约1～5张/秒、CH：约5张/秒 ・撮像范围［1.3×（18×12）］で14bitのRAW画像撮影時 CL：约1～6张/秒、CH：约6张/秒 ※ライブビュー撮影時の連続撮影速度は、最高3.7张/秒になります。"
+        },
+        {
+          "label": "自拍定时",
+          "value": "延迟时间：2、5、10、20秒、拍摄张数：1～9张、连拍间隔：0.5、1、2、3秒",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "遥控模式",
+          "value": "2秒遥控器、瞬时遥控器、反光镜升起遥控器 （另售ML-L3使用时）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "2秒リモコン、瞬時リモコン、ミラーアップリモコン （另售ML-L3使用時）"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "2016分割RGB传感器TTL全开光圈测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "矩阵测光：3D-RGB矩阵测光II（G、E或D型镜头使用时）、RGB矩阵测光II（其他的CPU镜头使用时）、RGB矩阵测光（非CPU镜头的镜头信息手动设定时） ；中央重点测光：φ8mm等效测光（中央部重点度约75%）、φ6mm、φ10mm、φ13mm、整个画面的平均的任一项可切换（非CPU镜头使用时为φ8mm） ；点测光：约φ3.5mm等效（全画面的约2.5%）测光、对焦点于联动测光位置可移动（非CPU镜头使用时为中央固定）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・矩阵测光：3D-RGB矩阵测光II（G、EまたはDタイプ镜头使用時）、RGB矩阵测光II（その他のCPU镜头使用時）、RGB矩阵测光（非CPUレンズのレンズ情報手動設定時） ・中央重点测光：φ8mm相当を測光（中央部重点度约75%）、φ6mm、φ10mm、φ13mm、画面全体の平均のいずれか可切换（非CPU镜头使用時はφ8mm） ・点测光：约φ3.5mm相当（全画面の约2.5%）を測光、フォーカスポイントに連動して測光位置可動（非CPU镜头使用時は中央に固定）"
+        },
+        {
+          "label": "测光范围",
+          "value": "矩阵测光、中央重点测光：0～20EV ；点测光：2～20EV（ISO 100、f/1.4镜头使用时、常温20℃）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・矩阵测光、中央重点测光：0～20EV ・点测光：2～20EV（ISO 100、f/1.4镜头使用時、常温20℃）"
+        },
+        {
+          "label": "测光耦合",
+          "value": "CPU耦合及AI方式",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "曝光与拍摄模式",
+          "value": "自动、禁止闪光自动、P：程序自动（可程序偏移）、S：快门优先自动、A：光圈优先自动、M：手动、场景模式（人像、风景、儿童快照、运动、近摄、夜景人像、夜景、聚会、海滩/雪景、日落、黄昏、宠物、烛光、樱花、秋叶、食物）、特殊效果模式（夜视、彩色素描、微缩模型效果、选择色彩、剪影、高调、低调）、用户设定U1、U2于注册可",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "自动、発光禁止自动、P：程序自动（可程序偏移）、S：快门优先自动、A：光圈优先自动、M：手动、シーンモード（人像、風景、こどもスナップ、スポーツ、クローズアップ、夜景人像、夜景、パーティー、海・雪、夕焼け、トワイライト、ペット、キャンドルライト、桜、紅葉、料理）、スペシャルエフェクトモード（ナイトビジョン、カラースケッチ、ミニチュア効果、セレクトカラー、シルエット、ハイキー、ローキー）、ユーザーセッティングU1、U2に登録可能"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "P、S、A、M、SCENE、夜视模式时于可设定、范围：±5EV、补偿档：1/3、1/2档可切换",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "P、S、A、M、SCENE、ナイトビジョンモード時に設定可能、范围：±5EV、补偿档：1/3、1/2档可切换"
+        },
+        {
+          "label": "自动包围拍摄",
+          "value": "AE、闪光包围拍摄时、拍摄张数：2～9张、补偿档：1/3、1/2、2/3、1、2、3档（2、3档设定时为、拍摄张数为2～5张至可设定） ；白平衡包围拍摄时、拍摄张数：2、3张、补偿档：1～3档 ；动态D-Lighting包围拍摄时、拍摄张数：2～5张、拍摄张数2张时仅动态D-Lighting的效果强度可选择",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・AE、フラッシュブラケティング時、拍摄张数：2～9张、补偿档：1/3、1/2、2/3、1、2、3档（2、3档に設定時は、拍摄张数は2～5张まで設定可能） ・ホワイトバランスブラケティング時、拍摄张数：2、3张、补偿档：1～3档 ・アクティブD-ライティングブラケティング時、拍摄张数：2～5张、拍摄张数が2张の場合のみアクティブD-ライティングの効果の度合いを選択可能"
+        },
+        {
+          "label": "曝光锁定",
+          "value": "通过AE/AF锁定按钮锁定测得的亮度值。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "AE/AFロックボタンによる輝度値ロック方式"
+        },
+        {
+          "label": "感光度",
+          "value": "ISO 100–25600，1/3或1/2档步进，支持自动感光度；P/S/A/M模式可扩展至ISO 51200或102400，扩展高感仅记录单色照片。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "ISO 100～25600（1/3、1/2档）、感度自動制御が可能 P、S、A、M時：ISO 25600に対し约1、2EV（ISO 102400相当）の増感が可能（单色の画像のみ撮影可能） ・ISO 感度は、推奨露光指数"
+        },
+        {
+          "label": "动态D-Lighting",
+          "value": "自动、高+、高、标准、低、关闭",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "自动对焦",
+      "rows": [
+        {
+          "label": "对焦检测范围",
+          "value": "–3～+19EV（ISO 100、常温（20℃））",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "对焦驱动（光学取景）",
+          "value": "支持AF-S单次伺服、AF-C连续伺服及MF手动对焦；AF可按主体状态启动预测跟踪，手动对焦可使用合焦指示。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・自动フォーカス（AF）：シングルAFサーボ（AF-S）、コンティニュアスAFサーボ（AF-C）、AFサーボモード自動切り換え（AF-A）を選択可能、被写体条件に至自動的に予測駆動フォーカスに移行 ・手动フォーカス（MF）：フォーカスエイド可能"
+        },
+        {
+          "label": "对焦点",
+          "value": "可选择51点或11点对焦点配置。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・AF51点设定时：51点の个对焦点可选 ・AF11点设定时：11点の个对焦点可选"
+        },
+        {
+          "label": "自动对焦区域（光学取景）",
+          "value": "单点AF、动态区域AF（9点、21点、51点）、3D跟踪、自动区域AF",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "使用AE/AF锁定按钮；AF-S模式下也可半按快门锁定对焦。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "AE/AFロックボタン、またはシングルAFサーボ（AF-S）時にシャッターボタン半押し"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "实时取景",
+      "rows": [
+        {
+          "label": "拍摄模式",
+          "value": "照片实时取景、视频实时取景",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "对焦驱动（实时取景）",
+          "value": "支持AF-S单次伺服、AF-F全时伺服和MF手动对焦。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・自动フォーカス（AF）：シングルAFサーボ（AF-S）、常時AFサーボ（AF-F） ・手动フォーカス（MF）"
+        },
+        {
+          "label": "自动对焦区域（实时取景）",
+          "value": "脸部识别AF、宽区域AF、标准区域AF、对象跟踪AF",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "对焦系统",
+          "value": "实时取景使用反差检测AF，可在画面内选择对焦位置；脸部识别和对象跟踪时由相机确定对焦位置。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "コントラストAF方式、全画面の任意の位置でAF可能（脸部识别AFまたは对象跟踪AF时は、カメラが決めた位置でAF可能）"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "内置闪光灯",
+          "value": "自动、人像、儿童快照、近摄、夜景人像、聚会、宠物、彩色素描模式时：自动弹出方式自动闪光 P、S、A、M、食物模式时：按钮手动弹出 闪光指数：约12（手动全功率闪光时约12）（ISO 100；m、20℃）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "自动、人像、こどもスナップ、クローズアップ、夜景人像、パーティー、ペット、カラースケッチモード時：自动ポップアップ方式による自動発光 P、S、A、M、料理モード時：押しボタン操作による手動ポップアップ方式 ガイドナンバー：约12（手动フル発光時约12）（ISO 100・m、20℃）"
+        },
+        {
+          "label": "闪光控制",
+          "value": "2016分割RGB传感器通过TTL闪光控制学控制：内置闪光、另售尼康闪光灯i-TTL-BL闪光控制（矩阵测光或中央重点测光）、标准i-TTL闪光控制（点测光）可",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "2016分割RGBセンサーによるTTL調光制御：内蔵フラッシュ、另售りスピードライトでi-TTL-BL調光（矩阵测光または中央重点测光）、标准i-TTL調光（点测光）可能"
+        },
+        {
+          "label": "闪光模式",
+          "value": "支持前帘、后帘及慢速同步、防红眼、禁止闪光，以及自动FP高速同步；自动模式下提供相应自动闪光选项。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "通常発光自动、赤目軽減自动、通常発光自动+スローシャッター、赤目軽減自动+スローシャッター、通常発光、赤目軽減発光、通常発光+スローシャッター、赤目軽減発光+スローシャッター、後幕発光+スローシャッター、後幕発光、発光禁止 ・自动FPハイスピードシンクロ可能"
+        },
+        {
+          "label": "闪光补偿",
+          "value": "范围：-3～+1EV、补偿档：1/3、1/2档",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "闪光就绪提示",
+          "value": "内置闪光灯或另售闪光灯充电完成时亮起；全功率闪光后的曝光警告以闪烁提示。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "内蔵フラッシュ、另售スピードライト使用時に充電完了で点灯、フル発光による露出警告時は点滅"
+        },
+        {
+          "label": "热靴",
+          "value": "热靴（ISO 518）配备：同步与通信触点、安全锁定机构（锁孔）附",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "尼康创意闪光系统",
+          "value": "支持i-TTL闪光、光学高级无线闪光、闪光色温信息传递、自动FP高速同步、FV锁定、AF辅助照明及模拟闪光；内置闪光可作为指令灯。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "i-TTL調光、アドバンストワイヤレスライティング（光制御）※、発光色温度情報伝達（フラッシュ/LEDライト）、自动FPハイスピードシンクロ、FVロック撮影、マルチポイントAF補助光、モデリング発光 ※内蔵フラッシュによる张ンダーモードあり ・内蔵フラッシュまたは支持スピードライト使用時"
+        },
+        {
+          "label": "同步端口",
+          "value": "ISO 519闪光同步端口，带防脱螺纹。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "热靴アダプターAS-15（另售）"
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "自动（2种）、白炽灯、荧光灯（7种）、晴天、闪光、阴天及晴天阴影；支持6组手动预设和2500–10000K色温设定，各模式可微调。实时取景支持点白平衡。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "自动（2種）、電球、蛍光灯（7種）、晴天、フラッシュ、曇天、晴天日陰、プリセット手动（6件登録可、ライブビュー時にスポットホワイトバランス取得可能）、色温度設定（2500K～10000K）、いずれも微調整可能"
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏",
+          "value": "3.2型TFT液晶屏、约122.9万点（VGA）、可视角度约170°、视野率约100％、可调亮度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": "回放与编辑",
+      "rows": [
+        {
+          "label": "回放功能",
+          "value": "支持单张、缩略图、放大和视频回放、幻灯片、直方图、高光、拍摄与位置信息显示，以及竖拍图像自动旋转。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "1张再生、サムネイル（4、9、72分割またはカレンダーモード）、拡大再生、動画再生、スライドショー（静止画/動画選択再生可能）、ヒストグラム表示、ハイライト表示、撮影情報表示、位置情報表示、撮影画像の縦位置自動回転"
+        },
+        {
+          "label": "图像编辑",
+          "value": "提供D-Lighting、红眼校正、裁切、单色与滤镜、图像合成、RAW处理、缩放及倾斜等机内编辑功能；具体菜单见官方规格。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "D-ライティング、赤目补偿、トリミング、モノトーン、フィルター効果、画像合成、RAW現像、リ尺寸、簡単レタッチ、傾き补偿、ゆがみ补偿、魚眼効果、塗り絵、カラースケッチ、アオリ効果、ミニチュア効果、セレクトカラー、動画編集"
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "USB接口",
+          "value": "Hi-Speed USB；建议连接计算机内置USB端口。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "Hi-Speed USB（标准配备されたUSBポートへの接続を推奨）"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "HDMI Mini端口（Type C）配备",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "麦克风输入",
+          "value": "立体声迷你插孔（φ3.5mm）、插入供电麦克风支持",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "耳机输出",
+          "value": "立体声迷你插孔（φ3.5mm）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "附件端口",
+          "value": "兼容另售WR-1/WR-R10无线遥控器、MC-DC2遥控线及GP-1/GP-1A GPS单元。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "・ワイヤレスリモートコントローラー：WR-1、WR-R10（另售） ・リモートコード：MC-DC2（另售） ・GPSユニット：GP-1、GP-1A（另售）"
+        },
+        {
+          "label": "有线网络",
+          "value": "通过另售UT-1通信单元连接有线网络。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "另售の通信ユニットUT-1にて有線LAN環境を利用可能"
+        },
+        {
+          "label": "Wi-Fi无线网络",
+          "value": "IEEE 802.11b/g；无遮挡、无干扰条件下约30m；理论最高54Mbps，实际速度受环境影响。支持开放系统、WPA2-PSK、WPS及基础架构连接。",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "準拠規格 ・IEEE802.11b、IEEE802.11g 通信距離（見通し） ・约30m（電波干渉がない場合。通信距離は遮蔽物や電波状態などに至影響されます。） データ転送速度（規格値） ・54Mbps（表示の数値は、規格の理論上の最大値であり、実際のデータ転送速度を示すものではありません。） セキュリティー ・オープンシステム、WPA2-PSK 無線設定 ・WPS支持 アクセス方式 ・インフラストラクチャーモード"
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": "机身与环境",
+      "rows": [
+        {
+          "label": "三脚架接口",
+          "value": "1/4（ISO 1222）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约135.5×106.5×76mm",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "重量",
+          "value": "约765g（电池及SD存储卡计入，机身盖除外） 约675g（仅机身）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "工作温度",
+          "value": "0℃～40℃",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "工作湿度",
+          "value": "85％以下，无凝露",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "title": "电源系统",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "可充电锂离子电池 EN-EL15（使用一块）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        },
+        {
+          "label": "电池手柄",
+          "value": "多功能电源电池手柄 MB-D15（另售）：可充电锂离子电池 EN-EL15 使用一块。AA型电池（碱性电池、镍氢充电电池、锂电池）6节使用",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html",
+          "originalValue": "マルチパワーバッテリーパック MB-D15（另售）：可充电锂离子电池 EN-EL15 使用一块。単3形電池（アルカリ電池、ニッケル水素充電池、リチウム電池）6本使用"
+        },
+        {
+          "label": "交流适配器",
+          "value": "交流适配器 EH-5b（电源连接器 EP-5B配合使用）（另售）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d7200/spec.html"
+        }
+      ]
+    }
+  ]
+}

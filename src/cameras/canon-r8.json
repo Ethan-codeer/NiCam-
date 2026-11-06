@@ -1,0 +1,640 @@
+{
+  "id": "canon-r8",
+  "name": "Canon EOS R8",
+  "brand": "canon",
+  "year": 2023,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 24.2,
+  "width": 132.5,
+  "height": 86.1,
+  "depth": 70.0,
+  "description": "Canon EOS R8，全画幅可换镜头无反相机。",
+  "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "image-sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "35.9 x 23.9 mm CMOS",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 24.2百万像素",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "总像素",
+          "value": "约 25.6 百万像素",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "画幅比例",
+          "value": "3:2",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "低通滤镜",
+          "value": "内置／固定",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "除尘系统",
+          "value": "EOS integrated cleaning system",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "彩色滤镜",
+          "value": "原色滤镜",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "机身防抖",
+          "value": "不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "image-processor",
+      "title": "影像处理器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "DIGIC X",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        }
+      ]
+    },
+    {
+      "id": "lens",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "RF (EF and EF-S lenses can be attached using: Mount Adapter EF-EOS R, Control Ring Mount Adapter EF-EOS R, Drop-In Filter Mount Adapter EF-EOS R) EF-M lenses are not compatible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "The operation of the RF 5.2 mm F 2.8 L DUAL FISHEYE is not guaranteed. / Operation of EF Cinema Lens is not guaranteed. Operation of the mount adapter EF-EOS R 0.71 X (sold separately) is not guaranteed."
+        },
+        {
+          "label": "焦距换算",
+          "value": "Equivalent to 1.0x the focal length of the lens 使用 RF and EF lenses 1.6x 使用 EF-S / RF-S",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focusing",
+      "title": "对焦系统",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "Dual Pixel CMOS AF II",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        },
+        {
+          "label": "自动对焦系统与点数",
+          "value": "100% horizontal and 100% vertical 使用 Face + Tracking and 自动 Selection modes / 100% horizontal and 90% vertical 使用 manual selection and large zone modes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Applicable when subject frame is shown while tracking and a compatible lens is attached to the camera while the full-range AF is active or the subject is detected successfully in another area mode. For details on supported lenses, refer to [Supplemental Information] for [EOS R8] in “cam.start.canon”."
+        },
+        {
+          "label": "对焦工作范围",
+          "value": "EV -6.5 – 21 (23°C时 & ISO100)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "最低照度自动对焦：使用 f/1.2 镜头、中央对焦点、单次自动对焦，23°C、ISO 100；不含采用 DS 柔焦镀膜的 RF 镜头。"
+        },
+        {
+          "label": "对焦模式",
+          "value": "单次自动对焦, 伺服自动对焦, AI Focus AF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "对焦点选择",
+          "value": "Automatic selection: 1053 Available AF areas when automatically selected, / 手动 selection: 1-point AF (AF frame size can be changed) 4897 AF positions available stills (4067 Movies) / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 999 maximum focusing zones)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "追踪对焦",
+          "value": "Humans(Eye, Face, Head, Body), Animals (Dogs, Cats, Birds and Horses) or Vehicles (Racing cars or Motor bikes, Aircraft and Trains)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "Locked when shutter button is pressed halfway or AF ON is pressed in 单次自动对焦 AF mode. Using customised button set to AF stop in AI servo",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "Emitted by built in LED or optional dedicated Speedlite (flash)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "手动对焦",
+          "value": "Selected on lens/camera",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Via camera menu [Focus mode] AF / MF modes can be selected. Depending on the lens attached. When RF lenses without a focus mode switch are attached manual focus is selected on the camera. When RF/EF lenses 使用 a focus mode switch are attached, the setting on the lens takes precedence."
+        }
+      ]
+    },
+    {
+      "id": "exposure-control",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光模式",
+          "value": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (约 5.9% of viewfinder at centre) / (3) Spot metering: Centre spot metering (约 3% viewfinder at centre)- AF point-linked spot metering not provided / (4) Centre weighted average metering",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "When set to Full-frame. Values differ when set to 1.6× (crop) or digital teleconverter 2.0x/4.0x. / When set to Full-frame. Values differ when set to 1.6× (crop) or digital teleconverter 2.0x/4.0x.",
+          "originalValue": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (approx. 5.9% of viewfinder at centre) / (3) Spot metering: Centre spot metering (approx. 3% viewfinder at centre)- AF point-linked spot metering not provided / (4) Centre weighted average metering"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV -3 – 20 (23°C时, ISO100, 使用 evaluative metering)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "自动: AE lock takes effect when focus is achieved / 手动: By AE lock button in P, Av, Fv, Tv and M modes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "自动包围曝光",
+          "value": "+/-3 EV in 1/3 or 1/2 stop increments",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "防闪烁拍摄",
+          "value": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz. High Frequency Anti-flicker shooting for M and TV modes.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Anti-flicker shooting not available 使用时 the electronic shutter. Maximum continuous shooting speed may decrease. Flicker detect may not be effective in certain situations when shooting high frame rate movies. / High-frequency anti-flicker shooting when set manually, the setting range is as follows. • Electronic 1st-curtain: 1/50.0 to 1/2048.0 sec. • 电子快门: 1/50.0 to 1/8192.0 sec. • Movie recording: 1/50.0 to 1/8192.0 sec. (NTSC/PAL) Maximum continuous shooting speed may decrease."
+        },
+        {
+          "label": "感光度",
+          "value": "自动 100-102400 (in 1/3-stop or 1 stop increments) ISO can be expanded to L:50, H:204,800",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "ISO speeds are different when the camera is set to Canon Log 3 or highlight tone priority. Expanded ISO speeds cannot be set in HDR mode or for HDR shooting (HDR PQ)."
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "电子控制 焦平面快门 and 电子快门 function on sensor",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        },
+        {
+          "label": "快门速度",
+          "value": "Electronic 1st-curtain: 30-1/4000 sec (1/2 or 1/3 stop increments), Bulb Electronic: 30-1/16000 (1/2 or 1/3 stop increments 最高 1/8000 then 1 stop to 1/16000) (Total shutter speed range. Available range varies by shooting mode)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "1/16000 sec. is only available in Tv or M mode (最高 1/8000 sec. in Fv, P, or Av mode). 电子快门 speed 1/16000th not available in H+ continuous shooting mode."
+        },
+        {
+          "label": "快门释放",
+          "value": "Soft touch electromagnetic release",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "white-balance",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "自动白平衡 使用 the imaging sensor",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        },
+        {
+          "label": "设置",
+          "value": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置 White balance compensation: / 1. Blue/Amber +/-9 / 2. Magenta/Green +/-9",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "自定义白平衡",
+          "value": "支持, 1 setting can be registered - From image or Live View",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "白平衡包围",
+          "value": "+/-3 levels in single level increments 3, 2, 5 or 7 bracketed 张图像 per shutter release Selectable Blue/Amber bias or Magenta/Green bias",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "viewfinder",
+      "title": "取景器",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "0.39 inch OLED colour EVF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        },
+        {
+          "label": "显示点数",
+          "value": "2.36 Million dots (1024x768)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "视野覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约 0.70x",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "使用 3:2 display, an RF 50mm F1.2 L USM lens at 无限远, -1 m-1"
+        },
+        {
+          "label": "眼点",
+          "value": "约 22mm (At -1 m from eyepiece lens end)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-4 to +1 m (dioptre)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "显示性能",
+          "value": "Power saving: 59.94 fps Smooth 119.98 fps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "The maximum frame rate during AF, half-press of the shutter button, or continuous shooting can be lower. Note that the display frame rate may be lower depending on the lens you are using and shooting conditions."
+        },
+        {
+          "label": "取景信息",
+          "value": "Accessory attached indicator, AE lock, AEB, AF area, AF method, AF operation, AF point (1-point AF), AF point information, Anti-flicker shooting, Aperture value, Aspect ratio, Audio recording level (manual), Audio recording level indicator (manual), 自动 Lighting Optimizer, Battery level, Bluetooth function, Canon Log, Creative filters, Bulb timer, Digital Lens Optimizer, Digital zoom, Drive mode, Electronic level, 电子快门, Exposure compensation, Exposure level indicator, Exposure simulation, FE lock, FEB, Flash off, Flash-ready, Focus bracketing, focus distance scale, GPS, Grid, HDR PQ, HDR shooting, Headphone volume, Highlight tone priority, High-speed sync, Histogram (Brightness/RGB), Image Quality, Image Stabilizer (IS mode), Interval timer, ISO speed, Lens information, Magnify button, Maximum burst, Metering mode, Movie recording in progress, Movie recording size, Movie recording time available, Movie recording time available/Elapsed recording time, Movie self-timer, Movie 伺服自动对焦, Multi Shot Noise Reduction, Multi-function lock warning, Multiple-exposure shooting, 不支持. of remaining 张 for focus bracketing, Number of available 张/Sec. until self-timer shoots, Number of remaining multiple exposures, Number of self-timer shooting, Overheat control, Picture Style, Quick Control button, Shooting mode, Shutter speed, Still photo cropping, Subject to detect, Touch Shutter/Create folder, vertical exposure scale, View Assist, White balance, White balance correction, Wi-Fi function, Wi-Fi signal strength",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "景深预览",
+          "value": "支持, via customised button or 使用 \"Exposure +DOP\" ( 最高 F8)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "[Exposure+DOF] is available 使用时 RF lenses and some EF lenses. For details on supported lenses, refer to [Supplemental Information] for [EOS R8] in “cam.start.canon”."
+        }
+      ]
+    },
+    {
+      "id": "lcd-monitor",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "7.5cm (3.0\") Clear View LCD II, 约 1.62 百万点",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting",
+          "originalValue": "7.5cm (3.0\") Clear View LCD II, approx. 1.62 million dots"
+        },
+        {
+          "label": "覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "可视角度",
+          "value": "约 170° vertically and horizontally",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "亮度调节",
+          "value": "手动: Adjustable to one of seven levels",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "触控操作",
+          "value": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "显示选项",
+          "value": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "flash",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "E-TTL II flash metering, 手动 flash, MULTI flash (stroboscopic), 自动 external flash metering, 手动 external flash metering, Continuous shooting priority (CSP) mode",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Available settings/options vary depending on Speedlite specifications."
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/200 sec. Electronic 1st-curtain only",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "闪光曝光补偿",
+          "value": "+/- 3EV in 1/3 or 1/2 stop increments 使用 EL and EX series Speedlite flashes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "闪光包围曝光",
+          "value": "+/- 3EV in 1/3 or 1/2 stop increments 使用 EL and EX series Speedlite flashes",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "闪光曝光锁定",
+          "value": "支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "后帘同步",
+          "value": "支持 via Speedlite",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "First-curtain synchronization is used 使用 shutter speeds faster than 1/30 sec."
+        },
+        {
+          "label": "热靴与同步端子",
+          "value": "支持(21-pin multi-function shoe equipped 使用 the traditional 5-pin contact (X-sync, communication contact) )/不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "外接闪光灯兼容",
+          "value": "E-TTL II 使用 EX / EL series Speedlite, wireless multi-flash support",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "外接闪光灯控制",
+          "value": "via camera menu screen",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄性能",
+      "rows": [
+        {
+          "label": "工作模式",
+          "value": "Stills / Movie: Scene Intelligent 自动, Flexible priority AE, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (x2)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Available settings/options vary depending on Speedlite specifications."
+        },
+        {
+          "label": "照片风格",
+          "value": "自动, 标准, 人像, 风光, 精细细节, 中性, 可靠设置, 单色, 用户自定义 (x3)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB and Adobe RGB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "图像处理",
+          "value": "Highlight Tone Priority (2 settings) / 自动 Lighting Optimizer (3 settings) / Long exposure noise reduction / Clarity / High ISO speed noise reduction (4 settings) (stills and video) / Lens optical correction / - Peripheral illumination correction, Chromatic aberration correction Distortion correction (during/after still photo shooting, during video only) / Diffraction correction, / Digital Lens Optimizer (during/after still photo shooting only) / Focus Bracketing including image compositing / Resize to M, S1, S2 / Cropping of 张图像 (JPEG/HEIF) / - Aspect ratios 3:2, 4:3, 16:9, 1:1 x1.6crop / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using 触摸屏 operation / RAW image processing / Dual Pixel RAW – 人像 Relighting, Background Clarity ( in camera) / Raw Cloud processing / Multiple exposure / HDR - 使用 moving subject suppression / HEIF to Jpeg conversion (single or batch)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "originalValue": "Highlight Tone Priority (2 settings) / 自动 Lighting Optimizer (3 settings) / Long exposure noise reduction / Clarity / High ISO speed noise reduction (4 settings) (stills and video) / Lens optical correction / - Peripheral illumination correction, Chromatic aberration correction Distortion correction (during/after still photo shooting, during video only) / Diffraction correction, / Digital Lens Optimizer (during/after still photo shooting only) / Focus Bracketing including image compositing / Resize to M, S1, S2 / Cropping of 张图像 (JPEG/HEIF) / - Aspect ratios 3:2, 4:3, 16:9, 1:1 x1.6crop / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using touch screen operation / RAW image processing / Dual Pixel RAW – 人像 Relighting, Background Clarity ( in camera) / Raw Cloud processing / Multiple exposure / HDR - 使用 moving subject suppression / HEIF to Jpeg conversion (single or batch)"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single, Continuous High+, Continuous High, Continuous Low, Self timer (2s+remote, 10s+remote, Continous+remote)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "连续拍摄",
+          "value": "最高 约 6fps 使用 Electronic 1st-curtain shutter, speed maintained for 1000+ JPEG, or RAW, or CRAW 张图像. / 最高 约 40fps 使用 电子快门, speed maintained for 120 JPEG or 56 RAW, 100 CRAW 张图像 / RAW Burst 30fps 使用 0.5 seconds pre record for max 约 158 frames",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "During servo AF, only RF lenses and some EF lenses can be used for continuous shooting at the maximum speed. For details on supported lenses, refer to [Supplemental Information] for EOS R8 in “cam.start.canon”. The continuous shooting speed may be reduced by the lens, shutter speed, aperture setting, flash, flickering light source, battery type and remaining power, temperature, subject conditions, and brightness (for example, when shooting in a dark place). / During servo AF, only RF lenses and some EF lenses can be used for continuous shooting at the maximum speed. For details on supported lenses, refer to [Supplemental Information] for EOS R8 in “cam.start.canon”. The continuous shooting speed may be reduced by the lens, shutter speed, aperture control, subject conditions, and brightness (for example, when shooting in a dark place). Depending on the nature of subject or shooting conditions, rolling shutter image distortion may occur. / Under Canon testing standards 使用 32GB UHS-II card (during 单次自动对焦, ISO 100, 标准 Picture Style) Number of 张图像 depends on various settings and lens used. For details on supported lenses, refer to “cam.start.canon”",
+          "originalValue": "最高 约 6fps 使用 Electronic 1st-curtain shutter, speed maintained for 1000+ JPEG, or RAW, or CRAW 张图像. / 最高 约 40fps 使用 电子快门, speed maintained for 120 JPEG or 56 RAW, 100 CRAW 张图像 / RAW Burst 30fps 使用 0.5 seconds pre record for max approx. 158 frames"
+        },
+        {
+          "label": "间隔定时器",
+          "value": "Built in",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "file-type",
+      "title": "图像文件",
+      "rows": [
+        {
+          "label": "静态图像格式",
+          "value": "RAW: RAW, C-RAW 14 bit (14-bit A/D conversion 使用 Electronic 1st-Curtain, 12-bit A/D conversion 使用 电子快门, Canon original RAW 3rd edition) / JPEG 8 bit: 2 compression options / HEIF 10 bit: 2 compression options / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.1",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "RAW与JPEG同时记录",
+          "value": "支持, any combination of RAW + JPEG or RAW + HEIF possible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "图像尺寸",
+          "value": "RAW/ C-RAW: / 3:2 ratio 6000x4000 / 1.6x crop 3744x2496 / 4:3 ratio 6000x4000 / 16:9 ratio 6000x4000 / 1:1 ratio 6000x4000 / JPEG/ HEIF: / 3:2 ratio (L) 6000x4000, (M) 3984x2656, (S1) 2976x1984, (S2) 2400x1600 / 1.6x crop (L) 3744x2496, (S2) 2400x1600 / 4:3 ratio (L) 5328x4000, (M) 3552x2664, (S1) 2656x1992, (S2) 2112x1600 / 16:9 ratio (L) 6000x3368, (M) 3984x2240, (S1) 2976x1680, (S2) 2400x1344 / 1:1 ratio (L) 4000x4000, (M) 2656x2656, (S1) 1984x1984, (S2) 1600x1600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "文件夹",
+          "value": "New folders can be manually created, named and selected",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "文件编号",
+          "value": "(1) Continuous numbering / (2) 自动 reset / (3) 手动 reset",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "文件命名",
+          "value": "不支持 user pre-sets",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "eos-movie",
+      "title": "视频",
+      "rows": [
+        {
+          "label": "视频格式",
+          "value": "MP4 Video: 4K UHD, 全高清 (16:9), Audio: Linear PCM / AAC",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "4K UHD and 全高清 is 100%, 4K UHD and 全高清 movie cropping mode is 62% of the horizonal area."
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 4K UHD cropped (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 4K UHD Timelapse (16:9) 3840 x 2160 (29.97, 25fps) intra frame (All-I) / 全高清 (16:9) 1920 x 1080 (179.82, 150, 119.88, 100, 59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 全高清 Timelapse (16:9) 1920 x 1080 (29.97, 25fps) intra frame (All-I), / 全高清 HDR (16:9) 1920 x 1080 (29.97, 25fps) inter frame (IPB) [AAC Only] / 全高清 Creative Filters (16:9) 1920 x 1080 (29.97, 25fps) inter frame (IPB) / (IPB Light) [AAC Only]",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Generated from 6K oversampling. / [#x2] Playback frame rate; sound is not recorded / [*] Audio compression is restricted to [AAC] in Basic Zone modes. Only [AAC] is available for audio compression of IPB (Light). / When set to 179.82/150.00 fps, only exFAT-formatted cards can be used for recording. Maximum shutter speed when set to 179.82 fps is 1/200 sec."
+        },
+        {
+          "label": "内部记录色彩采样",
+          "value": "4K / 全高清 - YCbCr4:2:0 8 bit or YCbCr4:2:2 10 bit",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "Canon Log",
+          "value": "支持, Canon Log 3",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "单段视频长度",
+          "value": "Max movie continuous recording time available 2 hours. / High Frame Rate movie (全高清 179.82/150fps): 20 min. / High Frame Rate movie (全高清 119.88/100fps): 30 min. / 不支持 4GB file limit 使用 exFAT formatted SD card.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "最高 5 seconds pre record possible. If the camera's internal temperature becomes too high the recording time may reduce. Shooting 4K UHD 59.94p for 约 30 minutes without heat limit is possible if starting from +23°C. In other modes there is no limit due to heat."
+        },
+        {
+          "label": "高帧率视频",
+          "value": "全高清 at 179.82fps, 150fps, 100fps or 119.9fps / Recorded as 1/6-speed slow motion movie / Single scene maximum recording 最高 约 20 mins, 179.82/150fps 30mins 119.88/100fps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "In High Frame Rate Movie mode sound is not recorded",
+          "originalValue": "全高清 at 179.82fps, 150fps, 100fps or 119.9fps / Recorded as 1/6-speed slow motion movie / Single scene maximum recording 最高 approx. 20 mins, 179.82/150fps 30mins 119.88/100fps"
+        },
+        {
+          "label": "视频截帧",
+          "value": "8.3-MP JPEG/HEIF still image frame grab from 4K UHD movie possible (HEIF only possible when HDR PQ is set)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Movies enabling extraction: 4K / 4K Cropped Extraction is not possible from Canon Log 3 movies. Extracted still photos cannot be resized or cropped within the camera.",
+          "originalValue": "8.3-megapixel JPEG/HEIF still image frame grab from 4K UHD movie possible (HEIF only possible when HDR PQ is set)"
+        },
+        {
+          "label": "视频码率",
+          "value": "MP4 H.264 / MPEG-4 AVC Canon Log: OFF, HDR PQ: OFF / 4K (59.94p/50.00p): IPB 约 230 Mbps / 4K (59.94p/50.00p): IPB (Light) 约 120 Mbps / 4K (29.97p/25.00p/23.98p): IPB 约 120 Mbps / 4K (29.97p/25.00p/23.98p): IPB (Light) 约 60 Mbps / 4K Timelapse (29.97, 25fps) All-I 约 470Mbps / 全高清 (179.82p/150.00p): IPB 约 180 Mbps / 全高清 (179.82p/150.00p): IPB (Light) 约 105Mbps / 全高清 (119.88p/100.00p): IPB 约 120 Mbps / 全高清 (119.88p/100.00p): IPB (Light) 约 70 Mbps / 全高清 (59.94p/50.00p): IPB 约 60 Mbps / 全高清 (59.94p/50.00p): IPB (Light) 约 35 Mbp / s 全高清 (29.94p/25.00p/23.93p): IPB 约 30 Mbps / 全高清 (29.94p/25.00p): IPB (Light) 约 12 Mbps / 全高清 Timelapse (29.97, 25fps) All-I 约 90Mbps / MP4 H.265 / HEVC Canon Log: ON, or HDR PQ: ON / 4K (59.94p/50.00p): IPB 约 340 Mbps / 4K (59.94p/50.00p): IPB (Light) 约 170 Mbps / 4K (29.97p/25.00p/23.98p): IPB 约 170 Mbps / 4K (29.97p/25.00p/23.98p): IPB (Light) 约 85 Mbps / 4K Timelapse (29.97, 25fps) All-I 约 470Mbps / 全高清 (179.82p/150.00p): IPB 约 270 Mbps / 全高清 (179.82p/150.00p): IPB (Light) 约 150 Mbps / 全高清 (119.88p/100.00p): IPB 约 180 Mbps / 全高清 (119.88p/100.00p): IPB (Light) 约 100 Mbps / 全高清 (59.94p/50.00p): IPB 约 90 Mbps / 全高清 (59.94p/50.00p): IPB (Light) 约 50 Mbps / 全高清 (29.94p/25.00p/23.93p): IPB 约 45 Mbps / 全高清 (29.94p/25.00p): IPB (Light) 约 28 Mbps / 全高清 Timelapse (29.97, 25fps) All-I 约 135Mbps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "双卡记录",
+          "value": "不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "麦克风",
+          "value": "内置 stereo microphone (48 Khz, 16-bit x 2 channels), 3.5mm external microphone or other microphones using the Multi-Function shoe including XLR via Tascam CA-XLR2d-C",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "HDMI显示",
+          "value": "Output to external monitor only (output of 张图像 and shooting information, 张图像 are recorded to the card)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "Camera screen and External Monitor output (no recording to the card, camera screen shows 张图像 使用 shooting information) / 自动: / - 4K (UHD) 59.94p / 50.00p / 29.97p / 25.00p / 23.98p, / - 1080 59.94p / 59.94i, 50.00p / 50.00i / - 480 59.94p / - 576 50p / 1080p: / - 1080 59.94p / 59.94i, 50.00p / 50.00i / - 480 59.94p / - 576 50p / Uncompressed YCbCr 4:2:0, 8-bit or when CLog3/HDR PQ is enabled YCbCr 4:2:2, 10-bit, supporting BT.709, BT.2020, BT2100(PQ), when connected to compatible monitors. Sound output via HDMI is also possible",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "视频感光度",
+          "value": "自动: 100-25600, H: 102400 / 手动: 100-25600, H: 102400",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "When set to 4K 59.94p/50.00p, maximum expanded ISO speed is equivalent to ISO 51200. Maximum ISO speed when set automatically corresponds to the [Max for 自动] setting. The lower end of the ISO speed range starts at ISO 200 when the camera is set to [Highlight tone priority]. / Maximum expanded ISO speed is equivalent to ISO 51200 when set to 4K 59.94p/50.00p, even 使用 [Maximum] set to [H (102400)]."
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "电脑接口",
+          "value": "SuperSpeed Plus USB (USB 3.2 Gen 2) USB Type-C connector also used for computer communication / smartphone communication / USB charge or power.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "无线网络",
+          "value": "Wireless LAN (IEEE802.11b/g/n) (2.4 GHz), 使用 Bluetooth 4.2 support Features supported - EOS Utility, Smartphone, Upload to image.canon",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Wi-Fi use may be restricted in certain countries or regions"
+        },
+        {
+          "label": "其他接口",
+          "value": "HDMI Micro out (Type D, HDMI-CEC 不支持) / External Microphone In (3.5mm Stereo mini jack) / Headphone out (3.5mm Stereo mini jack) / RS-60E3-type terminal (remote control terminal)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Digital compass 不支持. Cannot be connected using an interface cable. Requires Multi-Function Shoe Adapter AD-E1. / Note that total camera mount load capacity for camera, lens, microphone, and other accessories should not exceed 1 kg /35.3 oz. When using an external microphone, depending on the lens used, the sound may be interrupted by the lens and then the sound may not be properly collected."
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "SD/SDHC/SDXC and UHS-II",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "UHS-II high speed cards are recommended for 4K video recording and high speed continuous shooting"
+        }
+      ]
+    },
+    {
+      "id": "power-source",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "可充电锂离子电池 LP-E17 (supplied)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Charging over USB is supported. 使用 unauthenticated batteries, charging over USB is 不支持. Batteries may not be charged unless the remaining battery level is low."
+        },
+        {
+          "label": "电池续航",
+          "value": "使用 LCD 约 370 张 (23°C时) / 使用 Viewfinder 约 220 张 (23°C时)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode / Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode"
+        },
+        {
+          "label": "电量显示",
+          "value": "3 level indicator",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "节电",
+          "value": "Screen dimmer: 5 sec. / 10 sec. / 15 sec. / 20 sec. /25 sec. / 30 sec. / Disable / Screen off: 5 sec. / 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / 自动 power off: 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / Viewfinder off: 1 min. / 3 min. / Disable",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/",
+          "condition": "If the camera remains idle until the specified time elapses, the screen is dimmed and lower video frame rates are used. [Power off] and [Screen off] can be assigned to buttons using button customization."
+        }
+      ]
+    },
+    {
+      "id": "physical-specifications",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "机身材质",
+          "value": "Primarily consists of a magnesium alloy (Partially aluminium alloy and partially polycarbonate resin 使用 glass fibre.)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "工作环境",
+          "value": "0 – 40 °C, 85% or less humidity",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "外形尺寸（宽×高×深）",
+          "value": "约 132.5 × 86.1 × 70.0 mm",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        },
+        {
+          "label": "机身重量",
+          "value": "约 414g (461g 使用 card and battery, Based on CIPA guidelines.)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r8/specifications/"
+        }
+      ]
+    }
+  ]
+}

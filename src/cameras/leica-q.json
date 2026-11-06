@@ -1,0 +1,298 @@
+{
+  "id": "leica-q",
+  "name": "Leica Q",
+  "brand": "leica",
+  "year": null,
+  "format": "全画幅",
+  "type": "固定镜头相机",
+  "megapixels": 24.2,
+  "width": 130.0,
+  "height": 80.0,
+  "depth": 93.0,
+  "description": "Leica Q 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器画幅",
+          "value": "24 x 36 mm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "数码裁切",
+          "value": "35mm（约1.25×）或50mm（约1.8×）等效裁切",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "传感器类型与像素",
+          "value": "CMOS 传感器, 26.3/24.2 百万像素 (总像素/有效像素)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "色彩深度",
+          "value": "14 bit",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "DNG / JPEG 分辨率",
+          "value": "Focal length 28 mm: mega像素 (6000 × 4000 像素), mega像素 (4272 × 2848 像素), mega像素 (2976 × 1984 像素), mega像素 (1600 × 1080 像素). Focal length 35 mm: mega像素 (4800 × 3200 像素), mega像素 (3424 × 2288 像素), mega像素 (2384 × 1592 像素), mega像素 (1280 × 856 像素). Focal length 50 mm: mega像素 (3360 × 2240 像素), mega像素 (2400 × 1600 像素), mega像素 (1680 × 1120 像素), mega像素 (896 × 600 像素)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "色彩空间",
+          "value": "Selectable for photos: sRGB, Adobe® RGB, ECI RGB, for videos: sRGB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "镜头滤镜接口",
+          "value": "E49",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头系统",
+          "value": "Leica Summilux 28 mm f/1.7 ASPH., 11 elements in 9 groups, 3 aspherical elements",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "防抖",
+          "value": "Optical compensation system for photo and video recordings",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "光圈范围",
+          "value": "1.7 to 16 in 1⁄3 EV increments",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "对焦距离",
+          "value": "30 cm to ∞, with macro setting from 17 cm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "对焦方式",
+          "value": "Automatic (autofocus) or manual focusing, option of magnifying function and edge marking (focus peaking) available for manual setting",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "自动对焦系统",
+          "value": "Contrast-based autofocus system",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "自动对焦模式",
+          "value": "AFS (shutter release only after successful focusing), AFC (shutter release possible at any time), AF setting can be saved",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "自动对焦测量方式",
+          "value": "Single zone (adjustable), multi-field (49 zones), face recognition, subject tracking, optional setting/shutter release",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "Electronic LCOS display, resolution: 1280 × 960 像素 x 3 colors (=3,68 MP), aspect ratio: 4:3, eyepiece: ±3 diopters, with eye sensor for automatic switching between viewfinder and monitor",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "显示屏",
+          "value": "3\" TFT LCD monitor with 约 1,040,000 像素, touch control possible",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "ISO 范围",
+          "value": "Automatic, ISO 100 to ISO 50000",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "白平衡",
+          "value": "Automatic, default settings for: daylight, cloudy, halogen lighting, shadow, electronic flash, two manual settings with measuring, manual color temperature setting",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "曝光模式",
+          "value": "Automatic program, aperture priority, shutter speed priority and manual setting",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "测光",
+          "value": "Multi-field, center-weighted, spot",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "±3 EV in 1⁄3 EV increments",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "自动包围曝光",
+          "value": "Three exposures in graduations of 最高 3 EV, can be set in 1⁄3 EV increments",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf",
+          "originalValue": "Three exposures in graduations of up to 3 EV, can be set in 1⁄3 EV increments"
+        },
+        {
+          "label": "快门类型",
+          "value": "Mechanical and electronical",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "快门速度",
+          "value": "30 s to 1⁄2000 s with mech. Shutter 1⁄2500 s to 1⁄16000 s with electr. shutter, in 1⁄3 increments, flash synchronization 最高 1⁄500 s",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf",
+          "originalValue": "30 s to 1⁄2000 s with mech. Shutter 1⁄2500 s to 1⁄16000 s with electr. shutter, in 1⁄3 increments, flash synchronization up to 1⁄500 s"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "Digital 35 mm compact camera",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "画面比例",
+          "value": "2:3",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "动态范围",
+          "value": "13 aperture stops",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "照片格式",
+          "value": "Selectable: DNG + JPEG, JPEG",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "视频文件格式",
+          "value": "MP4",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "音频格式",
+          "value": "AAC",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "麦克风",
+          "value": "立体声",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "扬声器",
+          "value": "单声道",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "图像锐度 / 饱和度 / 对比度",
+          "value": "Each selectable in 5 steps, also available as option in saturation",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "场景模式",
+          "value": "Fully automatic, sport, portrait, landscape, night portrait, snow/beach, candlelight, sunset, digiscoping, miniature effect, panorama, time lapse",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "连拍速度",
+          "value": "Selectable: 10/5/3 fps (H/M/L)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "自拍定时",
+          "value": "Delay time either 2 s or 12 s",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD/SDHC/SDXC, multimedia cards, speed class: UHS-1",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "无线网络",
+          "value": "Satisfies IEEE 802.11b/g/n standard (standard WLAN protocol), channel 1-11, encryption method: WLAN-compatible WPA™/ WPA2™, access method: infrastructure mode",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "近场通信 NFC",
+          "value": "According to JIS X 6319-4 standard/13.56 MHz",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "连接接口",
+          "value": "Micro USB socket (2.0), HDMI socket",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电池与供电",
+          "value": "Leica BP-DC12 lithium ion battery, rated voltage 7.2V DC, capacity: 1200 mAh",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "机身材料",
+          "value": "镁合金与铝制机身",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "A 1/4 DIN 4503 (1/4\")",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "机身尺寸（宽×高×深）",
+          "value": "约 130 × 80 × 93 mm (5.12 × 3.15 × 3.66 in)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        },
+        {
+          "label": "重量",
+          "value": "约 590/640 g / 20.8/22.6 oz. (不含/含电池).",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-29485-Datenblatt_Q--Typ-116-_e.pdf"
+        }
+      ]
+    }
+  ]
+}

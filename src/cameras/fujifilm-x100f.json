@@ -1,0 +1,378 @@
+{
+  "id": "fujifilm-x100f",
+  "name": "Fujifilm X100F",
+  "brand": "fujifilm",
+  "year": 2017,
+  "format": "APS-C",
+  "type": "固定镜头相机",
+  "megapixels": 24.3,
+  "width": 126.5,
+  "height": 74.8,
+  "depth": 52.4,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "24.3 millions pixels",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "感光元件",
+          "value": "23.6mm x 15.6mm(APS-C)X-Trans CMOS III with primary color filter.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "记录尺寸 · L",
+          "value": "L: (3:2) 6000 x 4000 / (16:9) 6000 x 3376 / (1:1) 4000 x 4000 / M: (3:2) 4240 x 2832 / (16:9) 4240 x 2384 / (1:1) 2832 x 2832 / S: (3:2) 3008 x 2000 / (16:9) 3008 x 1688 / (1:1) 2000 x 2000",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "condition": "L"
+        },
+        {
+          "label": "记录尺寸 · Panorama / L",
+          "value": "Panorama / L: 2160 x 9600 (Horizontal : 9600 x 1440) / M: 2160 x 6400 (Horizontal : 6400 x 1440)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "condition": "Panorama / L"
+        },
+        {
+          "label": "记录尺寸 / name",
+          "value": "FUJINON single focal length lens",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "记录尺寸 / 焦距",
+          "value": "f=23mm(35mm format equivalent : 35mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "记录尺寸 / constitution",
+          "value": "6 groups 8 lenses (1 aspherical glass molded lens included)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD Card (-2G) / SDHC Card (-32G) / SDXC Card (-256G) UHS-I*1",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "文件格式 / 静态照片",
+          "value": "JPEG (Exif Ver.2.3)*2, RAW : 14bit RAW(RAF original format), RAW+JPEG",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "文件格式 / 视频",
+          "value": "MOV (MPEG-4 AVC / H.264, Audio : Linear PCM / Stereo sound 48KHz sampling)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "无线传输 / 标准",
+          "value": "IEEE 802.11b / g / n (standard wireless protocol)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "无线传输 / 接入模式",
+          "value": "Infrastructure",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "无线功能",
+          "value": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, PC Autosave, instax printer print",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "接口 / 数字接口",
+          "value": "USB2.0 (High-Speed) / micro USB terminal / * connectable with Remote Release RR-90 (sold separately)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "接口 / HDMI 输出",
+          "value": "HDMI micro connector (Type D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "接口 / 其他接口",
+          "value": "Φ2.5mm, stereo mini connector [Microphone]",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "光圈",
+          "value": "F2 -F16 1/3EV step (controlled with 9-blade aperture diaphragm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "对焦距离",
+          "value": "约 10cm - Infinity / 3.9in. - Infinity",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Approx. 10cm - Infinity / 3.9in. - Infinity"
+        },
+        {
+          "label": "对焦 / 模式",
+          "value": "Single AF / Continuous AF / MF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "对焦 / 类型",
+          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF), AF assist illuminator available",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "对焦 / 对焦区域",
+          "value": "Single point AF: EVF / LCD / OVF: 13x7 / 25x13 (Changeable size of AF frame among 5 types), / Zone AF: 3x3 / 5x5 / 7x7 from 91 areas on 13x7 grid, / Wide/Tracking AF: (最高 9 area) / * AF-S : Wide / * AF-C : Tracking",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Single point AF: EVF / LCD / OVF: 13x7 / 25x13 (Changeable size of AF frame among 5 types), / Zone AF: 3x3 / 5x5 / 7x7 from 91 areas on 13x7 grid, / Wide/Tracking AF: (up to 9 area) / * AF-S : Wide / * AF-C : Tracking"
+        },
+        {
+          "label": "转换镜头",
+          "value": "WIDE / TELE / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度",
+          "value": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(最高 ISO12800) / ISO200 to 12800(1/3EV step) / Extended output sensitivity : ISO100 / 25600 / 51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(up to ISO12800) / ISO200 to 12800(1/3EV step) / Extended output sensitivity : ISO100 / 25600 / 51200"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P(Program AE) / A(Aperture Priority AE) / S(Shutter Speed Priority AE) / M(Manual Exposure)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -3.0EV - +3.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "白平衡",
+          "value": "Automatic scene recognition / Custom / Color temperature selection (K) / Preset : Daylight, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "曝光补偿 / 机械快门",
+          "value": "4 sec. to 1/4000 sec.(P mode), 30 sec. to 1/4000 sec.(All modes) / Bulb mode(最高 60 min), TIME : 30 sec. to 1/4000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "4 sec. to 1/4000 sec.(P mode), 30 sec. to 1/4000 sec.(All modes) / Bulb mode(up to 60 min), TIME : 30 sec. to 1/4000 sec."
+        },
+        {
+          "label": "曝光补偿 / 电子快门",
+          "value": "30 sec. to 1/32000 sec.(P / A / S / M modes) / Bulb mode : 1 sec. fixed, TIME : 1sec to 1/32000sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "曝光补偿 / 机械加电子快门",
+          "value": "4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(All modes) / Bulb mode(最高 60 min), TIME : 30 sec. to 1/32000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(All modes) / Bulb mode(up to 60 min), TIME : 30 sec. to 1/32000 sec."
+        },
+        {
+          "label": "闪光灯",
+          "value": "Auto flash (Super Intelligent Flash) / Effective range:(ISO 1600) 约 30cm - 9.0m/1.6ft. - 29.5ft. / Guide Number: 约 4.6(ISO100 · m)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Auto flash (Super Intelligent Flash) / Effective range:(ISO 1600) approx. 30cm - 9.0m/1.6ft. - 29.5ft. / Guide Number: approx. 4.6(ISO100 · m)"
+        },
+        {
+          "label": "闪光模式 / 闪光模式",
+          "value": "TTL(FLASH AUTO / STANDARD / SLOW SYNC.) / MANUAL / COMMANDER / OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "闪光模式 / SYNC. 模式",
+          "value": "1ST CURTAIN / 2ND CURTAIN",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "热靴",
+          "value": "Yes (Dedicated TTL Flash compatible)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "连拍",
+          "value": "约 8.0 fps (JPEG: 60 frames Lossless compression RAW: 25 frame Uncompressed RAW: 23 frames) / 约 5.0 fps (JPEG: 68 frames Lossless compression RAW: 28 frame Uncompressed RAW: 25 frames) / 约 4.0 fps (JPEG: 73 frames Lossless compression RAW: 29 frame Uncompressed RAW: 25 frames) / 约 3.0 fps (JPEG: 81 frames Lossless compression RAW: 32 frame Uncompressed RAW: 27 frames) / * Recordable frame number may vary depending on the type of memory card used. / * The frame rate varies with shooting condition and the number of images recorded.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Approx. 8.0 fps (JPEG: 60 frames Lossless compression RAW: 25 frame Uncompressed RAW: 23 frames) / Approx. 5.0 fps (JPEG: 68 frames Lossless compression RAW: 28 frame Uncompressed RAW: 25 frames) / Approx. 4.0 fps (JPEG: 73 frames Lossless compression RAW: 29 frame Uncompressed RAW: 25 frames) / Approx. 3.0 fps (JPEG: 81 frames Lossless compression RAW: 32 frame Uncompressed RAW: 27 frames) / * Recordable frame number may vary depending on the type of memory card used. / * The frame rate varies with shooting condition and the number of images recorded."
+        },
+        {
+          "label": "自动包围",
+          "value": "AE Bracketing(±2EV / ±5/3EV / ±4/3EV / ±1EV / ±2/3EV / ±1/3EV) / Film simulation bracketing(Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV / ±2/3EV / ±1EV) / White Balance Bracketing (±1 / ±2 / ±3)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "自拍",
+          "value": "10sec. / 2sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "Yes (Setting : Interval, Number of shots, Starting time)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "拍摄功能",
+          "value": "Face / Eye detection AF, Auto Red-eye Removal, Select custom setting, Panorama, Color space, Setting (Color, Sharpness, D-range, Highlight tone, Shadow tone), Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Pre-AF, Control ring setting, Focus check, Focus Peak Highlight, Digital Split Image™ *4, Electronic level, Multiple exposure, Release priority / Focus priority selection, Fn button setting , ISO AUTO control, ISO dial setting(AUTO / COMMAND) , ND Filter , Instant AF setting (AF-S/AF-C), Interlock spot AE & Focus area, Focus area setting, AEL/AFL button setting, Edit/Save Quick menu, Preview exp./WB in manual mode, Shutter Type",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "数码增距",
+          "value": "35mm*(Nomal)、50mm*、70mm* *35mm fomat equivalent",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "胶片模拟",
+          "value": "15 modes (PROVIA / Standard, Velvia / Vivid, ASTIA / Soft, CLASSIC CHROME, PRO Neg.Hi, PRO Neg.Std, Black& White, Black& White+Ye Filter, Black& White+R Filter, Black& White+GFilter, Sepia, ACROS, ACROS+Ye Filter, ACROS＋R Filter, ACROS＋G Filter)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "颗粒效果",
+          "value": "STRONG , WEAK , OFF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "动态范围",
+          "value": "AUTO, 100%, 200%, 400%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "创意滤镜",
+          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "回放功能",
+          "value": "RAW conversion, Image rotate, Auto image rotate, Face Detection, Red-eye reduction, Photobook assist, Erase selected frames, Multi-frame playback (with micro thumbnail), Slide show, Protect, Crop, Resize, Panorama, Favorites",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "其他功能",
+          "value": "Exif Print, 35 Languages, Date/Time, Time difference, Sound & Flash OFF, Performance Setting, Preview exp. in Manual mode, LCD Brightness, LCD Color, Preview Pic. Effect, DISP. Custom Setting , Copyright Setting",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "热靴 / 光学取景器",
+          "value": "Reverse Galilean viewfinder with electronic bright frame display / 0.5x magnification, Coverage of frame area vs. capturing area : 约 92%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Reverse Galilean viewfinder with electronic bright frame display / 0.5x magnification, Coverage of frame area vs. capturing area : approx. 92%"
+        },
+        {
+          "label": "热靴 / 电子取景器",
+          "value": "0.48-in., 约 2,360K-dot color LCD viewfinder, Coverage of viewing area vs. capturing area : 约 100% / Eye point : 约 15mm, Diopter adjustment : -2 ~ +1m-1(dpt), Built-in eye sensor",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "0.48-in., approx. 2,360K-dot color LCD viewfinder, Coverage of viewing area vs. capturing area : approx. 100% / Eye point : approx. 15mm, Diopter adjustment : -2 ~ +1m-1(dpt), Built-in eye sensor"
+        },
+        {
+          "label": "液晶屏",
+          "value": "3.0-inch, aspect ratio 3:2, 约 / 1040K-dot TFT color LCD monitor (约 100% coverage)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "3.0-inch, aspect ratio 3:2, approx. / 1040K-dot TFT color LCD monitor (approx. 100% coverage)"
+        },
+        {
+          "label": "液晶屏 / Full HD (1920x1080)",
+          "value": "59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 36Mbps Continuous recording : 最高 约 14 min.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 36Mbps Continuous recording : up to approx. 14 min."
+        },
+        {
+          "label": "液晶屏 / HD (1280x720)",
+          "value": "59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 18Mbps Continuous recording : 最高 约 27 min. / * Use a card with SD Speed Class with Class 10 or higher",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 18Mbps Continuous recording : up to approx. 27 min. / * Use a card with SD Speed Class with Class 10 or higher"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "NP-W126S Li-ion battery (included)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "电源 / 照片续航",
+          "value": "Standard : 约 270 frames (EVF) / 390 frames (OVF)*5",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Standard : Approx. 270 frames (EVF) / 390 frames (OVF)*5"
+        },
+        {
+          "label": "尺寸",
+          "value": "126.5mm (W) x 74.8mm (H) x 52.4mm (D) / 4.98in. (W) x 2.94in. (H) x 2.06in. (D) / (Minimum Depth : 32.0mm / 1.26 in.)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "重量",
+          "value": "约 469g / 16.5 oz. (including battery and memory card) / 约 419g / 14.8 oz. (excluding accessories, battery and memory card)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Approx. 469g / 16.5 oz. (including battery and memory card) / Approx. 419g / 14.8 oz. (excluding accessories, battery and memory card)"
+        },
+        {
+          "label": "工作温度",
+          "value": "0°C - 40°C (+32°F - +104°F)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "工作湿度",
+          "value": "10 - 80% (no condensation)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        },
+        {
+          "label": "视频续航",
+          "value": "Consecutive movie recording : 约 80 min. (Face detection is set to OFF) / * Individual movies cannot exceed 约 14 min. on Full HD mode, and 约 27 min. on HD mode in length.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/",
+          "originalValue": "Consecutive movie recording : approx. 80 min. (Face detection is set to OFF) / * Individual movies cannot exceed approx. 14 min. on Full HD mode, and approx. 27 min. on HD mode in length."
+        },
+        {
+          "label": "启动时间",
+          "value": "Approx 0.5 sec. / * Fujifilm research",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x100f/specifications/"
+        }
+      ]
+    }
+  ]
+}

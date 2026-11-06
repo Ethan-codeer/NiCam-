@@ -1,0 +1,354 @@
+{
+  "id": "fujifilm-x-t2",
+  "name": "Fujifilm X-T2",
+  "brand": "fujifilm",
+  "year": 2016,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 24.3,
+  "width": 132.5,
+  "height": 91.8,
+  "depth": 49.2,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "24.3 millions pixels",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "感光元件",
+          "value": "23.6mm x 15.6mm(APS-C)X-Trans CMOS III with primary color filter.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "传感器清洁",
+          "value": "Ultra Sonic Vibration",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "记录尺寸",
+          "value": "L: (3:2) 6000 x 4000 / (16:9) 6000 x 3376 / (1:1) 4000 x 4000 / M: (3:2) 4240 x 2832 / (16:9) 4240 x 2384 / (1:1) 2832 x 2832 / S: (3:2) 3008 x 2000 / (16:9) 3008 x 1688 / (1:1) 2000 x 2000",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD Card (-2G) / SDHC Card (-32G) / SDXC Card (-256G) UHS-I / UHS-II*1",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "文件格式 / 静态照片",
+          "value": "JPEG (Exif Ver.2.3)*2, RAW : 14bit RAW(RAF original format), RAW+JPEG",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "文件格式 / 视频",
+          "value": "Movie File Format: MOD / Movie Video Compression: MPEG-4 AVC / H.264",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "无线传输 / 标准",
+          "value": "IEEE 802.11b / g / n (standard wireless protocol)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "无线传输 / 加密",
+          "value": "WEP / WPA / WPA2 mixed mode",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "无线传输 / 接入模式",
+          "value": "Infrastructure",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "无线功能",
+          "value": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting,PC Autosave, instax printer print",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "接口 / 数字接口",
+          "value": "USB3.0 (High-Speed) / micro USB terminal",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "接口 / 其他接口",
+          "value": "ø3.5mm, stereo mini connector (Microphone) / ø2.5mm, Remote Release Connector / Hot shoe, Syncronized terninal *Mechanical release : shutter button",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "FUJIFILM X mount",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "对焦 / 模式",
+          "value": "Single AF / Continuous AF / MF",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "对焦 / 类型",
+          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "对焦 / 对焦区域",
+          "value": "Single point AF: EVF / LCD: 13x7 / 25x13 (Changeable size of AF frame among 6*3types), / Zone AF: 3x3 / 5x5 / 7x7 from 91 areas on 13x7 grid, / Wide/Tracking AF: (最高 18 area) / * AF-S : Wide / * AF-C : Tracking",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "Single point AF: EVF / LCD: 13x7 / 25x13 (Changeable size of AF frame among 6*3types), / Zone AF: 3x3 / 5x5 / 7x7 from 91 areas on 13x7 grid, / Wide/Tracking AF: (up to 18 area) / * AF-S : Wide / * AF-C : Tracking"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度 / 标准感光度",
+          "value": "AUTO1 / AUTO2 / AUTO3(最高 ISO12800) / ISO200 to 12800(1/3 step)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "AUTO1 / AUTO2 / AUTO3(up to ISO12800) / ISO200 to 12800(1/3 step)"
+        },
+        {
+          "label": "感光度 / 扩展感光度",
+          "value": "ISO100 / 125*3 / 160*3 /25600 / 51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P(Program AE) / A(Aperture Priority AE) / S(Shutter Speed Priority AE) / M(Manual Exposure)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "白平衡",
+          "value": "Automatic Scene recognition / Custom1~3 / Color temperature selection (2500K~10000K) / / Preset: Fine,Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White),Incandescent light, Underwater",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "防抖",
+          "value": "Supported with OIS type lenses",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "连拍",
+          "value": "约 14.0 fps [Only Electronic Shutter](JPEG: 42 frames, Lossless compression RAW: 28 frames, Uncompressed RAW: 25 frames) / 约 11.0fps [with VPB-XT2](JPEG: 73 frames, Lossless compression RAW: 30 frames, Uncompressed RAW: 27 frames) / 约 8.0fps (JPEG: 83 frames, Lossless compression RAW: 33 frames, Uncompressed RAW: 27 frames) / 约 5.0fps (JPEG: endless, Lossless Compression RAW: 39 frames, Uncompressed RAW: 30 frames) / * recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "Approx. 14.0 fps [Only Electronic Shutter](JPEG: 42 frames, Lossless compression RAW: 28 frames, Uncompressed RAW: 25 frames) / Approx. 11.0fps [with VPB-XT2](JPEG: 73 frames, Lossless compression RAW: 30 frames, Uncompressed RAW: 27 frames) / Approx. 8.0fps (JPEG: 83 frames, Lossless compression RAW: 33 frames, Uncompressed RAW: 27 frames) / Approx. 5.0fps (JPEG: endless, Lossless Compression RAW: 39 frames, Uncompressed RAW: 30 frames) / * recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames"
+        },
+        {
+          "label": "自动包围",
+          "value": "AE Bracketing(±3EV*3 / ±2EV / ±5/3EV / ±4/3EV / ±1EV / ±2/3EV / ±1/3EV) / Film simulation bracketing(Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV / ±2/3EV / ±1EV) / White Balance Bracketing (±1 / ±2 / ±3)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "自拍",
+          "value": "10sec. / 2sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "Yes (Setting : Interval, Number of shots, Starting time)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "视频记录",
+          "value": "[4K (3840x2160)] 29.97p / 25p / 24p / 23.98p 100Mbps 最高 约 10min. / [Full HD (1920x1080)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98p 100Mbps 最高 约 15 min. / [HD (1280x720)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98p 50Mbps 最高 约 30min. / * For recording movies, use a card with UHS Speed Class 3 or higher.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "[4K (3840x2160)] 29.97p / 25p / 24p / 23.98p 100Mbps up to approx. 10min. / [Full HD (1920x1080)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98p 100Mbps up to approx. 15 min. / [HD (1280x720)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98p 50Mbps up to approx. 30min. / * For recording movies, use a card with UHS Speed Class 3 or higher."
+        },
+        {
+          "label": "胶片模拟",
+          "value": "15 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, CLASSIC CHROME, PRO Neg.Hi, PRO Neg.Std, Black & White, Black & White+Ye Filter, Black & White+R Filter, Black & White+G Filter, Sepia, ACROS,ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "动态范围",
+          "value": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO400 or more, DR400%: ISO800 or more)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "创意滤镜",
+          "value": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus,Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "其他功能",
+          "value": "PANORAMA, AF-C CUSTOM SETTINGS, 4K MOVIE OUTPUT, SHUTTER AE, SHUTTER AF, AF-ON,Exif Print, PRINT Image Matching II, Language (35 languages including JP/EN), Time difference,Exposure preview on LCD during Manual mode, EVF brightness, EVF color, LCD brightness, LCD color,Mode effect on monitor, Customize, Copyright info*3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门类型 · Focal Plane Shutter",
+          "value": "Focal Plane Shutter",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Focal Plane Shutter"
+        },
+        {
+          "label": "快门速度 / FUJIFILM X-T2 with Firmware Ver1.00",
+          "value": "Mechanical Shutter / 4 sec. to 1/8000 sec.(P mode), 30 sec. to 1/8000 sec.(All modes) / Bulb mode(最高 60 min), TIME : 30 sec. to 1/8000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "Mechanical Shutter / 4 sec. to 1/8000 sec.(P mode), 30 sec. to 1/8000 sec.(All modes) / Bulb mode(up to 60 min), TIME : 30 sec. to 1/8000 sec."
+        },
+        {
+          "label": "快门类型 · Electronic Shutter*4 / 30 sec. to 1/32000 sec.",
+          "value": "Electronic Shutter*4 / 30 sec. to 1/32000 sec.(P / A / S / M modes) / Bulb mode : 1 sec. fixed, TIME : 30 sec. to 1/32000sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Electronic Shutter*4 / 30 sec. to 1/32000 sec."
+        },
+        {
+          "label": "快门类型 · Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.",
+          "value": "Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(All modes) / Bulb mode(最高 60 min), TIME : 30 sec. to 1/32000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.",
+          "originalValue": "Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(All modes) / Bulb mode(up to 60 min), TIME : 30 sec. to 1/32000 sec."
+        },
+        {
+          "label": "快门类型 · Synchronized shutter speed for flash / 1/250 sec. or slower / FUJ",
+          "value": "Synchronized shutter speed for flash / 1/250 sec. or slower / FUJIFILM X-T2 with",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Synchronized shutter speed for flash / 1/250 sec. or slower / FUJ"
+        },
+        {
+          "label": "快门速度 / Firmware Ver2.00 or later",
+          "value": "Mechanical Shutter / 4 sec. to 1/8000 sec.(P mode), 30 sec. to 1/8000 sec.(A mode) / Bulb mode(最高 60 min), TIME : 15 min to 1/8000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "Mechanical Shutter / 4 sec. to 1/8000 sec.(P mode), 30 sec. to 1/8000 sec.(A mode) / Bulb mode(up to 60 min), TIME : 15 min to 1/8000 sec."
+        },
+        {
+          "label": "快门类型 · Electronic Shutter*4 / 30 sec. to 1/32000 sec.",
+          "value": "Electronic Shutter*4 / 30 sec. to 1/32000 sec.(P / A / S / M modes) / Bulb mode : 1 sec. fixed, TIME : 15 min to 1/32000sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Electronic Shutter*4 / 30 sec. to 1/32000 sec."
+        },
+        {
+          "label": "快门类型 · Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.",
+          "value": "Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(A mode) / Bulb mode(最高 60 min), TIME : 15 min to 1/32000 sec.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.",
+          "originalValue": "Mechanical + Electronic Shutter / 4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(A mode) / Bulb mode(up to 60 min), TIME : 15 min to 1/32000 sec."
+        },
+        {
+          "label": "快门类型 · Synchronized shutter speed for flash / 1/250 sec. or slower",
+          "value": "Synchronized shutter speed for flash / 1/250 sec. or slower",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "condition": "Synchronized shutter speed for flash / 1/250 sec. or slower"
+        },
+        {
+          "label": "闪光模式 / SYNC. 模式",
+          "value": "1ST CURTAIN / 2ND CURTAIN / AUTO FP(HSS)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "闪光模式 / 闪光模式",
+          "value": "TTL (FLASH AUTO / STANDARD / SLOW SYNC.) / MANUAL / COMMANDER / OFF (When EF-X8 is set)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "热靴",
+          "value": "Yes (Dedicated TTL Flash compatible)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "0.5 inch 约 2.36 millions dots OLED Color Viewfinder Coverage of viewing area vs. capturing area: 约 100% / Eyepoint: 约 23mm (from the rear end of the camera's eyepiece) Diopter adjustment: -4~+2m-1 / Magnification: 0.77x with 50mm lens (35mm equivalent) at infinity and diopter set to -1.0m-1 / Diagonal angle of view: 约 38° (Horizontal angle of view: 约 31° ) / Built-in eye sensor",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "0.5 inch approx. 2.36 millions dots OLED Color Viewfinder Coverage of viewing area vs. capturing area: approx. 100% / Eyepoint: approx. 23mm (from the rear end of the camera's eyepiece) Diopter adjustment: -4~+2m-1 / Magnification: 0.77x with 50mm lens (35mm equivalent) at infinity and diopter set to -1.0m-1 / Diagonal angle of view: approx. 38° (Horizontal angle of view: approx. 31° ) / Built-in eye sensor"
+        },
+        {
+          "label": "液晶屏",
+          "value": "3.0 inch, aspect ratio 3:2, 约 1,040K-dot,",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "3.0 inch, aspect ratio 3:2, approx. 1,040K-dot,"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "NP-W126S Li-ion battery (included)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "电源 / 照片续航",
+          "value": "约 340 frames (NORMAL MODE) When XF35mmF1.4 R is set.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/",
+          "originalValue": "Approx. 340 frames (NORMAL MODE) When XF35mmF1.4 R is set."
+        },
+        {
+          "label": "尺寸",
+          "value": "132.5mm (W) x 91.8mm (H) x 49.2mm (D) (minimum depth 35.4mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "重量",
+          "value": "Approx 507g(including battery and memory card) / Approx 457g(excluding battery and memory card)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "工作温度",
+          "value": "-10°C - +40°C",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "工作湿度",
+          "value": "10 - 80% (no condensation)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        },
+        {
+          "label": "启动时间",
+          "value": "Approx 0.3sec. / * Fujifilm research",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t2/specifications/"
+        }
+      ]
+    }
+  ]
+}

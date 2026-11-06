@@ -1,0 +1,268 @@
+{
+  "id": "panasonic-gh5",
+  "name": "Panasonic Lumix DC-GH5",
+  "brand": "panasonic",
+  "year": null,
+  "format": "4/3",
+  "type": "无反相机",
+  "megapixels": 20.33,
+  "width": 138.5,
+  "height": 98.1,
+  "depth": 87.4,
+  "description": "Panasonic Lumix DC-GH5 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "图像传感器",
+          "value": "Image Sensor Size: 17.3 x 13.0 mm (in 4:3 aspect ratio) Type: Live MOS Sensor Total Pixels: 21.77 百万像素 Effective Pixels: 20.33 百万像素 Color Filter: 原色滤镜 Dust Reduction System: 超声波滤镜",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "画质模式",
+          "value": "RAW, RAW+Fine, RAW+Standard, Fine, Standard",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB, AdobeRGB",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "静态图像尺寸",
+          "value": "4:3: 5184 x 3888 (L) / 3712 x 2784 (M) / 2624 x 1968 (S) 3:2: 5184 x 3456 (L) / 3712 x 2480 (M) / 2624 x 1752 (S) 16:9: 5184 x 2920 (L) / 3840 x 2160 (M) / 1920 x 1080 (S) 1:1: 3888 x 3888 (L) / 2784 x 2784 (M) / 1920 x 1920 (S)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "视频图像尺寸",
+          "value": "AVCHD Progressive*2/ AVCHD*2-59.94Hz [Full HD] 1920 x 1080> 59.94p, 28Mbps (LongGOP) (Dolby) [Full HD] 1920 x 1080> 59.94i, 24Mbps (LongGOP) (Dolby) (Sensor output is 29.97fps) [Full HD] 1920 x 1080> 59.94i, 17Mbps (LongGOP) (Dolby) (Sensor output is 59.94fps) [Full HD] 1920 x 1080> 23.98p, 24Mbps (LongGOP) (Dolby) AVCHD Progressive*2/ AVCHD*2-50.00Hz [Full HD] 1920 x 1080> 50.00p, 28Mbps (LongGOP) (Dolby) [Full HD] 1920 x 1080> 50.00i, 24Mbps (LongGOP) (Dolby) (Sensor output is 25.00fps) [Full HD] 1920 x 1080> 50.00i, 17Mbps (LongGOP) (Dolby) (Sensor output is 50.00fps)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "17.3 x 13.0 mm (in 4:3 aspect ratio)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "总像素",
+          "value": "21.77 百万像素",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "有效像素",
+          "value": "20.33 百万像素",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "色彩滤镜",
+          "value": "原色滤镜",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Micro Four Thirds Mount",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "防抖系统",
+          "value": "影像传感器 shift type (5-axis/5-stop), Dual I.S. (Dual I.S. 2 compatible) * Based on the CIPA standard [Yaw/Pitch direction: focusing distance f=60 mm (35 mm camera equivalent: f=120 mm), when H-FS12060 is used]",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/",
+          "originalValue": "Image sensor shift type (5-axis/5-stop), Dual I.S. (Dual I.S. 2 compatible) * Based on the CIPA standard [Yaw/Pitch direction: focusing distance f=60 mm (35 mm camera equivalent: f=120 mm), when H-FS12060 is used]"
+        },
+        {
+          "label": "对焦系统",
+          "value": "Type: 反差自动对焦 System DFD Technology: 支持 Post Focus: 支持 Focus Stacking: 支持 Focus Modes: AFS (Single) AFF (Flexible) AFC (Continuous) MF AF Mode: Face/Eye Detection Tracking 225-Area Custom Multi 1-Area Pinpoint Full area touch available Scalable AF frame size (by front/rear dial) and flexible AF position (by joystick) AF Detecting Range: EV -4 to 18 (ISO100 equivalent) AF Assist Lamp: 支持 AF Lock: 支持 (AF/AE LOCK button) AF Custom Settings: AF Sensitivity, AF Area Switching Sensitivity, Moving Object Prediction Others: One Shot AF Shutter AF Half Press Release Quick AF Continuous AF (during motion picture recording) Eye Sensor AF AF+MF MF Assist Touch MF Assist Focus Peaking Touch AF/AE Function Touch Pad AF Touch Shutter",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "Type: OLED Live View Finder (3,680k 点) Field of View: 约 100% Magnification: 约 1.52x / 0.76x (35mm camera equivalent) with 50 mm lens at infinity; -1.0 m -1 Eye Point: 约 21 mm from eyepiece lens Diopter Adjustment: -4.0 to +3.0 (dpt) Eye Sensor: 支持 Eye Sensor Adjustment: High/Low",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "显示屏",
+          "value": "Type: TFT LCD monitor with static touch control Monitor Size: Free-angle 3.2-inch (8.0 cm) / 3:2 aspect / Wide viewing angle Pixels: 约 1,620k-点 Field of View: 约 100% Monitor Adjustment: Brightness, Contrast, Saturation, Red-Green, Blue-Yellow",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "实时取景",
+          "value": "Digital Zoom: 2x, 4x Extra Tele Conversion: Still Image: Max. 2x 4K PHOTO: 1.0x (4:3), 1.5x (3:2), 1.4x (16:9, 1:1) Motion Picture: 2.7x (FHD), 1.4x (4K) Other Functions: Level Gauge Real-time Histogram Guide Lines (3 patterns) Center Marker Highlight Display (Still Image / Motion Picture) Zebra Pattern (Still Image / Motion Picture)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "曝光控制",
+          "value": "Light Metering System: 1,728-zone multi-pattern sensing system Light Metering Mode: Multiple, Center Weighted, Spot Metering Range: EV 0-18 (F2.0 lens, ISO100 equivalent) Exposure Mode: Program AE Aperture Priority AE Shutter Priority AE Manual ISO Sensitivity (Standard Output Sensitivity): Still Image: Auto, Intelligent ISO 100 (Extended), 200/400/800/1600/3200/6400/12800/25600 (Changeable to 1/3 EV step) Creative Video Mode: Auto, 100 (Extended), 200/400/800/1600/3200/6400/12800 (Changeable to 1/3 EV step) Exposure Compensation: 1/3 EV step ±5EV (±3EV for motion picture) AE Lock: 支持 (AF/AE LOCK button)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "白平衡",
+          "value": "White Balance: AWB / AWBc / Daylight / Cloudy / Shade / Incandescent / Flash / White Set 1, 2, 3, 4 / Colour Temperature Setting 1, 2, 3, 4 White Balance Adjustment: Blue/Amber bias, Magenta/Green bias Colour Temperature Setting: 2500-10000K in 100K increments",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门系统",
+          "value": "焦平面快门；机械60秒–1/8000秒，B门最长30分钟；电子1秒–1/16000秒；支持电子前帘",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "包围拍摄",
+          "value": "AE Bracket: 3, 5, 7 images in 1/3, 2/3, or 1 EV step, max ±3 EV, single/burst Aperture Bracket: 3, 5, or all positions in 1 EV step Focus Bracket: 1 to 999 images, focus steps can be set in 5 levels White Balance Bracket: 3 exposures in blue/amber axis or magenta/green axis, colour temperature setting",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "闪光系统",
+          "value": "Flash Type: TTL External Flash (sold separately) Flash Mode: Auto * Auto/Red-eye Reduction * Forced On Forced On/Red-eye Reduction Slow Sync Slow Sync/Red-eye Reduction Forced Off * For iA/iA+ only Synchronization Speed: Less than 1/250 second Flash Output Adjustment: 1/3 EV step ±3EV Flash Synchronization: 1st Curtain Sync, 2nd Curtain Sync Synchronization for Flash Dimming and Exposure Compensation: 支持 Wireless Control: 支持 (When using DMW-FL200L / FL360L / FL580L (sold separately), Wireless Channel: 1ch/2ch/3ch/4ch) Flash Sync Socket: 支持",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "数码无反相机",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "记录系统",
+          "value": "File Format - Still Image: JPEG (DCF, Exif 2.31), RAW File Format - 6K PHOTO/4K PHOTO: 6K PHOTO: MP4 (H.265/HEVC), Audio format: AAC (2 ch) 4K PHOTO: MP4 (H.264/MPEG-4 AVC), Audio format: AAC (2 ch) File Format - Motion Picture: MOV: H.264/MPEG-4 AVC (Audio format: LPCM [2 ch 48kHz/16-bit, 48kHz/24-bit, 96kHz/24-bit]) MP4: H.264/MPEG-4 AVC, HEVC (Audio format: AAC [2 ch]) AVCHD Progressive, AVCHD (Audio format: Dolby Audio [2 ch])",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "系统频率",
+          "value": "59.94Hz, 50.00Hz, 24.00Hz",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "画面比例",
+          "value": "4:3, 3:2, 16:9, 1:1",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "连续视频记录时长",
+          "value": "AVCHD [FHD/60p]: 约 150 min (rear monitor), 150 min (LVF) with H-ES12060, 约 160 min (rear monitor), 150 min (LVF) with H-HSA12035 / H-FS12060 AVCHD [FHD/60i]: 约 150 min (rear monitor), 150 min (LVF) with H-ES12060, 约 160 min (rear monitor), 160 min (LVF) with H-HSA12035 / H-FS12060 MP4 [4K/60p]: 约 100 min (rear monitor), 100 min (LVF) with H-ES12060 / H-HSA12035 / H-FS12060 MP4 [4K/30p]: 约 110 min (rear monitor), 110 min (LVF) with H-ES12060 / H-HSA12035 / H-FS12060",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "实际视频记录时长",
+          "value": "AVCHD [FHD/60p]: 约 75 min (rear monitor), 75 min (LVF) with H-ES12060, 约 80 min (rear monitor), 75 min (LVF) with H-HSA12035 / H-FS12060 AVCHD [FHD/60i]: 约 75 min (rear monitor), 75 min (LVF) with H-ES12060, 约 80 min (rear monitor), 80 min (LVF) with H-HSA12035 / H-FS12060 MP4 [4K/60p]: 约 50 min (rear monitor), 50 min (LVF) with H-ES12060 / H-HSA12035 / H-FS12060 MP4 [4K/30p]: 约 55 min (rear monitor), 55 min (LVF) with H-ES12060 / H-HSA12035 / H-FS12060",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "连拍",
+          "value": "Burst Speed: [Mechanical Shutter] AFS/MF: H: 12 frames/sec, M: 7 frames/sec (with Live View), L: 2 frames/sec (with Live View) [Mechanical Shutter] AFF/AFC: H: 9 frames/sec, M: 7 frames/sec (with Live View), L: 2 frames/sec (with Live View) [Electronic Shutter] AFS/MF: H: 12 frames/sec, M: 7 frames/sec (with Live View), L: 2 frames/sec (with Live View) [Electronic Shutter] AFF/AFC: H: 9 frames/sec, M: 7 frames/sec (with Live View), L: 2 frames/sec (with Live View) Number of Recordable Images: More than 约 60 images (RAW files with a particular speed); More than 约 600 images (no RAW files, depending on memory card size, battery power, picture size, and compression)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "6K / 4K 照片",
+          "value": "Burst Speed: [6K PHOTO] 30 frames/sec [4K PHOTO] 60 frames/sec, 30 frames/sec Exif Information: 支持 (Each JPEG image cropped out of the 6K/4K burst file complies with EXIF) Marking Function: 支持 (in 6K/4K Burst (S/S) mode) Loop Rec Function: 支持 (in 6K/4K Burst (S/S) mode)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "拍摄方向检测",
+          "value": "支持",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "照片风格",
+          "value": "Standard / Vivid / Natural / Monochrome / L. Monochrome / L. Monochrome D / Scenery / Portrait / Custom 1, 2, 3, 4 / Cinelike D / Cinelike V / Like709 * / Hybrid Log Gamma ™ / V-Log L * * When Creative Video Mode is selected. ** Upgrade Software Key DMW-SFU1 (sold separately) is required",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "创意控制",
+          "value": "Expressive / Retro / Old Days / High Key / Low Key / Sepia / Monochrome / Dynamic Monochrome / Rough Monochrome / Silky Monochrome / Impressive Art / High Dynamic / Cross Process / Toy Effect / Toy Pop / Bleach Bypass / Miniature Effect * / Soft Focus * / Fantasy / Star Filter * / One Point Colour * / Sunshine * * For photos only. Not available in 4:2:2 10-bit video or 4K video recording. ** Not available in 4:2:2 10-bit video or 4K video recording",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "创意视频模式",
+          "value": "Exposure Mode: Program AE / Aperture-Priority / Shutter-Priority / Manual Exposure Variable Frame Rate: 59.94Hz 2, 30, 56, 58, 60, 62, 64, 90, 120, 150, 180 fps 2, 15, 26, 28, 30, 32, 34, 45, 60 fps 2, 15, 26, 28, 30, 32, 34, 45, 60, 75, 90, 105, 120, 135, 150, 165, 180 fps 2, 12, 20, 22, 24, 26, 28, 36, 48, 60 fps 2, 12, 20, 22, 24, 26, 28, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, 180 fps 50.00Hz 2, 25, 46, 48, 50, 52, 54, 75, 100, 150, 180 fps 2, 12, 21, 23, 25, 27, 30, 37, 60 fps 2, 12, 21, 23, 25, 27, 30, 37, 50, 62, 75, 87, 100, 125, 150, 175, 180 fps 24.00Hz 2, 12, 20, 22, 24, 26, 28, 36, 48, 60 fps 2, 12, 20, 22, 24, 26, 28, 36, 48, 60, 72, 84, 96, 108, 120, 132, 144, 156, 168, 180 fps",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "视频功能",
+          "value": "Master Pedestal Level: 31 steps Luminance Level: 8-bit: 0-255 / 16-235 / 16-255 10-bit: 0-1023 / 64-940 / 64-1023 Wave Form Monitor / Vectorscope: Selectable LUT Display: LUT Monitor Display / LUT HDMI Display (Upgrade Software Key DMW-SFU1 [sold separately] is required) Synchro Scan: 支持 Time Code: Count Up / Rec Run / Free Run selectable, Time Code Mode: Drop Frame / Non-Drop Frame (When system frequency [59.94Hz] is selected) SS/Gain Operation: Shutter Duration / ISO / Angle / ISO / Shutter Duration / dB Colour Bars / 1kHz Test Tone: 支持 (SMPTE / EBU / ARIB) / 支持 Photo Style for Motion Picture: Cinelike D / Cinelike V / Like709 * / Hybrid Log Gamma ™ / V-Log L * * When Creative Video Mode is selected. ** Upgrade Software Key DMW-SFU1 (sold separately) is required. Knee Control: 支持 (in Like709 mode)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "除尘系统",
+          "value": "超声波滤镜",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD Memory Card, SDHC Memory Card, SDXC Memory Card (Compatible with UHS-I/UHS-II UHS Speed Class 3 standard SDHC/SDXC Memory Cards)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "无线网络",
+          "value": "Wi-Fi: IEEE 802.11a/b/g/n/ac (5GHz Wi-Fi not available in some countries) 1-11, 36, 40, 44, 48, 52, 56, 60, 64, 149, 153, 157, 161, 165 Bluetooth ® : v4.2 (Bluetooth Low Energy) QR Code Connection: 支持 Password-less Connection: 支持 (ON/OFF selectable)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "连接接口",
+          "value": "USB: USB Type-C, Super Speed USB3.1 GEN1 HDMI *3 : Monitor-through: 4:2:2 10-bit (When [Rec Quality] is set to [4:2:2 10bit] or when [Rec Quality] is set to [4K/60p] [4K/50p] and [4K/60p Bit Mode] / [4K/50p Bit Mode] is set to [4:2:2 10bit]) 4:2:2 8bit (When [Rec Quality] is set to [4:2:0 8bit], except for [4K 60p] / [4K 50p]) 4:2:0 8bit (When [Rec Quality] is set to [4K/60p] / [4K/50p] and [4K/60p Bit Mode] / [4K/50p Bit Mode] is set to [4:2:0 8bit]) Auto: 4K/30p/25p/1080p/1080i/OFF Information Display ON/OFF (selectable) Automatic Down-Conversion Playback: HDMI TypeA / VIERA Link, Audio: 立体声 59.94Hz: Auto / 4K/60p / 4K/30p / 1080p / 1080i / 720p / 480p 50.00Hz: Auto / 4K/50p / 4K/25p / 1080p / 1080i / 720p / 576p 24.00Hz: Auto / C4K / 4K/24p / 1080p Audio Video Output: No Remote Input: φ2.5mm for remote External Microphone Input: φ3.5mm for external microphone (立体声/Lens Auto/Shotgun/Super Shotgun/Manual is selectable when attach（其余模式见原厂规格表）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源系统",
+          "value": "Battery: Li-ion Battery Pack (7.2V, 1860mAh, 14Wh) (Included) Battery Life (CIPA Standard): 约 410 images (rear monitor), 400 images (LVF), 1,000 images (Power Save LVF mode) with H-FS12060 约 410 images (rear monitor), 300 images (LVF), 1,000 images (Power Save LVF mode) with H-HSA12035 约 400 images (rear monitor), 380 images (LVF), 1,000 images (Power Save LVF mode) with H-ES12060 * Under the test conditions specified by Panasonic based on CIPA standards. Battery Grip: DMW-BGGH5 (sold separately)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        },
+        {
+          "label": "尺寸与重量",
+          "value": "Dimensions (W x H x D): 138.5 x 98.1 x 87.4 mm / 5.45 x 3.86 x 3.44 inch (excluding protrusions) Weight: 约 725g / 1.60 lb (SD card, Battery, Body) 约 646g / 1.42 lb (仅机身) 约 835g / 2.06 lb (SD card x 1, Battery, H-FS12060 lens included) 约 1030g / 2.27 lb (SD card x 1, Battery, H-HSA12035 lens included) 约 1045g / 2.30 lb (SD card x 1, Battery, H-ES12060 lens included)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/",
+          "originalValue": "Dimensions (W x H x D): 138.5 x 98.1 x 87.4 mm / 5.45 x 3.86 x 3.44 inch (excluding protrusions) Weight: 约 725g / 1.60 lb (SD card, Battery, Body) 约 646g / 1.42 lb (Body only) 约 835g / 2.06 lb (SD card x 1, Battery, H-FS12060 lens included) 约 1030g / 2.27 lb (SD card x 1, Battery, H-HSA12035 lens included) 约 1045g / 2.30 lb (SD card x 1, Battery, H-ES12060 lens included)"
+        },
+        {
+          "label": "工作环境",
+          "value": "Operating Temperature: -10°C to 40°C (14°F to 104°F) Operating Humidity: 10%RH to 80%RH",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-gh5/"
+        }
+      ]
+    }
+  ]
+}

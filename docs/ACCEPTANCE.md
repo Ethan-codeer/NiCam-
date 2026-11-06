@@ -52,3 +52,11 @@ Final test/build results and any unresolved limitations should accompany the del
 - Final integrated `npm run build`: passed TypeScript project build and Vite production compilation (1,589 modules). Generated `dist/index.html` plus CSS and JavaScript assets.
 - Updated comparison source review confirms per-camera verification status, source links, explicit measurement conventions and a same-scale width/height bounds illustration when both records have dimensions.
 - Updated search source review confirms dialog labeling, initial input focus, Tab/Shift+Tab focus wrapping, Escape dismissal, focus restoration and route-change dismissal. Actual keyboard behavior remains a browser verification item.
+
+## 100-camera update — 2026-11-05
+
+Catalog now has100 unique records, all with bundled photographic WebP images and source/license/author metadata.93 new secondary-source film records remain pending, not officially verified. All100 photos were visually inspected as contact sheets. Two low-resolution entries replaced with different catalog models; Nikon Z8 and Hasselblad received clearer front perspectives; Fuji shows two colors of the same model with a caption. Missing Pentax Auto110 author corrected to Martin Taylor after reading the original Commons page.13 tests pass and production build succeeds. Browser/Safari rendering remains unverified in this environment.
+
+## Digital catalog release — 2026-11-06
+
+This release replaces the previous film expansion: 100 digital cameras, 6,695 technical parameter rows, and 100 body photographs independently viewed. All 17 automated tests pass; the TypeScript and Vite production build succeeds. Official regional domains were added to the source allowlist after provenance checks. Photo cache keys include the original filename hash to prevent stale pixels during replacement. Footnote recovery and source conflict decisions are captured in the reviewed batches. See RELEASE-DIGITAL-100.md and DIGITAL-FINAL-QA.md for scope and limitations.

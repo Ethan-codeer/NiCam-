@@ -33,7 +33,7 @@ export default function ComparePage({
 }) {
   const rows: [string, (c: Camera) => string][] = [
     ["品牌", (c) => c.brand],
-    ["发布年份", (c) => String(c.year)],
+    ["发布年份", (c) => val(c.year)],
     ["器材类型", (c) => c.type],
     ["画幅", (c) => c.format],
     ["有效像素", (c) => val(c.megapixels, " MP")],
@@ -69,7 +69,7 @@ export default function ComparePage({
       {compared.length ? (
         <div>
           <p className="note">
-            尺寸为厂商公布机身尺寸；是否包含突出部件因品牌口径不同，请查阅原始规格。有效像素采用厂商标称值。—
+            已核验器材采用官方规格；待核验条目请结合资料来源确认。尺寸是否包含突出部件因资料口径不同，请查阅原始规格。—
             表示未知，不代表零。
           </p>
           <div className="size-diagram">

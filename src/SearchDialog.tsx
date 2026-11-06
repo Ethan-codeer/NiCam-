@@ -59,7 +59,7 @@ export default function SearchDialog({
                 <span>
                   {c.name}
                   <small>
-                    {c.brand} / {c.year}
+                    {c.brand} / {c.year ?? "—"}
                   </small>
                 </span>
                 <ArrowUpRight size={15} />

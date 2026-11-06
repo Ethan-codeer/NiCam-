@@ -1,0 +1,480 @@
+{
+  "id": "sony-a1",
+  "name": "Sony α1",
+  "brand": "sony",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 50.1,
+  "width": 128.9,
+  "height": 96.9,
+  "depth": 80.8,
+  "description": "索尼 E 卡口全画幅无反相机，技术参数据索尼官方规格页整理。",
+  "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "lens",
+      "title": "镜头与卡口",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Sony E 卡口",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "35-mm full frame (35.9 x 24.0 mm), Exmor RS CMOS sensor",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "原生画幅比例",
+          "value": "3 : 2",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "除尘系统",
+          "value": "支持 (Charge protection coating on Optical Filter and ultrasonic vibration mechanism)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "总像素",
+          "value": "约 50.5 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 50.1 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "title": "照片记录",
+      "rows": [
+        {
+          "label": "创意外观",
+          "value": "ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Custom Look (1-6)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "14 位 RAW",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB standard (with sYCC gamut), Adobe RGB standard and Rec. ITU-R BT.2100 standard (BT.2020 gamut).",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "动态范围处理",
+          "value": "Off, Dynamic Range Optimizer",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "图片配置文件",
+          "value": "支持 (Off / PP1-PP11) Parameters: Black level, Gamma (Movie, Still, S-Cinetone, Cine1-4, ITU709, ITU709 (800%), S-Log2, S-Log3, HLG, HLG1-3), Black Gamma, Knee, Color Mode, Saturation, Color Phase, Color Depth, Detail, Copy, Reset",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "记录格式",
+          "value": "JPEG (DCF Ver. 2.0, Exif Ver. 2.32, MPF Baseline compliant), HEIF (MPEG-A MIAF compliant), RAW (Sony ARW 4.0 format compliant)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "图像质量模式",
+          "value": "RAW (Compressed / Lossless Compressed (L / M /S) / Uncompressed), JPEG (Extra fine / Fine / Standard / Light), HEIF (4:2:0 / 4:2:2) (Extra fine / Fine / Standard / Light)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "视频记录",
+      "rows": [
+        {
+          "label": "记录格式",
+          "value": "XAVC S, XAVC HS",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "创意外观",
+          "value": "ST, PT, NT, VV, VV2, FL, IN, SH, BW, SE, Custom Look (1-6)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "图片配置文件",
+          "value": "支持 (Off / PP1-PP11) Parameters: Black level, Gamma (Movie, Still, S-Cinetone, Cine1-4, ITU709, ITU709 (800%), S-Log2, S-Log3, HLG, HLG1-3), Black Gamma, Knee, Color Mode, Saturation, Color Phase, Color Depth, Detail, Copy, Reset",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "Rec. ITU-R BT.2100 standard compatible (BT.2020 gamut)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "视频编码",
+          "value": "XAVC S: MPEG-4 AVC/H.264, XAVC HS: MPEG-H HEVC/H.265",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "音频格式",
+          "value": "LPCM 2ch(48 kHz 16bit), LPCM 2ch(48 kHz 24bit), LPCM 4ch(48 kHz 24bit), MPEG-4 AAC-LC 2ch",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "8K 记录模式（XAVC HS）",
+          "value": "7,680 x 4,320 (4:2:0, 10bit, NTSC) (约): 30p (400 Mbps / 200 Mbps), 24p (400 Mbps / 200 Mbps), 7,680 x 4,320 (4:2:0, 10bit, PAL) (约): 25p (400 Mbps / 200 Mbps); 7,680 x 4,320 (4:2:2, 10bit, NTSC) (约): 30p (520 Mbps / 260 Mbps), 24p (520 Mbps / 260 Mbps), 7,680 x 4,320 (4:2:2, 10bit, PAL) (约): 25p (520 Mbps / 260 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "4K 帧内编码（XAVC S-I）",
+          "value": "3840 x 2160 (4:2:2, 10 bit, NTSC) (约): 60p (600 Mbps), 30p (300 Mbps), 24p (240 Mbps); 3840 x 2160 (4:2:2, 10 bit, PAL) (约): 50p (500 Mbps), 25p (250 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "4K 记录模式（XAVC S）",
+          "value": "3840 x 2160 (4:2:0, 8 bit, NTSC) (约): 120p (200 Mbps), 60p (150 Mbps), 30p (100 Mbps / 60 Mbps), 24p (100 Mbps / 60 Mbps); 3840 x 2160 (4:2:0, 8 bit, PAL) (约): 100p (200 Mbps), 50p (150 Mbps), 25p (100 Mbps / 60 Mbps); 3840 x 2160 (4:2:2, 10 bit, NTSC) (约): 120p (280 Mbps), 60p (200 Mbps), 30p (140 Mbps), 24p (100 Mbps); 3840 x 2160 (4:2:2, 10 bit, PAL) (约): 100p (280 Mbps), 50p (200 Mbps), 25p (140 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "4K 记录模式（XAVC HS）",
+          "value": "3840 x 2160 (4:2:0, 10 bit, NTSC) (约): 120p (200 Mbps), 60p (150 Mbps / 75 Mbps / 45 Mbps), 24p (100 Mbps / 50 Mbps / 30 Mbps); 3840 x 2160 (4:2:0, 10 bit, PAL) (约): 100p (200 Mbps), 50p (150 Mbps / 75 Mbps / 45 Mbps); 3840 x 2160 (4:2:2, 10 bit, NTSC) (约): 120p (280 Mbps), 60p (200 Mbps / 100 Mbps), 24p (100 Mbps / 50 Mbps); 3840 x 2160 (4:2:2, 10 bit, PAL) (约): 100p (280 Mbps), 50p (200 Mbps / 100 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "全高清记录模式（XAVC S）",
+          "value": "1920 x 1080 (4:2:0, 8 bit, NTSC) (约): 120p (100 Mbps / 60 Mbps), 60p (50 Mbps / 25 Mbps), 30p (50 Mbps / 16 Mbps), 24p (50 Mbps); 1920 x 1080 (4:2:0, 8 bit, PAL) (约): 100p (100 Mbps / 60 Mbps), 50p (50 Mbps / 25 Mbps), 25p (50 Mbps / 16 Mbps); 1920 x 1080 (4:2:2, 10 bit, NTSC) (约): 60p (50 Mbps), 30p (50 Mbps), 24p (50 Mbps); 1920 x 1080 (4:2:2, 10 bit, PAL) (约): 50p (50 Mbps), 25p (50 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "存储卡插槽",
+          "value": "SLOT1: Multi slot for SD (UHS-I/II-compliant) memory card/CFexpress Type A card, SLOT2: Multi slot for SD (UHS-I/II-compliant) memory card/CFexpress Type A card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "双卡记录方式",
+          "value": "Simult. Rec, Sort, Auto Switch Media, Copy",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD memory card, SDHC memory card (UHS-I/II-compliant), SDXC memory card (UHS-I/II-compliant), CFexpress Type A memory card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "wb",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent / Flash / Underwater / Color Temperature (2500 to 9900K) & color filter / Custom",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "对焦",
+      "rows": [
+        {
+          "label": "对焦点",
+          "value": "35 mm 全画幅: 759 points (相位检测 AF), APS-C mode with FF lens: 759 points (相位检测 AF), with APS-C lens: 575 points (相位检测 AF) / 425 points (对比度检测 AF)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "自动对焦检测范围",
+          "value": "EV-4 to EV20 (ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "对焦系统",
+          "value": "快速混合自动对焦（相位检测/对比度检测）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "支持 (with built-in LED type)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "对焦模式",
+          "value": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (Direct 手动对焦), 手动对焦",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "对焦区域",
+          "value": "Wide / Zone / Center Fix / Flexible Spot / Expanded Flexible Spot / Tracking",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光范围",
+          "value": "EV -3 to EV 20 (at ISO100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "曝光包围",
+          "value": "Bracket: Cont., Bracket: Single, 3/5/9 frames selectable. (Ambient light, Flash light)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "曝光模式",
+          "value": "AUTO(iAuto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Movie (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) / Flexible Exp. Mode), Slow & Quick Motion (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) / Flexible Exp. Mode)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "ISO 感光度",
+          "value": "照片： ISO 100–32000 (ISO numbers up from ISO 50 to ISO 102400 can be set as expanded ISO range.), AUTO (ISO 100–12800, selectable lower limit and upper limit), 视频： ISO 100–32000 equivalent, AUTO (ISO 100–12800, selectable lower limit and upper limit)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "测光模式",
+          "value": "Multi-segment, Center-weighted, Spot, Spot Standard/Large, Entire Screen Avg., Highlight",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/- 5.0EV (1/3 EV, 1/2 EV steps selectable) (with exposure compensation dial: +/- 3EV [1/3 EV steps])",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "Locked when shutter button is pressed halfway. Available with AE lock button. (On/Off/Auto)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "测光系统",
+          "value": "1200-zone evaluative metering",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "finder",
+      "title": "电子取景器",
+      "rows": [
+        {
+          "label": "取景视野率",
+          "value": "100%",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "取景器类型",
+          "value": "1.6 cm (0.64 type) 电子取景器 (color)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications",
+          "originalValue": "1.6 cm (0.64 type) electronic viewfinder (color)"
+        },
+        {
+          "label": "分辨率",
+          "value": "9 437 184 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "取景倍率",
+          "value": "约 0.90 x (with 50-mm lens at infinity, –1 m-₁)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "眼点距离",
+          "value": "约 25 mm from the eyepiece lens, 21 mm from the eyepiece frame at –1 m-₁ (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "触摸屏",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "分辨率",
+          "value": "1,440,000 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "显示屏类型",
+          "value": "2.95 inch (3.0-type) wide type TFT",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "屏幕调整角度",
+          "value": "Up by 约 107 degrees, Down by 约 41 degrees",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "机械快门/电子快门",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications",
+          "originalValue": "Mechanical shutter/Electronic shutter"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "(机械快门), (Flash Sync. Priority) is (ON) or (AUTO):1/400 s (35 mm 全画幅), 1/500 s (APS-C), (Flash Sync. Priority) is (OFF):1/320 s (35 mm 全画幅), 1/400 s (APS-C), (Electrical shutter), 1/200 s (35 mm 全画幅), 1/250 s (APS-C)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications",
+          "originalValue": "(Mechanical shutter), (Flash Sync. Priority) is (ON) or (AUTO):1/400 s (35 mm 全画幅), 1/500 s (APS-C), (Flash Sync. Priority) is (OFF):1/320 s (35 mm 全画幅), 1/400 s (APS-C), (Electrical shutter), 1/200 s (35 mm 全画幅), 1/250 s (APS-C)"
+        },
+        {
+          "label": "快门速度",
+          "value": "Still images, Single shot 机械快门: 1/8000 to 30 s, Bulb; AUTO: 1/32000 to 30 s, Bulb; 电子快门: 1/32000 to 30 s; Still images, Continuous shooting Mechanical; Shutter: 1/8000 to 30 s; AUTO: 1/32000 to 1/2 s; 电子快门: 1/32000 to 1/2 s; 视频： 1/8000 to 1/4 (1/3 steps), 最高 1/60 in AUTO mode (最高 1/30 in Auto slow shutter mode)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications",
+          "originalValue": "Still images, Single shot 机械快门: 1/8000 to 30 s, Bulb; AUTO: 1/32000 to 30 s, Bulb; 电子快门: 1/32000 to 30 s; Still images, Continuous shooting Mechanical; Shutter: 1/8000 to 30 s; AUTO: 1/32000 to 1/2 s; 电子快门: 1/32000 to 1/2 s; 视频： 1/8000 to 1/4 (1/3 steps), up to 1/60 in AUTO mode (up to 1/30 in Auto slow shutter mode)"
+        },
+        {
+          "label": "静音拍摄",
+          "value": "支持 (ON/OFF)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "电子前帘快门",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "stabilization",
+      "title": "防抖",
+      "rows": [
+        {
+          "label": "防抖补偿效果",
+          "value": "5.5 级",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications",
+          "condition": "CIPA 标准；仅俯仰/偏摆；搭配 Planar T* FE 50 mm F1.4 ZA，关闭长曝光降噪。"
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "连拍与驱动",
+      "rows": [
+        {
+          "label": "自拍定时",
+          "value": "10-sec. delay / 5-s delay / 2-s delay / Continuous self-time / Bracketing self-timer",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "最高连拍速度",
+          "value": "电子快门 Hi+ 最高 30 张/秒；Hi 20、Mid 15、Lo 5 张/秒；机械快门 Hi+ 最高 10 张/秒",
+          "sourceUrl": "https://support.d-imaging.sony.co.jp/support/ilc/products/ilce1/continuousshooting/en/index.html",
+          "condition": "30 张/秒需压缩 RAW/JPEG、兼容镜头及相应设置；无压缩或无损压缩 RAW 最高 20 张/秒。AF-C 连拍速度及追焦受镜头和光圈设置影响；兼容镜头列表与细则见来源。"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single Shooting, Continuous shooting (Hi+/Hi/Mid/Lo selectable), Self-timer, Self-timer (Cont.), Bracket: Single, Bracket: Cont., White Balance bracket, DRO bracket",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "接口",
+      "rows": [
+        {
+          "label": "有线网络接口",
+          "value": "支持 (1000BASE-T, 100BASE-TX, 10BASE-T)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "耳机接口",
+          "value": "支持 (3.5 mm Stereo minijack)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "麦克风接口",
+          "value": "支持 (3.5 mm Stereo minijack)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "电脑连接",
+          "value": "Mass-storage / MTP",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "静态照片续航",
+          "value": "约 430 shots (取景器) / 约 530 shots (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "视频续航（连续记录）",
+          "value": "约 145 min. (取景器) / 约 150 min. (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "USB 供电",
+          "value": "支持 (Available with USB Type-C Terminal. USB Power Delivery-compatible)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "视频续航（实际拍摄）",
+          "value": "约 90 min. (取景器) / 约 95 min. (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "机内充电",
+          "value": "支持 (Available with USB Type-C Terminal. USB Power Delivery-compatible)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "电池型号",
+          "value": "One rechargeable battery pack NP-FZ100",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约 5.13 x 3.88 x 3.25 inches, 约 5.13 x 3.88 x 2.75 inches (FROM GRIP TO MONITOR), 约 128.9 mm x 96.9 mm x 80.8 mm, 约 128.9 mm x 96.9 mm x 69.7 mm (FROM GRIP TO MONITOR)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        },
+        {
+          "label": "重量（含电池及存储卡）",
+          "value": "约 1 lb 10.0 oz, 约 737 g",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-1/specifications"
+        }
+      ]
+    }
+  ]
+}

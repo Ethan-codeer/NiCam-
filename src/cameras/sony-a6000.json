@@ -1,0 +1,276 @@
+{
+  "id": "sony-a6000",
+  "name": "Sony α6000",
+  "brand": "sony",
+  "year": null,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 24.3,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "索尼 E 卡口 APS-C 无反相机，技术参数据索尼官方规格页整理。",
+  "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "lens",
+      "title": "镜头与卡口",
+      "rows": [
+        {
+          "label": "镜头兼容性",
+          "value": "Sony E 卡口镜头",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "Sony E 卡口镜头",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "原生画幅比例",
+          "value": "3 : 2",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "除尘系统",
+          "value": "Charge protection coating on Optical Filter and ultrasonic vibration mechanism",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "总像素",
+          "value": "约 24.7 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "APS-C type (23.5 x 15.6 mm)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "传感器类型",
+          "value": "APS-C",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 24.3 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "视频记录",
+      "rows": [
+        {
+          "label": "记录格式",
+          "value": "AVCHD 2.0 / MP4",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "全高清记录模式",
+          "value": "AVCHD 1920 × 1080，60p/50p、24p/25p 或 60i/50i",
+          "sourceUrl": "https://helpguide.sony.net/gbmig/45349331/v1/en/contents/TP0000518238.html",
+          "condition": "帧率随 1080 60i/50i 制式版本而异。"
+        },
+        {
+          "label": "视频音频",
+          "value": "AVCHD：Dolby Digital；MP4：AAC",
+          "sourceUrl": "https://helpguide.sony.net/gbmig/45349331/v1/en/contents/TP0000518238.html"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "对焦",
+      "rows": [
+        {
+          "label": "对焦系统",
+          "value": "快速混合自动对焦（相位检测/对比度检测）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "1200-zone evaluative metering",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/- 5.0EV(1/3 EV, 1/2 EV steps selectable)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV0 to EV20 (at ISO100 equivalent with F2.8 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "ISO 感光度",
+          "value": "ISO 100-25600",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "finder",
+      "title": "电子取景器",
+      "rows": [
+        {
+          "label": "屈光度调节",
+          "value": "-4.0 to +3.0 m^{-1}",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "取景视野率",
+          "value": "100%",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "取景器类型",
+          "value": "0.39 in-type 电子取景器 (color)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications",
+          "originalValue": "0.39 in-type electronic viewfinder (color)"
+        },
+        {
+          "label": "分辨率",
+          "value": "1,440,000 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏类型",
+          "value": "3.0 in wide type TFT LCD",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "分辨率",
+          "value": "921,600 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "闪光同步速度",
+          "value": "1/160 sec.",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "电子前帘快门",
+          "value": "支持 (On/Off)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "快门速度",
+          "value": "照片：1/4000 to 30 sec, Bulb, 视频： 1/4000 to 1/4 (1/3 steps) 最高 1/60 in AUTO mode (最高 1/30 in Auto slow shutter mode)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications",
+          "originalValue": "照片：1/4000 to 30 sec, Bulb, 视频： 1/4000 to 1/4 (1/3 steps) up to 1/60 in AUTO mode (up to 1/30 in Auto slow shutter mode)"
+        }
+      ]
+    },
+    {
+      "id": "stabilization",
+      "title": "防抖",
+      "rows": [
+        {
+          "label": "防抖系统",
+          "value": "机身不提供防抖；可使用镜头防抖",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "连拍与驱动",
+      "rows": [
+        {
+          "label": "最高连拍速度",
+          "value": "11 fps (in High Continuous shooting)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications",
+          "condition": "索尼标示最高速度；实际速度随镜头、记录格式和拍摄设置变化。"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "接口",
+      "rows": [
+        {
+          "label": "NFC",
+          "value": "One-touch remote, One-touch sharing",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "电脑连接",
+          "value": "Mass-storage, MTP, PC remote",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "接口",
+          "value": "Multi/Micro USB Terminal, Multi Interface Shoe",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "机内充电",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "静态照片续航",
+          "value": "最高 360 shots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications",
+          "originalValue": "Up to 360 shots"
+        },
+        {
+          "label": "电池型号",
+          "value": "NP-FW50 W-series Rechargeable Battery Pack",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "4.72 x 2.63 x 1.78 in",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        },
+        {
+          "label": "重量（机身 / 含电池及存储卡）",
+          "value": "10.05 oz (仅机身) / 12.13 oz (含电池及存储卡)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body/ilce-6000/specifications"
+        }
+      ]
+    }
+  ]
+}

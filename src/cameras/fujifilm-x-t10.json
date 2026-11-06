@@ -1,0 +1,272 @@
+{
+  "id": "fujifilm-x-t10",
+  "name": "Fujifilm X-T10",
+  "brand": "fujifilm",
+  "year": 2015,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 16.3,
+  "width": 118.4,
+  "height": 82.8,
+  "depth": 40.8,
+  "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
+  "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "shooting",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "16.3 百万像素",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "记录尺寸",
+          "value": "L 4896 × 3264；M 3456 × 2304；S 2496 × 1664；另支持16:9与1:1",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "FUJIFILM X 卡口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "防抖",
+          "value": "兼容OIS光学防抖镜头",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "快门类型",
+          "value": "焦平面快门",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "连拍",
+          "value": "约8 fps，JPEG约8张；低速约3 fps",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "包围曝光",
+          "value": "曝光、胶片模拟、动态范围、ISO与白平衡包围",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "自拍",
+          "value": "10秒 / 2秒",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "间隔拍摄",
+          "value": "支持设置间隔、张数与开始时间",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "视频记录",
+          "value": "1080p 60/50/30/25/24，最长约14分钟；720p同帧率最长约27分钟",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "拍摄功能",
+          "value": "高级SR AUTO、眼睛AF、人脸检测、全景、自动去红眼等",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "胶片模拟",
+          "value": "11种：PROVIA、Velvia、ASTIA、Classic Chrome、PRO Neg.Hi/Std、黑白及滤镜、棕褐色",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "动态范围",
+          "value": "AUTO（100–400%）/ 100% / 200% / 400%",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "创意滤镜",
+          "value": "玩具相机、微缩、流行色、高调、低调、动态色调、柔焦、局部色彩",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "回放功能 · RAW conversion, Image rotate, Auto image rotate, Red-eye reductio",
+          "value": "机内RAW转换、旋转、自动旋转、去红眼、相册辅助、保护、裁剪、缩放等",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+          "condition": "RAW conversion, Image rotate, Auto image rotate, Red-eye reductio"
+        },
+        {
+          "label": "其他功能",
+          "value": "PictBridge、Exif Print、35种语言、时差、快速启动等",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "感光元件",
+          "value": "23.6 × 15.6 mm APS-C X-Trans CMOS II；总像素16.7百万；超声波清洁",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "io",
+      "title": "存储与接口",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD / SDHC / SDXC，UHS-I",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "文件格式",
+          "value": "JPEG Exif 2.3、RAW RAF、RAW+JPEG；视频MOV H.264、立体声线性PCM",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "无线传输",
+          "value": "IEEE 802.11b/g/n；基础设施模式",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "无线功能",
+          "value": "地理标记、无线图像传输、遥控拍摄、PC自动保存、instax打印",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "接口",
+          "value": "USB 2.0高速 / micro USB；micro HDMI Type D；遥控端口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度",
+          "value": "ISO 200–6400；扩展ISO 100、12800、25600、51200",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "曝光控制",
+          "value": "TTL 256区测光；多重、点测光、平均",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "程序、快门优先、光圈优先、手动",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "−3 EV 至 +3 EV，1/3 EV步进",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x-t10/appendix/spec/index.html"
+        },
+        {
+          "label": "白平衡",
+          "value": "自动、自定义、色温、日光、阴影、荧光灯、白炽灯、水下",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门速度 / (con obturador mecánico)",
+          "value": "电子快门最快1/32000秒；机械快门最快1/4000秒，B门最长60分钟",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "闪光灯",
+          "value": "手动弹出闪光灯；GN约5（ISO100·m）/ 7（ISO200·m）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "闪光模式",
+          "value": "自动、强制、慢速同步、关闭、后帘同步及指令模式；支持去红眼",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "热靴",
+          "value": "支持专用TTL闪光灯",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "对焦",
+          "value": "单次AF、连续AF、手动；对比度及相位混合AF",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "display",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "0.39英寸236万点OLED；视野率约100%；眼点约17.5 mm",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "液晶屏",
+          "value": "3英寸92万点可倾斜LCD；宽高比3:2，视野率约100%",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "NP-W126 锂离子电池",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "尺寸",
+          "value": "118.4 × 82.8 × 40.8 mm；最薄31.9 mm",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "重量",
+          "value": "约381 g（含电池与卡）；约331 g（仅机身）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "工作温度",
+          "value": "0–40 °C",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "工作湿度",
+          "value": "10–80%，无凝露",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "照片续航",
+          "value": "约350张（XF35mmF1.4 R、LCD开启）；连续视频约124分钟，实际单段受时长限制",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        },
+        {
+          "label": "启动时间",
+          "value": "高性能模式约0.5秒；普通模式约1秒",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+        }
+      ]
+    }
+  ]
+}

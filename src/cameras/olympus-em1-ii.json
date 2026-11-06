@@ -1,0 +1,296 @@
+{
+  "id": "olympus-em1-ii",
+  "name": "Olympus OM-D E-M1 Mark II",
+  "brand": "olympus",
+  "year": null,
+  "format": "4/3",
+  "type": "无反相机",
+  "megapixels": 20.37,
+  "width": 134.1,
+  "height": 90.9,
+  "depth": 68.9,
+  "description": "Olympus OM-D E-M1 Mark II 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "4/3 型 Live MOS",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "17.3 × 13.0 mm",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "有效像素",
+          "value": "20.37 MP",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "总像素",
+          "value": "21.77 MP",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "取景器像素",
+          "value": "约 236 万点",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "显示屏像素",
+          "value": "约 104 万点，3:2",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Micro Four Thirds",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "镜头系统",
+          "value": "M.Zuiko Digital 及 Micro Four Thirds 镜头",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "焦距换算系数",
+          "value": "约 2×（相对 35mm）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "自动对焦系统",
+          "value": "Hi-Speed Imager AF",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "对焦区域",
+          "value": "121 点",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "对焦点选择",
+          "value": "自动 / 自选",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "带眼部感应的电子取景器",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "取景覆盖率",
+          "value": "100%",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "眼点",
+          "value": "约 21mm（−1 m⁻¹）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "实时取景",
+          "value": "Live MOS 实时取景，100% 视野",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "显示屏",
+          "value": "3 英寸 TFT 彩色 LCD，可触摸",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光",
+          "value": "TTL 图像传感器测光",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "测光方式",
+          "value": "数字 ESP、中央重点平均、点测光",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV −2 至 20（17mm F2.8、ISO100）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P / A / S / M；场景功能随机型",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "感光度范围",
+          "value": "LOW、ISO 200–25600；1/3 或 1EV 步进",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "±5EV；1/3、1/2、1EV 步进",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "白平衡",
+          "value": "自动、7 种预设、自定义、单触白平衡",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门系统",
+          "value": "电子控制焦平面快门",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "快门速度",
+          "value": "1/8000–60 秒；支持 B 门及定时曝光",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "闪光控制",
+          "value": "TTL-AUTO 预闪 / 手动",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "闪光同步",
+          "value": "1/250秒或更慢",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "画面比例",
+          "value": "4:3",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "文件格式",
+          "value": "JPEG、RAW",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "视频格式",
+          "value": "MPEG-4 AVC/H.264 / Motion JPEG",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "音频",
+          "value": "立体声 PCM 48kHz",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "驱动模式",
+          "value": "单张、连拍、自拍",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "连拍速度",
+          "value": "机械最高15张/秒；电子最高60张/秒（高速档，条件见手册）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "自拍定时",
+          "value": "12 秒 / 2 秒 / 自定义",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD / SDHC / SDXC / Eye-Fi；卡槽1 UHS-II、卡槽2 UHS-I",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "无线网络 Wi-Fi",
+          "value": "IEEE 802.11 b/g/n",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "连接接口",
+          "value": "USB Type-C、Micro HDMI Type-D",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电池与供电",
+          "value": "可充锂电池 ×1，BLH-1",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "电池电压",
+          "value": "7.4V",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "电池容量",
+          "value": "1720mAh",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "机身尺寸",
+          "value": "134.1 × 90.9 × 68.9 mm（不含突出部分）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "重量",
+          "value": "约 574 g（含电池及存储卡）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "工作温度",
+          "value": "−10 至 40°C",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "工作湿度",
+          "value": "30–90%",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        },
+        {
+          "label": "防泼溅",
+          "value": "IPX1 等效（厂家测试条件）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em1m2/manual_em1m2_ENU.pdf"
+        }
+      ]
+    }
+  ]
+}

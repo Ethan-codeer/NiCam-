@@ -1,0 +1,525 @@
+{
+  "id": "nikon-d780",
+  "name": "Nikon D780",
+  "brand": "nikon",
+  "year": null,
+  "format": "全画幅",
+  "type": "单反相机",
+  "megapixels": 24.5,
+  "width": 143.5,
+  "height": 115.5,
+  "depth": 76.0,
+  "description": "Nikon D780，尼康FX全画幅F卡口数码单反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
+  "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "g1",
+      "title": "基本规格",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "数码单反相机",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "尼康F卡口 (with AF coupling and AF contacts)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "等效视角",
+          "value": "尼康FX格式",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "模式",
+          "value": "Photo live view, movie live view",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "镜头系统",
+      "rows": [
+        {
+          "label": "兼容镜头",
+          "value": "AF NIKKOR lenses, including type G, E and D lenses (some restrictions apply to PC lenses) Other AF NIKKOR lenses (excluding IX NIKKOR lenses and lenses for the F3AF) AI-P NIKKOR lenses DX lenses (using [DX 24x16] image area) Non-CPU AI lenses (exposure modes A and M only) Note: During viewfinder photography, the electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster. With lenses that have a maximum aperture of f/8 or faster, the electronic rangefinder supports 11 focus points",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "传感器与图像",
+      "rows": [
+        {
+          "label": "有效像素",
+          "value": "24.5百万像素",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "类型",
+          "value": "35.9 x 23.9 mm CMOS传感器",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "总像素",
+          "value": "25.28百万像素",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "除尘系统",
+          "value": "影像传感器 cleaning, Image Dust Off reference data (Capture NX-D software required)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html",
+          "originalValue": "Image sensor cleaning, Image Dust Off reference data (Capture NX-D software required)"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "存储与画质",
+      "rows": [
+        {
+          "label": "照片尺寸",
+          "value": "FX (36x24) image area: - 6048 x 4024 (L: 24.3百万像素) - 4528 x 3016 (M: 13.7百万像素) - 3024 x 2016 (S: 6.1百万像素) DX (24x16) image area: - 3936 x 2624 (L: 10.3百万像素) - 2944 x 1968 (M: 5.8百万像素) - 1968 x 1312 (S: 2.6百万像素) 1 : 1 (24x24) image area: - 4016 x 4016 (L: 16.1百万像素) - 3008 x 3008 (M: 9.0百万像素) - 2000 x 2000 (S: 4.0百万像素) 16 : 9 (36x20) image area: - 6048 x 3400 (L: 20.6百万像素) - 4528 x 2544 (M: 11.5百万像素) - 3024 x 1696 (S: 5.1百万像素) Photographs taken while filming movies at a frame size of 3840 x 2160: 3840 x 2160 Photographs taken while filming movies at other frame sizes: 1920 x 1080",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "文件格式",
+          "value": "NEF (RAW): 12 or 14 bit (lossless compressed or compressed) JPEG: JPEG-Baseline compliant with fine (约 1:4), normal (约 1:8) or basic (约 1:16) compression; size-priority and optimal-quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "优化校准",
+          "value": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat, Creative Picture Controls (Dream, Morning, Pop, Sunday, Somber, Dramatic, Silence, Bleached, Melancholic, Pure, Denim, Toy, Sepia, Blue, Red, Pink, Charcoal, Graphite, Binary, Carbon); selected Picture Control can be modified; storage for custom Picture Controls",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD (Secure Digital) and UHS-II compliant SDHC and SDXC memory cards",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "双卡槽",
+          "value": "The card in Slot 2 can be used for overflow or backup storage or for separate storage of NEF (RAW) and JPEG images; pictures can be copied between cards.",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "文件系统",
+          "value": "DCF 2.0, Exif 2.31",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "视频与音频",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "TTL metering using camera image sensor",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "Matrix, center-weighted, or highlight-weighted",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "视频尺寸与帧率",
+          "value": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 120p, 100p, 60p, 50p, 30p, 25p, 24p 1920 x 1080 (slow-motion); 30p x4, 25p x4, 24p x5 Note: Actual frame rates for 120p, 100p, 60p, 50p, 30p, 25p and 24p are 119.88, 100, 59.94, 50, 29.97, 25 and 23.976 fps respectively; quality selection available at all sizes except 3840 x 2160, 1920 x 1080 120p/100p, and 1920 x 1080 slow-motion, when quality is fixed at ★ (high)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "视频文件格式",
+          "value": "MOV, MP4",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "视频编码",
+          "value": "H.264/MPEG-4 Advanced Video Coding",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "录音格式",
+          "value": "Linear PCM, AAC",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "录音装置",
+          "value": "Built-in stereo or external microphone with attenuator option; sensitivity adjustable",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "视频感光度",
+          "value": "Manual selection (ISO 100 to 51200 in steps of 1/3 or 1/2 EV) with additional options available equivalent to 约 0.3, 0.5, 0.7, 1, or 2 EV (ISO 204800 equivalent) above ISO 51200; auto ISO sensitivity control (ISO 100 to Hi 2) available with selectable upper limit",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "动态D-Lighting",
+          "value": "Can be selected from extra high, high, normal, low or off",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "其他功能",
+          "value": "Time-lapse movie recording, electronic vibration reduction, time codes, logarithmic (N-Log) and HDR (HLG) movie output",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "取景系统",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "Eye-level pentaprism single-lens reflex viewfinder",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "视野率",
+          "value": "FX: 约 100% horizontal and 100% vertical DX: 约 97% horizontal and 97% vertical 1:1: 约 97% horizontal and 100% vertical 16:9: 约 100% horizontal and 97% vertical",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "放大倍率",
+          "value": "约 0.7x (50 mm f/1.4 lens at infinity, -1.0 m -1 )",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "眼点",
+          "value": "21 mm (-1.0 m -1 ; from center surface of viewfinder eyepiece lens)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-3 to +1 m -1",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "对焦屏",
+          "value": "Type B BriteView Clear Matte Mark VIII screen (with AF-area brackets; framing grid can be displayed)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "反光镜",
+          "value": "Quick return",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "景深预览",
+          "value": "Pressing Pv button stops lens aperture down to value selected by user (A and M modes) or by camera (P and S modes)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "镜头光圈",
+          "value": "Instant return, electronically controlled",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "快门系统",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "Electronically controlled vertical-travel focal-plane 机械快门; 电子前帘快门; 电子快门",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html",
+          "originalValue": "Electronically controlled vertical-travel focal-plane mechanical shutter; electronic front-curtain shutter; electronic shutter"
+        },
+        {
+          "label": "快门速度",
+          "value": "1/8000 to 30 s in steps of 1/3 or 1/2 EV, extendable to 900 s in mode M; Bulb; Time; X200",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "X=1/200 s; synchronizes with shutter at 1/200 s or slower: Auto FP high-speed sync supported",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "拍摄驱动",
+      "rows": [
+        {
+          "label": "释放模式",
+          "value": "S (single frame), CL (continuous low speed), CH (continuous high speed), Q (quiet shutter-release), QC (quiet continuous shutter-release), self-timer, MUP (mirror up)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "连拍速度",
+          "value": "CL: 1 to 6 fps (viewfinder photography); 1 to 3 fps (live view photography) CH: 7 fps; when shooting NEF/RAW pictures during silent photography, either 8 fps (bit depth 14 bits) or 12 fps (bit depth 12 bits) QC: 3 fps",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "自拍定时",
+          "value": "2 s, 5 s, 10 s, 20 s; 1 to 9 exposures at intervals of 0.5, 1, 2 or 3 s",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "Viewfinder photography: TTL exposure metering using RGB sensor with 约 180K (180,000) pixels Live view: TTL exposure metering performed by image sensor",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "Matrix: 3D color matrix metering III (type G, E and D lenses); color matrix metering III (other CPU lenses); color matrix metering available with non-CPU lenses if user provides lens data Center-weighted: Weight of 75% given to 12 mm circle in center of frame; diameter of circle can be changed to 8, 15 or 20 mm, or weighting can be based on average of entire frame (non-CPU and AF-S Fisheye NIKKOR 8-15 mm f/3.5-4.5E ED lenses use 12-mm circle) Spot: Meters circle 约 4 mm in diameter (about 1.5% of frame) centered on selected focus point (on center focus point when non-CPU or AF-S Fisheye NIKKOR 8-15 mm f/3.5-4.5E ED lens is used) Highlight-weighted: Available with type G, E and D lenses",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "测光范围 (ISO 100, f/1.4 lens, 20°C/68°F)",
+          "value": "Matrix or center-weighted metering: -3 to 20 EV Spot metering: 2 to 20 EV Highlight-weighted metering: 0 to 20 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "测光耦合",
+          "value": "Combined CPU and AI",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "模式",
+          "value": "Auto; programmed auto with flexible program (P); shutter-priority auto (S); aperture-priority auto (A); manual (M) EFCT Special effect modes: night vision; super vivid; pop; photo illustration; toy camera effect; miniature effect; selective color; silhouette; high key; low key U1 and U2: user settings",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "Available in P, S, A, M and EFCT modes, -5 to +5 EV; -3 to +3 EV when filming movies; in increments of 1/3 or 1/2 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "曝光锁定",
+          "value": "Luminosity locked at detected value",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "感光度（推荐曝光指数）",
+          "value": "ISO 100 to 51200 in steps of 1/3 or 1/2 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 50 equivalent) below ISO 100 or to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 204800 equivalent) above ISO 51200; auto ISO sensitivity control available",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "动态D-Lighting",
+          "value": "Can be selected from auto, extra high, high, normal, low or off",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "连接接口",
+      "rows": [
+        {
+          "label": "Wi-Fi无线连接",
+          "value": "Standards: IEEE 802.11b/g/n (Africa, Asia, Oceania); IEEE 802.11b/g/n/a/ac (Europe, U.S.A., Canada, and Mexico); IEEE 802.11b/g/n/a (other countries in the Americas) Operating frequency: 2412 to 2462 MHz (channel 11) (Africa, Asia, Oceania); 2412 to 2462 MHz (channel 11) and 5180 to 5825 MHz (U.S.A., Canada, and Mexico); 2412 to 2462 MHz (channel 11) and 5180 to 5805 MHz (other countries in the Americas); 2412 to 2462 MHz (channel 11) and 5745 to 5805 MHz (Georgia); 2412 to 2462 MHz (channel 11) and 5180 to 5320 MHz (other European countries) Maximum output power (EIRP): 2.4 GHz band: 2.9 dBm; 5 GHz band: 5.7 dBm (Georgia); 5 GHz band: 8.7 dBm (other countries) Authentication: Open system, WPA2-PSK",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "Bluetooth无线连接",
+          "value": "Communication protocols: Bluetooth Specification Version 4.2 Operating frequency: 2402 to 2480 MHz (Bluetooth), 2402 to 2480 MHz (Bluetooth Low Energy) Maximum output power (EIRP): -2.6 dBm (Bluetooth), -4.1 dBm (Bluetooth Low Energy)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "测光范围 (line of sight)",
+          "value": "约 10 m/32 ft without interference; range may vary with signal strength and presence or absence of obstacles",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "Type C HDMI connector",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "音频输入",
+          "value": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "音频输出",
+          "value": "Stereo mini-pin jack (3.5-mm diameter)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "附件端口",
+          "value": "Built-in (can be used with accessories such as the MC-DC2 remote cord)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "title": "自动对焦",
+      "rows": [
+        {
+          "label": "类型",
+          "value": "Viewfinder photography: TTL phase detection performed using Advanced Multi-CAM 3500 II autofocus sensor module with support for 51 focus points (including 15 cross-type sensors; f/8 supported by 11 sensors); autofocus fine-tuning supported Live view: Hybrid phase-detection/contrast-detect AF performed by image sensor; autofocus fine-tuning supported",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "对焦检测范围  (ISO 100; 20°C/68°F)",
+          "value": "Viewfinder photography: -3 to +19 EV Live view: -5 to +19 EV; -7 to +19 EV with low-light AF; still photography using single-servo AF (AF-S) and apertures of f/1.4 at dark end of range and f/5.6 at bright end of range",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "对焦驱动模式",
+          "value": "Autofocus (AF): Single-servo AF (AF-S); continuous-servo AF (AF-C); AF mode auto-switch (AF-A, still photography only); full-time AF (AF-F, movie recording only); predictive focus tracking activated automatically according to subject status Manual focus (M): Electronic rangefinder can be used",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "对焦点",
+          "value": "Viewfinder photography: 51 points with [All points] selected for Custom Setting a6 [Focus points used], 11 points with [Every other point] selected Live view: 273 points with [All points] selected for Custom Setting a6 [Focus points used], 77 points with [Every other point] selected; still photography, [FX (36x24)] image area, single-point AF",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "自动对焦区域",
+          "value": "Viewfinder photography: Single-point AF, 9-, 21-, or 51-point dynamic-area AF, 3D-tracking, group-area AF, auto-area AF Live view: Pinpoint AF (still photography only, single-servo AF/AF-S), single-point AF, dynamicarea AF (still photography only, continuous-servo AF/AF-C), wide-area AF (S), wide-area AF (L), auto-area AF",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "Focus can be locked by pressing shutter-release button halfway (single-servo AF/ AF-S) or by pressing (AE-L/AF-L) button",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "title": "闪光系统",
+      "rows": [
+        {
+          "label": "闪光控制",
+          "value": "Viewfinder photography: TTL flash control performed by RGB sensor with 约 180K (180,000) pixels Live view photography: TTL flash control performed by image sensor i-TTL balanced fill-flash for D-SLR available with matrix, center-weighted, and highlight-weighted metering; standard i-TTL fill-flash for D-SLR available with spot metering",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "闪光模式",
+          "value": "Front-curtain sync, red-eye reduction, slow sync, red-eye reduction with slow sync, rear-curtain sync, off",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "闪光补偿",
+          "value": "Available in P, S, A, and M modes, -3 to +1 EV in increments of 1/3 or 1/2 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "闪光就绪提示",
+          "value": "Lights when optional flash unit is fully charged; blinks after flash is fired at full output",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "热靴",
+          "value": "ISO 518 hot-shoe with sync and data contacts and safety lock",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "尼康创意闪光系统",
+          "value": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, Color Information Communication, auto FP high-speed sync, AF-assist for multi-area AF (viewfinder photography), unified flash control",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "同步端口",
+          "value": "AS-15 Sync Terminal Adapter (available separately)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "Auto (3 types), natural light auto, direct sunlight, cloudy, shade, incandescent, fluorescent (7 types), flash, choose color temperature (2500 K to 10000 K), preset manual (最高 6 values can be stored, spot white balance measurement available during live view photography), all except choose color temperature with fine-tuning",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html",
+          "originalValue": "Auto (3 types), natural light auto, direct sunlight, cloudy, shade, incandescent, fluorescent (7 types), flash, choose color temperature (2500 K to 10000 K), preset manual (up to 6 values can be stored, spot white balance measurement available during live view photography), all except choose color temperature with fine-tuning"
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "title": "包围拍摄",
+      "rows": [
+        {
+          "label": "包围拍摄",
+          "value": "Exposure and/or flash, white balance, and ADL",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "title": "机身与环境",
+      "rows": [
+        {
+          "label": "工作环境",
+          "value": "Temperature: 0 °C to 40 °C (32 °F to 104 °F) Humidity: 85% or less (no condensation)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "1/4 in. (ISO 1222)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约 143.5 x 115.5 x 76 mm/5.7 x 4.6 x 3 in.",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "重量",
+          "value": "约 840 g/1 lb. 13.7 oz. with battery and SD memory card but without body cap; 约 755 g/1 lb. 10.7 oz. (camera 仅机身)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html",
+          "originalValue": "约 840 g/1 lb. 13.7 oz. with battery and SD memory card but without body cap; 约 755 g/1 lb. 10.7 oz. (camera body only)"
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "显示屏",
+          "value": "8-cm/3.2-in., 约 2359k-dot (XGA) tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, 11-level manual brightness adjustment, and color balance control",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "title": "回放与编辑",
+      "rows": [
+        {
+          "label": "回放功能",
+          "value": "Full-frame and thumbnail (4, 9 or 72 images or calendar) playback with playback zoom, playback zoom cropping, movie playback, photo and/or movie slide shows, histogram display, highlights, photo information, location data display, picture rating, auto image rotation and index marking",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "title": "电源系统",
+      "rows": [
+        {
+          "label": "电池",
+          "value": "One EN-EL15b Rechargeable Li-ion Battery; EN-EL 15a/EN-EL15 batteries can also be used; note, however, that fewer pictures may sometimes be taken on a single charge with the EN-EL15 than with an EN-EL15b/EN-EL15a; EH-7P Charging AC adapter can be used to charge EN-EL15b batteries only",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        },
+        {
+          "label": "交流适配器",
+          "value": "EH-5d/5c/EH-5b AC Adapter; requires EP-5B Power Connector (available separately)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d780/index.html"
+        }
+      ]
+    }
+  ]
+}

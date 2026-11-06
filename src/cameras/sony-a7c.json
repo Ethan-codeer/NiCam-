@@ -1,0 +1,453 @@
+{
+  "id": "sony-a7c",
+  "name": "Sony α7C",
+  "brand": "sony",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 24.2,
+  "width": 124.0,
+  "height": 71.1,
+  "depth": 59.7,
+  "description": "索尼 E 卡口全画幅无反相机，技术参数据索尼官方规格页整理。",
+  "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "lens",
+      "title": "镜头与卡口",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Sony E 卡口",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "35-mm full frame (35.6 x 23.8 mm), Exmor R CMOS sensor",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "原生画幅比例",
+          "value": "3 : 2",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "除尘系统",
+          "value": "支持 (charge protection coating on optical filter, and image sensor shift mechanism)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "总像素",
+          "value": "约 25.3 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 24.2 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "title": "照片记录",
+      "rows": [
+        {
+          "label": "14 位 RAW",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB standard (with sYCC gamut) and Adobe RGB standard compatible with TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "动态范围处理",
+          "value": "Off, Dynamic Range Optimizer, Auto High Dynamic Range",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "创意风格",
+          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "图片配置文件",
+          "value": "支持 (Off/PP1-PP10) Parameters: Black level, Gamma (Movie, Still, Cine1-4, ITU709, ITU709 [800%], S-Log2, S-Log3, HLG, HLG1-3), Black Gamma, Knee, Color Mode, Saturation, Color Phase, Color Depth, Detail, Copy, Reset",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "记录格式",
+          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.32, MPF Baseline compliant), RAW (Sony ARW 2.3 format)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "图像质量模式",
+          "value": "RAW (Compressed/Uncompressed), JPEG (Extra fine/Fine/Standard), RAW & JPEG",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "视频记录",
+      "rows": [
+        {
+          "label": "创意风格",
+          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "记录格式",
+          "value": "XAVC S",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "图片配置文件",
+          "value": "支持 (Off/PP1-PP10) Parameters: Black level, Gamma (Movie, Still, Cine1-4, ITU709, ITU709 [800%], S-Log2, S-Log3, HLG, HLG1-3), Black Gamma, Knee, Color Mode, Saturation, Color Phase, Color Depth, Detail, Copy, Reset",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "xvYCC standard (x.v.Color when connected via HDMI cable) compatible with TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "视频编码",
+          "value": "XAVC S: MPEG-4 AVC/H.264",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "音频格式",
+          "value": "XAVC S: LPCM 2ch",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "4K 记录模式（XAVC S）",
+          "value": "3840 x 2160 (4:2:0, 8 bit, NTSC) (约) 30p (100 Mbps/60 Mbps), 3840 x 2160 (4:2:0, 8 bit, NTSC) (约) 24p (100 Mbps/60 Mbps), 3840 x 2160 (4:2:0, 8 bit, PAL) (约) 25p (100 Mbps/60 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "全高清记录模式（XAVC S）",
+          "value": "1920 x 1080 (4:2:0, 8 bit, NTSC) (约) 120p (100 Mbps/60 Mbps), 1920 x 1080 (4:2:0, 8 bit, NTSC) (约) 60p (50 Mbps/25 Mbps), 1920 x 1080 (4:2:0, 8 bit, NTSC) (约) 30p (50 Mbps/16 Mbps), 1920 x 1080 (4:2:0, 8 bit, NTSC) (约) 24p (50 Mbps), 1920 x 1080 (4:2:0, 8 bit, PAL) (约) 100p (100 Mbps/60 Mbps), 1920 x 1080 (4:2:0, 8 bit, PAL) (约) 50p (50 Mbps/25 Mbps), 1920 x 1080 (4:2:0, 8 bit, PAL) (约) 25p (50 Mbps/16 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "存储卡插槽",
+          "value": "Slot for SD (UHS-I/II compliant) memory card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD memory card, SDHC memory card (UHS-I/II compliant), SDXC memory card (UHS-I/II compliant)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "wb",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent / Flash / Underwater / Color Temperature (2500 to 9900K) & color filter / Custom",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "对焦",
+      "rows": [
+        {
+          "label": "对焦点",
+          "value": "35 mm 全画幅: 693 points (相位检测 AF), APS-C mode with FF lens: 299 points (相位检测 AF), with APS-C lens: 221 points (相位检测 AF) / 425 points (对比度检测 AF)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "自动对焦检测范围",
+          "value": "EV-4 to EV20 (ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "对焦系统",
+          "value": "快速混合自动对焦（相位检测/对比度检测）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "支持 (with built-in LED type)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "对焦模式",
+          "value": "AF-A (Automatic AF), AF-S (单次 AF), AF-C (连续 AF), DMF (Direct 手动对焦), 手动对焦",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "对焦区域",
+          "value": "Wide / Zone / Center / Flexible Spot / Expanded Flexible Spot / Tracking",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光范围",
+          "value": "EV-3 to EV 20 (ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "曝光包围",
+          "value": "Bracket: Cont., Bracket: Single, 3/5/9 frames selectable. (Ambient light, Flash light)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "曝光模式",
+          "value": "AUTO (iAuto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Movie (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M)), Slow & Quick Motion (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "ISO 感光度",
+          "value": "照片： ISO 100–51200 (ISO numbers up from ISO 50 to ISO 204800 can be set as expanded ISO range.), AUTO (ISO 100–12800, selectable lower limit and upper limit), 视频： ISO 100–51200 equivalent (ISO numbers up ISO 102400 can be set as expanded ISO range.), AUTO (ISO 100–12800, selectable lower limit and upper limit)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "测光模式",
+          "value": "Multi-segment, Center-weighted, Spot (Standard/Large), Entire Screen Avg., Highlight",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/- 5.0EV (1/3 EV, 1/2 EV steps selectable) (with exposure compensation dial: +/- 3EV [1/3 EV steps])",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "Locked when shutter button is pressed halfway. (On/Off/Auto)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "测光系统",
+          "value": "1200-zone evaluative metering",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "finder",
+      "title": "电子取景器",
+      "rows": [
+        {
+          "label": "取景视野率",
+          "value": "100%",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "取景器类型",
+          "value": "0.39-inch (1.0 cm) type 电子取景器 (XGA OLED)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications",
+          "originalValue": "0.39-inch (1.0 cm) type electronic viewfinder (XGA OLED)"
+        },
+        {
+          "label": "分辨率",
+          "value": "2,359,296 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "取景倍率",
+          "value": "约 0.59x (with 50-mm lens at infinity, –1 m^{-1})",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "眼点距离",
+          "value": "约 0.79 inches from the eyepiece lens, 0.69 inches from the eyepiece frame at –1 m^{-1} (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "触摸屏",
+          "value": "支持 (Touch shutter/Touch focus/Touch pad/Touch tracking)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "分辨率",
+          "value": "921,600 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "显示屏类型",
+          "value": "2.95 inch (3.0-type) wide type TFT",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "屏幕调整角度",
+          "value": "Opening Angle: 约 176 deg., Rotation Angle: 约 270 deg.",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "机械快门/电子快门",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications",
+          "originalValue": "Mechanical shutter/Electronic shutter"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/160 sec.",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "快门速度",
+          "value": "照片： 机械快门: 1/4000 to 30 s, Bulb, 电子快门: 1/8000 to 30 s, Movies (NTSC mode): 1/4000 to 1/4 (1/3 steps), 最高 1/60 in AUTO mode (最高 1/30 in Auto slow shutter mode), Movies (PAL mode): 1/4000 to 1/4 (1/3 steps), 最高 1/50 in AUTO mode (最高 1/25 in Auto slow shutter mode)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications",
+          "originalValue": "照片： 机械快门: 1/4000 to 30 s, Bulb, 电子快门: 1/8000 to 30 s, Movies (NTSC mode): 1/4000 to 1/4 (1/3 steps), up to 1/60 in AUTO mode (up to 1/30 in Auto slow shutter mode), Movies (PAL mode): 1/4000 to 1/4 (1/3 steps), up to 1/50 in AUTO mode (up to 1/25 in Auto slow shutter mode)"
+        },
+        {
+          "label": "静音拍摄",
+          "value": "支持 (ON/OFF)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "电子前帘快门",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "stabilization",
+      "title": "防抖",
+      "rows": [
+        {
+          "label": "防抖补偿效果",
+          "value": "Five stops (based on CIPA 标准. Pitch/yaw shake only. With Planar T* FE 50-mm F1.4 ZA lens mounted. Long exposure NR off.)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "连拍与驱动",
+      "rows": [
+        {
+          "label": "自拍定时",
+          "value": "10-sec. delay / 5-s delay / 2-s delay / Continuous self-time / Bracketing self-timer",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "最高连拍速度",
+          "value": "Continuous shooting: Hi+: 10 fps, Hi: 8 fps, Mid: 6 fps, Lo: 3 fps",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications",
+          "condition": "索尼标示最高速度；实际速度随镜头、记录格式和拍摄设置变化。"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single Shooting, Continuous shooting (Hi+/Hi/Mid/Lo selectable), Self-timer, Self-timer (Cont.), Bracket: Single, Bracket: Cont., White Balance bracket, DRO bracket",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "接口",
+      "rows": [
+        {
+          "label": "耳机接口",
+          "value": "支持 (3.5 mm Stereo minijack)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "麦克风接口",
+          "value": "支持 (3.5 mm Stereo minijack)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "电脑连接",
+          "value": "Mass-storage / MTP",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "静态照片续航",
+          "value": "约 680 shots (取景器) / 约 740 shots (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "视频续航（连续记录）",
+          "value": "约 220 min. (取景器) / 约 215 min. (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "USB 供电",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "视频续航（实际拍摄）",
+          "value": "约 140 min. (取景器) / 约 140 min. (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "机内充电",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "电池型号",
+          "value": "One rechargeable battery pack NP-FZ100",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "4.88 x 2.80 x 2.35 inches, 4.88 x 2.80 x 2.11 inches (FROM GRIP TO MONITOR) / 124.0 mm x 71.1 mm x 59.7 mm, 124.0 mm x 71.1 mm x 53.5 mm (FROM GRIP TO MONITOR)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        },
+        {
+          "label": "重量（机身 / 含电池及存储卡）",
+          "value": "约 1 lb 2.0 oz / 约 509 g (仅机身: 约 0 lb 15.0 oz / 约 424 g)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-7-series/ilce-7c/specifications"
+        }
+      ]
+    }
+  ]
+}

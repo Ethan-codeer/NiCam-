@@ -1,10 +1,6 @@
 import { Bookmark } from "lucide-react";
 import type { Camera } from "./data";
 import { CameraArt } from "./CameraArt";
-const go = (path: string) => {
-  location.hash = path;
-  window.scrollTo(0, 0);
-};
 const val = (v: number | null, unit = "") => (v === null ? "—" : `${v}${unit}`);
 export default function EquipmentCard({
   c,
@@ -32,16 +28,15 @@ export default function EquipmentCard({
             fill={saved.includes(c.id) ? "currentColor" : "none"}
           />
         </button>
-        <button className="art-link" onClick={() => go("/camera/" + c.id)}>
-          <CameraArt camera={c} />
-        </button>
+        <CameraArt camera={c} />
+        <a className="art-link" href={"#/camera/" + c.id} aria-label={`查看 ${c.name} 器材档案`} />
       </div>
       <div className="card-copy">
         {c.verification === "pending" && (
           <span className="verification-badge">资料待核验</span>
         )}
         <span className="eyebrow">
-          {c.brand} <span> / {c.year}</span>
+          {c.brand} <span> / {c.year ?? "—"}</span>
         </span>
         <h3>
           <a href={"#/camera/" + c.id}>{c.name}</a>

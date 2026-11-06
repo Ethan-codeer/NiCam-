@@ -1,0 +1,349 @@
+{
+  "id": "leica-sl",
+  "name": "Leica SL",
+  "brand": "leica",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 24,
+  "width": 147.0,
+  "height": 104.0,
+  "depth": 39.0,
+  "description": "Leica SL 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "分辨率",
+          "value": "全画幅 (24 MP): 6000 × 4000 Pixel, APS-C (10 MP): 3936 × 2624 Pixel",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "滤镜",
+          "value": "IR-Filter, 无低通滤镜",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "传感器清洁",
+          "value": "支持",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "缓存",
+          "value": "2 GB: 33 DNGs or 30 JPEGs and DNGs",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "图像格式",
+          "value": "JPEG, DNG",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "色深",
+          "value": "14 bit (DNG), 8 bit (JPEG)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "JPEG 色彩空间",
+          "value": "Adobe RGB, ECI RGB, sRGB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "分辨率",
+          "value": "4K (4096 × 2160) @ 24 fps; 4K (3840 × 2160) @ 24, 25, 30 fps; 1080 @ 24, 25, 30, 50, 60, 100 and 120 fps; 720 @ 24, 25, 30, 50, 60, 100 and 120 fps",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "色深",
+          "value": "4:2:2/10 bit (HDMI only); 4:2:0/8 bit (recording on SD card)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "分辨率",
+          "value": "SXAG 4.4 million 点",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "取景覆盖率",
+          "value": "100 %",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "眼部传感器",
+          "value": "支持",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Leica L-Mount",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "对焦模式",
+          "value": "AF-S (focus priority), AF-C (shutter priority), MF, Touch-AF",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "AF 模式",
+          "value": "Static, Dynamic (tracking), Auto (face detection)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "AF 框大小",
+          "value": "Point, Field, Zone (9 Fields)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "AF 调节",
+          "value": "1, 5, 37 or 49 Fields; 529 Spot Positions",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "内置",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "眼点",
+          "value": "20 mm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "放大倍率",
+          "value": "× 0.80 (with 50 mm lens at infinity, −1 dpt)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "− 4 to +2",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "实时取景",
+          "value": "Operating Modes: Video- and Photo-Live-View separated; Frame rate: 最高 60 fps; Exposure simulation and depth of field available, Optional information: Focus Peaking, Histogram, Clipping/Zebra, Level, Grid Overlay (3 × 3, 6 × 4), Aspect Ratio (1.33:1; 1.66:1; 1.78:1; 1.85:1; 2.35:1; 2.4:1), Safe Area (80 %; 90 %; 92.5 %; 95 %)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf",
+          "originalValue": "Operating Modes: Video- and Photo-Live-View separated; Frame rate: up to 60 fps; Exposure simulation and depth of field available, Optional information: Focus Peaking, Histogram, Clipping/Zebra, Level, Grid Overlay (3 × 3, 6 × 4), Aspect Ratio (1.33:1; 1.66:1; 1.78:1; 1.85:1; 2.35:1; 2.4:1), Safe Area (80 %; 90 %; 92.5 %; 95 %)"
+        },
+        {
+          "label": "触摸屏",
+          "value": "2.95\" Touch Back light LED with Anti-fingerprint and Anti-scratch coating; 1.04 Mio. 像素; Format 3:2; View angle: 170°; Colors: 16 Million; Frame coverage: 100 %",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "机顶显示屏",
+          "value": "1.28\" highly reflective monochrome LCD; 128 × 128 点; View angle 120°; Anti-fingerprint coating",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "感光度 ISO",
+          "value": "ISO 50–ISO 50000",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "曝光模式",
+          "value": "程序自动 P、光圈优先 A、快门优先 S、手动 M",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "测光模式",
+          "value": "Center weighted, Multi zone, Spot",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "±3 EV in 1/3 or 1/2 EV-steps",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "曝光包围",
+          "value": "3/5 images in 1/2/3 aperture steps; additonal direct JPEG-HDR",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "白平衡",
+          "value": "Preset Auto, Daylight 5200 K, Cloudy 6000 K, Shade 7000 K, Tungsten 3200 K, HMI 5600 K, Fluorescent warm 4000 K, Fluorescent cool 4500 K, Flash 5400 K, Greycard, Manual color temperature 2000 K to 11500 K",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门速度",
+          "value": "1/8000 s to 60 s, time exposures 最高 30 min, 1 Second to 1/16000 s using 电子快门 mode",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf",
+          "originalValue": "1/8000 s to 60 s, time exposures up to 30 min, 1 Second to 1/16000 s using electronic shutter mode"
+        },
+        {
+          "label": "闪光同步",
+          "value": "1/250 s",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "Leica SL（Typ 601）全画幅无反相机",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "传感器类型与尺寸",
+          "value": "CMOS-Sensor Size 24 × 36 mm (全画幅)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "图像处理器",
+          "value": "Leica Maestro II series",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "文件格式",
+          "value": "MP4, MOV",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "视频码率 / 位深",
+          "value": "8 bit (recording); 10 bit (HDMI not recording)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "视频",
+          "value": "L-Log selectable",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "音频",
+          "value": "Manual/Auto; 立体声 microphone, 48 kHz, 16 bit; Wind elimination",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "单段视频限制",
+          "value": "Max. duration: 29 min, Max. size: 4 GB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "尺寸",
+          "value": "0.66\"",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "视野",
+          "value": "37°",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "自动对焦系统",
+          "value": "反差自动对焦",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "快门类型",
+          "value": "Electronically-controlled, vertical-traverse, focal-plane type",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single, Continuous slow S (4 fps), Continuous medium M (7 fps), Continuous fast F (11 frames / sec. without AF/ AE/WB), Self timer 2 s, Self timer 12 s, Interval, Exposure Bracketing, Time exposures 最高 30 min",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf",
+          "originalValue": "Single, Continuous slow S (4 fps), Continuous medium M (7 fps), Continuous fast F (11 frames / sec. without AF/ AE/WB), Self timer 2 s, Self timer 12 s, Interval, Exposure Bracketing, Time exposures up to 30 min"
+        },
+        {
+          "label": "防尘防水",
+          "value": "支持",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "SD 存储",
+          "value": "UHS-1: All UHS-1 SD cards; UHS-2: Recommended cards*: SANDISK EXTREME PRO UHS2 CLASS3 (16 GB) (32 GB) (64 GB); LEXAR PROFESSIONAL 1000x UHS2 CLASS3 (16 GB) (32 GB) (64 GB) (128 GB) (256 GB), PROFESSIONAL 2000x UHS2 CLASS3 (32 GB) (64 GB); TOSHIBA EXCERIA PRO CLASS1 (16 GB) (32 GB) (64 GB) (128 GB), EXCERIA PRO CLASS3 (16 GB) (32 GB) (64 GB) (128 GB); TRANSCEND ULTIMATE UHS2 CLASS3 (32 GB) (64 GB) * Leica performs ongoing compatibility tests of the latest cards available in the market. However due to changes in production and software of the SD cards, Leica can not guarantee 100 % compatibility of the recommended cards",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "连接接口",
+          "value": "Standard X-jack, Hot shoe with Sync. and TTL-Mode contacts",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "无线网络 Wi-Fi",
+          "value": "内置, IEEE 802.11 b/g/n (2.4 GHz)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "定位 GPS",
+          "value": "内置, Automatic time and date, Sensitivity < 1°",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "连接接口",
+          "value": "USB 3.0 Micro Type B; HDMI Type A; Multi connector adapter for Audio-Out 3.5 mm/Audio-In 3.5 mm; Multi Connector cable release; ISO accessory shoe with center and control contacts for flash units; Standard X-jack; Mul- tifunctional interface for optional handgrip",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电池与供电",
+          "value": "锂电池，标称8.4V、至少1860mAh；约400张（CIPA）；充电约180分钟",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "机身材料",
+          "value": "Milled Aluminium",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "A 1/4 DIN 4503 (1/4\") with anti-twist locking groove",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "尺寸 / 重量",
+          "value": "147 × 104 × 39 mm (W × H × D)/约 771/847 g (不含/含电池)",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        },
+        {
+          "label": "工作条件",
+          "value": "约 0°– 40 °C, max. 85 % humidity",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-36546-Technical-Data_SL-System_January2018_e.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "id": "sony-a6300",
+  "name": "Sony α6300",
+  "brand": "sony",
+  "year": null,
+  "format": "APS-C",
+  "type": "无反相机",
+  "megapixels": 24.2,
+  "width": null,
+  "height": null,
+  "depth": null,
+  "description": "索尼 E 卡口 APS-C 无反相机，技术参数据索尼官方规格页整理。",
+  "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "lens",
+      "title": "镜头与卡口",
+      "rows": [
+        {
+          "label": "镜头兼容性",
+          "value": "Sony E 卡口镜头",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "Sony E 卡口",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "sensor",
+      "title": "传感器",
+      "rows": [
+        {
+          "label": "原生画幅比例",
+          "value": "3 : 2",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "除尘系统",
+          "value": "Charge protection coating on Optical Filter and ultrasonic vibration mechanism",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "总像素",
+          "value": "约 25.0 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "APS-C type (23.5 x 15.6 mm) Exmor® CMOS sensor",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "传感器类型",
+          "value": "APS-C",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "有效像素",
+          "value": "约 24.2 百万像素",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "still",
+      "title": "照片记录",
+      "rows": [
+        {
+          "label": "图像质量模式",
+          "value": "RAW, RAW & JPEG, JPEG Extra fine, JPEG Fine, JPEG Standard",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "色彩空间",
+          "value": "sRGB standard (with sYCC gamut) and Adobe® RGB standard compatible with TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "创意风格",
+          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn Leaves, Black & White, Sepia (Contrast -3 to +3 steps, Saturation -3 to +3 steps, Sharpness -3 to +3 steps) (Style Box 1–6 also provided)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "照片记录格式",
+          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.3, MPF Baseline compliant), RAW (Sony ARW 2.3 format)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "动态范围处理",
+          "value": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range: Auto Exposure Difference, Exposure Difference Level (1.0-6.0 EV, 1.0 EV step)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "video",
+      "title": "视频记录",
+      "rows": [
+        {
+          "label": "色彩空间",
+          "value": "xvYCC standard (x.v.Color when connected via HDMI cable) compatible with TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "图片配置文件",
+          "value": "支持 (Off / PP1-PP9) Parameters: Black level, Gamma (Movie, Still, Cine1-4, ITU709, ITU709 [800%], S-Log2, S-Log3), Black Gamma, Knee, Color Mode (Movie, Still, Cinema, Pro, ITU709 Matrix, White&Black, S-Gamut, S-Gamut3.Cine, S-Gamut3), Saturation, Color Phase, Color Depth, Detail, Copy, Reset",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "记录格式",
+          "value": "XAVC S/AVCHD format Ver. 2.0 compliant/MP4",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "视频编码",
+          "value": "XAVC S: MPEG-4 AVC/H.264, AVCHD: MPEG-4 AVC/H.264, MP4: MPEG-4 AVC/H.264",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "音频格式",
+          "value": "XAVC S: LPCM 2ch, AVCHD: Dolby® Digital (AC-3) 2ch, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2ch",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "视频分辨率与帧率（PAL）",
+          "value": "XAVC S 4K: 3840 x 2160 (25p/100 Mbps, 25p/60 Mbps), XAVC S HD: 1920 x 1080 (50p/50 Mbps, 25p/50 Mbps, 100p/100 Mbps, 100p/60 Mbps), AVCHD: 1920 x 1080 (50p/28 Mbps/PS, 50i/24 Mbps/FX, 50i/17 Mbps/FH, 25p/24 Mbps/FX, 25p/17 Mbps/FH), MP4: 1920 x 1080 (50p/28 Mbps, 25p/16 Mbps), 1280 x 720 (25p/6 Mbps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "无信息叠加 HDMI 输出",
+          "value": "NTSC: 3840 x 2160 (30p/24p)/1920 x 1080 (60p/24p)/1920 x 1080 (60i), YCbCr 4:2:2 8bit/RGB 8bit, PAL: 3840 x 2160 (25p)/1920 x 1080 (50p)/1920 x 1080 (50i), YCbCr 4:2:2 8bit/RGB 8bit",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "高清视频输出",
+          "value": "HDMI micro connector (Type-D), BRAVIA® Sync (link menu), Photo TV HD, 4K movie output, 4K still image playback",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "storage",
+      "title": "存储",
+      "rows": [
+        {
+          "label": "存储卡插槽",
+          "value": "Multi slot for Memory Stick Duo™/ SD memory card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "存储介质",
+          "value": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo, Memory Stick Micro™ (M2), SD memory card, SDHC memory card (UHS-I compliant), SDXC memory card (UHS-I compliant), microSD memory card, microSDHC memory card, microSDXC memory card",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "wb",
+      "title": "白平衡",
+      "rows": [
+        {
+          "label": "白平衡",
+          "value": "Auto WB / Daylight / Shade / Cloudy / Incandescent / Fluorescent (Warm White / Cool White / Day White / Daylight) / Flash / Color Temperature (2500 to 9900K) & Color Filter (G7 to M7: 57 steps, A7 to B7: 29 steps) / Custom / Underwater",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "focus",
+      "title": "对焦",
+      "rows": [
+        {
+          "label": "自动对焦模式",
+          "value": "Automatic AF (AF-A), 单次 AF (AF-S), 连续 AF (AF-C), Direct 手动对焦 (DMF), 手动对焦",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "对焦系统",
+          "value": "快速混合自动对焦（相位检测/对比度检测）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "自动对焦检测范围",
+          "value": "EV-1 to EV 20 (ISO 100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "对焦区域",
+          "value": "Wide (425 points [相位检测 AF], 169 points [对比度检测 AF]) / Zone / Center / Flexible Spot (S/M/L) / Expand Flexible Spot / Lock-on AF (Wide / Zone / Center / Flexible Spot [S/M/L] / Expand Flexible Spot)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "对焦点",
+          "value": "425 points (相位检测 AF)/169 points (对比度检测自动对焦)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications",
+          "originalValue": "425 points (相位检测 AF)/169 points (Contrast-detection AF)"
+        }
+      ]
+    },
+    {
+      "id": "exposure",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光模式",
+          "value": "Multi-segment, Center-weighted, Spot",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "+/-5.0 EV (in 1/3 EV or 1/2 EV steps)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "自动曝光锁定",
+          "value": "Available with AE lock button. Locked when shutter button is pressed halfway. Can be disabled from the Menu.",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "测光系统",
+          "value": "1200-zone evaluative metering",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV-2 to EV20 (at ISO100 equivalent with F2.0 lens attached)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "曝光模式",
+          "value": "Auto (iAuto, Superior Auto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Scene Selection, Sweep Panorama, Movie/High Frame Rate (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "ISO 感光度",
+          "value": "照片： ISO 100-25600 (expandable to 51200), AUTO (ISO 100-6400, selectable lower limit and upper limit), 视频： ISO 100-25600 equivalent, AUTO (ISO 100-6400 equivalent, selectable lower limit and upper limit)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "finder",
+      "title": "电子取景器",
+      "rows": [
+        {
+          "label": "取景器类型",
+          "value": "XGA OLED, 1.0 cm (0.39 type) 电子取景器 (color)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications",
+          "originalValue": "XGA OLED, 1.0 cm (0.39 type) electronic viewfinder (color)"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "-4.0 to +3.0 m^{-1}",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "分辨率",
+          "value": "2,359,296 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "取景倍率",
+          "value": "约 1.07x (35 mm camera equivalent: 约 0.70x) with 50 mm lens at infinity, -1m^{-1}",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "眼点距离",
+          "value": "约 23 mm from the eyepiece lens, 21.4 mm from the eyepiece frame at -1m^{-1}(CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "取景视野率",
+          "value": "100%",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "screen",
+      "title": "显示屏",
+      "rows": [
+        {
+          "label": "分辨率",
+          "value": "921,600 dots",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "显示屏类型",
+          "value": "2.95 in (3.0-type) wide type TFT",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "屏幕调整角度",
+          "value": "Up 约 90 degrees, down 约 45 degrees",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "shutter",
+      "title": "快门",
+      "rows": [
+        {
+          "label": "静音拍摄",
+          "value": "支持, On/Off",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "电子前帘快门",
+          "value": "支持, On/Off",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "快门速度",
+          "value": "照片： 1/4000 to 30 s, Bulb, 视频： 1/4000 to 1/4 (1/3 step), NTSC: 最高 1/60 in AUTO mode (最高 1/30 in Auto Slow Shutter mode), PAL: 最高 1/50 in AUTO mode (最高 1/25 in Auto Slow Shutter mode)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications",
+          "originalValue": "照片： 1/4000 to 30 s, Bulb, 视频： 1/4000 to 1/4 (1/3 step), NTSC: Up to 1/60 in AUTO mode (up to 1/30 in Auto Slow Shutter mode), PAL: Up to 1/50 in AUTO mode (up to 1/25 in Auto Slow Shutter mode)"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/160 sec.",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "快门类型",
+          "value": "Electronically controlled, vertical-traverse, focal-plane type",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "stabilization",
+      "title": "防抖",
+      "rows": [
+        {
+          "label": "防抖系统",
+          "value": "机身不提供防抖；可使用镜头防抖",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "drive",
+      "title": "连拍与驱动",
+      "rows": [
+        {
+          "label": "最高连拍速度",
+          "value": "Continuous mode: 11fps (Hi+), 8fps (Hi), 6fps (Mid), 3fps (Lo)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications",
+          "condition": "索尼标示最高速度；实际速度随镜头、记录格式和拍摄设置变化。"
+        },
+        {
+          "label": "驱动模式",
+          "value": "Single shooting, Continuous shooting (Hi+/Hi/Mid/Lo selectable), Self-timer, Self-timer (Cont.), Bracketing (Cont., Single, White Balance, DRO)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "interface",
+      "title": "接口",
+      "rows": [
+        {
+          "label": "高清视频输出",
+          "value": "HDMI micro connector (Type-D), BRAVIA® Sync (link menu), Photo TV HD, 4K movie output, 4K still image playback",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "NFC",
+          "value": "支持 (NFC Forum Type 3 Tag compatible, One-touch remote, One-touch sharing)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "Multi / Micro USB 接口",
+          "value": "支持",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "电脑连接",
+          "value": "Mass-storage, MTP, PC remote",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "power",
+      "title": "电源",
+      "rows": [
+        {
+          "label": "视频续航（CIPA）",
+          "value": "Actual : 约 70 min. (viewfinder) / 约 75 min. (LCD 显示屏) (CIPA 标准), Continuous : 约 115 min. (viewfinder) / 约 115 min. (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "静态照片续航",
+          "value": "约 350 shots (viewfinder) / 约 400 shots (LCD 显示屏) (CIPA 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "电池型号",
+          "value": "Rechargeable battery pack NP-FW50",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    },
+    {
+      "id": "body",
+      "title": "机身",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约 2.63 x 4.72 x 1.92 in",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        },
+        {
+          "label": "重量（机身 / 含电池及存储卡）",
+          "value": "约 12.73 oz (仅机身)/约 14.25 oz (with battery and Memory Stick PRO Duo™)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-6000-series/ilce-6300/specifications"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "id": "panasonic-s1",
+  "name": "Panasonic Lumix DC-S1",
+  "brand": "panasonic",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 24.2,
+  "width": 151,
+  "height": 114.2,
+  "depth": 110.4,
+  "description": "Panasonic Lumix DC-S1 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "图像传感器",
+          "value": "35 mm full-frame (35.6 mm × 23.8 mm) CMOS 传感器 Total of 25,280,000 像素, primary color filter",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "有效像素",
+          "value": "24,200,000 像素",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "动态范围",
+          "value": "14+ stops ([V-Log])",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "照片尺寸",
+          "value": "When the aspect ratio setting is [4:3]: [L]: 5328×4000 (3536×2656)* [M]: 3792×2848 (2656×1920)* [S]: 2688×2016 (1840×1376)* High Resolution Mode: 10656×8000 6K photo: 4992×3744 4K photo: 3328×2496 (3328×2496)* [HLG Photo] ([Full-Res.]): 5312×3984 [HLG Photo] ([4K-Res.]): 2880×2160 (2880×2160)* When the aspect ratio setting is [3:2]: [L]: 6000×4000 (3888×2592)* [M]: 4272×2848 (2784×1856)* [S]: 3024×2016 (2016×1376)* High Resolution Mode: 12000×8000 6K photo: 5184×3456 4K photo: 3504×2336 (3504×2336)* [HLG Photo] ([Full-Res.]): 5984×4000 [HLG Photo] ([4K-Res.]): 3232×2160 (3232×2160)* When the aspect ratio setting is [16:9]: [L]: 6000×3388 (4064×2288)* [M]: 4272×2400 (2816×1584)* [S]: 3024×1704 (2016×1136)* High Resolution Mode: 12000×6736 4K photo: 3840×2160 (3840×2160)* [HLG Photo] ([Full-Res.]): 5888×3312 [HLG Photo] ([4K-Res.]): 3840×2160 (3840×2160)* When the aspect ratio setting is [1:1]: [L]: 4000×4000 (2656×2656)* [M]: 2848×2848 (（其余模式见原厂规格表）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "照片画质",
+          "value": "Fine / Standard / RAW+Fine / RAW+Standard / RAW",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "视频画质",
+          "value": "Refer to page 255 in the Owner's Manual. for information about resolution, recording frame rate, and other elements of recording quality",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Leica Camera AG L-Mount",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "对焦系统",
+          "value": "AF type: TTL type based on image detection (反差自动对焦) Focus mode: AFS / AFC / MF AF mode: Automatic detection (Face/Eye/Body/Animal) Tracking 225-Area Zone (Vertical/Horizontal) Zone (Square) Zone (Oval) 1-Area+Supplementary 1-Area Pinpoint Custom1, 2, 3 Focus area selection is possible by touching or with the joystick",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "影像防抖",
+          "value": "Compliant with image sensor shift type, 5-axis stabilizer, Dual I.S.2 Image stabilizer effect: In-body image stabilizer: 6.0 stops [Focal length f=50 mm, using an interchangeable lens (S-X50)] Dual I.S.2: 6.5 stops [Focal length f=105 mm, using an interchangeable lens (S-R24105)]* (Based on the CIPA standard, Yaw/Pitch direction) *Firmware version 1.1 or higher",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "变焦功能",
+          "value": "Extended Tele Conversion (Picture): Max. 2× * (when a picture size of [S] is selected.) * Max. 1.9× when using Super 35 mm/APS-C lenses",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "System: Aspect ratio 4:3, 0.5 inches, 约 5,760,000 点, organic EL (OLED) live view viewfinder Field of view ratio: 约 100% Magnification: 约 0.78× (−1.0 m −1 50 mm at infinity, with aspect ratio set to [3:2]) Eye point: 约 21 mm (at −1.0 m −1 ) Diopter adjustment range: −4.0 to +2.0 diopter Eye sensor: 支持",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "显示屏",
+          "value": "System: Aspect ratio 3:2, 3.2 inches, 约 2,330,000 点 monitor, capacitive 触摸屏 Field of view ratio: 约 100%",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/",
+          "originalValue": "System: Aspect ratio 3:2, 3.2 inches, 约 2,330,000 点 monitor, capacitive touch screen Field of view ratio: 约 100%"
+        },
+        {
+          "label": "机顶状态屏",
+          "value": "1.8 inches, 303×230 点, black and white LCD monitor",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光系统与模式",
+          "value": "1728-zone metering Multi-metering Center-weighted metering Spot metering Highlight-weighted metering",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV 0 to EV 18 (F2.0 lens, ISO100 conversion)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "曝光系统",
+          "value": "Program AE (P) Aperture-Priority AE (A) Shutter-Priority AE (S) Manual Exposure (M)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "1/3 EV steps, ±5 EV",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "ISO 范围",
+          "value": "AUTO / 100 to 51200 When [Extended ISO] is set: AUTO / 50 to 204800 1/3 EV steps",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "双原生 ISO",
+          "value": "Auto Base sensitivity: 100/640 (dB display values are based on 100) AUTO / 100 to 51200 When [Extended ISO] is set: AUTO / 50 to 204800 Low sens. Base sensitivity: 100 AUTO / 100 to 800 When [Extended ISO] is set: AUTO / 50 to 800 High sens. Base sensitivity: 640 AUTO / 640 to 51200 When [Extended ISO] is set: AUTO / 320 to 204800",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "双原生 ISO（V-Log）",
+          "value": "Auto Base sensitivity: 640/4000 (dB display values are based on 640) AUTO / 640 to 51200 When [Extended ISO] is set: AUTO / 320 to 51200 Low sens. Base sensitivity: 640 AUTO / 640 to 5000 When [Extended ISO] is set: AUTO / 320 to 5000 High sens. Base sensitivity: 4000 AUTO / 4000 to 51200 When [Extended ISO] is set: AUTO / 2000 to 51200",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "双原生 ISO（Cinelike D2/V2）",
+          "value": "Auto Base sensitivity: 200/1250 (dB display values are based on 200) AUTO / 200 to 51200 When [Extended ISO] is set: AUTO / 100 to 204800 Low sens. Base sensitivity: 200 AUTO / 200 to 1600 When [Extended ISO] is set: AUTO / 100 to 1600 High sens. Base sensitivity: 1250 AUTO / 1250 to 51200 When [Extended ISO] is set: AUTO / 640 to 204800",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "双原生 ISO（HLG）",
+          "value": "Auto Base sensitivity: 400/2500 (dB display values are based on 400) AUTO / 400 to 51200 When [Extended ISO] is set: AUTO / 400 to 204800 Low sens. Base sensitivity: 400 AUTO / 400 to 3200 High sens. Base sensitivity: 2500 AUTO / 2500 to 51200 When [Extended ISO] is set: AUTO / 2500 to 204800",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "白平衡",
+          "value": "White balance modes: AWB / AWBc / AWBw Daylight Cloudy Shade Incandescent lights Flash Set mode: 1, 2, 3, 4 Color temperature: 1, 2, 3, 4",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "Focal-plane shutter",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "快门速度",
+          "value": "Pictures: 机械快门: Bulb (max. 约 30 minutes), 60 seconds to 1/8000 of a second Electronic front curtain: Bulb (max. 约 30 minutes), 60 seconds to 1/2000 of a second 电子快门: Bulb (max. 约 60 seconds), 60 seconds to 1/8000 of a second Videos: 1/25 * of a second to 1/16000 of a second * When [Exposure Mode] is set to [M] in [ Creative Video ] and focus mode is set to [MF], this can be set 最高 1/2",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/",
+          "originalValue": "Pictures: Mechanical shutter: Bulb (max. 约 30 minutes), 60 seconds to 1/8000 of a second Electronic front curtain: Bulb (max. 约 30 minutes), 60 seconds to 1/2000 of a second Electronic shutter: Bulb (max. 约 60 seconds), 60 seconds to 1/8000 of a second Videos: 1/25 * of a second to 1/16000 of a second * When [Exposure Mode] is set to [M] in [ Creative Video ] and focus mode is set to [MF], this can be set up to 1/2"
+        },
+        {
+          "label": "外接闪光灯",
+          "value": "Flash mode: Auto Auto/Red-Eye Forced Flash On Forced On/Red-Eye Slow Sync. Slow Sync./Red-Eye Forced Flash Off Flash synchronization speed: Equal to or smaller than 1/320 of a second * * The guide number decreases at 1/320 of a second, only during [S]/[M] modes",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "照片文件格式",
+          "value": "JPEG (DCF compliant, Exif 2.31 compliant) / RAW / HLG photo (CTA-2072 compliant)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "6K / 4K 照片格式",
+          "value": "6K photo: MP4 (H.265/HEVC, AAC (2ch)) 4K photo: MP4 (H.264/MPEG-4 AVC, AAC (2ch))",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "视频格式",
+          "value": "Video format: AVCHD Progressive AVCHD MP4 (H.264/MPEG-4 AVC, H.265/HEVC) MOV (H.264/MPEG-4 AVC, H.265/HEVC) Audio format: AVCHD: Dolby Audio (2ch) MP4: AAC (2ch) MOV: LPCM (2ch, 48 kHz/16-bit*) *When an XLR Microphone Adaptor (DMW-XLR1: optional) is attached, LPCM (2ch, 48 kHz/24-bit, 96 kHz/24-bit) can be selected",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "系统频率",
+          "value": "59.94 Hz / 50.00 Hz / 24.00 Hz",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "连拍",
+          "value": "机械快门/Electronic front curtain High speed: 9 frames/second ([AFS], [MF]) / 6 frames/second ([AFC]) Medium speed: 5 frames/second Low speed: 2 frames/second 电子快门 High speed: 9 frames/second ([AFS], [MF]) / 5 frames/second ([AFC]) Medium speed: 5 frames/second Low speed: 2 frames/second Maximum number of frames recordable [FINE] / [STD.]: 999 frames or more [RAW+FINE] / [RAW+STD.] / [RAW]: 60 frames or more (When recording is performed under the test conditions specified by Panasonic)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/",
+          "originalValue": "Mechanical shutter/Electronic front curtain High speed: 9 frames/second ([AFS], [MF]) / 6 frames/second ([AFC]) Medium speed: 5 frames/second Low speed: 2 frames/second Electronic shutter High speed: 9 frames/second ([AFS], [MF]) / 5 frames/second ([AFC]) Medium speed: 5 frames/second Low speed: 2 frames/second Maximum number of frames recordable [FINE] / [STD.]: 999 frames or more [RAW+FINE] / [RAW+STD.] / [RAW]: 60 frames or more (When recording is performed under the test conditions specified by Panasonic)"
+        },
+        {
+          "label": "最低照度",
+          "value": "约 6 lx (system frequency 59.94 Hz, shutter speed 1/30 of a second) 约 6 lx (system frequency 50.00 Hz, shutter speed 1/25 of a second) [When using the interchangeable lens (S-R24105)]",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "麦克风 / 扬声器",
+          "value": "Microphone: 立体声 Speaker: 单声道",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD memory card SDHC memory card * SDXC memory card * Double slot recording function is available. *Compliant with UHS-I/UHS-II UHS Speed Class 3, UHS-II Video Speed Class 90",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "连接接口",
+          "value": "USB: USB Type-C™, SuperSpeed USB3.1 GEN1, Supports USB Power Delivery (9.0 V/3.0 A) [HDMI]: HDMI Type A [REMOTE]: Ø 2.5 mm jack [MIC]: Ø 3.5 mm stereo mini jack, Mic Input (Plug-in Power) / Mic Input / Line Input (Operate the menu to switch between these inputs) Standard input level: −55 dBV (Mic Input) −10 dBV (Line Input) Headphones: Ø 3.5 mm stereo mini jack Flash Synchro: 支持 TC IN/OUT: 支持 (connect the BNC conversion cable (supplied) to the flash synchro socket) Input: 1.0 V to 4.0 V [p-p], 10 kΩ Output: 2.0 V ±0.5 V [p-p], low impedance",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "9.0V DC",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "功耗",
+          "value": "6.3 W (when recording with the monitor) 4.8 W (when playing back with the monitor) [When using the interchangeable lens (S-R24105)]",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "防泼溅",
+          "value": "支持",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "外部尺寸",
+          "value": "约 151.0 mm (W) × 114.2 mm (H) × 110.4 mm (D) (5.94\" (W) × 4.50\" (H) × 4.35\" (D)) (excluding the projecting parts)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "重量",
+          "value": "约 1164 g / 2.57 lb (with one card and the battery) 约 1052 g / 2.32 lb (only camera body)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "推荐工作温度",
+          "value": "−10 °C to 40 °C (14 °F to 104 °F) Battery performance temporarily worsens at low temperatures (−10 °C to 0 °C (14 °F to 32 °F)), reducing the number of pictures that can be taken and the available recording time",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        },
+        {
+          "label": "允许相对湿度",
+          "value": "10%RH to 80%RH",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s1/"
+        }
+      ]
+    }
+  ]
+}

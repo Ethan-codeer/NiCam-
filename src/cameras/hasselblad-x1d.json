@@ -1,0 +1,251 @@
+{
+  "id": "hasselblad-x1d",
+  "name": "Hasselblad X1D",
+  "brand": "hasselblad",
+  "year": null,
+  "format": "中画幅",
+  "type": "无反相机",
+  "megapixels": 50,
+  "width": 150.0,
+  "height": 98.0,
+  "depth": 71.0,
+  "description": "Hasselblad X1D 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "约 5000 万像素 CMOS",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "传感器尺寸",
+          "value": "43.8 × 32.9 mm",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "分辨率",
+          "value": "8272 × 6200",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "像元尺寸",
+          "value": "5.3 × 5.3 μm",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "色深与动态范围",
+          "value": "16 bit",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "色彩管理",
+          "value": "Hasselblad HNCS 自然色彩解决方案",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "图像尺寸与文件",
+          "value": "3FR RAW 平均 106MB；8 bit TIFF 154MB",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "显示色深",
+          "value": "24 bit 彩色",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "视频分辨率",
+          "value": "1920 × 1080",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头兼容",
+          "value": "XCD，镜头内置叶片快门",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "自动对焦系统",
+          "value": "反差检测",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "对焦模式",
+          "value": "自动 / 手动",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "对焦方式",
+          "value": "支持即时手动对焦覆盖",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "显示屏",
+          "value": "3.0 英寸 TFT，92 万点",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "触摸显示屏",
+          "value": "支持完整触摸操作",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "实时取景",
+          "value": "相机、主机及 iOS 设备；最高约 37fps",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "取景器",
+          "value": "236 万点 XGA 电子取景器",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "ISO 范围",
+          "value": "ISO 100–25600",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "测光",
+          "value": "点测光、中央重点、中央点",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "闪光曝光补偿",
+          "value": "−3 至 +3 EV",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门范围",
+          "value": "60 分钟–1/2000 秒（XCD 镜头）",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "闪光同步",
+          "value": "全快门速度同步",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "闪光控制",
+          "value": "Nikon 兼容热靴；TTL 中央重点",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "动态范围",
+          "value": "最高 14 挡",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "文件格式",
+          "value": "3FR RAW + JPEG",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "连拍速度",
+          "value": "1.7–2.3 张/秒",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "拍摄模式",
+          "value": "单张照片、视频",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "视频格式",
+          "value": "H.264，25fps",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储方式",
+          "value": "双 SD 卡槽",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "存储容量",
+          "value": "16GB 卡平均约 140 张（资料表条件）",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "USB 连接",
+          "value": "USB 3.0 Type-C，5Gbit/s",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "其他接口",
+          "value": "Mini HDMI、音频输入 / 输出",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "无线网络 / 定位",
+          "value": "802.11 a/b/g/n/ac，依地区可用",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电池与供电",
+          "value": "7.2V / 3200mAh 可充锂电池",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "工作温度",
+          "value": "−10 至 45°C",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "机身尺寸",
+          "value": "仅机身 150 × 98 × 71 mm",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        },
+        {
+          "label": "重量",
+          "value": "725 g（机身及锂电池）",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+        }
+      ]
+    }
+  ]
+}

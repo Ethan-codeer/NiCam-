@@ -1,0 +1,316 @@
+{
+  "id": "panasonic-s5",
+  "name": "Panasonic S5",
+  "brand": "panasonic",
+  "year": null,
+  "format": "全画幅",
+  "type": "无反相机",
+  "megapixels": 24.2,
+  "width": 132.6,
+  "height": 97.1,
+  "depth": 81.9,
+  "description": "Panasonic S5 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
+  "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "other-0",
+      "title": "传感器与影像",
+      "rows": [
+        {
+          "label": "传感器类型",
+          "value": "全画幅 CMOS，35.6 × 23.8 mm，原色滤镜",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "有效像素",
+          "value": "2420 万像素",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "总像素",
+          "value": "2528 万像素",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "分辨率",
+          "value": "3:2 最大 6000 × 4000；APS-C 裁切 3984 × 2656",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "高分辨率模式",
+          "value": "3:2 XL：12000 × 8000；LL：8496 × 5664",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "画质模式",
+          "value": "Fine、Standard、RAW+Fine、RAW+Standard、RAW",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "眼部传感器",
+          "value": "支持",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "缓存",
+          "value": "RAW / RAW+JPEG 至少24张（松下测试条件，卡槽1使用UHS-II卡）；JPEG至少999张",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-1",
+      "title": "镜头与对焦",
+      "rows": [
+        {
+          "label": "镜头卡口",
+          "value": "Leica L 卡口",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "自动对焦系统",
+          "value": "TTL 图像检测反差 AF",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "对焦模式",
+          "value": "AFS、AFC、MF",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "对焦区域",
+          "value": "225 区；支持人脸 / 眼睛 / 身体 / 动物检测、追踪、区域、单点及精确对焦",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "防抖",
+          "value": "5 轴传感器位移防抖，支持 Dual I.S.2",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-2",
+      "title": "显示与取景",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "0.39 英寸 OLED，236 万点，4:3",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "取景覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "取景倍率",
+          "value": "约 0.74×（50mm 无限远、−1m⁻¹、3:2）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "眼点",
+          "value": "约 20mm（−1m⁻¹）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "−4 至 +4 dpt",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "显示屏",
+          "value": "3 英寸、184 万点、3:2，电容触摸屏",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "显示覆盖率",
+          "value": "约 100%",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-3",
+      "title": "曝光与测光",
+      "rows": [
+        {
+          "label": "测光",
+          "value": "1728 区测光；多区、中央重点、点测光、高光重点",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "测光范围",
+          "value": "EV0–18（F2.0 镜头，ISO100 换算）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P、A、S、M",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "±5EV，1/3EV 步进",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "ISO 范围",
+          "value": "ISO100–51200；扩展 ISO50–204800；自动 ISO",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "白平衡",
+          "value": "AWB、AWBc、AWBw、日光、阴天、阴影、白炽灯、闪光灯；4 组自定义与4组色温",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-4",
+      "title": "快门与闪光",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "焦平面快门",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "快门速度",
+          "value": "机械：60 秒–1/8000 秒，B 门最长约30分钟",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "电子快门",
+          "value": "60 秒–1/16000 秒，B 门最长约60秒",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-5",
+      "title": "拍摄与视频",
+      "rows": [
+        {
+          "label": "动态范围",
+          "value": "V-Log 下 14+ 挡",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "文件格式",
+          "value": "JPEG（DCF、Exif 2.31）、RAW、HLG 照片",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "电子前帘快门",
+          "value": "60 秒–1/2000 秒，B 门最长约30分钟",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "连拍速度",
+          "value": "高速 AFS/MF：7张/秒；AFC：5张/秒；中速5张/秒，低速2张/秒",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "视频格式",
+          "value": "MP4、MOV；H.264 / MPEG-4 AVC、H.265 / HEVC",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "视频音频",
+          "value": "MP4：AAC双声道；MOV：LPCM双声道48kHz/16bit",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "慢动作 / 快动作",
+          "value": "4K/8bit/100M/30p或24p：1–60fps；FHD/8bit/28M/60p或20M/30p或24M/24p：1–180fps",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "麦克风",
+          "value": "立体声",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "扬声器",
+          "value": "单声道",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-6",
+      "title": "存储与连接",
+      "rows": [
+        {
+          "label": "存储介质",
+          "value": "SD / SDHC / SDXC，双卡槽中支持UHS-I及UHS-II卡",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "USB",
+          "value": "USB Type-C，SuperSpeed USB3.1 Gen1",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "HDMI",
+          "value": "Micro HDMI Type D",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "遥控接口",
+          "value": "2.5mm 插孔",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "音频接口",
+          "value": "3.5mm 输入，支持插入供电麦克风 / 普通麦克风 / 线路输入；3.5mm耳机输出",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    },
+    {
+      "id": "other-7",
+      "title": "电池与机身",
+      "rows": [
+        {
+          "label": "电源",
+          "value": "DC 8.4V",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "功耗",
+          "value": "后屏拍摄4.3W；后屏回放3.2W",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "机身尺寸",
+          "value": "132.6 × 97.1 × 81.9 mm（不含突出部分）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "重量",
+          "value": "714g（含电池及一张卡）；630g（仅机身）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "防泼溅",
+          "value": "防泼溅设计",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "工作温度",
+          "value": "0 至 40°C",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        },
+        {
+          "label": "工作湿度",
+          "value": "10–80%RH",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+        }
+      ]
+    }
+  ]
+}
