@@ -1,0 +1,27 @@
+.brand-logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  min-width: 0;
+  height: 112px;
+  padding: 25px 0;
+}
+.brand-logo img {
+  display: block;
+  width: auto;
+  height: auto;
+  max-width: min(100%, 210px);
+  max-height: 47px;
+  object-fit: contain;
+}
+.brand-logo--nikon img,
+.brand-logo--leica img {
+  max-height: 68px;
+}
+.brand-logo--hasselblad img {
+  max-width: min(100%, 235px);
+}
+.brand-archive-logo {
+  height: 96px;
+  padding: 12px 0;
+}

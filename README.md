@@ -2,7 +2,7 @@
 
 Explore Beyond the Lens.
 
-摄影百科、原理实验室与品牌博物馆。当前正式目录：**100款数码相机、逐款真实照片、6695项带来源参数**，另有20篇知识条目与三个互动实验。
+摄影百科、原理实验室与品牌博物馆。当前正式目录：**110款数码相机、逐款真实照片、中文分组参数**，另有20篇知识条目与三个互动实验。
 
 React / TypeScript / Vite，hash路由支持静态托管。
 
@@ -15,7 +15,8 @@ npm run build
 
 构建输出dist。部署使用ChatGPT Sites，沿用.openai/hosting.json的站点标识和原有访问范围。
 
-- [本次范围、来源与限制](docs/RELEASE-DIGITAL-100.md)
+- [本次更新](docs/UPDATE-110.md)
+- [此前范围、来源与限制](docs/RELEASE-DIGITAL-100.md)
 - [独立验收](docs/DIGITAL-FINAL-QA.md)
 - [设计规范](docs/DESIGN.md)
 - [数据接口](docs/DIGITAL-CONTRACT.md)

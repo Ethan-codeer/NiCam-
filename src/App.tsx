@@ -24,6 +24,7 @@ import EquipmentCard from "./EquipmentCard";
 import MuseumPages from "./MuseumPages";
 import CatalogPage from "./CatalogPage";
 import ComparePage from "./ComparePage";
+import { normalizeCompareIds, toggleComparison } from "./compareSelection";
 import SearchDialog from "./SearchDialog";
 import SpecificationSheet from "./SpecificationSheet";
 const paths = [
@@ -126,13 +127,7 @@ export default function App() {
   const toggleSaved = (id: string) =>
     setSaved((s) => (s.includes(id) ? s.filter((x) => x !== id) : [...s, id]));
   const toggleCompare = (id: string) =>
-    setSelection((s) =>
-      s.includes(id)
-        ? s.filter((x) => x !== id)
-        : s.length < 2
-          ? [...s, id]
-          : [s[1], id],
-    );
+    setSelection((s) => toggleComparison(s, id));
   const path = route.split("?")[0];
   const navPath = path.startsWith("/camera/")
     ? "/catalog"
@@ -145,10 +140,15 @@ export default function App() {
     p === "/" ? navPath === "/" : navPath.startsWith(p),
   );
   const selected = cameras.filter((c) => selection.includes(c.id));
-  const compareIds =
-    new URLSearchParams(route.split("?")[1] || "").get("ids")?.split(",") ||
-    selection;
-  const compared = cameras.filter((c) => compareIds.includes(c.id)).slice(0, 2);
+  const compareIds = normalizeCompareIds(
+    new URLSearchParams(route.split("?")[1] || "").get("ids")?.split(",") ?? selection,
+  );
+  const compared = compareIds.map(id => cameras.find(camera => camera.id === id)!);
+  useEffect(() => {
+    if (path === "/compare" && new URLSearchParams(route.split("?")[1] || "").has("ids")) {
+      setSelection(compareIds);
+    }
+  }, [route]);
   const intro = (en: string, title: string, description: string) => (
     <div className="page-intro">
       <span className="eyebrow">{en}</span>
@@ -256,7 +256,7 @@ export default function App() {
               {
                 title: "品牌博物馆",
                 en: "THE HERITAGE",
-                text: "走进六大影像品牌，沿着时间的轨迹，重访那些决定性瞬间。",
+                text: "走进影像品牌，沿着时间的轨迹，重访那些决定性瞬间。",
                 icon: Landmark,
                 path: "/museum",
               },
@@ -377,9 +377,10 @@ export default function App() {
             <div className="actions">
               <button
                 className="button dark"
+                disabled={!selection.includes(c.id) && selection.length >= 3}
                 onClick={() => toggleCompare(c.id)}
               >
-                {selection.includes(c.id) ? "✓ 已加入对比" : "+ 加入对比"}
+                {selection.includes(c.id) ? "✓ 已加入对比" : selection.length >= 3 ? "对比已满（最多 3 台）" : "+ 加入对比"}
               </button>
               <button className="button" onClick={() => toggleSaved(c.id)}>
                 <Bookmark size={16} />
@@ -736,7 +737,7 @@ export default function App() {
       {selected.length > 0 && path != "/compare" && (
         <div className="compare-tray">
           <span>
-            已选择 <b>{selected.length} / 2</b>
+            已选择 <b>{selected.length} / 3</b>
           </span>
           <div>
             {selected.map((c) => (

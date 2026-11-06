@@ -6,8 +6,8 @@
   "format": "全画幅",
   "type": "固定镜头相机",
   "megapixels": 47.3,
-  "width": 130.0,
-  "height": 80.0,
+  "width": 130,
+  "height": 80,
   "depth": 91.9,
   "description": "Leica Q2 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
   "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
@@ -30,28 +30,33 @@
         },
         {
           "label": "传感器类型与像素",
-          "value": "全画幅 CMOS 传感器, 50.4/47.3 百万像素 (总像素/有效像素)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "全画幅 CMOS 传感器；总像素 5040 万，有效像素 4730 万",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "全画幅 CMOS 传感器, 50.4/47.3 百万像素 (总像素/有效像素)"
         },
         {
           "label": "色彩深度",
-          "value": "14 bit",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "14位",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "14 bit"
         },
         {
           "label": "DNG / JPEG 分辨率",
-          "value": "JPEG: Zoom 28 mm: 47 mega像素 (8368x5584 像素), 24 mega像素 (6000x4000 像素), 12 mega像素 (4271x2848 像素) Zoom 35 mm: 30 mega像素 (6704x4472 像素), 15 mega像素 (4800x3200 像素), 8 mega像素 (3424x2288 像素) Zoom 50 mm: 15 mega像素 (4688x3128 像素), 8 mega像素 (3360x2240 像素), 4 mega像素 (2400x1600 像素) Zoom 75 mm: 7 mega像素 (3136x2096 像素), 3 mega像素 (2240x1496 像素), 2 mega像素 (1600x1072 像素) DNG: Zoom 28 mm: 46,7 mega像素 (8368x5584 像素)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "JPEG：28 mm 为 4700／2400／1200 万像素（8368×5584、6000×4000、4271×2848）；35 mm 为 3000／1500／800 万像素（6704×4472、4800×3200、3424×2288）；50 mm 为 1500／800／400 万像素（4688×3128、3360×2240、2400×1600）；75 mm 为 700／300／200 万像素（3136×2096、2240×1496、1600×1072）；DNG：28 mm，4670 万像素，8368×5584",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "JPEG: Zoom 28 mm: 47 mega像素 (8368x5584 像素), 24 mega像素 (6000x4000 像素), 12 mega像素 (4271x2848 像素) Zoom 35 mm: 30 mega像素 (6704x4472 像素), 15 mega像素 (4800x3200 像素), 8 mega像素 (3424x2288 像素) Zoom 50 mm: 15 mega像素 (4688x3128 像素), 8 mega像素 (3360x2240 像素), 4 mega像素 (2400x1600 像素) Zoom 75 mm: 7 mega像素 (3136x2096 像素), 3 mega像素 (2240x1496 像素), 2 mega像素 (1600x1072 像素) DNG: Zoom 28 mm: 46,7 mega像素 (8368x5584 像素)"
         },
         {
           "label": "色彩空间",
-          "value": "sRGB / Adobe RGB / ECI RGB V.2.0",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "sRGB；Adobe RGB；ECI RGB V.2.0",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "sRGB / Adobe RGB / ECI RGB V.2.0"
         },
         {
           "label": "JPEG 风格",
-          "value": "Standard, Vivid, Natural, Monochrome, Monochrome High Contrast, all with additional settings for contrast, saturation, and sharpness in 5 steps",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "标准、鲜艳、自然、单色、高对比度单色；各模式可将对比度、饱和度和锐度调节 5 挡",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Standard, Vivid, Natural, Monochrome, Monochrome High Contrast, all with additional settings for contrast, saturation, and sharpness in 5 steps"
         },
         {
           "label": "镜头滤镜接口",
@@ -66,43 +71,51 @@
       "rows": [
         {
           "label": "镜头系统",
-          "value": "Leica Summilux 28 f/1.7 ASPH., 11 elements in 9 groups, 3 aspherical elements",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "Leica Summilux 28 f/1.7 ASPH.；9 组 11 片，含 3 片非球面镜片",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Leica Summilux 28 f/1.7 ASPH., 11 elements in 9 groups, 3 aspherical elements"
         },
         {
           "label": "防抖",
-          "value": "Optical compensation system for photo and video recordings",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "照片和视频均支持光学防抖",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Optical compensation system for photo and video recordings"
         },
         {
           "label": "光圈范围",
-          "value": "1.7 to 16 in 1⁄3 EV increments",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "F1.7–F16，1/3 EV 步长",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "1.7 to 16 in 1⁄3 EV increments"
         },
         {
           "label": "对焦距离",
-          "value": "30 cm to ∞, with macro setting from 17 cm",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "30 cm–∞；微距模式最近 17 cm",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "30 cm to ∞, with macro setting from 17 cm"
         },
         {
           "label": "对焦方式",
-          "value": "Automatic (autofocus) or manual focusing, option of magnifying function and edge marking (focus peaking) available for manual setting",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "自动或手动对焦；手动对焦可启用放大和峰值辅助",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Automatic (autofocus) or manual focusing, option of magnifying function and edge marking (focus peaking) available for manual setting"
         },
         {
           "label": "自动对焦系统",
-          "value": "Contrast-based autofocus system",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "反差检测自动对焦",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Contrast-based autofocus system"
         },
         {
           "label": "自动对焦模式",
-          "value": "AFS (shutter release only after successful focusing), AFC (shutter release possible at any time), AF setting can be saved",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "AFS（合焦后释放快门）、AFC（随时可释放快门）；可保存自动对焦设置",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "AFS (shutter release only after successful focusing), AFC (shutter release possible at any time), AF setting can be saved"
         },
         {
           "label": "自动对焦测量方式",
-          "value": "Single zone (225 fields), multi-field, face recognition, subject tracking",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "单区（225 区）、多区、人脸识别、主体追踪",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Single zone (225 fields), multi-field, face recognition, subject tracking"
         }
       ]
     },
@@ -112,13 +125,15 @@
       "rows": [
         {
           "label": "OLED 取景器",
-          "value": "Resolution: 1280 × 960 像素 x 3 colors (=3.68 MP), image field: 约 100%, aspect ratio: 4:3, eye distance: 21mm adjustable -4 - +3 diopters, with eye sensor for automatic switching between viewfinder and monitor",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "OLED，1280×960 像素×3 色（约 368 万点），视野约 100%，4:3；眼点 21 mm，屈光度 −4 至 +3；眼传感器自动切换取景器和显示屏",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Resolution: 1280 × 960 像素 x 3 colors (=3.68 MP), image field: 约 100%, aspect ratio: 4:3, eye distance: 21mm adjustable -4 - +3 diopters, with eye sensor for automatic switching between viewfinder and monitor"
         },
         {
           "label": "显示屏",
-          "value": "3\" TFT LCD monitor with 约 1,040,000 像素, touch control possible",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "3 英寸 TFT 液晶触摸屏，约 104 万像素",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "3\" TFT LCD monitor with 约 1,040,000 像素, touch control possible"
         }
       ]
     },
@@ -128,28 +143,33 @@
       "rows": [
         {
           "label": "ISO 范围",
-          "value": "Automatic, ISO 50, ISO 100, ISO 200, ISO 400, ISO 800, ISO 1600, ISO 3200, ISO 6400, ISO 12500, ISO 25000, ISO 50000",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "自动；ISO 50、100、200、400、800、1600、3200、6400、12500、25000、50000",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Automatic, ISO 50, ISO 100, ISO 200, ISO 400, ISO 800, ISO 1600, ISO 3200, ISO 6400, ISO 12500, ISO 25000, ISO 50000"
         },
         {
           "label": "白平衡",
-          "value": "Automatic, default settings for: daylight, cloudy, halogen lighting, shadow, electronic flash, gray card, manual color temperature setting",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "自动；日光、阴天、卤素灯、阴影、电子闪光预设；灰卡测量；手动色温",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Automatic, default settings for: daylight, cloudy, halogen lighting, shadow, electronic flash, gray card, manual color temperature setting"
         },
         {
           "label": "曝光模式",
-          "value": "Automatic program, aperture priority, shutter speed priority and manual setting",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "程序自动、光圈优先、快门优先、手动曝光",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Automatic program, aperture priority, shutter speed priority and manual setting"
         },
         {
           "label": "测光",
-          "value": "Multi-field, center-weighted, spot",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "多区、中央重点、点测光",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Multi-field, center-weighted, spot"
         },
         {
           "label": "曝光补偿",
-          "value": "±3 EV in 1⁄3 EV increments",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "±3 EV，1/3 EV 步长",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "±3 EV in 1⁄3 EV increments"
         }
       ]
     },
@@ -159,18 +179,19 @@
       "rows": [
         {
           "label": "自动包围曝光",
-          "value": "3 or 5 exposures in graduations of 最高 3 EV, can be set in 1⁄3 EV increments",
+          "value": "3 或 5 张，间隔最高 3 EV，1/3 EV 步长",
           "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
           "originalValue": "3 or 5 exposures in graduations of up to 3 EV, can be set in 1⁄3 EV increments"
         },
         {
           "label": "快门类型",
-          "value": "Optionally mechanical, electronical or hybrid",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "可选机械、电子或混合快门",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Optionally mechanical, electronical or hybrid"
         },
         {
           "label": "快门速度",
-          "value": "60 s to 1⁄2000 s with mech. Shutter, 1 s to 1⁄40000 s with electr. shutter, in 1⁄3 increments, flash synchronization 最高 1⁄500 s, Linear flashes with all shutter speeds less than 1⁄ 500 s possible (with HSS-enabled SCA 3002 standard flash units)",
+          "value": "机械快门 60–1/2000 秒；电子快门 1–1/40000 秒，1/3 挡步长；闪光同步最高 1/500 秒；兼容 HSS 的 SCA 3002 闪光灯可在快于 1/500 秒时使用线性闪光",
           "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
           "originalValue": "60 s to 1⁄2000 s with mech. Shutter, 1 s to 1⁄40000 s with electr. shutter, in 1⁄3 increments, flash synchronization up to 1⁄500 s, Linear flashes with all shutter speeds less than 1⁄ 500 s possible (with HSS-enabled SCA 3002 standard flash units)"
         }
@@ -182,8 +203,9 @@
       "rows": [
         {
           "label": "相机类型",
-          "value": "Digital 35 mm compact camera, fixed focal length",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "固定焦距全画幅数码便携相机",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Digital 35 mm compact camera, fixed focal length"
         },
         {
           "label": "画面比例",
@@ -192,18 +214,21 @@
         },
         {
           "label": "动态范围",
-          "value": "14 aperture stops at ISO 100",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "ISO 100 时 14 挡",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "14 aperture stops at ISO 100"
         },
         {
           "label": "照片格式",
-          "value": "Selectable: DNG, DNG + JPEG, JPEG",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "可选 DNG、DNG+JPEG、JPEG",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Selectable: DNG, DNG + JPEG, JPEG"
         },
         {
           "label": "视频文件格式",
-          "value": "MP4 (C4K / 4K / FullHD)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "MP4（C4K／4K／全高清）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "MP4 (C4K / 4K / FullHD)"
         },
         {
           "label": "音频格式",
@@ -222,18 +247,21 @@
         },
         {
           "label": "场景模式",
-          "value": "Fully automatic, sport, portrait, landscape, night portrait, snow/beach, fireworks, candlelight, sunset, digiscoping, miniature effect, panorama, time lapse",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "全自动、运动、人像、风景、夜景人像、雪景／海滩、烟花、烛光、日落、望远镜摄影、微缩效果、全景、延时摄影",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Fully automatic, sport, portrait, landscape, night portrait, snow/beach, fireworks, candlelight, sunset, digiscoping, miniature effect, panorama, time lapse"
         },
         {
           "label": "连拍速度",
-          "value": "Selectable: 10/5/3 fps (H/M/L)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "可选 10／5／3 张/秒（高／中／低速）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Selectable: 10/5/3 fps (H/M/L)"
         },
         {
           "label": "自拍定时",
-          "value": "Delay time either 2 s or 12 s",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "2 秒或 12 秒延时",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Delay time either 2 s or 12 s"
         }
       ]
     },
@@ -243,18 +271,21 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD/SDHC/SDXC memory cards. Recommendation: UHS II memory cards",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "SD／SDHC／SDXC 存储卡；推荐 UHS-II",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "SD/SDHC/SDXC memory cards. Recommendation: UHS II memory cards"
         },
         {
           "label": "无线网络",
-          "value": "Satisfies IEEE 802.11b/g/n standard (standard WLAN protocol), channel 1-11, encryption method: WLAN-compatible WPA™/ WPA2™, access method: infrastructure mode",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "IEEE 802.11b/g/n 无线局域网；1–11 信道；WPA／WPA2 加密；基础设施模式",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Satisfies IEEE 802.11b/g/n standard (standard WLAN protocol), channel 1-11, encryption method: WLAN-compatible WPA™/ WPA2™, access method: infrastructure mode"
         },
         {
           "label": "蓝牙",
-          "value": "Bluetooth LE",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "低功耗蓝牙（Bluetooth LE）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Bluetooth LE"
         }
       ]
     },
@@ -269,13 +300,15 @@
         },
         {
           "label": "电池续航",
-          "value": "约 350 (according to CIPA-standard)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "约 350 张（CIPA 标准）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "约 350 (according to CIPA-standard)"
         },
         {
           "label": "机身材料",
-          "value": "Made of lightweight and robust magnesium construction",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "轻巧坚固的镁合金机身",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "Made of lightweight and robust magnesium construction"
         },
         {
           "label": "三脚架接口",
@@ -284,8 +317,9 @@
         },
         {
           "label": "机身尺寸（宽×高×深）",
-          "value": "约 130 × 80 × 91.9 mm (5.12 × 3.15 × 3.62 in)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf"
+          "value": "约 130×80×91.9 mm（5.12×3.15×3.62 英寸）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-13321-201111_Technical_data_Q2_en.pdf",
+          "originalValue": "约 130 × 80 × 91.9 mm (5.12 × 3.15 × 3.62 in)"
         },
         {
           "label": "重量",

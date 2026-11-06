@@ -6,9 +6,9 @@
   "format": "全画幅",
   "type": "无反相机",
   "megapixels": 47.3,
-  "width": 146.0,
-  "height": 107.0,
-  "depth": 42.0,
+  "width": 146,
+  "height": 107,
+  "depth": 42,
   "description": "Leica SL2 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
   "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
   "verification": "verified",
@@ -20,23 +20,27 @@
       "rows": [
         {
           "label": "缓存",
-          "value": "4 GB: DNG™: 78 recordings / JPG: > 100 recordings",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "4GB；DNG 78 张，JPEG 超过 100 张",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "4 GB: DNG™: 78 recordings / JPG: > 100 recordings"
         },
         {
           "label": "传感器尺寸与像素",
-          "value": "CMOS 传感器, pixel pitch: 4.3 μm / Fullframe (47.3 MP): 8368 x 5584 像素 / APS-C (20.2 MP): 5504 x 3664 像素",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "CMOS 传感器，像素间距 4.3μm；全画幅 4730 万像素：8368×5584；APS-C 2020 万像素：5504×3664",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "CMOS 传感器, pixel pitch: 4.3 μm / Fullframe (47.3 MP): 8368 x 5584 像素 / APS-C (20.2 MP): 5504 x 3664 像素"
         },
         {
           "label": "滤镜",
-          "value": "RGB color filter, UV/IR filter, 无低通滤镜",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "RGB 彩色滤镜、UV／IR 滤镜；无低通滤镜",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "RGB color filter, UV/IR filter, 无低通滤镜"
         },
         {
           "label": "图像处理器",
-          "value": "Leica Maestro series (Maestro III)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "Leica Maestro III 图像处理器",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Leica Maestro series (Maestro III)"
         },
         {
           "label": "照片分辨率",
@@ -45,13 +49,15 @@
         },
         {
           "label": "色彩深度",
-          "value": "DNG™: 14 bit, JPG: 8 bit",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "DNG™: 14位, JPG: 8位",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "DNG™: 14 bit, JPG: 8 bit"
         },
         {
           "label": "色彩空间",
-          "value": "Picture: sRGB, ECI-RGB v2.0, Adobe RGB Video: Rec. 709/Rec. 2020 (HLG)/L-Log",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "照片：sRGB、ECI-RGB v2.0、Adobe RGB；视频：Rec.709、Rec.2020（HLG）、L-Log",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Picture: sRGB, ECI-RGB v2.0, Adobe RGB Video: Rec. 709/Rec. 2020 (HLG)/L-Log"
         }
       ]
     },
@@ -61,34 +67,39 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "Leica L bayonet with contact strip for communication between lens and camera",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "Leica L 卡口，带镜头与机身通信触点",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Leica L bayonet with contact strip for communication between lens and camera"
         },
         {
           "label": "防抖",
-          "value": "5 axis Body Image Stabilization. Camera stabilizes 最高 5.5 stops",
+          "value": "5 轴机身防抖，最高补偿 5.5 挡",
           "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
           "originalValue": "5 axis Body Image Stabilization. Camera stabilizes up to 5.5 stops"
         },
         {
           "label": "对焦模式",
-          "value": "Automatic (Autofocus in modes iAF/AFs/AFc/Touch AF) or manual. With manual setting: Auto Magnification and Focus Peaking optionally available as focus aids",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "自动对焦（iAF／AFs／AFc／触摸 AF）或手动对焦；手动时可选自动放大和峰值辅助",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Automatic (Autofocus in modes iAF/AFs/AFc/Touch AF) or manual. With manual setting: Auto Magnification and Focus Peaking optionally available as focus aids"
         },
         {
           "label": "自动对焦系统",
-          "value": "Based on contrast metering and depth mapping",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "反差检测与深度映射",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Based on contrast metering and depth mapping"
         },
         {
           "label": "自动对焦模式",
-          "value": "Smart AF (autonomously selects AFs and AFc), AFs (picture taken only after successful focusing), AFc (picture can be taken at any time), AF setting can be saved",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "智能 AF（自动选择 AFs／AFc）；AFs（合焦后拍摄）、AFc（可随时拍摄）；可保存 AF 设置",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Smart AF (autonomously selects AFs and AFc), AFs (picture taken only after successful focusing), AFc (picture can be taken at any time), AF setting can be saved"
         },
         {
           "label": "自动对焦测量方式",
-          "value": "Spot (can be shifted), Field (can be shifted), Multi-Field, Zone, Face detection, object Tracking, optional Touch AF",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "点（可移动）、区域（可移动）、多区、分区、人脸检测、主体追踪；可选触摸 AF",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Spot (can be shifted), Field (can be shifted), Multi-Field, Zone, Face detection, object Tracking, optional Touch AF"
         },
         {
           "label": "对焦区域",
@@ -103,18 +114,21 @@
       "rows": [
         {
           "label": "电子取景器",
-          "value": "Resolution: 5,760,000 点, 120 fps, magnification: 0.78x, aspect ratio: 4:3, frame coverage: 100%, exit pupil position: 21 mm, setting range +2/-4 diopters, with eye sensor for automatic switchover between viewfinder and LCD panel, time delay 0.005 s",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "576 万点，120 帧/秒，0.78×，4:3，视野 100%；眼点 21 mm，屈光度 −4 至 +2；眼传感器自动切换取景器和液晶屏，延迟 0.005 秒",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Resolution: 5,760,000 点, 120 fps, magnification: 0.78x, aspect ratio: 4:3, frame coverage: 100%, exit pupil position: 21 mm, setting range +2/-4 diopters, with eye sensor for automatic switchover between viewfinder and LCD panel, time delay 0.005 s"
         },
         {
           "label": "液晶显示屏",
-          "value": "3.2“ (backlight LED) with anti-fingerprint and anti-scratch coating, 2,100,000 像素 (点), format 3:2, touch control available",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "3.2 英寸 LED 背光液晶触摸屏；防指纹及防刮涂层；210 万点，3:2",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "3.2“ (backlight LED) with anti-fingerprint and anti-scratch coating, 2,100,000 像素 (点), format 3:2, touch control available"
         },
         {
           "label": "机顶显示屏",
-          "value": "1.28“ highly reflective trans-reflective monochrome LCD, 128 x 128 像素, viewing angle 120°; anti-fingerprint coating",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "1.28 英寸高反射半透式单色液晶屏，128×128 像素；可视角 120°，防指纹涂层",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "1.28“ highly reflective trans-reflective monochrome LCD, 128 x 128 像素, viewing angle 120°; anti-fingerprint coating"
         }
       ]
     },
@@ -124,38 +138,45 @@
       "rows": [
         {
           "label": "测光",
-          "value": "TTL (‚Through The Lens‘ exposure metering)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "TTL 通过镜头测光",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "TTL (‚Through The Lens‘ exposure metering)"
         },
         {
           "label": "曝光模式",
-          "value": "Automatic program (P), Aperture priority (A): manual aperture setting, Shutter priority mode (S): manual shutter speed setting Manual (M): manual setting for shutter speed and aperture",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "程序自动 P、光圈优先 A（手动设光圈）、快门优先 S（手动设快门）、手动 M（手动设快门和光圈）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Automatic program (P), Aperture priority (A): manual aperture setting, Shutter priority mode (S): manual shutter speed setting Manual (M): manual setting for shutter speed and aperture"
         },
         {
           "label": "曝光补偿",
-          "value": "±3 EV in 1⁄3 EV increments or 1/2 EV increments",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "±3 EV，1/3 或 1/2 EV 步长",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "±3 EV in 1⁄3 EV increments or 1/2 EV increments"
         },
         {
           "label": "ISO 范围",
-          "value": "Auto ISO: ISO 100 to ISO 50000, Manual: ISO 50 to ISO 50000",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "自动 ISO 100–50000；手动 ISO 50–50000",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Auto ISO: ISO 100 to ISO 50000, Manual: ISO 50 to ISO 50000"
         },
         {
           "label": "白平衡",
-          "value": "Automatic (Auto), Daylight 5200 K, Cloudy 6000 K, Shadow 7000 K, Tungsten 3200 K, HMI 5600 K, Fluorescent Warm 4000 K, Fluorescent Cold 4500 K, Flash 5400 K, Gray Card Live View, Gray Card, Color Temperature 2000 K to 11500 K",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "自动；日光 5200K、阴天 6000K、阴影 7000K、白炽灯 3200K、HMI 5600K、暖色荧光灯 4000K、冷色荧光灯 4500K、闪光 5400K；实时取景灰卡、灰卡；色温 2000–11500K",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Automatic (Auto), Daylight 5200 K, Cloudy 6000 K, Shadow 7000 K, Tungsten 3200 K, HMI 5600 K, Fluorescent Warm 4000 K, Fluorescent Cold 4500 K, Flash 5400 K, Gray Card Live View, Gray Card, Color Temperature 2000 K to 11500 K"
         },
         {
           "label": "闪光测光",
-          "value": "Using center-weighted TTL pre-flash metering with Leica flash units (SF 26, 40, 58, 60, 64) or with system-compatible flash units, flash remote control SF C1",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "中央重点 TTL 预闪测光；支持 Leica SF 26／40／58／60／64 或系统兼容闪光灯；支持 SF C1 遥控",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Using center-weighted TTL pre-flash metering with Leica flash units (SF 26, 40, 58, 60, 64) or with system-compatible flash units, flash remote control SF C1"
         },
         {
           "label": "闪光曝光补偿",
-          "value": "SF 40: ±2 EV in 1⁄2 EV increments, SF 60: ±2 EV in 1⁄3 EV increments",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "SF 40：±2 EV，1/2 EV 步长；SF 60：±2 EV，1/3 EV 步长",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "SF 40: ±2 EV in 1⁄2 EV increments, SF 60: ±2 EV in 1⁄3 EV increments"
         }
       ]
     },
@@ -165,36 +186,39 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Electronically controlled focal plane shutter/电子快门",
+          "value": "电子控制焦平面快门／电子快门",
           "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
           "originalValue": "Electronically controlled focal plane shutter/electronic shutter"
         },
         {
           "label": "快门速度",
-          "value": "Mech. shutter: 30 min to 1⁄8000 s / Electr. shutter function: 1 s to 1⁄40000 s / Flash Synch: 最高 1/250 s",
+          "value": "机械快门 30 分钟–1/8000 秒；电子快门 1–1/40000 秒；闪光同步最高 1/250 秒",
           "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
           "originalValue": "Mech. shutter: 30 min to 1⁄8000 s / Electr. shutter function: 1 s to 1⁄40000 s / Flash Synch: up to 1/250 s"
         },
         {
           "label": "快门释放按钮",
-          "value": "Two-stage (1st stage: Activation of the camera electronics including autofocus and exposure metering, 2nd stage: Taking the picture)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "两段式：半按启动相机电子系统、自动对焦和测光；全按拍摄",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Two-stage (1st stage: Activation of the camera electronics including autofocus and exposure metering, 2nd stage: Taking the picture)"
         },
         {
           "label": "自动包围曝光",
-          "value": "3 or 5 exposures, 最高 ±3 EV, in 1⁄3 EV increments Shift function: 最高 ±3 EV",
+          "value": "3 或 5 张，最高 ±3 EV，1/3 EV 步长；偏移功能最高 ±3 EV",
           "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
           "originalValue": "3 or 5 exposures, up to ±3 EV, in 1⁄3 EV increments Shift function: up to ±3 EV"
         },
         {
           "label": "闪光灯连接",
-          "value": "About the accessory shoe",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "通过热靴连接",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "About the accessory shoe"
         },
         {
           "label": "闪光同步速度",
-          "value": ": 1⁄250 s, slower shutter speeds available, automatic changeover to TTL linear flash mode with HSS-compatible Leica flash units if sync time is undercut",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "1/250 秒，可用更慢快门；兼容 HSS 的 Leica 闪光灯在快于同步速度时自动切换 TTL 线性闪光",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": ": 1⁄250 s, slower shutter speeds available, automatic changeover to TTL linear flash mode with HSS-compatible Leica flash units if sync time is undercut"
         }
       ]
     },
@@ -204,18 +228,21 @@
       "rows": [
         {
           "label": "相机类型",
-          "value": "Mirrorless full-frame system camera",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "全画幅无反系统相机",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Mirrorless full-frame system camera"
         },
         {
           "label": "文件格式",
-          "value": "Photo: DNG™ (raw data), DNG + JPG, JPG (DCF, Exif 2.31) Video: MP4: H.264/MPEG-4 AVC (Audio Format: 2ch 48 kHz/16 bit, AAC), MOV: H.264/MPEG-4 AVC (Audio Format: 2ch 48 kHz/16 bit, AC-3)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "照片：DNG 原始数据、DNG+JPEG、JPEG（DCF、Exif 2.31）；视频：MP4 H.264／MPEG-4 AVC，双声道 48 kHz／16 位 AAC；MOV H.264／MPEG-4 AVC，双声道 48 kHz／16 位 AC-3",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Photo: DNG™ (raw data), DNG + JPG, JPG (DCF, Exif 2.31) Video: MP4: H.264/MPEG-4 AVC (Audio Format: 2ch 48 kHz/16 bit, AAC), MOV: H.264/MPEG-4 AVC (Audio Format: 2ch 48 kHz/16 bit, AC-3)"
         },
         {
           "label": "文件大小",
-          "value": "DNG™: 84.4 MB JPG: depending on resolution and image content Video: max. length: 29 min, max. file size: 96 GB",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "DNG 84.4MB；JPEG 大小取决于分辨率和内容；视频最长 29 分钟、最大 96GB",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "DNG™: 84.4 MB JPG: depending on resolution and image content Video: max. length: 29 min, max. file size: 96 GB"
         },
         {
           "label": "视频记录模式",
@@ -224,8 +251,9 @@
         },
         {
           "label": "视频码率",
-          "value": "8/10 bit for recordings on SD card, 10 bit via HDMI output",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "SD 卡记录 8／10 位；HDMI 输出 10 位",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "8/10 bit for recordings on SD card, 10 bit via HDMI output"
         },
         {
           "label": "视频伽马",
@@ -234,28 +262,33 @@
         },
         {
           "label": "自拍定时",
-          "value": "Delay time: 2 s or 12 s",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "2 秒或 12 秒延时",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Delay time: 2 s or 12 s"
         },
         {
           "label": "连拍速度",
-          "value": "Single Continuous Low Speed (3 fps), Continuous Medium Speed (6 fps), Continuous High Speed (10 fps without AFc/ AE/WB), Continuous Super Speed (20 fps with electr. shutter function without AFc/AE/WB), Interval Shooting, Exposu- re Bracketing, Multishot",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "单张；低速 3 张/秒、中速 6 张/秒、高速 10 张/秒（不逐张更新 AFc／AE／白平衡）、超高速 20 张/秒（电子快门，不逐张更新 AFc／AE／白平衡）；间隔拍摄、曝光包围、多重拍摄",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Single Continuous Low Speed (3 fps), Continuous Medium Speed (6 fps), Continuous High Speed (10 fps without AFc/ AE/WB), Continuous Super Speed (20 fps with electr. shutter function without AFc/AE/WB), Interval Shooting, Exposu- re Bracketing, Multishot"
         },
         {
           "label": "多重拍摄",
-          "value": "Generates 2 DNGs: 1x 47 MP, 1x 187 MP (8 pictures are combined into one high-res image)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "合成 8 张生成高分辨率图像；输出两份 DNG：4700 万像素和 1.87 亿像素",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Generates 2 DNGs: 1x 47 MP, 1x 187 MP (8 pictures are combined into one high-res image)"
         },
         {
           "label": "麦克风",
-          "value": "立体声 internal + microphone input 3.5 mm stereo jack",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "内置立体声麦克风；3.5 mm 立体声麦克风输入",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "立体声 internal + microphone input 3.5 mm stereo jack"
         },
         {
           "label": "扬声器",
-          "value": "内置单声道 + headphones output 3.5 mm stereo jack",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "内置单声道扬声器；3.5 mm 立体声耳机输出",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "内置单声道 + headphones output 3.5 mm stereo jack"
         }
       ]
     },
@@ -265,28 +298,33 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "UHS-II (recommended), UHS-I, SD/SDHC/SDXC memory card",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "SD／SDHC／SDXC 存储卡，支持 UHS-I；推荐 UHS-II",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "UHS-II (recommended), UHS-I, SD/SDHC/SDXC memory card"
         },
         {
           "label": "连接接口",
-          "value": "ISO accessory shoe with additional control contacts, HDMI jack 2.0b Type A, USB 3.1 Gen1 Type C, Audio-Out 3.5 mm/ Audio-In 3.5 mm, communication interface in the base cover for multifunction hand grip",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "带附加控制触点的 ISO 热靴；HDMI 2.0b Type-A；USB 3.1 Gen1 Type-C；3.5 mm 音频输入／输出；机底多功能手柄通信接口",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "ISO accessory shoe with additional control contacts, HDMI jack 2.0b Type A, USB 3.1 Gen1 Type C, Audio-Out 3.5 mm/ Audio-In 3.5 mm, communication interface in the base cover for multifunction hand grip"
         },
         {
           "label": "无线网络",
-          "value": "The Leica FOTOS app is required to use the WLAN function. The Leica app is available from the Apple App Store™ or the Google Play Store™. Compliant with Wi-Fi IEEE802.11b/g/n, 2.4 GHz, channel 1-11 (2412-2462 MHz) and Wi-Fi IEEE802.11ac, 2.4 GHz & 5 GHz, channel 39-48 (5180-5240 MHz), channel 52-64 (5260-5320 MHz), channel 100-140 (5500-5700 MHz) (standard WLAN protocol), encryption method: WLAN-compatible WPA™/WPA2™",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "需使用 Leica FOTOS 应用，可从 Apple App Store／Google Play 下载；IEEE 802.11b/g/n，2.4GHz，1–11 信道（2412–2462MHz）；IEEE 802.11ac，2.4／5GHz，39–48 信道（5180–5240MHz）、52–64（5260–5320MHz）、100–140（5500–5700MHz）；WPA／WPA2 加密（频段与信道按原始规格记录）",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "The Leica FOTOS app is required to use the WLAN function. The Leica app is available from the Apple App Store™ or the Google Play Store™. Compliant with Wi-Fi IEEE802.11b/g/n, 2.4 GHz, channel 1-11 (2412-2462 MHz) and Wi-Fi IEEE802.11ac, 2.4 GHz & 5 GHz, channel 39-48 (5180-5240 MHz), channel 52-64 (5260-5320 MHz), channel 100-140 (5500-5700 MHz) (standard WLAN protocol), encryption method: WLAN-compatible WPA™/WPA2™"
         },
         {
           "label": "蓝牙",
-          "value": "Bluetooth v4.2 (Bluetooth Low Energy (BLE)), 2402 to 2480 MHz",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "蓝牙 v4.2 低功耗（BLE），2402–2480MHz",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Bluetooth v4.2 (Bluetooth Low Energy (BLE)), 2402 to 2480 MHz"
         },
         {
           "label": "定位 GPS",
-          "value": "Via Leica FOTOS app",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "通过 Leica FOTOS 应用提供",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Via Leica FOTOS app"
         },
         {
           "label": "USB 供电",
@@ -301,18 +339,21 @@
       "rows": [
         {
           "label": "机身材料",
-          "value": "Full-metal housing made of aluminum and magnesium, leatherette, cover, splash-water protected in compliance with IEC standard 60529 (protection type IP54)",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "铝镁全金属机身，人造皮革包覆；符合 IEC 60529，IP54 防溅",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "Full-metal housing made of aluminum and magnesium, leatherette, cover, splash-water protected in compliance with IEC standard 60529 (protection type IP54)"
         },
         {
           "label": "使用环境",
-          "value": "-10 to +40°C",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "−10 至 +40°C",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "-10 to +40°C"
         },
         {
           "label": "三脚架接口",
-          "value": "A 1⁄4 DIN 4503 (1⁄4”) with stainless steel in the base",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF"
+          "value": "A 1/4 DIN 4503（1/4 英寸），机底不锈钢接口",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-55418-191106__SL2_technDatas_en_RZ.PDF",
+          "originalValue": "A 1⁄4 DIN 4503 (1⁄4”) with stainless steel in the base"
         },
         {
           "label": "机身尺寸（宽×高×深）",

@@ -20,18 +20,21 @@
       "rows": [
         {
           "label": "有效像素",
-          "value": "26.1 millions pixels",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "26.1百万像素",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "26.1 millions pixels"
         },
         {
           "label": "感光元件",
-          "value": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 4 with primary color filter.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 4 配备原色滤镜",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 4 with primary color filter."
         },
         {
           "label": "传感器清洁",
-          "value": "Ultra Sonic Vibration",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "超声波振动除尘",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Ultra Sonic Vibration"
         },
         {
           "label": "记录尺寸 · [L]<3",
@@ -58,55 +61,63 @@
       "title": "存储与接口",
       "rows": [
         {
-          "label": "存储介质 · SD memory card ",
-          "value": "SD memory card ( - 2GB) / SDHC memory card ( - 32GB) / SDXC memory card ( - 512GB)",
+          "label": "存储介质 · SD 存储卡",
+          "value": "SD 存储卡 ( - 2GB)；SDHC 存储卡 ( - 32GB)；SDXC 存储卡 ( - 512GB)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "SD memory card "
+          "condition": "SD 存储卡 ",
+          "originalValue": "SD memory card ( - 2GB) / SDHC memory card ( - 32GB) / SDXC memory card ( - 512GB)"
         },
         {
-          "label": "存储介质 · UHS-I / UHS-II / Video Speed Class V90 *1",
-          "value": "UHS-I / UHS-II / Video Speed Class V90 *1",
+          "label": "存储介质 · UHS-I / UHS-II / 视频速度等级 V90 *1",
+          "value": "UHS-I；UHS-II；视频速度等级 V90 *1",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "UHS-I / UHS-II / Video Speed Class V90 *1"
+          "condition": "UHS-I / UHS-II / 视频速度等级 V90 *1",
+          "originalValue": "UHS-I / UHS-II / Video Speed Class V90 *1"
         },
         {
           "label": "静态文件格式",
-          "value": "JPEG: Exif Ver.2.3 *2 / RAW: 14bit RAW (RAF original format) TIFF: 8/16bit RGB",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "JPEG: Exif Ver.2.3 *2；RAW: 14位RAW（RAF原始格式） TIFF: 8/16位 RGB",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "JPEG: Exif Ver.2.3 *2 / RAW: 14bit RAW (RAF original format) TIFF: 8/16bit RGB"
         },
         {
           "label": "视频记录 / 文件格式",
-          "value": "MOV (MPEG-4 AVC/H.264, HEVC/H.265, Audio: Linear PCM / Stereo sound 24bit / 48KHz sampling) / MP4 (MPEG-4 AVC/H.264, Audio: AAC)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "MOV (MPEG-4 AVC/H.264, HEVC/H.265, 音频: 线性PCM；立体声 24位；48kHz 采样)；MP4 (MPEG-4 AVC/H.264, 音频: AAC)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "MOV (MPEG-4 AVC/H.264, HEVC/H.265, Audio: Linear PCM / Stereo sound 24bit / 48KHz sampling) / MP4 (MPEG-4 AVC/H.264, Audio: AAC)"
         },
         {
           "label": "视频记录 / 视频尺寸 / 帧率 / 录制时长",
-          "value": "[DCI 4K(4096 x 2160)] 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps 59.94p/50p: 最高 约 20min. 29.97p/25p/24p/23.98p: 最高 约 30min / [4K(3840 x 2160)] 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps 59.94p/50p: 最高 约 20min. 29.97p/25p/24p/23.98p: 最高 约 30min / [Full HD(2048 x 1080)] 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30min. / [Full HD(1920 x 1080)] 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30min. / [Full HD(1920 x 1080) High speed rec.] / 240p / 200p 200Mbps(recording) 最高 约 3min. / 120p / 100p 200Mbps(recording) 最高 约 6min. / / *For recording movies, use a SD memory card with UHS Speed Class 3 or higher. / *For recording movies in 400Mbps, use a SD memory card with Video Speed Class 60 or higher. / *Recording movies in 400Mbps can be done with DCI4K/4K 29.97p/25p/24p/23.98p. / *DCI4K 59.94p/50p is not available when H.264 is selected. / *In case of a shooting under high temperature and/or repeated shootings, the recording time can become short.",
+          "value": "[DCI 4K(4096 x 2160)] 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps 59.94p/50p: 最高 约 20分钟 29.97p/25p/24p/23.98p: 最高 约 30分钟；[4K(3840 x 2160)] 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps 59.94p/50p: 最高 约 20分钟 29.97p/25p/24p/23.98p: 最高 约 30分钟；[全高清(2048 x 1080)] 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30分钟；[全高清(1920 x 1080)] 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30分钟；[全高清(1920 x 1080) 高速录制]；240p；200p 200Mbps(录制) 最高 约 3分钟；120p；100p 200Mbps(录制) 最高 约 6分钟；*录制视频时, 请使用以下等级的 SD 存储卡： UHS 速度等级 3 或更高.；*录制以下视频时： 400Mbps, 请使用以下等级的 SD 存储卡： 视频速度等级 60 或更高.；*录制以下视频时： 400Mbps 可用于 DCI4K/4K 29.97p/25p/24p/23.98p.；*DCI4K 59.94p/50p 不适用于 H.264 被选中时.；*高温拍摄时 及/或反复拍摄时, 录制时长可能缩短.",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "[DCI 4K(4096 x 2160)] 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps 59.94p/50p: up to approx. 20min. 29.97p/25p/24p/23.98p: up to approx. 30min / [4K(3840 x 2160)] 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps 59.94p/50p: up to approx. 20min. 29.97p/25p/24p/23.98p: up to approx. 30min / [Full HD(2048 x 1080)] 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps up to approx. 30min. / [Full HD(1920 x 1080)] 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps up to approx. 30min. / [Full HD(1920 x 1080) High speed rec.] / 240p / 200p 200Mbps(recording) up to approx. 3min. / 120p / 100p 200Mbps(recording) up to approx. 6min. / / *For recording movies, use a SD memory card with UHS Speed Class 3 or higher. / *For recording movies in 400Mbps, use a SD memory card with Video Speed Class 60 or higher. / *Recording movies in 400Mbps can be done with DCI4K/4K 29.97p/25p/24p/23.98p. / *DCI4K 59.94p/50p is not available when H.264 is selected. / *In case of a shooting under high temperature and/or repeated shootings, the recording time can become short."
         },
         {
           "label": "无线传输 / 标准",
-          "value": "IEEE802.11b/g/n (standard wireless protocol)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "IEEE802.11b/g/n (标准无线协议)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "IEEE802.11b/g/n (standard wireless protocol)"
         },
         {
           "label": "无线传输 / 加密",
-          "value": "WEP / WPA / WPA2 mixed mode",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "WEP／WPA／WPA2混合模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "WEP / WPA / WPA2 mixed mode"
         },
         {
           "label": "无线传输 / 接入模式",
-          "value": "Infrastructure",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "基础架构模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Infrastructure"
         },
         {
-          "label": "Bluetooth® / 标准",
-          "value": "Bluetooth Ver 4.2 (Bluetooth low energy)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "label": "蓝牙® / 标准",
+          "value": "Bluetooth Ver 4.2 (低功耗蓝牙)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Bluetooth Ver 4.2 (Bluetooth low energy)"
         },
         {
-          "label": "Bluetooth® / 工作频率 (Center frequency)",
+          "label": "蓝牙® / 工作频率 (中心频率)",
           "value": "2402 - 2480MHz",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
         },
@@ -117,13 +128,15 @@
         },
         {
           "label": "接口 / HDMI 输出",
-          "value": "HDMI micro connector (Type D)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "HDMI Micro接口 (Type D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "HDMI micro connector (Type D)"
         },
         {
           "label": "接口 / 其他接口",
-          "value": "ø3.5mm, stereo mini connector (Microphone) / ø2.5mm, Remote Release Connector, Hot shoe, Synchronized terminal",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "ø3.5mm, 立体声迷你接口 (麦克风)；ø2.5mm, 遥控快门接口, 热靴, 同步端子",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "ø3.5mm, stereo mini connector (Microphone) / ø2.5mm, Remote Release Connector, Hot shoe, Synchronized terminal"
         }
       ]
     },
@@ -133,28 +146,33 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "对焦 / 模式",
-          "value": "Single AF / Continuous AF / MF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "单次AF／连续AF／手动对焦",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Single AF / Continuous AF / MF"
         },
         {
           "label": "对焦 / 类型",
-          "value": "Intelligent Hybrid AF / (TTL contrast AF / TTL phase detection AF)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "智能混合自动对焦；(TTL反差检测AF；TTL相位检测AF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Intelligent Hybrid AF / (TTL contrast AF / TTL phase detection AF)"
         },
         {
           "label": "对焦 / 低照度对焦",
-          "value": "Contrast: -3.0EV Phase Detection: -7.0EV (XF50mmF1.0 attached)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "对比度: -3.0EV 相位检测: -7.0EV (XF50mmF1.0 已安装)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Contrast: -3.0EV Phase Detection: -7.0EV (XF50mmF1.0 attached)"
         },
         {
-          "label": "对焦 / AF frame / selection",
-          "value": "Single point AF: EVF / LCD: 13 x 9 / 25 x 17 (Changeable size of AF frame) / Zone AF: 3 x 3 / 5 x 5 / 7 x 7 from 91 areas on 13 x 9 grid / Wide/Tracking AF *AF-S: Wide / AF-C: Tracking / All",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "label": "对焦 / AF 框选择",
+          "value": "单点AF: EVF；LCD: 13 x 9；25 x 17 (AF框尺寸可调)；区域AF: 3 x 3；5 x 5；7 x 7 从 91 点分布于 13 x 9 网格；广域／跟踪AF *AF-S：广域／AF-C：跟踪；全部",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Single point AF: EVF / LCD: 13 x 9 / 25 x 17 (Changeable size of AF frame) / Zone AF: 3 x 3 / 5 x 5 / 7 x 7 from 91 areas on 13 x 9 grid / Wide/Tracking AF *AF-S: Wide / AF-C: Tracking / All"
         }
       ]
     },
@@ -163,35 +181,40 @@
       "title": "曝光与测光",
       "rows": [
         {
-          "label": "感光度 / 标准 output",
-          "value": "AUTO1 / AUTO2 / AUTO3 (最高 ISO12800) / ISO160 - 12800 (1/3 step)",
+          "label": "感光度 / 标准输出",
+          "value": "自动1；自动2；自动3 (最高 ISO12800)；ISO160 - 12800 (1/3 步长)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "AUTO1 / AUTO2 / AUTO3 (up to ISO12800) / ISO160 - 12800 (1/3 step)"
         },
         {
           "label": "感光度 / 扩展感光度",
-          "value": "ISO80 / 100 / 125 / 25600 / 51200",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "ISO80；100；125；25600；51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "ISO80 / 100 / 125 / 25600 / 51200"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "TTL 256区测光, 多重／点测光／平均／中央重点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted"
         },
         {
           "label": "曝光模式",
-          "value": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "P程序自动曝光／A光圈优先／S快门优先／M手动曝光",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)"
         },
         {
           "label": "曝光补偿",
-          "value": "-5.0EV - +5.0EV 1/3EV step (Movie: -2.0EV - +2.0EV)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "-5.0EV - +5.0EV 1/3EV 步长 (视频: -2.0EV - +2.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "-5.0EV - +5.0EV 1/3EV step (Movie: -2.0EV - +2.0EV)"
         },
         {
           "label": "白平衡",
-          "value": "Auto (WHITE PRIORITY, AUTO, AMBIENCE PRIORITY), / Custom1 - 3 / Color temperature selection (2500K - 10000K) / / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "自动 (白色优先, 自动, 环境优先),；自定义1 - 3；色温选择 (2500K - 10000K)；预设： 晴天, 阴影, 荧光灯 (日光), 荧光灯 (暖白色), 荧光灯 (冷白色), 白炽灯, 水下",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Auto (WHITE PRIORITY, AUTO, AMBIENCE PRIORITY), / Custom1 - 3 / Color temperature selection (2500K - 10000K) / / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater"
         }
       ]
     },
@@ -201,191 +224,211 @@
       "rows": [
         {
           "label": "防抖 / 机构",
-          "value": "影像传感器 shift mechanism with 5-axis compensation",
+          "value": "传感器位移式五轴防抖",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "Image sensor shift mechanism with 5-axis compensation"
         },
         {
           "label": "防抖 / 补偿效果",
-          "value": "Maximum 6.5 stops (based on CIPA standard. Pitch/yaw shake only.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "最大 6.5 级 (依据 CIPA 标准. 仅补偿俯仰/偏摆抖动.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Maximum 6.5 stops (based on CIPA standard. Pitch/yaw shake only."
         },
         {
           "label": "防抖 / 数码防抖",
-          "value": "Yes (movie mode only)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "支持 (视频 模式 仅限)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Yes (movie mode only)"
         },
         {
           "label": "防抖 / 防抖增强",
-          "value": "Yes (movie mode only)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "支持 (视频 模式 仅限)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Yes (movie mode only)"
         },
         {
-          "label": "连拍 · Approx. 30fps [Only electronic shutter, 1.25 x Crop ] ",
-          "value": "约 30fps [Only 电子快门, 1.25 x Crop ] (JPEG： 60 frames Lossless compressed RAW / Compressed RAW: 35 frames Uncompressed RAW： 33 frames)",
+          "label": "连拍 · 约 30fps [仅电子快门, 1.25 x 裁切 ]",
+          "value": "约 30fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 60张 无损压缩 RAW；压缩 RAW: 35张 未压缩 RAW： 33张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 30fps [Only electronic shutter, 1.25 x Crop ] ",
+          "condition": "约. 30fps [仅限 电子快门, 1.25 x 裁切 ] ",
           "originalValue": "Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 60 frames Lossless compressed RAW / Compressed RAW: 35 frames Uncompressed RAW： 33 frames)"
         },
         {
-          "label": "连拍 · Approx. 20fps [Only electronic shutter, 1.25 x Crop ] ",
-          "value": "约 20fps [Only 电子快门, 1.25 x Crop ] (JPEG： 114 frames Lossless compressed RAW / Compressed RAW: 37 frames Uncompressed RAW： 34 frames)",
+          "label": "连拍 · 约 20fps [仅电子快门, 1.25 x 裁切 ]",
+          "value": "约 20fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 114张 无损压缩 RAW；压缩 RAW: 37张 未压缩 RAW： 34张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 20fps [Only electronic shutter, 1.25 x Crop ] ",
+          "condition": "约. 20fps [仅限 电子快门, 1.25 x 裁切 ] ",
           "originalValue": "Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 114 frames Lossless compressed RAW / Compressed RAW: 37 frames Uncompressed RAW： 34 frames)"
         },
         {
-          "label": "连拍 · Approx. 10fps [Only electronic shutter, 1.25 x Crop ] ",
-          "value": "约 10fps [Only 电子快门, 1.25 x Crop ] (JPEG： 500 frames Lossless compressed RAW / Compressed RAW: 48 frames Uncompressed RAW： 39 frames)",
+          "label": "连拍 · 约 10fps [仅电子快门, 1.25 x 裁切 ]",
+          "value": "约 10fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 500张 无损压缩 RAW；压缩 RAW: 48张 未压缩 RAW： 39张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 10fps [Only electronic shutter, 1.25 x Crop ] ",
+          "condition": "约. 10fps [仅限 电子快门, 1.25 x 裁切 ] ",
           "originalValue": "Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 500 frames Lossless compressed RAW / Compressed RAW: 48 frames Uncompressed RAW： 39 frames)"
         },
         {
-          "label": "连拍 · Approx. 20fps [Only electronic shutter ] ",
-          "value": "约 20fps [Only 电子快门 ] (JPEG: 79 frames Lossless compressed RAW / Compressed RAW: 36 frames Uncompressed RAW: 34 frames)",
+          "label": "连拍 · 约 20fps [仅电子快门 ]",
+          "value": "约 20fps [仅限 电子快门 ] (JPEG: 79张 无损压缩 RAW；压缩 RAW: 36张 未压缩 RAW: 34张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 20fps [Only electronic shutter ] ",
+          "condition": "约. 20fps [仅限 电子快门 ] ",
           "originalValue": "Approx. 20fps [Only electronic shutter ] (JPEG: 79 frames Lossless compressed RAW / Compressed RAW: 36 frames Uncompressed RAW: 34 frames)"
         },
         {
-          "label": "连拍 · Approx. 15fps ",
-          "value": "约 15fps (JPEG: 110 frames Lossless compressed RAW / Compressed RAW: 38 frames Uncompressed RAW: 35 frames)",
+          "label": "连拍 · 约 15fps",
+          "value": "约 15fps (JPEG: 110张 无损压缩 RAW；压缩 RAW: 38张 未压缩 RAW: 35张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 15fps ",
+          "condition": "约. 15fps ",
           "originalValue": "Approx. 15fps (JPEG: 110 frames Lossless compressed RAW / Compressed RAW: 38 frames Uncompressed RAW: 35 frames)"
         },
         {
-          "label": "连拍 · Approx. 10fps ",
-          "value": "约 10fps (JPEG: 164 frames Lossless compressed RAW / Compressed RAW: 44 frames Uncompressed RAW: 37 frames)",
+          "label": "连拍 · 约 10fps",
+          "value": "约 10fps (JPEG: 164张 无损压缩 RAW；压缩 RAW: 44张 未压缩 RAW: 37张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 10fps ",
+          "condition": "约. 10fps ",
           "originalValue": "Approx. 10fps (JPEG: 164 frames Lossless compressed RAW / Compressed RAW: 44 frames Uncompressed RAW: 37 frames)"
         },
         {
-          "label": "连拍 · Approx. 8fps ",
-          "value": "约 8fps (JPEG: 200 frames Lossless compressed RAW / Compressed RAW: 49 frames Uncompressed RAW: 39 frames)",
+          "label": "连拍 · 约 8fps",
+          "value": "约 8fps (JPEG: 200张 无损压缩 RAW；压缩 RAW: 49张 未压缩 RAW: 39张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Approx. 8fps ",
+          "condition": "约. 8fps ",
           "originalValue": "Approx. 8fps (JPEG: 200 frames Lossless compressed RAW / Compressed RAW: 49 frames Uncompressed RAW: 39 frames)"
         },
         {
-          "label": "连拍 · Pre-shot",
-          "value": "Pre-shot: 约 30fps [Only 电子快门, 1.25 x Crop ] (max. 20 frames while half press, max. 20 frames after full press, total max. 40 frames)",
+          "label": "连拍 · 预拍摄",
+          "value": "预拍摄: 约 30fps [仅限 电子快门, 1.25 x 裁切 ] (最多 20张 半按快门时, 最多 20张 完全按下快门后, 合计最多 40张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Pre-shot",
+          "condition": "预拍摄",
           "originalValue": "Pre-shot: Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (max. 20 frames while half press, max. 20 frames after full press, total max. 40 frames)"
         },
         {
-          "label": "连拍 · Pre-shot",
-          "value": "Pre-shot: 约 20fps [Only 电子快门, 1.25 x Crop ] (max. 20 frames while half press, max. 37 frames after full press, total max. 57 frames)",
+          "label": "连拍 · 预拍摄",
+          "value": "预拍摄: 约 20fps [仅限 电子快门, 1.25 x 裁切 ] (最多 20张 半按快门时, 最多 37张 完全按下快门后, 合计最多 57张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Pre-shot",
+          "condition": "预拍摄",
           "originalValue": "Pre-shot: Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (max. 20 frames while half press, max. 37 frames after full press, total max. 57 frames)"
         },
         {
-          "label": "连拍 · Pre-shot",
-          "value": "Pre-shot: 约 10fps [Only 电子快门, 1.25 x Crop ] (max. 10 frames while half press, max. 300 frames after full press, total max. 310 frames)",
+          "label": "连拍 · 预拍摄",
+          "value": "预拍摄: 约 10fps [仅限 电子快门, 1.25 x 裁切 ] (最多 10张 半按快门时, 最多 300张 完全按下快门后, 合计最多 310张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Pre-shot",
+          "condition": "预拍摄",
           "originalValue": "Pre-shot: Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (max. 10 frames while half press, max. 300 frames after full press, total max. 310 frames)"
         },
         {
-          "label": "自动包围 · AE Bracketing ",
-          "value": "AE Bracketing (Frames: 2, 3, 5, 7, 9 Step: by 1/3EV step, 最高 ±3EV steps)",
+          "label": "自动包围 · 自动曝光包围",
+          "value": "自动曝光包围 (张数: 2, 3, 5, 7, 9 步长: by 1/3EV 步长, 最高 ±3EV 档)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "AE Bracketing ",
+          "condition": "自动曝光包围 ",
           "originalValue": "AE Bracketing (Frames: 2, 3, 5, 7, 9 Step: by 1/3EV step, up to ±3EV steps)"
         },
         {
-          "label": "自动包围 · Filmsimulation bracketing ",
-          "value": "Filmsimulation bracketing (Any 3 types of film simulation selectable)",
+          "label": "自动包围 · 胶片模拟包围",
+          "value": "胶片模拟包围 (可选择任意三种胶片模拟)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Filmsimulation bracketing "
+          "condition": "胶片模拟包围 ",
+          "originalValue": "Filmsimulation bracketing (Any 3 types of film simulation selectable)"
         },
         {
-          "label": "自动包围 · Dynamic Range Bracketing ",
-          "value": "Dynamic Range Bracketing (100%, 200%, 400%)",
+          "label": "自动包围 · 动态范围包围",
+          "value": "动态范围包围 (100%, 200%, 400%)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Dynamic Range Bracketing "
+          "condition": "动态范围 包围拍摄 ",
+          "originalValue": "Dynamic Range Bracketing (100%, 200%, 400%)"
         },
         {
-          "label": "自动包围 · ISO sensitivity Bracketing ",
-          "value": "ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV)",
+          "label": "自动包围 · 感光度包围",
+          "value": "感光度包围 (±1/3EV, ±2/3EV, ±1EV)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "ISO sensitivity Bracketing "
+          "condition": "感光度包围 ",
+          "originalValue": "ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV)"
         },
         {
-          "label": "自动包围 · White Balance Bracketing ",
-          "value": "White Balance Bracketing (±1, ±2, ±3)",
+          "label": "自动包围 · 白平衡包围",
+          "value": "白平衡包围 (±1, ±2, ±3)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "White Balance Bracketing "
+          "condition": "白平衡包围 ",
+          "originalValue": "White Balance Bracketing (±1, ±2, ±3)"
         },
         {
-          "label": "自动包围 · Focus Bracketing ",
-          "value": "Focus Bracketing (AUTO, MANUAL)",
+          "label": "自动包围 · 对焦包围",
+          "value": "对焦包围 (自动, 手动)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
-          "condition": "Focus Bracketing "
+          "condition": "对焦包围 ",
+          "originalValue": "Focus Bracketing (AUTO, MANUAL)"
         },
         {
           "label": "自拍",
-          "value": "10sec. / 2sec.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "10秒；2秒",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "10sec. / 2sec."
         },
         {
           "label": "间隔拍摄",
-          "value": "Yes (Setting: Interval, Number of shots, Starting time)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "支持 (设置: 间隔, 拍摄张数, 开始时间)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Yes (Setting: Interval, Number of shots, Starting time)"
         },
         {
-          "label": "视频记录 / 视频 compression",
-          "value": "All Intra/Long-GOP / / * All Intra can be used with following settings. / DCI4K/4K 29.97p/25p/24p/23.98p 400Mbps / Full HD(2048 x 1080)/ Full HD(1920 x 1080) 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "label": "视频记录 / 视频压缩",
+          "value": "帧内压缩/Long-GOP；* 以下设置可使用帧内压缩：；DCI4K/4K 29.97p/25p/24p/23.98p 400Mbps；全高清(2048 x 1080)/ 全高清(1920 x 1080) 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "All Intra/Long-GOP / / * All Intra can be used with following settings. / DCI4K/4K 29.97p/25p/24p/23.98p 400Mbps / Full HD(2048 x 1080)/ Full HD(1920 x 1080) 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps"
         },
         {
           "label": "胶片模拟",
-          "value": "18 modes (PROVIA/STANDARD, Velvia/VIVID, ASTIA/SOFT, CLASSIC CHROME, PRO Neg. Hi, PRO Neg. Std, CLASSIC Neg., ETERNA/CINEMA, ETERNA BLEACH BYPASS, ACROS, ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, MONOCHROME, MONOCHROME+Ye Filter, MONOCHROME+R Filter, MONOCHROME+G Filter, SEPIA) / Monochromatic Color",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "18 种模式 (PROVIA/标准, Velvia/鲜艳, ASTIA/柔和, CLASSIC CHROME, PRO Neg. Hi, PRO Neg. Std, CLASSIC Neg., ETERNA/电影, ETERNA BLEACH BYPASS, ACROS, ACROS+黄滤镜, ACROS+红滤镜, ACROS+绿滤镜, 黑白, 黑白+黄滤镜, 黑白+红滤镜, 黑白+绿滤镜, 棕褐色)；单色调整",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "18 modes (PROVIA/STANDARD, Velvia/VIVID, ASTIA/SOFT, CLASSIC CHROME, PRO Neg. Hi, PRO Neg. Std, CLASSIC Neg., ETERNA/CINEMA, ETERNA BLEACH BYPASS, ACROS, ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, MONOCHROME, MONOCHROME+Ye Filter, MONOCHROME+R Filter, MONOCHROME+G Filter, SEPIA) / Monochromatic Color"
         },
         {
           "label": "清晰度",
-          "value": "±5 steps",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "±5 档",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "±5 steps"
         },
         {
           "label": "HDR 模式",
-          "value": "AUTO, 200%, 400%, 800%, 800% +",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "自动, 200%, 400%, 800%, 800% +",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "AUTO, 200%, 400%, 800%, 800% +"
         },
         {
           "label": "颗粒效果",
-          "value": "Roughness: STRONG, WEAK, OFF Size: LARGE, SMALL",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "颗粒大小: 强, 弱, 关闭 尺寸: 大, 小",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Roughness: STRONG, WEAK, OFF Size: LARGE, SMALL"
         },
         {
           "label": "彩色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "彩色蓝色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "动态范围 / 静态照片",
-          "value": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "自动, 100%, 200%, 400%；ISO限制 (DR100%: 无限制, DR200%: ISO320 或更高, DR400%: ISO640 或更高)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)"
         },
         {
           "label": "动态范围 / 视频",
-          "value": "100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "100%, 200%, 400%；ISO限制 (DR100%: 无限制, DR200%: ISO320 或更高, DR400%: ISO640 或更高)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)"
         },
         {
           "label": "创意滤镜",
-          "value": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus, / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "玩具相机, 微缩景观, 流行色彩, 高调, 低调, 动态色调, 柔焦,；局部色彩 (红色；橙色；黄色；绿色；蓝色；紫色)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus, / Partial color (Red / Orange / Yellow / Green / Blue / Purple)"
         }
       ]
     },
@@ -395,68 +438,75 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "快门速度 / 机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 1sec. Fixed",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 1秒 固定",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 1sec. Fixed"
         },
         {
           "label": "快门速度 / 电子前帘快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min."
         },
         {
-          "label": "快门速度 / Mechanical + / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 最高 60min.",
+          "label": "快门速度 / 机械快门 + / 电子快门",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 电子前帘加机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min. / *Electronic front curtain shutter works until 1/2000sec."
         },
         {
-          "label": "快门速度 / E-front + Mechanical + / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec, 机械快门 works until 1/8000sec.",
+          "label": "快门速度 / 电子前帘快门 + 机械快门 + / 电子快门",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒, 机械快门 最高可用至 1/8000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: up to 60min. / *Electronic front curtain shutter works until 1/2000sec, Mechanical shutter works until 1/8000sec."
         },
         {
           "label": "快门速度 / 视频",
-          "value": "FHD: 1/8000sec. - 1/4sec. / DCI4K/4K: 1/8000sec. - 1/24sec. (depends on the frame rate)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "FHD: 1/8000秒 - 1/4秒；DCI4K/4K: 1/8000秒 - 1/24秒 (取决于 张 rate)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "FHD: 1/8000sec. - 1/4sec. / DCI4K/4K: 1/8000sec. - 1/24sec. (depends on the frame rate)"
         },
         {
           "label": "快门速度 / 闪光同步速度",
-          "value": "1/250sec. or slower",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "1/250秒 或更慢",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "1/250sec. or slower"
         },
         {
-          "label": "闪光模式 / SYNC. 模式",
-          "value": "1ST CURTAIN / 2ND CURTAIN / AUTO FP(HSS) (excl. EF-X8)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "label": "闪光模式 / 同步模式",
+          "value": "前帘同步；后帘同步；自动 FP 高速同步（HSS） (不含 EF-X8)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "1ST CURTAIN / 2ND CURTAIN / AUTO FP(HSS) (excl. EF-X8)"
         },
         {
           "label": "闪光模式 / 闪光模式",
-          "value": "TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF (When EF-X8 is set) / TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / MULTI / OFF (When SHOE MOUNT FLASH is set)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "TTL (TTL 自动 (P模式)；标准；慢速同步. )；手动；指令模式；关闭 (使用 EF-X8 设为)；TTL (TTL 自动 (P模式)；标准；慢速同步. )；手动；多重；关闭 (热靴闪光灯设为)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF (When EF-X8 is set) / TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / MULTI / OFF (When SHOE MOUNT FLASH is set)"
         },
         {
           "label": "热靴",
-          "value": "Yes (Dedicated TTL Flash compatible)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "支持（兼容专用TTL闪光灯）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "Yes (Dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -466,13 +516,13 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "0.5 inch 约 3.69 millions dots OLED Color Viewfinder / Coverage of viewing area vs. capturing area: 约 100% / Eyepoint: 约 23mm (from the eyepiece lens) Diopter adjustment: -4 - +2m-1 (lockable) / Magnification: 0.75x with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: 约 38° (Horizontal angle of view: 约 30° ) Built-in eye sensor",
+          "value": "0.5 英寸 约 3.69 百万点 OLED 彩色取景器；取景覆盖率: 约 100%；眼点: 约 23mm (距接目镜) 屈光度调节: -4 - +2m⁻¹ (可锁定)；放大倍率: 0.75x 使用 50 mm 镜头 (等效 35 mm 画幅) 无限远对焦、屈光度设为 -1m⁻¹；对角视角: 约 38° (水平视角: 约 30° ) 内置 眼传感器",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "0.5 inch approx. 3.69 millions dots OLED Color Viewfinder / Coverage of viewing area vs. capturing area: approx. 100% / Eyepoint: approx. 23mm (from the eyepiece lens) Diopter adjustment: -4 - +2m-1 (lockable) / Magnification: 0.75x with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: approx. 38° (Horizontal angle of view: approx. 30° ) Built-in eye sensor"
         },
         {
           "label": "液晶屏",
-          "value": "3.0 inch, aspect ratio 3:2, 约 1.62 millions dots 触摸屏 color LCD monitor(约 100% coverage)",
+          "value": "3.0 英寸, 画面比例 3:2, 约 1.62 百万点 触摸屏 彩色液晶显示屏(约 100% 视野率)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "3.0 inch, aspect ratio 3:2, approx. 1.62 millions dots touch screen color LCD monitor(approx. 100% coverage)"
         }
@@ -484,51 +534,54 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W235 Li-ion battery (included)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "NP-W235 锂离子电池（随附）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "NP-W235 Li-ion battery (included)"
         },
         {
           "label": "电源 / 照片续航",
-          "value": "约 600 frames (Economy Mode), 约 500 frames (Normal Mode) When XF35mmF1.4 R is set.",
+          "value": "约 600张 (经济模式), 约 500张 (标准 模式) 安装XF35mmF1.4 R镜头时",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "Approx. 600 frames (Economy Mode), approx. 500 frames (Normal Mode) When XF35mmF1.4 R is set."
         },
         {
-          "label": "电源 / Actual battery life of / 视频 capture / *人脸检测 is set to OFF",
-          "value": "[4K] 约 85min. (29.97p) / [Full HD] 约 95min. (59.94p)",
+          "label": "电源 / 视频实际续航（人脸检测关闭）",
+          "value": "[4K] 约 85分钟 (29.97p)；[全高清] 约 95分钟 (59.94p)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "[4K] approx. 85min. (29.97p) / [Full HD] approx. 95min. (59.94p)"
         },
         {
-          "label": "电源 / Continuance battery life of / 视频 capture / *人脸检测 is set to OFF",
-          "value": "[4K] 约 110min. (29.97p) / [Full HD] 约 130min. (59.94p)",
+          "label": "电源 / 视频连续录制续航（人脸检测关闭）",
+          "value": "[4K] 约 110分钟 (29.97p)；[全高清] 约 130分钟 (59.94p)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "[4K] approx. 110min. (29.97p) / [Full HD] approx. 130min. (59.94p)"
         },
         {
           "label": "尺寸",
-          "value": "(W) 134.6mm x (H) 92.8mm x (D) 63.8mm (minimum depth 37.9mm)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "value": "(W) 134.6mm x (H) 92.8mm x (D) 63.8mm (最薄处 37.9mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "(W) 134.6mm x (H) 92.8mm x (D) 63.8mm (minimum depth 37.9mm)"
         },
         {
           "label": "重量",
-          "value": "约 607g (including battery and SD memory card) / 约 526g (excluding battery and SD memory card)",
+          "value": "约 607g (含电池和SD存储卡)；约 526g (不含电池和SD存储卡)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "Approx. 607g (including battery and SD memory card) / Approx. 526g (excluding battery and SD memory card)"
         },
         {
-          "label": "Operation / Environment / 工作温度",
+          "label": "工作环境 / 工作温度",
           "value": "-10°C - +40°C",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
         },
         {
-          "label": "Operation / Environment / 工作湿度",
-          "value": "10% - 80% (no condensation)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/"
+          "label": "工作环境 / 工作湿度",
+          "value": "10% - 80% （无凝露）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
+          "originalValue": "10% - 80% (no condensation)"
         },
         {
           "label": "启动时间",
-          "value": "约 0.39sec.",
+          "value": "约 0.39秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t4/specifications/",
           "originalValue": "Approx. 0.39sec."
         }

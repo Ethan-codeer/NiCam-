@@ -36,8 +36,9 @@
       "rows": [
         {
           "label": "传感器类型",
-          "value": "35 mm 全画幅 (35.6×23.8mm), Exmor RS CMOS sensor",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "35 mm 全画幅 (35.6×23.8mm), Exmor RS CMOS 传感器",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "35 mm 全画幅 (35.6×23.8mm), Exmor RS CMOS sensor"
         },
         {
           "label": "原生画幅比例",
@@ -46,8 +47,9 @@
         },
         {
           "label": "除尘系统",
-          "value": "Charge protection coating on optical filter and image sensor shift mechanism",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "光学滤镜防尘涂层及传感器位移除尘",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Charge protection coating on optical filter and image sensor shift mechanism"
         },
         {
           "label": "总像素",
@@ -77,28 +79,33 @@
         },
         {
           "label": "色彩空间",
-          "value": "sRGB standard (with sYCC gamut) and Adobe RGB standard compatible with TRILUMINOS Color",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "sRGB 标准 (搭配 sYCC 色域) 及 Adobe RGB 标准兼容 搭配 TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "sRGB standard (with sYCC gamut) and Adobe RGB standard compatible with TRILUMINOS Color"
         },
         {
           "label": "动态范围处理",
-          "value": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "关闭, 动态范围优化 (自动/级别 (1-5)), 自动高动态范围 (自动曝光差, 曝光差等级 (1-6 EV, 1.0 EV 档))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))"
         },
         {
           "label": "创意风格",
-          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "标准, 鲜艳, 自然, 清澈, 深色, 浅色, 人像, 风景, 日落, 夜景, 秋叶, 黑白, 棕褐色, 风格组合 (1-6), (对比度 (-3 至 +3 档), 饱和度 (-3 至 +3 档), 锐度 (-3 至 +3 档))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))"
         },
         {
           "label": "记录格式",
-          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.31, MPF Baseline compliant), RAW (Sony ARW 2.3 format)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.31, MPF 基线兼容), RAW (Sony ARW 2.3 格式)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "JPEG (DCF Ver. 2.0, Exif Ver.2.31, MPF Baseline compliant), RAW (Sony ARW 2.3 format)"
         },
         {
           "label": "图像质量模式",
-          "value": "RAW, RAW & JPEG (Extra fine, Fine, Standard), JPEG (Extra fine, Fine, Standard)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "RAW, RAW & JPEG (超精细, 精细, 标准), JPEG (超精细, 精细, 标准)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "RAW, RAW & JPEG (Extra fine, Fine, Standard), JPEG (Extra fine, Fine, Standard)"
         }
       ]
     },
@@ -108,18 +115,21 @@
       "rows": [
         {
           "label": "创意风格",
-          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "标准, 鲜艳, 自然, 清澈, 深色, 浅色, 人像, 风景, 日落, 夜景, 秋叶, 黑白, 棕褐色, 风格组合 (1-6), (对比度 (-3 至 +3 档), 饱和度 (-3 至 +3 档), 锐度 (-3 至 +3 档))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box (1-6), (Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps))"
         },
         {
           "label": "记录格式",
-          "value": "XAVC S, AVCHD format Ver. 2.0 compliant",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "XAVC S, AVCHD 格式 Ver. 2.0 兼容",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "XAVC S, AVCHD format Ver. 2.0 compliant"
         },
         {
           "label": "色彩空间",
-          "value": "xvYCC standard (x.v.Color when connected via HDMI cable) compatible with TRILUMINOS Color",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "xvYCC 标准 (x.v.Color 通过 HDMI 线连接时) 兼容 TRILUMINOS Color",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "xvYCC standard (x.v.Color when connected via HDMI cable) compatible with TRILUMINOS Color"
         },
         {
           "label": "视频编码",
@@ -128,8 +138,9 @@
         },
         {
           "label": "音频格式",
-          "value": "XAVC S: LPCM 2ch, AVCHD: Dolby® Digital (AC-3) 2ch, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2ch",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "XAVC S: LPCM 2 声道, AVCHD: Dolby® Digital (AC-3) 2 声道, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2 声道",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "XAVC S: LPCM 2ch, AVCHD: Dolby® Digital (AC-3) 2ch, Dolby Digital Stereo Creator, MP4: MPEG-4 AAC-LC 2ch"
         },
         {
           "label": "视频分辨率与帧率（PAL）",
@@ -143,8 +154,9 @@
         },
         {
           "label": "HDMI 视频输出",
-          "value": "3840 x 2160 (30p), 3840 x 2160 (25p), 3840 x 2160 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), YCbCr 4:2:2 8 bit / RGB 8 bit",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "3840 x 2160 (30p), 3840 x 2160 (25p), 3840 x 2160 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), YCbCr 4:2:2 8位 / RGB 8位",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "3840 x 2160 (30p), 3840 x 2160 (25p), 3840 x 2160 (24p), 1920 x 1080 (60p), 1920 x 1080 (60i), 1920 x 1080 (50p), 1920 x 1080 (50i), 1920 x 1080 (24p), YCbCr 4:2:2 8 bit / RGB 8 bit"
         }
       ]
     },
@@ -154,18 +166,21 @@
       "rows": [
         {
           "label": "存储卡插槽",
-          "value": "SLOT1: Slot for SD (UHS-I/II compliant) memory card, SLOT2: Multi slot for Memory Stick Duo™/SD (UHS-I compliant) memory card",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "卡槽 1: 卡槽： SD (UHS-I/II 兼容) 存储卡, 卡槽 2: 多功能卡槽： Memory Stick Duo™/SD (UHS-I 兼容) 存储卡",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "SLOT1: Slot for SD (UHS-I/II compliant) memory card, SLOT2: Multi slot for Memory Stick Duo™/SD (UHS-I compliant) memory card"
         },
         {
           "label": "双卡记录方式",
-          "value": "Simult. Rec (Still), Simult. Rec (Movie), Simult. Rec (Still/Movie), Sort (JPEG/RAW), Sort (Still/Movie), Copy",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "同步记录 (照片), 同步记录 (视频), 同步记录 (照片/视频), 分类记录 (JPEG/RAW), 分类记录 (照片/视频), 复制",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Simult. Rec (Still), Simult. Rec (Movie), Simult. Rec (Still/Movie), Sort (JPEG/RAW), Sort (Still/Movie), Copy"
         },
         {
           "label": "存储介质",
-          "value": "Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick Micro (M2), SD memory card, SDHC memory card (UHS-I compliant), SDXC memory card (UHS-I/II compliant), microSD memory card, microSDHC memory card, microSDXC memory card",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick Micro (M2), SD 存储卡, SDHC 存储卡 (UHS-I 兼容), SDXC 存储卡 (UHS-I/II 兼容), microSD 存储卡, microSDHC 存储卡, microSDXC 存储卡",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Memory Stick PRO Duo, Memory Stick PRO-HG Duo, Memory Stick Micro (M2), SD memory card, SDHC memory card (UHS-I compliant), SDXC memory card (UHS-I/II compliant), microSD memory card, microSDHC memory card, microSDXC memory card"
         }
       ]
     },
@@ -175,8 +190,9 @@
       "rows": [
         {
           "label": "白平衡",
-          "value": "Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent (Warm White / Cool White / Day White / Daylight) / Flash / Underwater / Color Temperature (2500 to 9900K) & color filter (G7 to M7 (57-step), A7 to B7 (29-step)) / Custom",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "自动 / 日光 / 阴影 / 阴天 / 白炽灯 / 荧光灯 (暖白色 / 冷白色 / 昼白色 / 日光) / 闪光 / 水下 / 色温 (2500 至 9900K)及色彩滤镜 (G7 至 M7 (57 档), A7 至 B7 (29 档)) / 自定义",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Auto / Daylight / Shade / Cloudy / Incandescent / Fluorescent (Warm White / Cool White / Day White / Daylight) / Flash / Underwater / Color Temperature (2500 to 9900K) & color filter (G7 to M7 (57-step), A7 to B7 (29-step)) / Custom"
         }
       ]
     },
@@ -186,13 +202,15 @@
       "rows": [
         {
           "label": "对焦点",
-          "value": "35 mm 全画幅: 693 points (相位检测 AF), APS-C mode with FF lens: 299 points (相位检测 AF), with APS-C lens: 221 points (相位检测 AF) / 425 points (对比度检测 AF)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "35 mm 全画幅: 693 点 (相位检测 AF), APS-C 模式搭配全画幅镜头: 299 点 (相位检测 AF), 搭配 APS-C 镜头: 221 点 (相位检测 AF) / 425 点 (对比度检测 AF)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "35 mm 全画幅: 693 points (相位检测 AF), APS-C mode with FF lens: 299 points (相位检测 AF), with APS-C lens: 221 points (相位检测 AF) / 425 points (对比度检测 AF)"
         },
         {
           "label": "自动对焦检测范围",
-          "value": "EV-3 to EV 20 (ISO 100 equivalent with F2.0 lens attached)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "EV-3 至 EV 20 （等效 ISO 100、搭配 F2.0 镜头）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "EV-3 to EV 20 (ISO 100 equivalent with F2.0 lens attached)"
         },
         {
           "label": "对焦系统",
@@ -201,13 +219,15 @@
         },
         {
           "label": "对焦辅助灯",
-          "value": "支持 (with built-in LED type)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "支持 (内置 LED)",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "支持 (with built-in LED type)"
         },
         {
           "label": "对焦模式",
-          "value": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (Direct 手动对焦), 手动对焦",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (直接手动对焦), 手动对焦",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (Direct 手动对焦), 手动对焦"
         }
       ]
     },
@@ -217,39 +237,45 @@
       "rows": [
         {
           "label": "测光范围",
-          "value": "EV -3 to EV 20 (at ISO100 equivalent with F2.0 lens attached)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "EV -3 至 EV 20 （等效 ISO100、搭配 F2.0 镜头）",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "EV -3 to EV 20 (at ISO100 equivalent with F2.0 lens attached)"
         },
         {
           "label": "曝光包围",
-          "value": "Bracket: Cont., Bracket: Single, 3/5/9 frames selectable. With 3 or 5 frames, in 1/3, 1/2, 2/3, 1.0, 2.0, or 3.0 EV increments, with 9 frames, in 1/3, 1/2, 2/3, or 1.0 EV increments.",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "连续包围, 单张包围, 3/5/9 张可选； 3 或 5 张时可选 1/3, 1/2, 2/3, 1.0, 2.0, 或 3.0 EV 步长, 9 张时可选 1/3, 1/2, 2/3, 或 1.0 EV 步长",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Bracket: Cont., Bracket: Single, 3/5/9 frames selectable. With 3 or 5 frames, in 1/3, 1/2, 2/3, 1.0, 2.0, or 3.0 EV increments, with 9 frames, in 1/3, 1/2, 2/3, or 1.0 EV increments."
         },
         {
           "label": "曝光模式",
-          "value": "AUTO (iAuto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Movie (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) ), Slow & Quick Motion (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) )",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "自动 (iAuto), 程序自动曝光 (P), 光圈优先 (A), 快门优先 (S), 手动 (M), 视频 (程序自动曝光 (P) / 光圈优先 (A) / 快门优先 (S) / 手动 (M)), 慢与快动作 (程序自动曝光 (P) / 光圈优先 (A) / 快门优先 (S) / 手动 (M))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "AUTO (iAuto), Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Movie (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) ), Slow & Quick Motion (Programmed AE (P) / Aperture priority (A) / Shutter-speed priority (S) / Manual (M) )"
         },
         {
           "label": "ISO 感光度",
-          "value": "[Still images] 机械快门: ISO 100-51200 (ISO numbers up from ISO 50 to ISO 204800 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), 电子快门: ISO 100-25600 (ISO numbers up from ISO 50 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), [Movies] ISO 100-51200 equivalent (ISO numbers 最高 ISO 102400 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit)",
+          "value": "[照片] 机械快门: ISO 100-51200 (可扩展至 ISO 50 至 ISO 204800), 自动 (ISO 100-6400, 上下限可设), 电子快门: ISO 100-25600 (可扩展至 ISO 50), 自动 (ISO 100-6400, 上下限可设), [视频] ISO 100-51200 等效 (可扩展至 ISO 102400), 自动 (ISO 100-6400, 上下限可设)",
           "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
           "originalValue": "[Still images] 机械快门: ISO 100-51200 (ISO numbers up from ISO 50 to ISO 204800 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), 电子快门: ISO 100-25600 (ISO numbers up from ISO 50 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit), [Movies] ISO 100-51200 equivalent (ISO numbers up to ISO 102400 can be set as expanded ISO range), AUTO (ISO 100-6400, selectable lower limit and upper limit)"
         },
         {
           "label": "测光模式",
-          "value": "Multi-segment, Center-weighted, Spot, Spot Standard/Large, Entire Screen Avg., Highlight",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "多重、中央重点、点测光（标准／大）、全屏平均、亮部测光",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Multi-segment, Center-weighted, Spot, Spot Standard/Large, Entire Screen Avg., Highlight"
         },
         {
           "label": "曝光补偿",
-          "value": "+/- 5.0EV(1/3 EV, 1/2 EV steps selectable) (with exposure compensation dial: +/- 3EV (1/3 EV steps))",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "+/- 5.0EV(1/3 EV, 1/2 EV 步长可选) (使用曝光补偿转盘时: +/- 3EV (1/3 EV 档))",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "+/- 5.0EV(1/3 EV, 1/2 EV steps selectable) (with exposure compensation dial: +/- 3EV (1/3 EV steps))"
         },
         {
           "label": "自动曝光锁定",
-          "value": "Locked when shutter button is pressed halfway. Available with AE lock button. (On/Off/Auto)",
-          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications"
+          "value": "半按快门时锁定；支持AE锁定按钮，可选开启／关闭／自动",
+          "sourceUrl": "https://www.sony.com/electronics/support/e-mount-body-ilce-9-series/ilce-9/specifications",
+          "originalValue": "Locked when shutter button is pressed halfway. Available with AE lock button. (On/Off/Auto)"
         }
       ]
     },

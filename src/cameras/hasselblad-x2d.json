@@ -7,7 +7,7 @@
   "type": "无反相机",
   "megapixels": 100,
   "width": 148.5,
-  "height": 106.0,
+  "height": 106,
   "depth": 74.5,
   "description": "Hasselblad X2D 100c 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
   "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf",
@@ -40,8 +40,9 @@
         },
         {
           "label": "色深与动态范围",
-          "value": "16 bit",
-          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf"
+          "value": "16位",
+          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf",
+          "originalValue": "16 bit"
         },
         {
           "label": "色彩管理",
@@ -102,8 +103,9 @@
         },
         {
           "label": "屏幕倾斜角度",
-          "value": "40° / 70° 倾斜",
-          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf"
+          "value": "40°；70° 倾斜",
+          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf",
+          "originalValue": "40° / 70° 倾斜"
         },
         {
           "label": "机顶显示屏",
@@ -190,8 +192,9 @@
         },
         {
           "label": "连拍速度",
-          "value": "最高 3.3 张/秒，14 bit 条件",
-          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf"
+          "value": "最高 3.3 张/秒，14位 条件",
+          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf",
+          "originalValue": "最高 3.3 张/秒，14 bit 条件"
         },
         {
           "label": "驱动模式",
@@ -227,8 +230,9 @@
       "rows": [
         {
           "label": "电池与供电",
-          "value": "7.27V / 3400mAh 锂电池；USB-C 机内充电",
-          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf"
+          "value": "7.27V；3400mAh 锂电池；USB-C 机内充电",
+          "sourceUrl": "https://cdn.hasselblad.com/f/77891/x/38effba8fe/x2d_100c_datasheet_en.pdf",
+          "originalValue": "7.27V / 3400mAh 锂电池；USB-C 机内充电"
         },
         {
           "label": "工作温度",

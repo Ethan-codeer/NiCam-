@@ -20,44 +20,51 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "驱动模式 / 焦点包围",
-          "value": "AUTO / MANUAL",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "自动；手动",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "AUTO / MANUAL"
         },
         {
           "label": "对焦 / 模式",
-          "value": "Single AF / Continuous AF / MF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "单次AF／连续AF／手动对焦",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Single AF / Continuous AF / MF"
         },
         {
           "label": "对焦 / 类型",
-          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "智能混合AF（TTL反差检测／TTL相位检测）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)"
         },
         {
           "label": "对焦 / 低照度对焦",
-          "value": "Contrast: -4.0EV XF50mmF1.0 attached / Phase Detection: -7.0EV XF50mmF1.0 attached",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "对比度: -4.0EV XF50mmF1.0 已安装；相位检测: -7.0EV XF50mmF1.0 已安装",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Contrast: -4.0EV XF50mmF1.0 attached / Phase Detection: -7.0EV XF50mmF1.0 attached"
         },
         {
           "label": "对焦 / 对焦区域",
-          "value": "Single point AF: 13x9 / 25x17 (Changeable size of AF frame) / Zone AF: 3x3 / 5x5 / 7x7 from 117 areas on 13×9 grid / Wide/Tracking AF: Yes (AF-S: Wide / AF-C: Tracking) / All: Yes",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "单点AF: 13x9；25x17 (AF框尺寸可调)；区域AF: 3x3；5x5；7x7 从13×9网格的117区中选择；广域／跟踪AF: 支持 (AF-S：广域／AF-C：跟踪)；全部： 支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Single point AF: 13x9 / 25x17 (Changeable size of AF frame) / Zone AF: 3x3 / 5x5 / 7x7 from 117 areas on 13×9 grid / Wide/Tracking AF: Yes (AF-S: Wide / AF-C: Tracking) / All: Yes"
         },
         {
-          "label": "对焦 / Face/eye detection",
+          "label": "对焦 / 人脸/人眼检测",
           "value": "支持",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "Yes"
         },
         {
           "label": "对焦 / 主体识别",
-          "value": "Yes (Animal/Bird/Automobile/Motorcycle&Bike/Airplane/Train)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "支持 (动物/鸟类/汽车/摩托车&自行车/飞机/火车)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Yes (Animal/Bird/Automobile/Motorcycle&Bike/Airplane/Train)"
         }
       ]
     },
@@ -67,18 +74,21 @@
       "rows": [
         {
           "label": "感光元件",
-          "value": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 5 HS with primary color filter",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 5 HS 配备原色滤镜",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "23.5mm x 15.6mm (APS-C) X-Trans CMOS 5 HS with primary color filter"
         },
         {
           "label": "有效像素",
-          "value": "26.16 millions pixels",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "26.16百万像素",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "26.16 millions pixels"
         },
         {
           "label": "传感器清洁",
-          "value": "Ultra Sonic Vibration",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "超声波振动除尘",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Ultra Sonic Vibration"
         },
         {
           "label": "图像处理器",
@@ -108,13 +118,15 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD Card (-2GB) / SDHC Card (-32GB) / SDXC Card (-2TB) / UHS-I / UHS-II / Video Speed Class V90 / CFexpress Type B Card (-2TB) / / *Please check Compatibilityfor more detail. / *Please check the list of the operation confirmed CFexpress Type B Card",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "SD 卡 (-2GB)；SDHC 卡 (-32GB)；SDXC 卡 (-2TB)；UHS-I；UHS-II；视频速度等级 V90；CFexpress Type B 卡 (-2TB)；*详情请查阅兼容性说明。；*请查看已验证可用的 CFexpress Type B 卡列表",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "SD Card (-2GB) / SDHC Card (-32GB) / SDXC Card (-2TB) / UHS-I / UHS-II / Video Speed Class V90 / CFexpress Type B Card (-2TB) / / *Please check Compatibilityfor more detail. / *Please check the list of the operation confirmed CFexpress Type B Card"
         },
         {
           "label": "静态文件格式 / DCF",
-          "value": "Compliant with Design rule for Camera File system (DCF2.0)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "兼容相机文件系统设计规则DCF 2.0",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Compliant with Design rule for Camera File system (DCF2.0)"
         },
         {
           "label": "静态文件格式 / JPEG",
@@ -123,51 +135,60 @@
         },
         {
           "label": "静态文件格式 / HEIF",
-          "value": "4:2:2 10bit",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "4:2:2 10位",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "4:2:2 10bit"
         },
         {
           "label": "静态文件格式 / RAW",
-          "value": "14bit RAW (RAF original format)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "14位RAW（RAF原始格式）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "14bit RAW (RAF original format)"
         },
         {
           "label": "静态文件格式 / TIFF",
-          "value": "8bit / 16bit RGB (In-camera Raw Conversion Only)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "8位／16位RGB（仅限机内RAW转换）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "8bit / 16bit RGB (In-camera Raw Conversion Only)"
         },
         {
           "label": "视频记录 / 文件格式",
-          "value": "MOV: / Apple ProRes 422 HQ, Linear PCM (Stereo sound 24bit / 48KHz sampling) / Apple ProRes 422, Linear PCM (Stereo sound 24bit / 48KHz sampling) / Apple ProRes 422 LT, Linear PCM (Stereo sound 24bit / 48KHz sampling) / HEVC/H.265, Linear PCM (Stereo sound 24bit / 48KHz sampling) / MPEG-4 AVC/H.264, Linear PCM (Stereo sound 24bit / 48KHz sampling) / MP4: / MPEG-4 AVC/H.264, AAC",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "MOV:；Apple ProRes 422 HQ, 线性PCM (立体声 24位；48kHz 采样)；Apple ProRes 422, 线性PCM (立体声 24位；48kHz 采样)；Apple ProRes 422 LT, 线性PCM (立体声 24位；48kHz 采样)；HEVC/H.265, 线性PCM (立体声 24位；48kHz 采样)；MPEG-4 AVC/H.264, 线性PCM (立体声 24位；48kHz 采样)；MP4:；MPEG-4 AVC/H.264, AAC",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "MOV: / Apple ProRes 422 HQ, Linear PCM (Stereo sound 24bit / 48KHz sampling) / Apple ProRes 422, Linear PCM (Stereo sound 24bit / 48KHz sampling) / Apple ProRes 422 LT, Linear PCM (Stereo sound 24bit / 48KHz sampling) / HEVC/H.265, Linear PCM (Stereo sound 24bit / 48KHz sampling) / MPEG-4 AVC/H.264, Linear PCM (Stereo sound 24bit / 48KHz sampling) / MP4: / MPEG-4 AVC/H.264, AAC"
         },
         {
-          "label": "视频记录 / 视频尺寸 / 帧率 / Bitrate",
-          "value": "[6.2K(3:2)] 6240 x 4160 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [DCI4K(17:9)] 4096 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [4K(16:9)] 3840 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(17:9)] 2048 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(16:9)] 1920 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [DCI4K(17:9) High speed rec.] 4096 x 2160 120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [4K(16:9) High speed rec.] 3840 x 2160 120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [Full HD(17:9) High speed rec.] 2048 x 1080 240p/200p/120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [Full HD(16:9) High speed rec.] 1920 x 1080 240p/200p/120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / *For recording movies, use a CFexpress Type B card or SD memory card with UHS Speed Class 3 or higher. / *For recording movies in 360Mbps, use a CFexpress Type B card or SD memory card with Video Speed Class 60 or higher. / *For recording movies in 720Mbps, use a CFexpress Type B card or SD memory card with Video Speed Class 90 or higher. / *Selectable bitrate will be changed depends on the setting. / *Apple ProRes codec can be only recorded to CFexpress Type B card / *Bitrate for Apple ProRes codec is not selectable. / *Recording time can become short depending on the temperature and/or shooting conditions",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "label": "视频记录 / 视频尺寸 / 帧率 / 码率",
+          "value": "[6.2K(3:2)] 6240 x 4160 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps；[DCI4K(17:9)] 4096 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps；[4K(16:9)] 3840 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps；[全高清(17:9)] 2048 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps；[全高清(16:9)] 1920 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps；[DCI4K(17:9) 高速录制] 4096 x 2160 120p/100p 720Mbps(录制)/360Mbps(录制)/200Mbps(录制)；[4K(16:9) 高速录制] 3840 x 2160 120p/100p 720Mbps(录制)/360Mbps(录制)/200Mbps(录制)；[全高清(17:9) 高速录制] 2048 x 1080 240p/200p/120p/100p 720Mbps(录制)/360Mbps(录制)/200Mbps(录制)；[全高清(16:9) 高速录制] 1920 x 1080 240p/200p/120p/100p 720Mbps(录制)/360Mbps(录制)/200Mbps(录制)；*录制视频时, 请使用 CFexpress Type B 卡或以下等级的 SD 存储卡： UHS 速度等级 3 或更高.；*录制以下视频时： 360Mbps, 请使用 CFexpress Type B 卡或以下等级的 SD 存储卡： 视频速度等级 60 或更高.；*录制以下视频时： 720Mbps, 请使用 CFexpress Type B 卡或以下等级的 SD 存储卡： 视频速度等级 90 或更高.；*可选码率因设置而异.；*Apple ProRes 编码仅可记录至 CFexpress Type B 卡；*码率 Apple ProRes 编码不可选择.；*录制时长可能因温度缩短 及/或 拍摄条件",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "[6.2K(3:2)] 6240 x 4160 29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [DCI4K(17:9)] 4096 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [4K(16:9)] 3840 x 2160 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(17:9)] 2048 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [Full HD(16:9)] 1920 x 1080 59.94p/50p/29.97p/25p/24p/23.98p 720Mbps/360Mbps/200Mbps/100Mbps/50Mbps / [DCI4K(17:9) High speed rec.] 4096 x 2160 120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [4K(16:9) High speed rec.] 3840 x 2160 120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [Full HD(17:9) High speed rec.] 2048 x 1080 240p/200p/120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / [Full HD(16:9) High speed rec.] 1920 x 1080 240p/200p/120p/100p 720Mbps(recording)/360Mbps(recording)/200Mbps(recording) / *For recording movies, use a CFexpress Type B card or SD memory card with UHS Speed Class 3 or higher. / *For recording movies in 360Mbps, use a CFexpress Type B card or SD memory card with Video Speed Class 60 or higher. / *For recording movies in 720Mbps, use a CFexpress Type B card or SD memory card with Video Speed Class 90 or higher. / *Selectable bitrate will be changed depends on the setting. / *Apple ProRes codec can be only recorded to CFexpress Type B card / *Bitrate for Apple ProRes codec is not selectable. / *Recording time can become short depending on the temperature and/or shooting conditions"
         },
         {
           "label": "无线传输 / 标准",
-          "value": "IEEE802.11a/b/g/n/ac (standard wireless protocol)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "IEEE802.11a/b/g/n/ac (标准无线协议)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "IEEE802.11a/b/g/n/ac (standard wireless protocol)"
         },
         {
           "label": "无线传输 / 加密",
-          "value": "WPA/WPA2 mixed mode, WPA3",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "WPA／WPA2混合模式, WPA3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "WPA/WPA2 mixed mode, WPA3"
         },
         {
           "label": "无线传输 / 接入模式",
-          "value": "Infrastructure",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "基础架构模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Infrastructure"
         },
         {
-          "label": "Bluetooth® / 标准",
-          "value": "Bluetooth Ver. 4.2 (Bluetooth low energy)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "label": "蓝牙® / 标准",
+          "value": "Bluetooth Ver. 4.2 (低功耗蓝牙)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Bluetooth Ver. 4.2 (Bluetooth low energy)"
         },
         {
-          "label": "Bluetooth® / 工作频率 (Center frequency)",
+          "label": "蓝牙® / 工作频率 (中心频率)",
           "value": "2402 - 2480MHz",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
         },
@@ -178,13 +199,15 @@
         },
         {
           "label": "接口 / HDMI 输出",
-          "value": "HDMI connector (Type A)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "HDMI 接口 (Type A)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "HDMI connector (Type A)"
         },
         {
           "label": "接口 / 其他接口",
-          "value": "ø3.5mm, stereo mini connector (Microphone) / ø3.5mm, stereo mini connector (Headphone) / ø2.5mm, Remote Release Connector / Hot shoe / Synchronized terninal",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "ø3.5mm, 立体声迷你接口 (麦克风)；ø3.5mm, 立体声迷你接口 (耳机)；ø2.5mm, 遥控快门接口；热靴；闪光同步端口",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "ø3.5mm, stereo mini connector (Microphone) / ø3.5mm, stereo mini connector (Headphone) / ø2.5mm, Remote Release Connector / Hot shoe / Synchronized terninal"
         }
       ]
     },
@@ -194,76 +217,87 @@
       "rows": [
         {
           "label": "全景 / ［L］",
-          "value": "〈vertical〉 9600 x 2160 〈Horizontal〉 9600 x 1440",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "〈垂直〉 9600 x 2160 〈水平〉 9600 x 1440",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "〈vertical〉 9600 x 2160 〈Horizontal〉 9600 x 1440"
         },
         {
           "label": "全景 / ［M］",
-          "value": "〈vertical〉 6400 x 2160 〈Horizontal〉 6400 x 1440",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "〈垂直〉 6400 x 2160 〈水平〉 6400 x 1440",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "〈vertical〉 6400 x 2160 〈Horizontal〉 6400 x 1440"
         },
         {
           "label": "防抖 / 机构",
-          "value": "影像传感器 shift mechanism with 5-axis compensation",
+          "value": "传感器位移式五轴防抖",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "Image sensor shift mechanism with 5-axis compensation"
         },
         {
           "label": "防抖 / 补偿效果",
-          "value": "7.0 stops / *based on CIPA standard / *Pitch/yaw shake only / *With XF35mmF1.4 R lens mounted",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "7.0 级；*依据 CIPA 标准；*仅补偿俯仰/偏摆抖动；*搭配 XF35mmF1.4 R 镜头",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "7.0 stops / *based on CIPA standard / *Pitch/yaw shake only / *With XF35mmF1.4 R lens mounted"
         },
         {
           "label": "防抖 / 数码防抖",
-          "value": "Yes (movie mode only)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "支持 (视频 模式 仅限)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Yes (movie mode only)"
         },
         {
           "label": "防抖 / 防抖增强",
-          "value": "Yes (movie mode only)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "支持 (视频 模式 仅限)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Yes (movie mode only)"
         },
         {
           "label": "连拍",
-          "value": "CH 电子快门 约 40fps (JPEG: 184 frames, Compressed RAW: 175 frames, Lossless compressed RAW: 170 frames, Uncompressed RAW: 140 frames) / CH 电子快门 约 30fps (JPEG: 1000+ frames, Compressed RAW: 270 frames, Lossless compressed RAW: 250 frames, Uncompressed RAW: 180 frames) / CH 电子快门 约 20fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 800 frames) / CH 电子快门 约 15fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000 frames) / CH 机械快门 约 15fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000 frames) / CH 机械快门 约 10fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000+ frames) / CL 机械快门 约 8.0fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000+ frames) / Pre-shot 电子快门 约 40fps (While half press: 40 frames, After full press: 110 frames, Total: 150 frames) / Pre-shot 电子快门 约 30fps (While half press: 30 frames, After full press: 1000+ frames) / Pre-shot 电子快门 约 20fps (While half press: 20 frames, After full press: 1000+ frames) / Pre-shot 电子快门 约 15fps (While half press: 15 frames, After full press: 1000+ frames) / *No. of recordable frames are calculated based on CFexpress Type B card in a cold start / *Recordable frames depends on recording media / *Speed of continuous shooting depends on shooting environment and shooting frames",
+          "value": "CH 电子快门 约 40fps (JPEG: 184张, 压缩 RAW: 175张, 无损压缩 RAW: 170张, 未压缩 RAW: 140张)；CH 电子快门 约 30fps (JPEG: 1000+张, 压缩 RAW: 270张, 无损压缩 RAW: 250张, 未压缩 RAW: 180张)；CH 电子快门 约 20fps (JPEG: 1000+张, 压缩 RAW: 1000+张, 无损压缩 RAW: 1000+张, 未压缩 RAW: 800张)；CH 电子快门 约 15fps (JPEG: 1000+张, 压缩 RAW: 1000+张, 无损压缩 RAW: 1000+张, 未压缩 RAW: 1000张)；CH 机械快门 约 15fps (JPEG: 1000+张, 压缩 RAW: 1000+张, 无损压缩 RAW: 1000+张, 未压缩 RAW: 1000张)；CH 机械快门 约 10fps (JPEG: 1000+张, 压缩 RAW: 1000+张, 无损压缩 RAW: 1000+张, 未压缩 RAW: 1000+张)；CL 机械快门 约 8.0fps (JPEG: 1000+张, 压缩 RAW: 1000+张, 无损压缩 RAW: 1000+张, 未压缩 RAW: 1000+张)；预拍摄 电子快门 约 40fps (半按快门预拍: 40张, 全按快门后记录: 110张, Total: 150张)；预拍摄 电子快门 约 30fps (半按快门预拍: 30张, 全按快门后记录: 1000+张)；预拍摄 电子快门 约 20fps (半按快门预拍: 20张, 全按快门后记录: 1000+张)；预拍摄 电子快门 约 15fps (半按快门预拍: 15张, 全按快门后记录: 1000+张)；*可记录张数基于冷启动状态下使用CFexpress Type B卡测定；*可记录张数取决于存储介质；*连拍速度取决于拍摄环境和拍摄张数",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "CH Electronic shutter Approx. 40fps (JPEG: 184 frames, Compressed RAW: 175 frames, Lossless compressed RAW: 170 frames, Uncompressed RAW: 140 frames) / CH Electronic shutter Approx. 30fps (JPEG: 1000+ frames, Compressed RAW: 270 frames, Lossless compressed RAW: 250 frames, Uncompressed RAW: 180 frames) / CH Electronic shutter Approx. 20fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 800 frames) / CH Electronic shutter Approx. 15fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000 frames) / CH Mechanical shutter Approx. 15fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000 frames) / CH Mechanical shutter Approx. 10fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000+ frames) / CL Mechanical shutter Approx. 8.0fps (JPEG: 1000+ frames, Compressed RAW: 1000+ frames, Lossless compressed RAW: 1000+ frames, Uncompressed RAW: 1000+ frames) / Pre-shot Electronic shutter Approx. 40fps (While half press: 40 frames, After full press: 110 frames, Total: 150 frames) / Pre-shot Electronic shutter Approx. 30fps (While half press: 30 frames, After full press: 1000+ frames) / Pre-shot Electronic shutter Approx. 20fps (While half press: 20 frames, After full press: 1000+ frames) / Pre-shot Electronic shutter Approx. 15fps (While half press: 15 frames, After full press: 1000+ frames) / *No. of recordable frames are calculated based on CFexpress Type B card in a cold start / *Recordable frames depends on recording media / *Speed of continuous shooting depends on shooting environment and shooting frames"
         },
         {
           "label": "驱动模式 / 曝光包围",
-          "value": "2 frames / 3 frames / 5 frames / 7 frames / 9 frames / *by 1/3EV step, 最高 ±3EV steps",
+          "value": "2张；3张；5张；7张；9张；*by 1/3EV 步长, 最高 ±3EV 档",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "2 frames / 3 frames / 5 frames / 7 frames / 9 frames / *by 1/3EV step, up to ±3EV steps"
         },
         {
           "label": "驱动模式 / 胶片模拟包围",
-          "value": "Any 3 types of film simulation selectable",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "可选择任意三种胶片模拟",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Any 3 types of film simulation selectable"
         },
         {
           "label": "驱动模式 / 动态范围包围",
-          "value": "100% / 200% / 400%",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "100%；200%；400%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "100% / 200% / 400%"
         },
         {
           "label": "驱动模式 / HDR 模式",
-          "value": "AUTO / 200% / 400% / 800% / 800% +",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "自动；200%；400%；800%；800% +",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "AUTO / 200% / 400% / 800% / 800% +"
         },
         {
           "label": "驱动模式 / 创意滤镜",
-          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "玩具相机；微缩景观；流行色彩；高调；低调；动态色调；柔焦；局部色彩 (红色；橙色；黄色；绿色；蓝色；紫色)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)"
         },
         {
-          "label": "视频记录 / 视频 compression",
-          "value": "All Intra / Long GOP",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "label": "视频记录 / 视频压缩",
+          "value": "帧内压缩；Long GOP",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "All Intra / Long GOP"
         },
         {
           "label": "胶片模拟",
-          "value": "19 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Classic Neg., Nostalgic Neg., ETERNA/Cinema, ETERNA BLEACH BYPASS, ACROS, ACROS + Ye Filter, ACROS + R Filter, ACROS + G Filter, Black & White, Black & White + Ye Filter, Black & White + R Filter, Black & White + G Filter, Sepia)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "19 种模式 (PROVIA/标准, Velvia/鲜艳, ASTIA/柔和, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Classic Neg., Nostalgic Neg., ETERNA/电影, ETERNA BLEACH BYPASS, ACROS, ACROS + 黄滤镜, ACROS + 红滤镜, ACROS + 绿滤镜, 黑白, 黑白 + 黄滤镜, 黑白 + 红滤镜, 黑白 + 绿滤镜, 棕褐色)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "19 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Classic Neg., Nostalgic Neg., ETERNA/Cinema, ETERNA BLEACH BYPASS, ACROS, ACROS + Ye Filter, ACROS + R Filter, ACROS + G Filter, Black & White, Black & White + Ye Filter, Black & White + R Filter, Black & White + G Filter, Sepia)"
         },
         {
           "label": "单色调节",
@@ -273,48 +307,57 @@
         },
         {
           "label": "颗粒效果 / 颗粒强度",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "颗粒效果 / 尺寸",
-          "value": "LARGE, SMALL",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "大, 小",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "LARGE, SMALL"
         },
         {
           "label": "彩色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "彩色蓝色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "动态范围 / 静态照片",
-          "value": "AUTO / 100％ / 200％ / 400％ / ISO restriction: DR100%: No limit、DR200%: ISO320 or more、DR400%: ISO640 or more",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "自动；100％；200％；400％；ISO限制: DR100%: 无限制、DR200%: ISO320 或更高、DR400%: ISO640 或更高",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "AUTO / 100％ / 200％ / 400％ / ISO restriction: DR100%: No limit、DR200%: ISO320 or more、DR400%: ISO640 or more"
         },
         {
           "label": "动态范围 / 视频",
-          "value": "100％ / 200％ / 400％ / ISO restriction: DR100%: No limit、DR200%: ISO320 or more、DR400%: ISO640 or more",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "100％；200％；400％；ISO限制: DR100%: 无限制、DR200%: ISO320 或更高、DR400%: ISO640 或更高",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "100％ / 200％ / 400％ / ISO restriction: DR100%: No limit、DR200%: ISO320 or more、DR400%: ISO640 or more"
         },
         {
           "label": "清晰度",
-          "value": "±5 steps",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "±5 档",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "±5 steps"
         },
         {
           "label": "自拍",
-          "value": "10sec. / 2sec.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "10秒；2秒",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "10sec. / 2sec."
         },
         {
           "label": "间隔拍摄",
-          "value": "Yes (Setting : Interval, Number of shots, Starting time, Interval timer shooting exposure smoothing)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "支持 (设置 : 间隔, 拍摄张数, 开始时间, 间隔 定时拍摄 曝光平滑)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Yes (Setting : Interval, Number of shots, Starting time, Interval timer shooting exposure smoothing)"
         }
       ]
     },
@@ -324,58 +367,69 @@
       "rows": [
         {
           "label": "感光度 / 静态照片",
-          "value": "Standard Output: AUTO1 / AUTO2 / AUTO3 /ISO160 - 12800 (1/3 step) / Extended Output: ISO80 / ISO100 / ISO125 / ISO25600 / ISO51200",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "标准 输出: 自动1；自动2；自动3 /ISO160 - 12800 (1/3 步长)；扩展输出: ISO80；ISO100；ISO125；ISO25600；ISO51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Standard Output: AUTO1 / AUTO2 / AUTO3 /ISO160 - 12800 (1/3 step) / Extended Output: ISO80 / ISO100 / ISO125 / ISO25600 / ISO51200"
         },
         {
           "label": "感光度 / 视频",
-          "value": "Standard Output: AUTO / ISO160 - 12800 (1/3 step) / Extended Output: ISO25600",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "标准 输出: 自动；ISO160 - 12800 (1/3 步长)；扩展输出: ISO25600",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Standard Output: AUTO / ISO160 - 12800 (1/3 step) / Extended Output: ISO25600"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zone metering / Multi / Spot / Average / Center Weighted",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "TTL 256区测光；多重／点测光／平均／中央重点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "TTL 256-zone metering / Multi / Spot / Average / Center Weighted"
         },
         {
           "label": "曝光模式",
-          "value": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "P程序自动曝光／A光圈优先／S快门优先／M手动曝光",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)"
         },
         {
           "label": "曝光补偿 / 静态照片",
-          "value": "-5.0EV - +5.0EV 1/3EV step",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "-5.0EV - +5.0EV 1/3EV 步长",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "-5.0EV - +5.0EV 1/3EV step"
         },
         {
           "label": "曝光补偿 / 视频",
-          "value": "-2.0EV - +2.0EV 1/3EV step",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "-2.0EV - +2.0EV 1/3EV 步长",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "-2.0EV - +2.0EV 1/3EV step"
         },
         {
           "label": "驱动模式 / 感光度包围",
-          "value": "±1/3EV / ±2/3EV / ±1EV",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "±1/3EV；±2/3EV；±1EV",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "±1/3EV / ±2/3EV / ±1EV"
         },
         {
           "label": "驱动模式 / 白平衡包围",
-          "value": "±1 / ±2 / ±3",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "±1；±2；±3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "±1 / ±2 / ±3"
         },
         {
           "label": "驱动模式 / 多重曝光",
-          "value": "Yes (Max. 9 frames) / Additive / Average / Bright / Dark",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "支持 (最多 9张)；加算；平均；明亮；暗部",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Yes (Max. 9 frames) / Additive / Average / Bright / Dark"
         },
         {
           "label": "白平衡 / 自动",
-          "value": "White Priority / Auto / Ambience Priority",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "白色优先／自动／氛围优先",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "White Priority / Auto / Ambience Priority"
         },
         {
           "label": "白平衡 / 自定义",
-          "value": "Custom1 - 3",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "自定义1 - 3",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Custom1 - 3"
         },
         {
           "label": "白平衡 / 色温范围",
@@ -384,8 +438,9 @@
         },
         {
           "label": "白平衡 / 预设",
-          "value": "Daylight / Shade / Fluorescent Light-1 / Fluorescent Light-2 / Fluorescent Light-3 / Incandescent Light / Underwater",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "日光；阴影；荧光灯 浅色-1；荧光灯 浅色-2；荧光灯 浅色-3；白炽灯 浅色；水下",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Daylight / Shade / Fluorescent Light-1 / Fluorescent Light-2 / Fluorescent Light-3 / Incandescent Light / Underwater"
         }
       ]
     },
@@ -395,75 +450,81 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "快门速度 / 机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. / S/M mode: 15min. to 1/8000sec. Bulb: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒；S／M模式: 15分钟 至 1/8000秒 B门: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. / S/M mode: 15min. to 1/8000sec. Bulb: up to 60min."
         },
         {
           "label": "快门速度 / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. Bulb: 1sec. Fixed",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒；S／M模式: 15分钟 至 1/32000秒 B门: 1秒 固定",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. Bulb: 1sec. Fixed"
         },
         {
           "label": "快门速度 / 电子前帘快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. / S/M mode: 15min. to 1/8000sec. Bulb: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒；S／M模式: 15分钟 至 1/8000秒 B门: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. / S/M mode: 15min. to 1/8000sec. Bulb: up to 60min."
         },
         {
           "label": "快门速度 / 机械加电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. Bulb: 最高 60min. / *机械快门 works until 1/8000sec.",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒；S／M模式: 15分钟 至 1/32000秒 B门: 最高 60分钟；*机械快门 最高可用至 1/8000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. Bulb: up to 60min. / *Mechanical shutter works until 1/8000sec."
         },
         {
           "label": "快门速度 / 电子前帘加机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. / S/M mode: 15min. to 1/8000sec. Bulb: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒；S／M模式: 15分钟 至 1/8000秒 B门: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. / S/M mode: 15min. to 1/8000sec. Bulb: up to 60min. / *Electronic front curtain shutter works until 1/2000sec."
         },
         {
-          "label": "快门速度 / E-front + 机械加电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. Bulb: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec, 机械快门 works until 1/8000sec.",
+          "label": "快门速度 / 电子前帘快门 + 机械加电子快门",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒；S／M模式: 15分钟 至 1/32000秒 B门: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒, 机械快门 最高可用至 1/8000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. / S/M mode: 15min. to 1/32000sec. Bulb: up to 60min. / *Electronic front curtain shutter works until 1/2000sec, Mechanical shutter works until 1/8000sec."
         },
         {
           "label": "快门速度 / 视频",
-          "value": "6.2K: 1/8000sec. to 1/24 sec. / DCI4K/4K: 1/8000sec. to 1/4 sec. / FHD: 1/8000sec. to 1/4 sec. / *Cannot choose slower shutter speed than framerate for some settings.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "6.2K: 1/8000秒 至 1/24秒；DCI4K/4K: 1/8000秒 至 1/4秒；FHD: 1/8000秒 至 1/4秒；*部分设置下，快门速度不能低于帧率倒数",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "6.2K: 1/8000sec. to 1/24 sec. / DCI4K/4K: 1/8000sec. to 1/4 sec. / FHD: 1/8000sec. to 1/4 sec. / *Cannot choose slower shutter speed than framerate for some settings."
         },
         {
           "label": "快门速度 / 闪光同步速度",
-          "value": "机械快门: 1/250sec. or slower / 电子快门: 1/125sec. or slower",
+          "value": "机械快门: 1/250秒 或更慢；电子快门: 1/125秒 或更慢",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "Mechanical shutter: 1/250sec. or slower / Electronic shutter: 1/125sec. or slower"
         },
         {
           "label": "闪光灯 / EF-X8",
-          "value": "Guide Number: 约 11 (ISO200・m) / 约 8 (ISO100・m) / Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF",
+          "value": "闪光指数: 约 11 (ISO200・m)；约 8 (ISO100・m)；同步 模式: 前帘同步；后帘同步；闪光 模式: TTL (TTL 自动；标准；慢速同步. )；手动；指令模式；关闭",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "Guide Number: approx. 11 (ISO200・m) / approx. 8 (ISO100・m) / Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF"
         },
         {
-          "label": "闪光灯 / Shoe mount flash",
-          "value": "Sync. Mode: 1st Curtain / 2nd Curtain / AUTO FP (HSS) / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / MULTI *When EF-X500 is set / OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "label": "闪光灯 / 热靴闪光灯",
+          "value": "同步 模式: 前帘同步；后帘同步；自动 FP (HSS)；闪光 模式: TTL (TTL 自动；标准；慢速同步. )；手动；多重 *使用 EF-X500 设为；关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Sync. Mode: 1st Curtain / 2nd Curtain / AUTO FP (HSS) / Flash Mode: TTL (TTL AUTO / STANDARD / SLOW SYNC. ) / MANUAL / MULTI *When EF-X500 is set / OFF"
         },
         {
-          "label": "闪光灯 / Synchronized terminal",
-          "value": "Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: MANUAL",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "label": "闪光灯 / 同步端子",
+          "value": "同步 模式: 前帘同步；后帘同步；闪光 模式: 手动",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Sync. Mode: 1st Curtain / 2nd Curtain / Flash Mode: MANUAL"
         },
         {
           "label": "热靴",
-          "value": "Yes (Dedicated TTL Flash compatible)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "支持（兼容专用TTL闪光灯）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Yes (Dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -473,30 +534,33 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "EVF: 0.5 inch OLED Color Viewfinder, 约 5.76 百万点 / Coverage of Viewing Area vs. Capturing Area: 约 100% / Eyepoint: 约 24mm (from the Rear End of the Camera's Eyepiece) / Diopter Adjustment: -5 - +3m-1 / Magnification: 0.80x with 50mm Lens (35mm Equivalent) at infinity and Diopter set to -1.0m-1 / Diagonal Angle of View: 约 40° (Horizontal angle of view: 约 32° ) / Built-In Eye Sensor",
+          "value": "EVF: 0.5 英寸 OLED 彩色取景器, 约 5.76 百万点；取景覆盖率: 约 100%；眼点: 约 24mm (距相机目镜后端)；屈光度调节: -5 - +3m⁻¹；放大倍率: 0.80x 使用 50 mm 镜头 (等效 35 mm 画幅) 无限远对焦、屈光度设为 -1.0m⁻¹；对角视角: 约 40° (水平视角: 约 32° )；内置眼传感器",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "EVF: 0.5 inch OLED Color Viewfinder, Approx. 5.76 million dots / Coverage of Viewing Area vs. Capturing Area: Approx. 100% / Eyepoint: Approx. 24mm (from the Rear End of the Camera's Eyepiece) / Diopter Adjustment: -5 - +3m-1 / Magnification: 0.80x with 50mm Lens (35mm Equivalent) at infinity and Diopter set to -1.0m-1 / Diagonal Angle of View: approx. 40° (Horizontal angle of view: approx. 32° ) / Built-In Eye Sensor"
         },
         {
           "label": "液晶屏",
-          "value": "3.0 inch 可翻转 Touch Screen Color LCD Monitor / Aspect Ratio: 3:2 / Dots: 约 1.62 百万点",
+          "value": "3.0 英寸 可翻转 触摸彩色液晶显示屏；宽高比: 3:2；像素点: 约 1.62 百万点",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "3.0 inch vari-angle Touch Screen Color LCD Monitor / Aspect Ratio: 3:2 / Dots: Approx. 1.62 million dots"
         },
         {
           "label": "触屏模式 / 拍摄模式",
-          "value": "Shooting, AF, Focus Area, OFF, Double Tap Setting (ON/OFF), Touch Function Setting (ON/OFF), EVF Touch Screen Area Setting",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "拍摄, AF, 对焦区域, 关闭, 双击 设置 (开启/关闭), 触摸功能 设置 (开启/关闭), EVF 触摸屏 区域 设置",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Shooting, AF, Focus Area, OFF, Double Tap Setting (ON/OFF), Touch Function Setting (ON/OFF), EVF Touch Screen Area Setting"
         },
         {
           "label": "触屏模式 / 回放模式",
-          "value": "Swipe, Pinch-in / Pinch-out, Double-tap, Drag",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "滑动, 双指缩小；双指放大, 双击, 拖动",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Swipe, Pinch-in / Pinch-out, Double-tap, Drag"
         },
         {
           "label": "辅助液晶屏",
-          "value": "1.28 inch Monochrome LCD Monitor / Aspect Ratio: 1:1 / Dots: 128x128-dot",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "1.28 英寸 单色 液晶显示屏；宽高比: 1:1；像素点: 128x128-dot",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "1.28 inch Monochrome LCD Monitor / Aspect Ratio: 1:1 / Dots: 128x128-dot"
         }
       ]
     },
@@ -506,35 +570,37 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W235 Li-ion battery (included)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "NP-W235 锂离子电池（随附）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "NP-W235 Li-ion battery (included)"
         },
         {
           "label": "电源 / 照片续航",
-          "value": "Economy Mode: 约 720 frames / Normal Mode: 约 580 frames / *When XF35mmF1.4 R is set",
+          "value": "经济模式: 约 720张；标准 模式: 约 580张；*安装XF35mmF1.4 R镜头时",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "Economy Mode: Approx. 720 frames / Normal Mode: Approx. 580 frames / *When XF35mmF1.4 R is set"
         },
         {
           "label": "电源 / 实际视频续航",
-          "value": "6.2K: 约 90min. (29.97p) / 4K: 约 70min. (59.94p), 约 60min (120p) / Full HD: 约 95min. (59.94p) / *Face detection is set to OFF",
+          "value": "6.2K: 约 90分钟 (29.97p)；4K: 约 70分钟 (59.94p), 约 60分钟 (120p)；全高清: 约 95分钟 (59.94p)；*关闭脸部识别",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "6.2K: Approx. 90min. (29.97p) / 4K: Approx. 70min. (59.94p), Approx. 60min (120p) / Full HD: Approx. 95min. (59.94p) / *Face detection is set to OFF"
         },
         {
           "label": "电源 / 连续视频续航",
-          "value": "6.2K: 约 120min. (29.97p) / 4K: 约 105min. (59.94p) / Full HD: 约 165min. (59.94p) / *Face detection is set to OFF",
+          "value": "6.2K: 约 120分钟 (29.97p)；4K: 约 105分钟 (59.94p)；全高清: 约 165分钟 (59.94p)；*关闭脸部识别",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "6.2K: Approx. 120min. (29.97p) / 4K: Approx. 105min. (59.94p) / Full HD: Approx. 165min. (59.94p) / *Face detection is set to OFF"
         },
         {
           "label": "尺寸",
-          "value": "Width: 136.3mm / Height: 92.9mm / Depth: 84.6mm / (Minimum Depth) 42.8mm",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "宽: 136.3mm；高: 92.9mm；深: 84.6mm；(最薄处) 42.8mm",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "Width: 136.3mm / Height: 92.9mm / Depth: 84.6mm / (Minimum Depth) 42.8mm"
         },
         {
           "label": "重量",
-          "value": "including battery and memory card: 约 660g / excluding battery and memory card: 约 579g",
+          "value": "含电池和存储卡: 约 660g；不含电池和存储卡: 约 579g",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "including battery and memory card: Approx. 660g / excluding battery and memory card: Approx. 579g"
         },
@@ -545,12 +611,13 @@
         },
         {
           "label": "工作环境 / 工作湿度",
-          "value": "10% - 80% (no condensation)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/"
+          "value": "10% - 80% （无凝露）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
+          "originalValue": "10% - 80% (no condensation)"
         },
         {
           "label": "启动时间",
-          "value": "约 0.49sec.",
+          "value": "约 0.49秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-h2s/specifications/",
           "originalValue": "Approx. 0.49sec."
         }

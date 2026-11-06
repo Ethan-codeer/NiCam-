@@ -20,23 +20,27 @@
       "rows": [
         {
           "label": "有效像素",
-          "value": "24.3 millions pixels",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "24.3百万像素",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "24.3 millions pixels"
         },
         {
           "label": "感光元件",
-          "value": "23.5mm x 15.6mm [APS-C] X-Trans CMOS III with primary color filter.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "23.5mm x 15.6mm [APS-C] X-Trans CMOS III 配备原色滤镜",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "23.5mm x 15.6mm [APS-C] X-Trans CMOS III with primary color filter."
         },
         {
           "label": "传感器清洁",
-          "value": "Ultra Sonic Vibration",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "超声波振动除尘",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Ultra Sonic Vibration"
         },
         {
           "label": "记录尺寸",
-          "value": "L: (3:2) 6000 x 4000 / (16:9) 6000 x 3376 / (1:1) 4000 x 4000 / M: (3:2) 4240 x 2832 / (16:9) 4240 x 2384 / (1:1) 2832 x 2832 / S: (3:2) 3008 x 2000 / (16:9) 3008 x 1688 / (1:1) 2000 x 2000 / / Panorama / L: 2160 x 9600 (Horizontal : 9600 x 1440) / M: 2160 x 6400 (Horizontal : 6400 x 1440)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "L: (3:2) 6000 x 4000；(16:9) 6000 x 3376；(1:1) 4000 x 4000；M: (3:2) 4240 x 2832；(16:9) 4240 x 2384；(1:1) 2832 x 2832；S: (3:2) 3008 x 2000；(16:9) 3008 x 1688；(1:1) 2000 x 2000；全景；L: 2160 x 9600 (水平 : 9600 x 1440)；M: 2160 x 6400 (水平 : 6400 x 1440)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "L: (3:2) 6000 x 4000 / (16:9) 6000 x 3376 / (1:1) 4000 x 4000 / M: (3:2) 4240 x 2832 / (16:9) 4240 x 2384 / (1:1) 2832 x 2832 / S: (3:2) 3008 x 2000 / (16:9) 3008 x 1688 / (1:1) 2000 x 2000 / / Panorama / L: 2160 x 9600 (Horizontal : 9600 x 1440) / M: 2160 x 6400 (Horizontal : 6400 x 1440)"
         }
       ]
     },
@@ -46,53 +50,63 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD Card (-2G) / SDHC Card (-32G) / SDXC Card (-256G) UHS-I*1",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "SD 卡 (-2G)；SDHC 卡 (-32G)；SDXC 卡 (-256G) UHS-I*1",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "SD Card (-2G) / SDHC Card (-32G) / SDXC Card (-256G) UHS-I*1"
         },
         {
           "label": "文件格式 / 静态照片",
-          "value": "JPEG (Exif Ver.2.3)*2, RAW : 14bit RAW(RAF original format), RAW+JPEG",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "JPEG (Exif Ver.2.3)*2, RAW : 14位 RAW(RAF原始格式), RAW+JPEG",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "JPEG (Exif Ver.2.3)*2, RAW : 14bit RAW(RAF original format), RAW+JPEG"
         },
         {
           "label": "文件格式 / 视频",
-          "value": "MOV (MPEG-4 AVC / H.264, Audio : Linear PCM / Stereo sound 48KHz sampling)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "MOV (MPEG-4 AVC；H.264, 音频 : 线性PCM；立体声 48kHz 采样)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "MOV (MPEG-4 AVC / H.264, Audio : Linear PCM / Stereo sound 48KHz sampling)"
         },
         {
           "label": "无线传输 / 标准",
-          "value": "IEEE 802.11b / g / n (standard wireless protocol)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "IEEE 802.11b；g；n (标准无线协议)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "IEEE 802.11b / g / n (standard wireless protocol)"
         },
         {
           "label": "无线传输 / 加密",
-          "value": "WEP / WPA / WPA2 mixed mode",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "WEP／WPA／WPA2混合模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "WEP / WPA / WPA2 mixed mode"
         },
         {
           "label": "无线传输 / 接入模式",
-          "value": "Infrastructure",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "基础架构模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Infrastructure"
         },
         {
           "label": "无线功能",
-          "value": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, PC Autosave, instax printer print",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "地理标记, 无线通信 (图像传输), 查看 & 获取图像, 远程拍摄, 电脑自动保存, instax 打印机打印",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, PC Autosave, instax printer print"
         },
         {
           "label": "接口 / 数字接口",
-          "value": "USB2.0 (High-Speed) / micro USB terminal / * connectable with Remote Release RR-90 (sold separately)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "USB2.0 (高速)；Micro USB 接口；* 可连接 RR-90 快门线 (另售)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "USB2.0 (High-Speed) / micro USB terminal / * connectable with Remote Release RR-90 (sold separately)"
         },
         {
           "label": "接口 / HDMI 输出",
-          "value": "HDMI micro connector (Type D)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "HDMI Micro接口 (Type D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "HDMI micro connector (Type D)"
         },
         {
           "label": "接口 / 其他接口",
-          "value": "Φ2.5mm, stereo mini connector [Microphone]",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "Φ2.5mm, 立体声迷你接口 [麦克风]",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Φ2.5mm, stereo mini connector [Microphone]"
         }
       ]
     },
@@ -102,22 +116,25 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "对焦 / 模式",
-          "value": "Single AF / Continuous AF / MF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "单次AF／连续AF／手动对焦",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Single AF / Continuous AF / MF"
         },
         {
           "label": "对焦 / 类型",
-          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "智能混合AF（TTL反差检测／TTL相位检测）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)"
         },
         {
           "label": "对焦 / 对焦区域",
-          "value": "Single point AF: EVF / LCD: 13x7 / 25x13 (Changeable size of AF frame among 5 types), / Zone AF: 3x3 / 5x5 / 7x7 from 91 areas on 13x7 grid, / Wide/Tracking AF: (最高 18 area) / * AF-S : Wide / * AF-C : Tracking",
+          "value": "单点AF: EVF；LCD: 13x7；25x13 (AF框尺寸可调 among 5 types),；区域AF: 3x3；5x5；7x7 从 91 点分布于 13x7 网格,；广域／跟踪AF: (最高 18 区域)；* AF-S : Wide；* AF-C : 跟踪",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Single point AF: EVF / LCD: 13x7 / 25x13 (Changeable size of AF frame among 5 types), / Zone AF: 3x3 / 5x5 / 7x7 from 91 areas on 13x7 grid, / Wide/Tracking AF: (up to 18 area) / * AF-S : Wide / * AF-C : Tracking"
         }
@@ -129,29 +146,33 @@
       "rows": [
         {
           "label": "感光度",
-          "value": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(最高 ISO12800) / ISO200 to 12800(1/3 EV step) / Extended output sensitivity : ISO100 / 25600 / 51200",
+          "value": "标准 输出感光度 : 自动1；自动2；自动3(最高 ISO12800)；ISO200 至 12800(1/3 EV 步长)；扩展感光度 : ISO100；25600；51200",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(up to ISO12800) / ISO200 to 12800(1/3 EV step) / Extended output sensitivity : ISO100 / 25600 / 51200"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "TTL 256区测光, 多重／点测光／平均／中央重点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted"
         },
         {
           "label": "曝光模式",
-          "value": "P(Program AE) / A(Aperture Priority AE) / S(Shutter Speed Priority AE) / M(Manual Exposure)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "P程序自动曝光／A光圈优先／S快门优先／M手动曝光",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "P(Program AE) / A(Aperture Priority AE) / S(Shutter Speed Priority AE) / M(Manual Exposure)"
         },
         {
           "label": "曝光补偿",
-          "value": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "-5.0EV - +5.0EV, 1/3EV 步长；(视频录制 : -2.0EV - +2.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)"
         },
         {
           "label": "白平衡",
-          "value": "Automatic scene recognition / Custom / Color temperature selection (K) / Preset : Daylight, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "自动场景识别；自定义；色温选择 (K)；预设 : 日光, 阴影, 荧光灯 (日光), 荧光灯 (暖白色), 荧光灯 (冷白色), 白炽灯, 水下",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Automatic scene recognition / Custom / Color temperature selection (K) / Preset : Daylight, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater"
         }
       ]
     },
@@ -161,81 +182,93 @@
       "rows": [
         {
           "label": "防抖",
-          "value": "Supported with OIS type lenses",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "使用OIS镜头时支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Supported with OIS type lenses"
         },
         {
           "label": "连拍",
-          "value": "约 14.0 fps [Only Electronic Shutter](JPEG: 42 frames Lossless compression RAW: 23 frame Uncompressed RAW: 22 frames) / 约 11.0 fps [Only Electronic Shutter](JPEG: 56 frames Lossless compression RAW: 24 frame Uncompressed RAW: 23 frames) / 约 8.0 fps (JPEG: 62 frames Lossless compression RAW: 25 frame Uncompressed RAW: 23 frames) / 约 5.0 fps (JPEG: 68 frames Lossless compression RAW: 28 frame Uncompressed RAW: 25 frames) / 约 4.0 fps (JPEG: 73 frames Lossless compression RAW: 29 frame Uncompressed RAW: 25 frames) / 约 3.0 fps (JPEG: 81 frames Lossless compression RAW: 32 frame Uncompressed RAW: 27 frames) / * recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames",
+          "value": "约 14.0 fps [仅限 电子快门](JPEG: 42张 无损压缩 RAW: 23 张 未压缩 RAW: 22张)；约 11.0 fps [仅限 电子快门](JPEG: 56张 无损压缩 RAW: 24 张 未压缩 RAW: 23张)；约 8.0 fps (JPEG: 62张 无损压缩 RAW: 25 张 未压缩 RAW: 23张)；约 5.0 fps (JPEG: 68张 无损压缩 RAW: 28 张 未压缩 RAW: 25张)；约 4.0 fps (JPEG: 73张 无损压缩 RAW: 29 张 未压缩 RAW: 25张)；约 3.0 fps (JPEG: 81张 无损压缩 RAW: 32 张 未压缩 RAW: 27张)；* 可记录张数取决于存储介质；* 连拍速度取决于拍摄环境和拍摄张数",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Approx. 14.0 fps [Only Electronic Shutter](JPEG: 42 frames Lossless compression RAW: 23 frame Uncompressed RAW: 22 frames) / Approx. 11.0 fps [Only Electronic Shutter](JPEG: 56 frames Lossless compression RAW: 24 frame Uncompressed RAW: 23 frames) / Approx. 8.0 fps (JPEG: 62 frames Lossless compression RAW: 25 frame Uncompressed RAW: 23 frames) / Approx. 5.0 fps (JPEG: 68 frames Lossless compression RAW: 28 frame Uncompressed RAW: 25 frames) / Approx. 4.0 fps (JPEG: 73 frames Lossless compression RAW: 29 frame Uncompressed RAW: 25 frames) / Approx. 3.0 fps (JPEG: 81 frames Lossless compression RAW: 32 frame Uncompressed RAW: 27 frames) / * recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames"
         },
         {
           "label": "自动包围",
-          "value": "AE Bracketing(±2EV / ±5/3EV / ±4/3EV / ±1EV / ±2/3EV / ±1/3EV) / Film simulation bracketing(Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV / ±2/3EV / ±1EV) / White Balance Bracketing (±1 / ±2 / ±3)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "自动曝光包围(±2EV；±5/3EV；±4/3EV；±1EV；±2/3EV；±1/3EV)；胶片模拟包围(可选择任意三种胶片模拟)；动态范围包围 (100% · 200% · 400%)；感光度包围 (±1/3EV；±2/3EV；±1EV)；白平衡包围 (±1；±2；±3)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "AE Bracketing(±2EV / ±5/3EV / ±4/3EV / ±1EV / ±2/3EV / ±1/3EV) / Film simulation bracketing(Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV / ±2/3EV / ±1EV) / White Balance Bracketing (±1 / ±2 / ±3)"
         },
         {
           "label": "自拍",
-          "value": "10sec. / 2sec.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "10秒；2秒",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "10sec. / 2sec."
         },
         {
           "label": "间隔拍摄",
-          "value": "Yes (Setting : Interval, Number of shots, Starting time)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "支持 (设置 : 间隔, 拍摄张数, 开始时间)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Yes (Setting : Interval, Number of shots, Starting time)"
         },
         {
           "label": "视频记录",
-          "value": "[4K (3840x2160)] 29.97p / 25p / 24p / 23.98P, 100Mbps Continuous recording : 最高 约 10 min. / [Full HD (1920x1080)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 36Mbps Continuous recording : 最高 约 15 min. / [HD (1280x720)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 18Mbps Continuous recording : 最高 约 30 min. / * For 4K movie recording, use a card with UHS Speed Class 3 or higher. / * Although movie recording will continue without interruption when the file size reaches 4 GB, subsequent footage will be recorded to a separate file which must be viewed separately.",
+          "value": "[4K (3840x2160)] 29.97p；25p；24p；23.98P, 100Mbps 连续录制 : 最高 约 10分钟；[全高清 (1920x1080)] 59.94p；50p；29.97p；25p；24p；23.98P, 36Mbps 连续录制 : 最高 约 15分钟；[HD (1280x720)] 59.94p；50p；29.97p；25p；24p；23.98P, 18Mbps 连续录制 : 最高 约 30分钟；* 用于 4K 视频录制, 请使用 UHS 速度等级 3 或更高.；* 虽然 视频录制 文件大小达到以下数值时仍会连续录制： 4 GB, 后续影像将另存为文件，需单独播放.",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "[4K (3840x2160)] 29.97p / 25p / 24p / 23.98P, 100Mbps Continuous recording : up to approx. 10 min. / [Full HD (1920x1080)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 36Mbps Continuous recording : up to approx. 15 min. / [HD (1280x720)] 59.94p / 50p / 29.97p / 25p / 24p / 23.98P, 18Mbps Continuous recording : up to approx. 30 min. / * For 4K movie recording, use a card with UHS Speed Class 3 or higher. / * Although movie recording will continue without interruption when the file size reaches 4 GB, subsequent footage will be recorded to a separate file which must be viewed separately."
         },
         {
           "label": "拍摄功能",
-          "value": "Advanced SR AUTO, Face / Eye detection AF, Auto Red-eye Removal, Select custom setting, Panorama, Color space, Setting (Color, Sharpness, D-range, Highlight tone, Shadow tone), Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Lens Modulatioon Optimizer, Pre-AF, Focus check, Focus Peak Highlight, Digital Split Image™ *4, Electronic level, Multiple exposure, Release priority / Focus priority selection, Fn button setting , ISO AUTO control, Instant AF setting (AF-S/AF-C), AF-C CUSTOM SETTINGS , SHUTTER AF , SHUTTER AE , AF-ON , Interlock spot AE & Focus area, Focus area setting, AEL/AFL button setting, Edit/Save Quick menu, Preview exp./WB in manual mode, Shutter Type, Touch Screen Setting",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "高级场景识别 自动, 人脸/人眼检测 AF, 自动 去红眼, 选择自定义设置, 全景, 色彩空间, 设置 (色彩, 锐度, 动态范围, 高光色调, 阴影色调), 构图辅助线, 帧编号记忆, 直方图显示, 景深预览, 镜头优化调制, 预对焦, 对焦检查, 峰值对焦, 数码裂像™ *4, 电子水平仪, 多重曝光, 快门释放优先；对焦优先选择, Fn 按钮设置 , ISO 自动 控制, 即时 AF 设置 (AF-S/AF-C), AF-C 自定义设置 , 快门 AF , 快门 AE , AF-开启 , 点测光与对焦区域联动, 对焦区域设置, AEL/AFL 按钮设置, 编辑/保存快捷菜单, 手动模式曝光/白平衡预览, 快门类型, 触摸屏 设置",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Advanced SR AUTO, Face / Eye detection AF, Auto Red-eye Removal, Select custom setting, Panorama, Color space, Setting (Color, Sharpness, D-range, Highlight tone, Shadow tone), Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Lens Modulatioon Optimizer, Pre-AF, Focus check, Focus Peak Highlight, Digital Split Image™ *4, Electronic level, Multiple exposure, Release priority / Focus priority selection, Fn button setting , ISO AUTO control, Instant AF setting (AF-S/AF-C), AF-C CUSTOM SETTINGS , SHUTTER AF , SHUTTER AE , AF-ON , Interlock spot AE & Focus area, Focus area setting, AEL/AFL button setting, Edit/Save Quick menu, Preview exp./WB in manual mode, Shutter Type, Touch Screen Setting"
         },
         {
           "label": "拍摄功能 / 拍摄模式",
-          "value": "Touch Shooting, AF, Focus Area, OFF / EVF 触摸屏 area setting(ALL, RIGHT, LEFT, OFF)",
+          "value": "触摸拍摄, AF, 对焦区域, 关闭；EVF 触摸屏 区域设置(全部, 右侧, 左侧, 关闭)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Touch Shooting, AF, Focus Area, OFF / EVF touch screen area setting(ALL, RIGHT, LEFT, OFF)"
         },
         {
           "label": "拍摄功能 / 回放模式",
-          "value": "Swipe, Zoom, Pinch-in / Pinch-out, Double-tap, Drag",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "滑动、缩放、双指捏合／张开、双击、拖动",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Swipe, Zoom, Pinch-in / Pinch-out, Double-tap, Drag"
         },
         {
           "label": "胶片模拟",
-          "value": "15 modes (PROVIA / Standard, Velvia / Vivid, ASTIA / Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Black& White, Black& White+Ye Filter, Black& White+R Filter, Black& White+GFilter, Sepia, ACROS, ACROS+Ye Filter, ACROS＋R Filter, ACROS＋G Filter)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "15 种模式 (PROVIA；标准, Velvia；鲜艳, ASTIA；柔和, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, 黑白, 黑白+黄滤镜, 黑白+红滤镜, 黑白+绿滤镜, 棕褐色, ACROS, ACROS+黄滤镜, ACROS＋红滤镜, ACROS＋绿滤镜)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "15 modes (PROVIA / Standard, Velvia / Vivid, ASTIA / Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Black& White, Black& White+Ye Filter, Black& White+R Filter, Black& White+GFilter, Sepia, ACROS, ACROS+Ye Filter, ACROS＋R Filter, ACROS＋G Filter)"
         },
         {
           "label": "颗粒效果",
-          "value": "STRONG , WEAK , OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "强 , 弱 , 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "STRONG , WEAK , OFF"
         },
         {
           "label": "动态范围",
-          "value": "AUTO, 100%, 200%, 400%",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "自动, 100%, 200%, 400%",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "AUTO, 100%, 200%, 400%"
         },
         {
           "label": "创意滤镜",
-          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "玩具相机；微缩景观；流行色彩；高调；低调；动态色调；柔焦；局部色彩 (红色；橙色；黄色；绿色；蓝色；紫色)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)"
         },
         {
           "label": "回放功能",
-          "value": "RAW conversion, Image rotate, Auto image rotate, Face Detection, Red-eye removal, Photobook assist, Erase selected frames, Multi-frame playback (with micro thumbnail), Slide show, Protect, Crop, Resize, Panorama, Favorites",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "RAW 转换, 图像旋转, 自动 图像旋转, 人脸检测, 去红眼, 照片书助手, 删除所选照片, 多张回放 (含微缩略图), 幻灯片, 保护, 裁切, 调整尺寸, 全景, 收藏",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "RAW conversion, Image rotate, Auto image rotate, Face Detection, Red-eye removal, Photobook assist, Erase selected frames, Multi-frame playback (with micro thumbnail), Slide show, Protect, Crop, Resize, Panorama, Favorites"
         },
         {
           "label": "其他功能",
-          "value": "Exif Print, 35 Languages, Date/Time, Time difference, Sound & Flash OFF, Performance Setting, Preview exp. in Manual mode, LCD Brightness, LCD Color, Preview Pic. Effect, DISP. Custom Setting , LARGE INDICATORS MODE(EVF) , LARGE INDICATORS MODE(LCD) , LARGE INDICATORS DISP. SETTING , Copyright Setting",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "Exif Print, 35 语言, 日期/T 门, 时差, 声音 & 闪光 关闭, 性能 设置, 曝光预览. in 手动 模式, LCD 亮度, LCD 色彩, 照片预览. 效果, 显示. 自定义 设置 , 大 指示器 模式(EVF) , 大 指示器 模式(LCD) , 大 指示器 显示. 设置 , 版权 设置",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Exif Print, 35 Languages, Date/Time, Time difference, Sound & Flash OFF, Performance Setting, Preview exp. in Manual mode, LCD Brightness, LCD Color, Preview Pic. Effect, DISP. Custom Setting , LARGE INDICATORS MODE(EVF) , LARGE INDICATORS MODE(LCD) , LARGE INDICATORS DISP. SETTING , Copyright Setting"
         }
       ]
     },
@@ -245,51 +278,57 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "快门速度 / 机械快门",
-          "value": "4 sec. to 1/4000 sec.(P mode), 30 sec. to 1/4000 sec.(All modes) / Bulb mode(最高 60 min), TIME : 30 sec. to 1/4000 sec.",
+          "value": "4秒 至 1/4000秒(P模式), 30秒 至 1/4000秒(所有模式)；B门模式(最高 60分钟), T门 : 30秒 至 1/4000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "4 sec. to 1/4000 sec.(P mode), 30 sec. to 1/4000 sec.(All modes) / Bulb mode(up to 60 min), TIME : 30 sec. to 1/4000 sec."
         },
         {
           "label": "快门速度 / 电子快门",
-          "value": "4 sec. to 1/4000 sec.(P mode) / 1 sec. to 1/32000 sec. (P / A / S / M modes) / Bulb mode : 1 sec. fixed, TIME : 1sec to 1/32000sec.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "4秒 至 1/4000秒(P模式)；1秒 至 1/32000秒 (P；A；S；M 种模式)；B门模式 : 1秒 固定, T门 : 1秒 至 1/32000秒",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "4 sec. to 1/4000 sec.(P mode) / 1 sec. to 1/32000 sec. (P / A / S / M modes) / Bulb mode : 1 sec. fixed, TIME : 1sec to 1/32000sec."
         },
         {
           "label": "快门速度 / 机械加电子快门",
-          "value": "4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(All modes) / Bulb mode(最高 60 min), TIME : 30 sec. to 1/32000 sec.",
+          "value": "4秒 至 1/32000秒(P模式), 30秒 至 1/32000秒(所有模式)；B门模式(最高 60分钟), T门 : 30秒 至 1/32000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "4 sec. to 1/32000 sec.(P mode), 30 sec. to 1/32000 sec.(All modes) / Bulb mode(up to 60 min), TIME : 30 sec. to 1/32000 sec."
         },
         {
           "label": "快门速度 / 闪光同步速度",
-          "value": "1/180 sec. or slower",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "1/180秒 或更慢",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "1/180 sec. or slower"
         },
         {
           "label": "闪光灯",
-          "value": "Manual pop-up flash (Super Intelligent Flash) / Guide number : 约 7 (ISO200 · m) / 约 5 (ISO100 · m)",
+          "value": "手动 pop-up 闪光灯 (超级智能 闪光)；闪光指数 : 约 7 (ISO200 · m)；约 5 (ISO100 · m)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Manual pop-up flash (Super Intelligent Flash) / Guide number : approx. 7 (ISO200 · m) / approx. 5 (ISO100 · m)"
         },
         {
           "label": "闪光模式 / 闪光模式",
-          "value": "TTL(FLASH AUTO / STANDARD / SLOW SYNC.) / MANUAL / COMMANDER / OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "TTL(闪光灯 自动；标准；慢速同步.)；手动；指令模式；关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "TTL(FLASH AUTO / STANDARD / SLOW SYNC.) / MANUAL / COMMANDER / OFF"
         },
         {
-          "label": "闪光模式 / SYNC. 模式",
-          "value": "1ST CURTAIN / 2ND CURTAIN",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "label": "闪光模式 / 同步模式",
+          "value": "前帘同步；后帘同步",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "1ST CURTAIN / 2ND CURTAIN"
         },
         {
           "label": "热靴",
-          "value": "Yes (Dedicated TTL Flash compatible)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "支持（兼容专用TTL闪光灯）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Yes (Dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -299,13 +338,13 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "0.39-in., 约 2,360K-dot OLED color viewfinder, Coverage of viewing area vs. capturing area : 约 100% / Eye point : 约 17.5mm ( from the rear end of the camera's eyepiece), Diopter adjustment : -4m ~ +2m-1(dpt) / Magnification : 0.62x with 50mm lens(35mm format equivalent) at infinity and diopter set to -1m-1. / Diagonal angle of view : 约 30°( Horizontal angle of view : 约 25°) Built-in eye sensor",
+          "value": "0.39-英寸, 约 2360000 点 OLED 彩色取景器, 取景覆盖率 : 约 100%；眼点 : 约 17.5mm ( 距相机目镜后端), 屈光度调节 : -4m ~ +2m⁻¹(dpt)；放大倍率 : 0.62x 使用 50 mm 镜头(等效 35 mm 画幅) 无限远对焦、屈光度设为 -1m⁻¹.；对角视角 : 约 30°( 水平视角 : 约 25°) 内置 眼传感器",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "0.39-in., approx. 2,360K-dot OLED color viewfinder, Coverage of viewing area vs. capturing area : approx. 100% / Eye point : approx. 17.5mm ( from the rear end of the camera's eyepiece), Diopter adjustment : -4m ~ +2m-1(dpt) / Magnification : 0.62x with 50mm lens(35mm format equivalent) at infinity and diopter set to -1m-1. / Diagonal angle of view : approx. 30°( Horizontal angle of view : approx. 25°) Built-in eye sensor"
         },
         {
           "label": "液晶屏",
-          "value": "3.0-inch, aspect ratio 3:2, / 约 1040K-dot Tilt-type TFT color LCD monitor (约 100% coverage)",
+          "value": "3.0-英寸, 画面比例 3:2,；约 1040000 点 可翻折 TFT 彩色液晶显示屏 (约 100% 视野率)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "3.0-inch, aspect ratio 3:2, / approx. 1040K-dot Tilt-type TFT color LCD monitor (approx. 100% coverage)"
         }
@@ -317,23 +356,25 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W126S Li-ion battery (included)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "NP-W126S 锂离子电池（随附）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "NP-W126S Li-ion battery (included)"
         },
         {
           "label": "电源 / 照片续航",
-          "value": "约 350 frames (When XF35mmF1.4 R is set, LCD monitor ON)",
+          "value": "约 350张 (安装XF35mmF1.4 R镜头时, 液晶显示屏 开启)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Approx. 350 frames (When XF35mmF1.4 R is set, LCD monitor ON)"
         },
         {
           "label": "尺寸",
-          "value": "118.4mm (W) x 82.8mm (H) x 41.4mm (D) / 4.66in. (W) x 3.26in. (H) x 1.63in. (D) / (Minimum Depth : 31.9mm / 1.3 in.)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "118.4mm (W) x 82.8mm (H) x 41.4mm (D)；4.66英寸 (W) x 3.26英寸 (H) x 1.63英寸 (D)；(最薄处 : 31.9mm；1.3 英寸)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "118.4mm (W) x 82.8mm (H) x 41.4mm (D) / 4.66in. (W) x 3.26in. (H) x 1.63in. (D) / (Minimum Depth : 31.9mm / 1.3 in.)"
         },
         {
           "label": "重量",
-          "value": "约 383g / 13.5 oz. (including battery and memory card) / 约 333g / 11.8 oz. (excluding accessories, battery and memory card)",
+          "value": "约 383g；13.5 oz. (含电池和存储卡)；约 333g；11.8 oz. (不含配件、电池和存储卡)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
           "originalValue": "Approx. 383g / 13.5 oz. (including battery and memory card) / Approx. 333g / 11.8 oz. (excluding accessories, battery and memory card)"
         },
@@ -344,13 +385,15 @@
         },
         {
           "label": "工作湿度",
-          "value": "10 - 80% (no condensation)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "10 - 80% （无凝露）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "10 - 80% (no condensation)"
         },
         {
           "label": "启动时间",
-          "value": "Approx 0.4sec. / * Fujifilm research",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/"
+          "value": "约0.4秒（富士测试）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t20/specifications/",
+          "originalValue": "Approx 0.4sec. / * Fujifilm research"
         }
       ]
     }

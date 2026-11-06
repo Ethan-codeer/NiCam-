@@ -1,0 +1,302 @@
+{
+  "id": "nikon-d90",
+  "name": "Nikon D90",
+  "brand": "nikon",
+  "year": null,
+  "format": "APS-C",
+  "type": "单反相机",
+  "megapixels": 12.3,
+  "width": 132,
+  "height": 103,
+  "depth": 77,
+  "description": "Nikon D90，尼康DX画幅F卡口数码单反相机。",
+  "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "g1",
+      "title": "基本规格",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "可换镜头数码单反相机",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "尼康F卡口，带AF耦合和AF触点",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "画幅",
+          "value": "DX画幅；35mm等效视角约为镜头焦距的1.5倍",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "有效像素",
+          "value": "1230万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "总像素",
+          "value": "1290万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "图像传感器",
+          "value": "23.6×15.8mm CMOS",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "照片与存储",
+      "rows": [
+        {
+          "label": "最大照片尺寸",
+          "value": "4288×2848像素（DX画幅）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "中等照片尺寸",
+          "value": "3216×2136像素（DX画幅）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "小尺寸照片",
+          "value": "2144×1424像素（DX画幅）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "画质格式",
+          "value": "RAW、JPEG；可同时记录RAW+JPEG",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD、SDHC",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "取景与显示",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "眼平五棱镜光学取景器",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "取景器视野率",
+          "value": "上下左右约96％",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "取景器放大倍率",
+          "value": "约0.94倍（50mm f/1.4镜头、无限远、屈光度−1.0m⁻¹）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "眼点距离",
+          "value": "19.5mm（屈光度−1.0m⁻¹）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "−2～+1m⁻¹",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "显示屏",
+          "value": "3英寸约92万点固定屏；可调亮度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "快门与连拍",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "电子控制纵走式焦平面快门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "快门速度",
+          "value": "1/4000～30秒，支持B门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/200秒及更慢速度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "连拍速度",
+          "value": "高速约4.5张/秒；低速约1～4张/秒",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "自拍延时",
+          "value": "2、5、10或20秒",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "测光与曝光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "420像素RGB传感器，TTL全开光圈测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "矩阵、中央重点、点测光；矩阵测光细分功能依镜头类型",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P程序自动、S快门优先、A光圈优先、M手动",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "±5EV；1/3或1/2EV步长",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "感光度",
+          "value": "ISO 200～3200；可扩展至等效ISO 100～6400；支持自动ISO",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "曝光锁定",
+          "value": "AE/AF锁定按钮锁定测得的亮度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "自动对焦",
+      "rows": [
+        {
+          "label": "取景器对焦",
+          "value": "TTL相位检测，Multi-CAM 1000模块",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "对焦点",
+          "value": "11点，其中1个十字型",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "AF检测范围",
+          "value": "−1～+19EV（ISO 100、20℃）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "约0.5～3m",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "使用AE/AF锁定按钮，或在AF-S下半按快门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "闪光与连接",
+      "rows": [
+        {
+          "label": "闪光补偿",
+          "value": "−3～+1EV；1/3或1/2EV步长",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "热靴",
+          "value": "ISO 518热靴，带同步触点、通信触点和安全锁孔",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "USB接口",
+          "value": "Hi-Speed USB",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "Type C迷你HDMI端口；不支持与机背屏同时回放",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "机身与电源",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约132×103×77mm",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "重量",
+          "value": "约620g（不含电池、SD卡、机身盖及屏幕保护盖）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "电池",
+          "value": "EN-EL3e锂离子充电电池，使用1块",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "1/4英寸（ISO 1222）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "工作温度",
+          "value": "0～40℃",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "工作湿度",
+          "value": "85％以下，无凝露",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "视频与音频",
+      "rows": [
+        {
+          "label": "视频分辨率与帧率",
+          "value": "1280×720、640×424或320×216，均24fps",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "最长单次视频",
+          "value": "720p约5分钟；较低分辨率约20分钟",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        },
+        {
+          "label": "视频格式",
+          "value": "AVI，Motion-JPEG",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d90/spec.html"
+        }
+      ]
+    }
+  ]
+}

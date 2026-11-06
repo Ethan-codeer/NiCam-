@@ -46,8 +46,9 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "Leica M 卡口，6bit镜头编码传感器",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf"
+          "value": "Leica M 卡口，6位镜头编码传感器",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28851-Leica-M10_Technical-Data_en.pdf",
+          "originalValue": "Leica M 卡口，6bit镜头编码传感器"
         },
         {
           "label": "镜头系统",

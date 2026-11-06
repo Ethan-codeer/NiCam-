@@ -45,8 +45,9 @@
         },
         {
           "label": "画质模式",
-          "value": "Fine、Standard、RAW+Fine、RAW+Standard、RAW",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "精细、标准、RAW+精细、RAW+标准、RAW",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "Fine、Standard、RAW+Fine、RAW+Standard、RAW"
         },
         {
           "label": "眼部传感器",
@@ -55,8 +56,9 @@
         },
         {
           "label": "缓存",
-          "value": "RAW / RAW+JPEG 至少24张（松下测试条件，卡槽1使用UHS-II卡）；JPEG至少999张",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "RAW；RAW+JPEG 至少24张（松下测试条件，卡槽1使用UHS-II卡）；JPEG至少999张",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "RAW / RAW+JPEG 至少24张（松下测试条件，卡槽1使用UHS-II卡）；JPEG至少999张"
         }
       ]
     },
@@ -81,8 +83,9 @@
         },
         {
           "label": "对焦区域",
-          "value": "225 区；支持人脸 / 眼睛 / 身体 / 动物检测、追踪、区域、单点及精确对焦",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "225 区；支持人脸；眼睛；身体；动物检测、追踪、区域、单点及精确对焦",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "225 区；支持人脸 / 眼睛 / 身体 / 动物检测、追踪、区域、单点及精确对焦"
         },
         {
           "label": "防抖",
@@ -215,18 +218,21 @@
         },
         {
           "label": "视频格式",
-          "value": "MP4、MOV；H.264 / MPEG-4 AVC、H.265 / HEVC",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "MP4、MOV；H.264；MPEG-4 AVC、H.265；HEVC",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "MP4、MOV；H.264 / MPEG-4 AVC、H.265 / HEVC"
         },
         {
           "label": "视频音频",
-          "value": "MP4：AAC双声道；MOV：LPCM双声道48kHz/16bit",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "MP4：AAC双声道；MOV：LPCM双声道48kHz/16位",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "MP4：AAC双声道；MOV：LPCM双声道48kHz/16bit"
         },
         {
           "label": "慢动作 / 快动作",
-          "value": "4K/8bit/100M/30p或24p：1–60fps；FHD/8bit/28M/60p或20M/30p或24M/24p：1–180fps",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "4K/8位/100M/30p或24p：1–60fps；FHD/8位/28M/60p或20M/30p或24M/24p：1–180fps",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "4K/8bit/100M/30p或24p：1–60fps；FHD/8bit/28M/60p或20M/30p或24M/24p：1–180fps"
         },
         {
           "label": "麦克风",
@@ -246,8 +252,9 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD / SDHC / SDXC，双卡槽中支持UHS-I及UHS-II卡",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "SD；SDHC；SDXC，双卡槽中支持UHS-I及UHS-II卡",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "SD / SDHC / SDXC，双卡槽中支持UHS-I及UHS-II卡"
         },
         {
           "label": "USB",
@@ -266,8 +273,9 @@
         },
         {
           "label": "音频接口",
-          "value": "3.5mm 输入，支持插入供电麦克风 / 普通麦克风 / 线路输入；3.5mm耳机输出",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/"
+          "value": "3.5mm 输入，支持插入供电麦克风；普通麦克风；线路输入；3.5mm耳机输出",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-s-series-dc-s5/",
+          "originalValue": "3.5mm 输入，支持插入供电麦克风 / 普通麦克风 / 线路输入；3.5mm耳机输出"
         }
       ]
     },

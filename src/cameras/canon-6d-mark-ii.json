@@ -6,7 +6,7 @@
   "format": "全画幅",
   "type": "单反相机",
   "megapixels": 26.2,
-  "width": 144.0,
+  "width": 144,
   "height": 110.5,
   "depth": 74.8,
   "description": "Canon EOS 6D Mark II，全画幅数码单反相机。",
@@ -19,10 +19,10 @@
       "title": "传感器",
       "rows": [
         {
-          "label": "类型",
+          "label": "传感器类型",
           "value": "约 35.9 x 24.0 mm CMOS",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面"
         },
         {
           "label": "有效像素",
@@ -41,13 +41,15 @@
         },
         {
           "label": "低通滤镜",
-          "value": "Built in/Fixed",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "内置/Fixed",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Built in/Fixed"
         },
         {
           "label": "除尘系统",
-          "value": "EOS integrated cleaning system",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "EOS综合除尘系统",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "EOS integrated cleaning system"
         },
         {
           "label": "彩色滤镜",
@@ -61,10 +63,10 @@
       "title": "影像处理器",
       "rows": [
         {
-          "label": "类型",
+          "label": "处理器",
           "value": "DIGIC 7",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面"
         }
       ]
     },
@@ -74,13 +76,15 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "EF (excludes EF-S, EF-M lenses)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "EF卡口，不兼容EF-S／EF-M镜头",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "EF (excludes EF-S, EF-M lenses)"
         },
         {
           "label": "焦距换算",
-          "value": "Equivalent to 1.0x the focal length of the lens",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "35mm等效焦距换算系数1.0×",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Equivalent to 1.0x the focal length of the lens"
         }
       ]
     },
@@ -89,48 +93,55 @@
       "title": "对焦系统",
       "rows": [
         {
-          "label": "类型",
-          "value": "Via optical viewfinder: / TTL secondary image-forming phase detection system 使用 AF dedicated sensor / Via liveview on LCD screen: / Dual Pixel CMOS AF System. Phase detection pixels built onto imaging sensor",
+          "label": "自动对焦系统",
+          "value": "通过光学取景器:；使用专用AF传感器的TTL二次成像相位检测系统；通过液晶屏实时取景:；Dual Pixel CMOS AF 系统. 图像传感器内置相位检测像素",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面",
+          "originalValue": "Via optical viewfinder: / TTL secondary image-forming phase detection system 使用 AF dedicated sensor / Via liveview on LCD screen: / Dual Pixel CMOS AF System. Phase detection pixels built onto imaging sensor"
         },
         {
           "label": "自动对焦系统与点数",
-          "value": "Via optical viewfinder: / 45 cross-type AF points / (45 f/5.6 cross-type AF points, 最高 27 f/8 (9 cross-type) points, centre point is f/2.8 and f/5.6 dual cross-type and sensitive to -3 EV) / The number of available cross-type AF points will differ depending on the lens. / Via liveview on LCD screen: / Maximum 63 AF points (Fixed location on 9x7 grid) via camera automatic selection",
+          "value": "光学取景：45个十字型AF点（f/5.6）；f/8时最多27点，其中9点为十字型；中央为f/2.8和f/5.6双十字型，最低检测亮度−3EV。可用十字型点数随镜头变化。实时取景：自动选择最多63点，固定9×7网格。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "The number of AF points, cross-type AF points, and dual cross-type AF points vary depending on the lens used. For full compatibility list please refer to product manual available on www.canon-europe.com/support / Maximum number of AF frame is dependent on selected image aspect ratio"
+          "condition": "AF点、十字型和双十字型点数量随镜头变化。 完整兼容列表见www.canon-europe.com/support上的产品说明书；最多AF框数量取决于所选画面比例",
+          "originalValue": "Via optical viewfinder: / 45 cross-type AF points / (45 f/5.6 cross-type AF points, 最高 27 f/8 (9 cross-type) points, centre point is f/2.8 and f/5.6 dual cross-type and sensitive to -3 EV) / The number of available cross-type AF points will differ depending on the lens. / Via liveview on LCD screen: / Maximum 63 AF points (Fixed location on 9x7 grid) via camera automatic selection"
         },
         {
           "label": "对焦工作范围",
-          "value": "Via optical viewfinder: / EV -3 - 18 (at 23 °C & ISO 100) 使用 centre AF point & f/2.8 or brighter lenses / Via liveview on LCD screen: / EV -2.5- 18 (at 23 °C & ISO 100) 使用 单次自动对焦",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "通过光学取景器:；EV -3 - 18 （23°C、ISO 100） 使用 中央AF点、f/2.8或更大光圈镜头；通过液晶屏实时取景:；EV -2.5- 18 （23°C、ISO 100） 使用 单次自动对焦",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Via optical viewfinder: / EV -3 - 18 (at 23 °C & ISO 100) 使用 centre AF point & f/2.8 or brighter lenses / Via liveview on LCD screen: / EV -2.5- 18 (at 23 °C & ISO 100) 使用 单次自动对焦"
         },
         {
           "label": "对焦模式",
-          "value": "Via optical viewfinder: / 单次自动对焦 AF / Predictive AI 伺服自动对焦 (AI Servo II algorithm) / AI Focus AF / Via liveview on LCD screen: / 单次自动对焦 / 伺服自动对焦",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "通过光学取景器:；单次自动对焦 AF；预测式AI伺服AF (AI Servo II算法)；AI Focus AF；通过液晶屏实时取景:；单次自动对焦；伺服自动对焦",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Via optical viewfinder: / 单次自动对焦 AF / Predictive AI 伺服自动对焦 (AI Servo II algorithm) / AI Focus AF / Via liveview on LCD screen: / 单次自动对焦 / 伺服自动对焦"
         },
         {
           "label": "对焦点选择",
-          "value": "Via optical viewfinder: / Automatic selection: 45 point AF / 手动 selection: Single point/ Spot AF / 手动 selection: Zone AF / 手动 selection: Large Zone AF / AF points can be selected separately for vertical and horizontal shooting / Via LCD screen: / Automatic selection: Face AIAF + Tracking, 最高 63 AF points when no subject/ face detected / 手动 selection via 触摸屏 or freely position 1 AF point/ 1 AF Zone (9 points, 3x3 grid).",
+          "value": "光学取景：45点自动选择、手动单点／定点AF、区域AF及大区域AF；可为横拍和竖拍分别设置。液晶屏实时取景：脸部识别＋跟踪，未识别主体／脸部时最多63点；可触控或自由移动单点／3×3的9点区域。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame",
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面",
           "originalValue": "Via optical viewfinder: / Automatic selection: 45 point AF / 手动 selection: Single point/ Spot AF / 手动 selection: Zone AF / 手动 selection: Large Zone AF / AF points can be selected separately for vertical and horizontal shooting / Via LCD screen: / Automatic selection: Face AIAF + Tracking, 最高 63 AF points when no subject/ face detected / 手动 selection via touch screen or freely position 1 AF point/ 1 AF Zone (9 points, 3x3 grid)."
         },
         {
           "label": "对焦锁定",
-          "value": "Locked when shutter button is pressed half way in 单次自动对焦 AF mode or AF-ON Button is pressed.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "单次AF模式下半按快门，或按AF-ON按钮锁定对焦",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Locked when shutter button is pressed half way in 单次自动对焦 AF mode or AF-ON Button is pressed."
         },
         {
           "label": "对焦辅助灯",
-          "value": "Emitted by an optional dedicated Speedlite or optional Speedlite Transmitter ST-E2",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "由另售专用Speedlite或ST-E2闪光灯信号发射器发出",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Emitted by an optional dedicated Speedlite or optional Speedlite Transmitter ST-E2"
         },
         {
           "label": "手动对焦",
-          "value": "Selected on lens",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "在镜头上选择",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Selected on lens"
         }
       ]
     },
@@ -140,30 +151,34 @@
       "rows": [
         {
           "label": "测光模式",
-          "value": "Via optical viewfinder: / 7560-pixel RGB+IR metering sensor / Metering 使用 the area divided into 63 segments (9 × 7) / (1) Evaluative metering (linked to all AF points) / (2) Partial metering (约 6.5 % of viewfinder) / (3) Spot metering (约 3.2 % of viewfinder) / (4) Center-weighted average metering / Via liveview on LCD screen: / (1) Evaluative metering (315 zones) / (2) Partial metering (约 6.3 % of LCD screen) / (3) Spot metering (约 2.7 % of LCD screen) / (4) Center-weighted average metering",
+          "value": "通过光学取景器:；7560像素 RGB＋红外测光传感器；测光区域划分为 63 区 (9 × 7)；(1) 评价测光 (联动所有AF点)；(2) 局部测光 (约 6.5 % 取景画面)；(3) 点测光 (约 3.2 % 取景画面)；(4) 中央重点平均测光；通过液晶屏实时取景:；(1) 评价测光 (315区)；(2) 局部测光 (约 6.3 % of 液晶屏)；(3) 点测光 (约 2.7 % of 液晶屏)；(4) 中央重点平均测光",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
           "originalValue": "Via optical viewfinder: / 7560-pixel RGB+IR metering sensor / Metering 使用 the area divided into 63 segments (9 × 7) / (1) Evaluative metering (linked to all AF points) / (2) Partial metering (approx. 6.5 % of viewfinder) / (3) Spot metering (approx. 3.2 % of viewfinder) / (4) Center-weighted average metering / Via liveview on LCD screen: / (1) Evaluative metering (315 zones) / (2) Partial metering (approx. 6.3 % of LCD screen) / (3) Spot metering (approx. 2.7 % of LCD screen) / (4) Center-weighted average metering"
         },
         {
           "label": "自动曝光锁定",
-          "value": "自动: In 1-shot AF mode 使用 evaluative metering exposure is locked when focus is achieved. / 手动: By AE lock button in creative zone modes.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "自动: 单次AF及评价测光时，合焦即锁定曝光。；手动: 在创意拍摄区模式使用AE锁定按钮。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "自动: In 1-shot AF mode 使用 evaluative metering exposure is locked when focus is achieved. / 手动: By AE lock button in creative zone modes."
         },
         {
           "label": "曝光补偿",
-          "value": "+/-5 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB).",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "+/-5 EV 以1/3或1/2档步进 (可结合自动曝光包围使用).",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "+/-5 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)."
         },
         {
           "label": "自动包围曝光",
-          "value": "2, 3, 5 or 7 Shots +/-3 EV 1/3 or 1/2 stop increments",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "2, 3, 5或7 Shots +/-3 EV 1/3或1/2档步进",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "2, 3, 5 or 7 Shots +/-3 EV 1/3 or 1/2 stop increments"
         },
         {
           "label": "感光度",
-          "value": "Stills: 自动 (100 - 40000), 100 - 40000 (in 1/3-stop or whole stop increments), 手动 ISO can be expanded to L: 50, H1: 51200, H2: 102400 / Movie: 自动 (100 - 25600), 100 - 25600 (in 1/3-stop or whole stop increments), 自动 ISO/ 手动 ISO settings can be expanded to H1: 51200. H2: 102400",
+          "value": "照片： 自动 (100 - 40000), 100 - 40000 (以1/3或1档步进), 手动 ISO可扩展至 L: 50, H1: 51200, H2: 102400；视频: 自动 (100 - 25600), 100 - 25600 (以1/3或1档步进), 自动／手动ISO可扩展至 H1: 51200. H2: 102400",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Recommended Exposure Index / Recommended Exposure Index"
+          "condition": "推荐曝光指数",
+          "originalValue": "Stills: 自动 (100 - 40000), 100 - 40000 (in 1/3-stop or whole stop increments), 手动 ISO can be expanded to L: 50, H1: 51200, H2: 102400 / Movie: 自动 (100 - 25600), 100 - 25600 (in 1/3-stop or whole stop increments), 自动 ISO/ 手动 ISO settings can be expanded to H1: 51200. H2: 102400"
         }
       ]
     },
@@ -172,15 +187,16 @@
       "title": "快门",
       "rows": [
         {
-          "label": "类型",
+          "label": "快门类型",
           "value": "电子控制 焦平面快门",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面"
         },
         {
           "label": "快门速度",
-          "value": "30-1/4000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "30-1/4000秒 (1/2或1/3档步进), B门 (整体快门速度范围；实际可用范围随拍摄模式变化)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "30-1/4000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)"
         }
       ]
     },
@@ -189,25 +205,29 @@
       "title": "白平衡",
       "rows": [
         {
-          "label": "类型",
-          "value": "自动白平衡 使用 the imaging sensor",
+          "label": "白平衡检测",
+          "value": "使用图像传感器自动检测白平衡",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面",
+          "originalValue": "自动白平衡 使用 the imaging sensor"
         },
         {
           "label": "设置",
-          "value": "AWB (Ambeince priority/White priority), 日光, 阴影, 阴天, Tungsten, 白色荧光灯, Flash, 自定义, 色温设置 (约 2500 K - 10000 K) / White balance compensation: / 1. Blue/Amber +/-9 / 2. Magenta/ Green +/-9.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, 闪光, 自定义, 色温设置 (约 2500 K - 10000 K)；白平衡补偿:；1. 蓝色／琥珀色 +/-9；2. 洋红／绿色 +/-9.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "AWB (Ambeince priority/White priority), 日光, 阴影, 阴天, Tungsten, 白色荧光灯, Flash, 自定义, 色温设置 (约 2500 K - 10000 K) / White balance compensation: / 1. Blue/Amber +/-9 / 2. Magenta/ Green +/-9."
         },
         {
           "label": "自定义白平衡",
-          "value": "支持, 1 setting can be registered",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "支持保存一组设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "支持, 1 setting can be registered"
         },
         {
           "label": "白平衡包围",
-          "value": "+/-3 levels in single level increments / 2, 3, 5 or 7 / Selectable Blue/Amber bias or Magenta/ Green bias.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "+/-3 级，1级步进；2, 3, 5或7；可选择 蓝色／琥珀色偏移或洋红／绿色偏移.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "+/-3 levels in single level increments / 2, 3, 5 or 7 / Selectable Blue/Amber bias or Magenta/ Green bias."
         }
       ]
     },
@@ -216,10 +236,10 @@
       "title": "取景器",
       "rows": [
         {
-          "label": "类型",
+          "label": "取景器类型",
           "value": "Pentaprism",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面"
         },
         {
           "label": "视野覆盖率",
@@ -230,32 +250,37 @@
           "label": "放大倍率",
           "value": "约 0.71x",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "使用 50mm lens at 无限远, -1m-1 dpt"
+          "condition": "50mm镜头、无限远对焦、屈光度−1m⁻¹时"
         },
         {
           "label": "眼点",
-          "value": "约 21mm (from eyepiece lens centre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "约 21mm (从目镜透镜中心起)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "约 21mm (from eyepiece lens centre)"
         },
         {
           "label": "屈光度调节",
-          "value": "-3 to +1 m-1 (dioptre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "-3至+1 m-1 (屈光度)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "-3 to +1 m-1 (dioptre)"
         },
         {
           "label": "取景信息",
-          "value": "AF information: AF points, focus confirmation, AF area selection mode, AF mode / Exposure information: Exposure mode, Shutter speed, aperture value, ISO speed, AE lock, exposure level/compensation, Metering mode, spot metering circle, exposure warning, AEB. / Flash information: Flash ready, high-speed sync, FE lock, flash exposure compensation, red-eye reduction light. / Image information: Card information, maximum burst (2 digit display), Highlight tone priority (D+). / Composition information: Grid, Electronic level, Aspect Ratio / Other information: Drive mode, Battery level, Alert symbol, Flicker Detection, Image Quality (RAW/ JPEG)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "显示曝光参数、拍摄模式、AF区域与对焦状态；剩余张数、电量、存储状态；白平衡、图像画质、闪光状态；直方图、电子水平仪及构图辅助。完整图标与显示条件见官方规格。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "AF information: AF points, focus confirmation, AF area selection mode, AF mode / Exposure information: Exposure mode, Shutter speed, aperture value, ISO speed, AE lock, exposure level/compensation, Metering mode, spot metering circle, exposure warning, AEB. / Flash information: Flash ready, high-speed sync, FE lock, flash exposure compensation, red-eye reduction light. / Image information: Card information, maximum burst (2 digit display), Highlight tone priority (D+). / Composition information: Grid, Electronic level, Aspect Ratio / Other information: Drive mode, Battery level, Alert symbol, Flicker Detection, Image Quality (RAW/ JPEG)"
         },
         {
           "label": "景深预览",
-          "value": "支持, 使用 Depth of Field preview button.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "支持， 使用 景深预览按钮.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "支持, 使用 Depth of Field preview button."
         },
         {
           "label": "目镜遮光",
-          "value": "On strap",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "肩带附带",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "On strap"
         }
       ]
     },
@@ -264,10 +289,10 @@
       "title": "显示屏",
       "rows": [
         {
-          "label": "类型",
-          "value": "触摸屏 Vari angle 7.7cm (3.0\") 3:2 Clear View II TFT, 约 1040K dots",
+          "label": "显示屏类型",
+          "value": "可翻转触控屏 7.7cm (3.0\") 3:2 Clear View II TFT, 约 1040千点",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame",
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面",
           "originalValue": "Touch screen Vari angle 7.7cm (3.0\") 3:2 Clear View II TFT, approx. 1040K dots"
         },
         {
@@ -282,18 +307,21 @@
         },
         {
           "label": "表面涂层",
-          "value": "Anti smudge",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "防污涂层",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Anti smudge"
         },
         {
           "label": "亮度调节",
-          "value": "Adjustable to one of seven levels",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "七级亮度调节",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Adjustable to one of seven levels"
         },
         {
           "label": "显示选项",
-          "value": "(1) Quick Control Screen / (2) Camera settings / (3) Electronic Level",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "(1) 速控屏幕；(2) Camera 档设置；(3) Electronic Level",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "(1) Quick Control Screen / (2) Camera settings / (3) Electronic Level"
         }
       ]
     },
@@ -303,24 +331,28 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "E-TTL II 自动 Flash, Metered 手动",
+          "value": "E-TTL II 自动 闪光, Metered 手动",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Available 使用时 Liveview via LCD. Maximum effect in Panning Mode available 使用时 following lenses: EF 24-105mm f/4L II IS USM"
+          "condition": "液晶屏实时取景时可用；摇摄模式搭配EF 24-105mm f/4L II IS USM可获得最佳效果",
+          "originalValue": "E-TTL II 自动 Flash, Metered 手动"
         },
         {
           "label": "闪光同步速度",
-          "value": "1/180 sec",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "1/180秒",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "1/180 sec"
         },
         {
           "label": "闪光曝光补偿",
-          "value": "+/- 3EV in 1/2 or 1/3 increments",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "+/- 3EV 以1/2或1/3档步进",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "+/- 3EV in 1/2 or 1/3 increments"
         },
         {
           "label": "闪光包围曝光",
-          "value": "支持, 使用 compatible External Flash",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "支持， 使用 兼容的外接闪光灯",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "支持, 使用 compatible External Flash"
         },
         {
           "label": "闪光曝光锁定",
@@ -334,13 +366,15 @@
         },
         {
           "label": "外接闪光灯兼容",
-          "value": "E-TTL II 使用 EX series Speedlites, wireless multi-flash support (使用 optional accessory)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "E-TTL II，兼容EX系列Speedlite，搭配另售附件支持无线多灯闪光",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "E-TTL II 使用 EX series Speedlites, wireless multi-flash support (使用 optional accessory)"
         },
         {
           "label": "外接闪光灯控制",
-          "value": "via camera menu screen",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "通过相机菜单设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "via camera menu screen"
         }
       ]
     },
@@ -350,9 +384,10 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "Scene Intelligent 自动, Creative 自动, Special Scene (人像, Group Photo, 风光, Sports, Kids, Panning, Close-up, Food, Candlelight, Night 人像, Handheld Night Scene, HDR Backlight Control), Program AE, Shutter-priority AE, Aperture-priority AE, 手动 exposure, Bulb exposure, 自定义 (C1/C2)",
+          "value": "场景智能自动, 创意自动, 特殊场景 (人像, 合影, 风光, 运动, 儿童, 摇摄, 微距, 食物, 烛光, 夜间人像, 手持夜景, HDR逆光控制), 程序自动曝光, 快门优先自动曝光, 光圈优先自动曝光, 手动曝光, B门曝光, 自定义 (C1/C2)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Available 使用时 Liveview via LCD. Maximum effect in Panning Mode available 使用时 following lenses: EF 24-105mm f/4L II IS USM"
+          "condition": "液晶屏实时取景时可用；摇摄模式搭配EF 24-105mm f/4L II IS USM可获得最佳效果",
+          "originalValue": "Scene Intelligent 自动, Creative 自动, Special Scene (人像, Group Photo, 风光, Sports, Kids, Panning, Close-up, Food, Candlelight, Night 人像, Handheld Night Scene, HDR Backlight Control), Program AE, Shutter-priority AE, Aperture-priority AE, 手动 exposure, Bulb exposure, 自定义 (C1/C2)"
         },
         {
           "label": "照片风格",
@@ -361,24 +396,28 @@
         },
         {
           "label": "色彩空间",
-          "value": "sRGB and Adobe RGB",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "sRGB及Adobe RGB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "sRGB and Adobe RGB"
         },
         {
           "label": "图像处理",
-          "value": "Highlight Tone Priority / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction / High ISO speed noise reduction (4 settings + Multi Shot Noise Reduction) / 自动 Correction of Lens Peripheral illumination, Distortion correction, Chromatic aberration correction and Diffraction correction / Multi-exposure / HDR Mode / RAW image processing - during image Playback only / Resize to M or S1, S2",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "支持高光色调优先、自动亮度优化、长曝光降噪、高ISO降噪、镜头光学补偿、衍射校正、缩小尺寸、机内RAW处理、HDR；各功能适用格式、拍摄阶段与详细设置见官方规格。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Highlight Tone Priority / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction / High ISO speed noise reduction (4 settings + Multi Shot Noise Reduction) / 自动 Correction of Lens Peripheral illumination, Distortion correction, Chromatic aberration correction and Diffraction correction / Multi-exposure / HDR Mode / RAW image processing - during image Playback only / Resize to M or S1, S2"
         },
         {
           "label": "驱动模式",
-          "value": "Single, Continuous L, Continuous H, Self timer (2s + Remote, 10s + Remote, Continuous), Silent single shooting, Silent continuous shooting",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "单张、 低速连拍, 高速连拍, 自拍（2秒＋遥控、10秒＋遥控、连续）, 静音单张拍摄, 静音连续拍摄",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Single, Continuous L, Continuous H, Self timer (2s + Remote, 10s + Remote, Continuous), Silent single shooting, Silent continuous shooting"
         },
         {
           "label": "连续拍摄",
-          "value": "最高 约 6.5 fps. (speed maintained for 最高 150 张图像 in JPEG, 21 张图像 in RAW)",
+          "value": "最高约 6.5 fps (连续拍摄可维持 最高 150张JPEG或21张RAW)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Based on Canon's testing conditions, JPEG, ISO 100, 标准 Picture Style. Varies depending on the subject, memory card brand and capacity, image recording quality, ISO speed, drive mode, Picture Style, 自定义 functions etc. / Sustained continuous shooting speed is tested based on Canon's testing standard. Function requires compatible SDHC/SDXC UHS Speed Class 1 memory card, total number of frames captured varies depending on shooting subject, settings and brand of memory card"
+          "condition": "佳能测试条件：JPEG、ISO 100、标准照片风格；最高速度和缓存张数随主体、亮度、相机设置、存储卡品牌／容量、画质和自定义功能变化。需兼容SDHC／SDXC UHS-I存储卡。",
+          "originalValue": "最高 约 6.5 fps. (speed maintained for 最高 150 张图像 in JPEG, 21 张图像 in RAW)"
         }
       ]
     },
@@ -388,44 +427,52 @@
       "rows": [
         {
           "label": "静态图像格式",
-          "value": "JPEG: Fine, Normal (Exif 2.30 [Exif Print] compliant) / Design rule for Camera File system (2.0), / RAW: RAW, M-RAW, S-RAW (14bit, Canon original RAW 2nd edition), / Digital Print Order Format [DPOF] Version 1.1 compliant",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "JPEG: 精细, 标准 (兼容Exif 2.30／Exif Print)；DCF 2.0,；RAW: RAW, M-RAW, S-RAW (14位, 佳能第二版原始RAW格式),；兼容DPOF 1.1",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "JPEG: Fine, Normal (Exif 2.30 [Exif Print] compliant) / Design rule for Camera File system (2.0), / RAW: RAW, M-RAW, S-RAW (14bit, Canon original RAW 2nd edition), / Digital Print Order Format [DPOF] Version 1.1 compliant"
         },
         {
           "label": "RAW与JPEG同时记录",
-          "value": "支持, any combination of RAW + JPEG, M-RAW + JPEG, S-RAW + JPEG possible.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "支持RAW／M-RAW／S-RAW＋JPEG任意组合。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "支持, any combination of RAW + JPEG, M-RAW + JPEG, S-RAW + JPEG possible."
         },
         {
           "label": "图像尺寸",
-          "value": "JPEG 3:2: (L) 6240 x 4160, (M) 4160 x 2768, (S1) 3120 x 2080 (S2) 2400 x 1600 / JPEG 4:3: (L) 5536 x 4160, (M) 3680 x 2768, (S1) 2768 x 2080, (S2) 2112 x 1600 / JPEG 16:9: (L) 6240 x 3504, (M) 4160 x 2336, (S1) 3120 x 1752, (S2) 2400 x 1344 / JPEG 1:1: (L) 4160 x 4160, (M) 2768 x 2768, (S1) 2080 x 2080, (S2) 1600 x 1600 / RAW: (RAW) 6240 x 4160, (M-RAW) 4680 x 3120, (S-RAW) 3120 x 2080",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "JPEG 3:2: (L) 6240 x 4160, (M) 4160 x 2768, (S1) 3120 x 2080 (S2) 2400 x 1600；JPEG 4:3: (L) 5536 x 4160, (M) 3680 x 2768, (S1) 2768 x 2080, (S2) 2112 x 1600；JPEG 16:9: (L) 6240 x 3504, (M) 4160 x 2336, (S1) 3120 x 1752, (S2) 2400 x 1344；JPEG 1:1: (L) 4160 x 4160, (M) 2768 x 2768, (S1) 2080 x 2080, (S2) 1600 x 1600；RAW: (RAW) 6240 x 4160, (M-RAW) 4680 x 3120, (S-RAW) 3120 x 2080",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "JPEG 3:2: (L) 6240 x 4160, (M) 4160 x 2768, (S1) 3120 x 2080 (S2) 2400 x 1600 / JPEG 4:3: (L) 5536 x 4160, (M) 3680 x 2768, (S1) 2768 x 2080, (S2) 2112 x 1600 / JPEG 16:9: (L) 6240 x 3504, (M) 4160 x 2336, (S1) 3120 x 1752, (S2) 2400 x 1344 / JPEG 1:1: (L) 4160 x 4160, (M) 2768 x 2768, (S1) 2080 x 2080, (S2) 1600 x 1600 / RAW: (RAW) 6240 x 4160, (M-RAW) 4680 x 3120, (S-RAW) 3120 x 2080"
         },
         {
           "label": "视频格式",
-          "value": "MP4: / Movie: MPEG4 AVC / H.264 (Video: H.264 inter frame, Audio: AAC, recording level can be manually adjusted by user) / MOV: / Motion JPEG (4K 29.97/25.00, time-lapse movies only) / ALL-I (FHD 29.97/25.00, time-lapse movies only)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "MP4:；视频: MPEG4 AVC；H.264 (视频： H.264 帧间压缩, Audio: AAC, 录音电平可手动调整)；MOV:；Motion JPEG (4K 29.97/25.00, 仅延时视频)；ALL-I (FHD 29.97/25.00, 仅延时视频)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "MP4: / Movie: MPEG4 AVC / H.264 (Video: H.264 inter frame, Audio: AAC, recording level can be manually adjusted by user) / MOV: / Motion JPEG (4K 29.97/25.00, time-lapse movies only) / ALL-I (FHD 29.97/25.00, time-lapse movies only)"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "1920 x 1080 (59.94, 50, 29.97, 25, 23.976 fps) IPB 标准 or Light / 1280 x 720 (59.94, 50, 29.97, 25 fps) IPB 标准 or Light / HDR movie: / 1920 x 1080 (59.94, 50, 29.97, 25, 23.976 fps) IPB (标准, Light) / Time-lapse movie: / 3840 x 2160 ( 29.97, 25 fps) Motion JPEG / 1920 x 1080 ( 29.97, 25 fps) ALL-I",
+          "value": "1920 x 1080 (59.94, 50, 29.97, 25, 23.976 fps) IPB 标准或轻量；1280 x 720 (59.94, 50, 29.97, 25 fps) IPB 标准或轻量；HDR 视频:；1920 x 1080 (59.94, 50, 29.97, 25, 23.976 fps) IPB (标准, 轻量)；延时摄影 视频:；3840 x 2160 ( 29.97, 25 fps) Motion JPEG；1920 x 1080 ( 29.97, 25 fps) ALL-I",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "HDR Movie available in some SCN Modes only"
+          "condition": "HDR视频仅限部分SCN场景模式",
+          "originalValue": "1920 x 1080 (59.94, 50, 29.97, 25, 23.976 fps) IPB 标准 or Light / 1280 x 720 (59.94, 50, 29.97, 25 fps) IPB 标准 or Light / HDR movie: / 1920 x 1080 (59.94, 50, 29.97, 25, 23.976 fps) IPB (标准, Light) / Time-lapse movie: / 3840 x 2160 ( 29.97, 25 fps) Motion JPEG / 1920 x 1080 ( 29.97, 25 fps) ALL-I"
         },
         {
           "label": "单段视频长度",
-          "value": "Max duration 29min 59sec, Max file size 4GB (If file size exceeds 4GB a new file will be created automatically except in Timelapse Movie mode)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "最长时长 29分钟 59秒, 最大文件大小 4GB (文件超过4GB时自动创建新文件，延时视频除外)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Max duration 29min 59sec, Max file size 4GB (If file size exceeds 4GB a new file will be created automatically except in Timelapse Movie mode)"
         },
         {
           "label": "文件夹",
-          "value": "New folders can be manually created and selected",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "可手动创建和选择文件夹",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "New folders can be manually created and selected"
         },
         {
           "label": "文件编号",
-          "value": "(1) Consecutive numbering / (2) 自动 reset / (3) 手动 reset",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "(1) 连续编号；(2) 自动 重置；(3) 手动 重置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "(1) Consecutive numbering / (2) 自动 reset / (3) 手动 reset"
         }
       ]
     },
@@ -440,14 +487,16 @@
         },
         {
           "label": "无线网络",
-          "value": "Wi-Fi (2.4GHz) Channels: IEEE802.11b, IEEE802.11g, IEEE802.11n",
+          "value": "Wi-Fi (2.4GHz) 频道s: IEEE802.11b, IEEE802.11g, IEEE802.11n",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Wi-Fi use may be restricted in certain countries or regions."
+          "condition": "部分国家或地区可能限制Wi-Fi使用。",
+          "originalValue": "Wi-Fi (2.4GHz) Channels: IEEE802.11b, IEEE802.11g, IEEE802.11n"
         },
         {
           "label": "其他接口",
-          "value": "HDMI output (Type-C), External microphone (3.5 mm Stereo mini jack)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "HDMI输出（Type-C）, 外接麦克风 (3.5 mm 立体声迷你插孔)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "HDMI output (Type-C), External microphone (3.5 mm Stereo mini jack)"
         }
       ]
     },
@@ -456,10 +505,11 @@
       "title": "存储",
       "rows": [
         {
-          "label": "类型",
-          "value": "SD, SDHC or SDXC (UHS-I) card",
+          "label": "存储介质",
+          "value": "SD／SDHC／SDXC（UHS-I）存储卡",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Dual Pixel CMOS AF - AF is possible over an area of approx. 80% Vertical x 80% Horizontal of the frame"
+          "condition": "Dual Pixel CMOS AF覆盖约80%垂直×80%水平画面",
+          "originalValue": "SD, SDHC or SDXC (UHS-I) card"
         }
       ]
     },
@@ -469,24 +519,28 @@
       "rows": [
         {
           "label": "电池",
-          "value": "可充电锂离子电池 LP-E6N (supplied)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "可充电锂离子电池 LP-E6N（随附）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "可充电锂离子电池 LP-E6N (supplied)"
         },
         {
           "label": "电池续航",
-          "value": "约 1200 张 (23°C时, AE 50%, FE 50%) / 约 1100 张 (0°C时, AE 50%, FE 50%)",
+          "value": "约 1200 张 (23°C时, AE 50%, FE 50%)；约 1100 张 (0°C时, AE 50%, FE 50%)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
-          "condition": "Based on the CIPA 标准 and using the batteries and memory card format supplied 使用 the camera, except where indicated"
+          "condition": "除特别说明外，依CIPA标准使用随附电池及规定存储卡测定。",
+          "originalValue": "约 1200 张 (23°C时, AE 50%, FE 50%) / 约 1100 张 (0°C时, AE 50%, FE 50%)"
         },
         {
           "label": "电量显示",
-          "value": "6 levels + percentage",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "6 级＋百分比",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "6 levels + percentage"
         },
         {
           "label": "节电",
-          "value": "Power turns off after 1, 2, 4, 8 or 15 mins.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/"
+          "value": "自动关机时间： 1, 2, 4, 8或15分钟",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-6d-mark-ii/specifications/",
+          "originalValue": "Power turns off after 1, 2, 4, 8 or 15 mins."
         }
       ]
     },

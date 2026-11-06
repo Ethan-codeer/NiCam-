@@ -20,8 +20,9 @@
       "rows": [
         {
           "label": "镜头兼容性",
-          "value": "α6000 E-mount Camera with APS-C sensor",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "α6000 E 卡口相机 搭配 APS-C 传感器",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "α6000 E-mount Camera with APS-C sensor"
         },
         {
           "label": "镜头卡口",
@@ -41,8 +42,9 @@
         },
         {
           "label": "除尘系统",
-          "value": "Charge protection coating on Optical Filter and ultrasonic vibration mechanism",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "光学滤镜防尘涂层及超声波振动除尘",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Charge protection coating on Optical Filter and ultrasonic vibration mechanism"
         },
         {
           "label": "总像素",
@@ -51,8 +53,9 @@
         },
         {
           "label": "传感器类型",
-          "value": "35 mm 全画幅 (35.9 x 24mm) Exmor™ CMOS sensor",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "35 mm 全画幅 (35.9 x 24mm) Exmor™ CMOS 传感器",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "35 mm 全画幅 (35.9 x 24mm) Exmor™ CMOS sensor"
         },
         {
           "label": "有效像素",
@@ -67,23 +70,27 @@
       "rows": [
         {
           "label": "图像质量模式",
-          "value": "RAW, RAW+JPEG, JPEG Extra Fine, JPEG Fine, JPEG Standard",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "RAW, RAW+JPEG, JPEG 超精细, JPEG 精细, JPEG 标准",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "RAW, RAW+JPEG, JPEG Extra Fine, JPEG Fine, JPEG Standard"
         },
         {
           "label": "创意风格",
-          "value": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box(1-6), Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "标准, 鲜艳, 自然, 清澈, 深色, 浅色, 人像, 风景, 日落, 夜景, 秋叶, 黑白, 棕褐色, 风格组合(1-6), 对比度 (-3 至 +3 档), 饱和度 (-3 至 +3 档), 锐度 (-3 至 +3 档)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Standard, Vivid, Neutral, Clear, Deep, Light, Portrait, Landscape, Sunset, Night Scene, Autumn leaves, Black & White, Sepia, Style Box(1-6), Contrast (-3 to +3 steps), Saturation (-3 to +3 steps), Sharpness (-3 to +3 steps)"
         },
         {
           "label": "照片记录格式",
-          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.3, MPF Baseline compliant), RAW (Sony ARW 2.3 format)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "JPEG (DCF Ver. 2.0, Exif Ver.2.3, MPF 基线兼容), RAW (Sony ARW 2.3 格式)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "JPEG (DCF Ver. 2.0, Exif Ver.2.3, MPF Baseline compliant), RAW (Sony ARW 2.3 format)"
         },
         {
           "label": "动态范围处理",
-          "value": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "关闭, 动态范围优化 (自动/级别 (1-5)), 自动高动态范围 (自动曝光差, 曝光差等级 (1-6 EV, 1.0 EV 档))",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Off, Dynamic Range Optimizer (Auto/Level (1-5)), Auto High Dynamic Range (Auto Exposure Difference, Exposure Difference Level (1-6 EV, 1.0 EV step))"
         }
       ]
     },
@@ -113,8 +120,9 @@
         },
         {
           "label": "高清视频输出",
-          "value": "HDMI micro connector, BRAVIA Sync (link menu), PhotoTV HD, 4K still image PB",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "Micro HDMI 接口, BRAVIA Sync (联动菜单), PhotoTV HD, 4K 照片回放",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "HDMI micro connector, BRAVIA Sync (link menu), PhotoTV HD, 4K still image PB"
         }
       ]
     },
@@ -124,13 +132,15 @@
       "rows": [
         {
           "label": "存储卡插槽",
-          "value": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, Memory Stick XC-HG Duo, SD memory card, SDHC™ memory card, SDXC™ memory card",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, Memory Stick XC-HG Duo, SD 存储卡, SDHC™ 存储卡, SDXC™ 存储卡",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, Memory Stick XC-HG Duo, SD memory card, SDHC™ memory card, SDXC™ memory card"
         },
         {
           "label": "存储介质",
-          "value": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, Memory Stick XC-HG Duo, SD memory card, SDHC™ memory card, SDXC™ memory card",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, Memory Stick XC-HG Duo, SD 存储卡, SDHC™ 存储卡, SDXC™ 存储卡",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Memory Stick PRO Duo™, Memory Stick PRO-HG Duo™, Memory Stick XC-HG Duo, SD memory card, SDHC™ memory card, SDXC™ memory card"
         }
       ]
     },
@@ -140,8 +150,9 @@
       "rows": [
         {
           "label": "白平衡",
-          "value": "Auto, Daylight, Shade, Cloudy, Incandescent, Fluorescent : Warm White / Cool White / Day White / Daylight, Flash, Color Temperature 2500 to 9900K & color filter G7 to M7(15-step), A7 to B7(15-step), Custom, Underwater",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "自动, 日光, 阴影, 阴天, 白炽灯, 荧光灯 : 暖白色 / 冷白色 / 昼白色 / 日光, 闪光, 色温 2500 至 9900K及色彩滤镜 G7 至 M7(15 档), A7 至 B7(15 档), 自定义, 水下",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Auto, Daylight, Shade, Cloudy, Incandescent, Fluorescent : Warm White / Cool White / Day White / Daylight, Flash, Color Temperature 2500 to 9900K & color filter G7 to M7(15-step), A7 to B7(15-step), Custom, Underwater"
         }
       ]
     },
@@ -151,8 +162,9 @@
       "rows": [
         {
           "label": "自动对焦模式",
-          "value": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (Direct 手动对焦), 手动对焦",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (直接手动对焦), 手动对焦",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "AF-S (单次 AF), AF-C ( 连续 AF), DMF (Direct 手动对焦), 手动对焦"
         },
         {
           "label": "对焦系统",
@@ -162,23 +174,27 @@
         },
         {
           "label": "自动对焦检测范围",
-          "value": "EV0 to EV20 (ISO100 equivalent with F2.8 lens attached)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "EV0 至 EV20 （等效 ISO100、搭配 F2.8 镜头）",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "EV0 to EV20 (ISO100 equivalent with F2.8 lens attached)"
         },
         {
           "label": "对焦区域",
-          "value": "Multi Point (25 points(对比度检测 AF)) / Zone / Center-weighted / Flexible Spot (S/M/L)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "多点 (25 点(对比度检测 AF)) / 区域 / 中央重点 / 自由点 (S/M/L)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Multi Point (25 points(对比度检测 AF)) / Zone / Center-weighted / Flexible Spot (S/M/L)"
         },
         {
           "label": "对焦模式",
-          "value": "EV0 to EV20 (ISO100 equivalent with F2.8 lens attached)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "EV0 至 EV20 （等效 ISO100、搭配 F2.8 镜头）",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "EV0 to EV20 (ISO100 equivalent with F2.8 lens attached)"
         },
         {
           "label": "对焦点",
-          "value": "25 points (对比度检测 AF)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "25 点 (对比度检测 AF)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "25 points (对比度检测 AF)"
         }
       ]
     },
@@ -188,33 +204,39 @@
       "rows": [
         {
           "label": "测光模式",
-          "value": "Multi-segment, Center-weighted, Spot",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "多重、中央重点、点测光",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Multi-segment, Center-weighted, Spot"
         },
         {
           "label": "曝光补偿",
-          "value": "照片： +/- 5.0 EV (1/3 EV, 1/2 EV steps selectable);视频： +/- 3.0 EV (1/3 EV steps)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "照片： +/- 5.0 EV (1/3 EV, 1/2 EV 步长可选);视频： +/- 3.0 EV (1/3 EV 档)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "照片： +/- 5.0 EV (1/3 EV, 1/2 EV steps selectable);视频： +/- 3.0 EV (1/3 EV steps)"
         },
         {
           "label": "自动曝光锁定",
-          "value": "AE is locked when the shutter button is half pressed (ON/OFF is available in MENU)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "半按快门时锁定自动曝光 (开启/关闭 可在菜单中设置)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "AE is locked when the shutter button is half pressed (ON/OFF is available in MENU)"
         },
         {
           "label": "测光系统",
-          "value": "1200 - zone evaluative metering",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "1200 - 区评价测光",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "1200 - zone evaluative metering"
         },
         {
           "label": "测光范围",
-          "value": "EV0 to EV20 (at ISO100 equivalent with F2.8 lens attached)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "EV0 至 EV20 （等效 ISO100、搭配 F2.8 镜头）",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "EV0 to EV20 (at ISO100 equivalent with F2.8 lens attached)"
         },
         {
           "label": "曝光模式",
-          "value": "iAUTO, Superior Auto, Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Sweep Panorama, Scene Selection",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "iAUTO, 增强自动, 程序自动曝光 (P), 光圈优先 (A), 快门优先 (S), 手动 (M), 扫描全景, 场景选择",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "iAUTO, Superior Auto, Programmed AE (P), Aperture priority (A), Shutter-speed priority (S), Manual (M), Sweep Panorama, Scene Selection"
         },
         {
           "label": "ISO 感光度",
@@ -229,29 +251,33 @@
       "rows": [
         {
           "label": "取景器类型",
-          "value": "0.5\"-type 电子取景器 (color)",
+          "value": "0.5\" 型 电子取景器 (彩色)",
           "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
           "originalValue": "0.5\"-type electronic viewfinder (color)"
         },
         {
           "label": "屈光度调节",
-          "value": "-4.0 to +3.0m^{-1} diopter",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "-4.0 至 +3.0m⁻¹ 屈光度",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "-4.0 to +3.0m^{-1} diopter"
         },
         {
           "label": "分辨率",
-          "value": "2,359,296 dots",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "2,359,296点",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "2,359,296 dots"
         },
         {
           "label": "取景倍率",
-          "value": "约 0.71 x (with 50mm lens at infinity, -1m^{-1}) diopter",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "约 0.71 x (50 mm 镜头、无限远对焦时, -1m⁻¹) 屈光度",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "约 0.71 x (with 50mm lens at infinity, -1m^{-1}) diopter"
         },
         {
           "label": "眼点距离",
-          "value": "约 27mm from the eyepiece lens, 22mm from the eyepiece frame at -1m^{-1}diopter (CIPA 标准)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "约 27mm 距接目镜, 22mm 距目镜框；屈光度 -1m⁻¹屈光度 (CIPA 标准)",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "约 27mm from the eyepiece lens, 22mm from the eyepiece frame at -1m^{-1}diopter (CIPA 标准)"
         },
         {
           "label": "取景视野率",
@@ -266,18 +292,21 @@
       "rows": [
         {
           "label": "分辨率",
-          "value": "921,600 dots",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "921,600点",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "921,600 dots"
         },
         {
           "label": "显示屏类型",
-          "value": "3.0\" type TFT LCD",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "3.0\" TFT 显示屏 LCD",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "3.0\" type TFT LCD"
         },
         {
           "label": "屏幕调整角度",
-          "value": "Up by 约 90 degrees, Down by 约 45 degrees",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "向上 约 90 °, 向下 约 45 °",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Up by 约 90 degrees, Down by 约 45 degrees"
         }
       ]
     },
@@ -287,24 +316,27 @@
       "rows": [
         {
           "label": "闪光同步速度",
-          "value": "1/160 sec.",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "1/160秒",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "1/160 sec."
         },
         {
           "label": "电子前帘快门",
-          "value": "1/160 sec.",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "1/160秒",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "1/160 sec."
         },
         {
           "label": "快门速度",
-          "value": "照片：1/8000 to 30 sec, Bulb, 视频： 1/8000 to 1/4(1/3 steps) 最高 1/50 in AUTO mode (最高 1/25 in Auto slow shutter mode)",
+          "value": "照片：1/8000 至 30秒, B 门, 视频： 1/8000 至 1/4(1/3 档) 自动模式下最慢 1/50 (自动慢速快门模式下最慢 1/25)",
           "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
           "originalValue": "照片：1/8000 to 30 sec, Bulb, 视频： 1/8000 to 1/4(1/3 steps) up to 1/50 in AUTO mode (up to 1/25 in Auto slow shutter mode)"
         },
         {
           "label": "快门类型",
-          "value": "Electronically-controlled, vertical-traverse, focal-plane type",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "电子控制纵走式焦平面快门",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Electronically-controlled, vertical-traverse, focal-plane type"
         }
       ]
     },
@@ -330,14 +362,16 @@
       "rows": [
         {
           "label": "最高连拍速度",
-          "value": "4 fps (in Speed Priority Continuous Shooting mode)",
+          "value": "4 fps (在 速度优先连拍模式)",
           "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
-          "condition": "索尼标示最高速度；实际速度随镜头、记录格式和拍摄设置变化。"
+          "condition": "索尼标示最高速度；实际速度随镜头、记录格式和拍摄设置变化。",
+          "originalValue": "4 fps (in Speed Priority Continuous Shooting mode)"
         },
         {
           "label": "驱动模式",
-          "value": "Single-shot, Continuous shooting, Speed Priority Continuous shooting, Self-timer (10/2 sec delay selectable), Self-timer (Cont.) (with 10 sec delay 3/5 exposures selectable), Bracketing",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "单张拍摄, 连续拍摄, 速度优先连拍, 自拍 (10/2秒 延时可选), 自拍 (连续) (搭配 10秒 延时 3/5 张数可选), 包围拍摄",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "Single-shot, Continuous shooting, Speed Priority Continuous shooting, Self-timer (10/2 sec delay selectable), Self-timer (Cont.) (with 10 sec delay 3/5 exposures selectable), Bracketing"
         }
       ]
     },
@@ -347,18 +381,21 @@
       "rows": [
         {
           "label": "高清视频输出",
-          "value": "HDMI micro connector, BRAVIA Sync (link menu), PhotoTV HD, 4K still image PB",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "Micro HDMI 接口, BRAVIA Sync (联动菜单), PhotoTV HD, 4K 照片回放",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "HDMI micro connector, BRAVIA Sync (link menu), PhotoTV HD, 4K still image PB"
         },
         {
           "label": "NFC",
-          "value": "One-touch remote, One-touch sharing",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "一触遥控, 一触分享",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "One-touch remote, One-touch sharing"
         },
         {
           "label": "电脑连接",
-          "value": "HDMI micro connector, BRAVIA Sync (link menu), PhotoTV HD, 4K still image PB",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "Micro HDMI 接口, BRAVIA Sync (联动菜单), PhotoTV HD, 4K 照片回放",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "HDMI micro connector, BRAVIA Sync (link menu), PhotoTV HD, 4K still image PB"
         }
       ]
     },
@@ -373,14 +410,15 @@
         },
         {
           "label": "静态照片续航",
-          "value": "最高 340 shots",
+          "value": "最高 340 张",
           "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
           "originalValue": "Up to 340 shots"
         },
         {
           "label": "电池型号",
-          "value": "NP-FW50 W-series Rechargeable Battery Pack",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "NP-FW50 W 系列 可充电电池组",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "NP-FW50 W-series Rechargeable Battery Pack"
         }
       ]
     },
@@ -390,8 +428,9 @@
       "rows": [
         {
           "label": "尺寸（宽×高×深）",
-          "value": "126.9 x 94.4 x 54.8mm, 126.9 x 94.4 x 48.2mm (from grip to monitor); 5 x 3 3/4 x 2 1/4 in., 5 x 3 3/4 x 1 15/16 in. (from grip to monitor)",
-          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications"
+          "value": "126.9 x 94.4 x 54.8mm；126.9 x 94.4 x 48.2mm（握柄至显示屏）",
+          "sourceUrl": "https://www.sony.co.uk/electronics/support/e-mount-body-ilce-7-series/ilce-7r/specifications",
+          "originalValue": "126.9 x 94.4 x 54.8mm, 126.9 x 94.4 x 48.2mm (from grip to monitor); 5 x 3 3/4 x 2 1/4 in., 5 x 3 3/4 x 1 15/16 in. (from grip to monitor)"
         },
         {
           "label": "重量（机身 / 含电池及存储卡）",

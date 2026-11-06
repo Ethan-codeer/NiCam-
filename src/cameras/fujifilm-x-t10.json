@@ -55,8 +55,9 @@
         },
         {
           "label": "自拍",
-          "value": "10秒 / 2秒",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+          "value": "10秒；2秒",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+          "originalValue": "10秒 / 2秒"
         },
         {
           "label": "间隔拍摄",
@@ -70,8 +71,9 @@
         },
         {
           "label": "拍摄功能",
-          "value": "高级SR AUTO、眼睛AF、人脸检测、全景、自动去红眼等",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+          "value": "高级SR 自动、眼睛AF、人脸检测、全景、自动去红眼等",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+          "originalValue": "高级SR AUTO、眼睛AF、人脸检测、全景、自动去红眼等"
         },
         {
           "label": "胶片模拟",
@@ -80,8 +82,9 @@
         },
         {
           "label": "动态范围",
-          "value": "AUTO（100–400%）/ 100% / 200% / 400%",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+          "value": "自动（100–400%）/ 100%；200%；400%",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+          "originalValue": "AUTO（100–400%）/ 100% / 200% / 400%"
         },
         {
           "label": "创意滤镜",
@@ -89,10 +92,10 @@
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
         },
         {
-          "label": "回放功能 · RAW conversion, Image rotate, Auto image rotate, Red-eye reductio",
+          "label": "回放功能 · RAW 转换, 图像旋转, 自动图像旋转, 去红眼",
           "value": "机内RAW转换、旋转、自动旋转、去红眼、相册辅助、保护、裁剪、缩放等",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
-          "condition": "RAW conversion, Image rotate, Auto image rotate, Red-eye reductio"
+          "condition": "RAW 转换, 图像旋转, 自动 图像旋转, 红色-防红眼"
         },
         {
           "label": "其他功能",
@@ -118,8 +121,9 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD / SDHC / SDXC，UHS-I",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+          "value": "SD；SDHC；SDXC，UHS-I",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+          "originalValue": "SD / SDHC / SDXC，UHS-I"
         },
         {
           "label": "文件格式",
@@ -138,8 +142,9 @@
         },
         {
           "label": "接口",
-          "value": "USB 2.0高速 / micro USB；micro HDMI Type D；遥控端口",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
+          "value": "USB 2.0高速；micro USB；micro HDMI Type D；遥控端口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/",
+          "originalValue": "USB 2.0高速 / micro USB；micro HDMI Type D；遥控端口"
         }
       ]
     },
@@ -179,7 +184,7 @@
       "title": "快门与闪光",
       "rows": [
         {
-          "label": "快门速度 / (con obturador mecánico)",
+          "label": "快门速度 / (机械快门)",
           "value": "电子快门最快1/32000秒；机械快门最快1/4000秒，B门最长60分钟",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt10/specifications/"
         },

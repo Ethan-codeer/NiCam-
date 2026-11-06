@@ -7,7 +7,7 @@
   "type": "无反相机",
   "megapixels": 16.05,
   "width": 123.7,
-  "height": 85.0,
+  "height": 85,
   "depth": 44.5,
   "description": "Olympus OM-D E-M5 II 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
   "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
@@ -56,8 +56,9 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "Micro Four Thirds",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "Micro Four Thirds 卡口",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "Micro Four Thirds"
         },
         {
           "label": "镜头系统",
@@ -71,8 +72,9 @@
         },
         {
           "label": "自动对焦系统",
-          "value": "Hi-Speed Imager AF",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "高速图像传感器自动对焦（Hi-Speed Imager AF）",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "Hi-Speed Imager AF"
         },
         {
           "label": "对焦区域",
@@ -81,8 +83,9 @@
         },
         {
           "label": "对焦点选择",
-          "value": "自动 / 自选",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "自动；自选",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "自动 / 自选"
         }
       ]
     },
@@ -138,8 +141,9 @@
         },
         {
           "label": "曝光模式",
-          "value": "P / A / S / M；场景功能随机型",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "P；A；S；M；场景功能随机型",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "P / A / S / M；场景功能随机型"
         },
         {
           "label": "感光度范围",
@@ -174,8 +178,9 @@
         },
         {
           "label": "闪光控制",
-          "value": "TTL-AUTO 预闪 / 手动",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "TTL-自动 预闪；手动",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "TTL-AUTO 预闪 / 手动"
         },
         {
           "label": "闪光同步",
@@ -200,8 +205,9 @@
         },
         {
           "label": "视频格式",
-          "value": "MPEG-4 AVC/H.264 / Motion JPEG",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "MPEG-4 AVC/H.264；Motion JPEG",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "MPEG-4 AVC/H.264 / Motion JPEG"
         },
         {
           "label": "音频",
@@ -220,8 +226,9 @@
         },
         {
           "label": "自拍定时",
-          "value": "12 秒 / 2 秒 / 自定义",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "12 秒；2 秒；自定义",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "12 秒 / 2 秒 / 自定义"
         }
       ]
     },
@@ -231,8 +238,9 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD / SDHC / SDXC / Eye-Fi；UHS-II",
-          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf"
+          "value": "SD；SDHC；SDXC；Eye-Fi；UHS-II",
+          "sourceUrl": "https://download.omsystem.com/pages/inst/em5m2/manual_em5m2_ENU.pdf",
+          "originalValue": "SD / SDHC / SDXC / Eye-Fi；UHS-II"
         },
         {
           "label": "无线网络 Wi-Fi",

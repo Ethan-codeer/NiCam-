@@ -1021,5 +1021,105 @@
     "width": 1280,
     "height": 853,
     "modifications": "尺寸适配 / WebP"
+  },
+  "nikon-d700": {
+    "author": "Хрюша (Chriusha); derivative work: Pixel8",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D700_Body.jpg",
+    "src": "/cameras/nikon-d700.webp",
+    "width": 1280,
+    "height": 954,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d300": {
+    "author": "ほしけん (Hosiken); levels: Soerfm",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D300_Body.jpg",
+    "src": "/cameras/nikon-d300.webp",
+    "width": 1280,
+    "height": 1206,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d90": {
+    "author": "nrkbeta",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D90.jpg",
+    "src": "/cameras/nikon-d90.webp",
+    "width": 1280,
+    "height": 853,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d7000": {
+    "author": "John Torcasio",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D7000_body.jpg",
+    "src": "/cameras/nikon-d7000.webp",
+    "width": 1280,
+    "height": 807,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d7100": {
+    "author": "Phiarc",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D7100_front_without_lens.jpg",
+    "src": "/cameras/nikon-d7100.webp",
+    "width": 1280,
+    "height": 1002,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d600": {
+    "author": "Frankie Fouganthin",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D600_camera.jpg",
+    "src": "/cameras/nikon-d600.webp",
+    "width": 1280,
+    "height": 1217,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d5300": {
+    "author": "Tsungam",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D5300_(front).jpg",
+    "src": "/cameras/nikon-d5300.webp",
+    "width": 1280,
+    "height": 1141,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d5500": {
+    "author": "Peachyeung316",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D5500.jpg",
+    "src": "/cameras/nikon-d5500.webp",
+    "width": 1280,
+    "height": 960,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d5600": {
+    "author": "Michael Kramer",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D5600_Front_(cropped).jpg",
+    "src": "/cameras/nikon-d5600.webp",
+    "width": 1280,
+    "height": 1025,
+    "modifications": "尺寸适配、WebP 编码"
+  },
+  "nikon-d3400": {
+    "author": "Urban Versis 32",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikon_D3400.jpg",
+    "src": "/cameras/nikon-d3400.webp",
+    "width": 1280,
+    "height": 960,
+    "modifications": "尺寸适配、WebP 编码"
   }
 }

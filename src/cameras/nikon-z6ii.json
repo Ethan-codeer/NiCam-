@@ -6,7 +6,7 @@
   "format": "全画幅",
   "type": "无反相机",
   "megapixels": 24.5,
-  "width": 134.0,
+  "width": 134,
   "height": 100.5,
   "depth": 69.5,
   "description": "Nikon Z 6 II，尼康FX全画幅Z卡口无反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
@@ -36,8 +36,9 @@
       "rows": [
         {
           "label": "兼容镜头",
-          "value": "Z mount NIKKOR lenses F mount NIKKOR lenses (mount adapter required; restrictions may apply)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "尼克尔Z卡口镜头；尼克尔F卡口镜头需使用卡口适配器，可能存在功能限制",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Z mount NIKKOR lenses F mount NIKKOR lenses (mount adapter required; restrictions may apply)"
         }
       ]
     },
@@ -68,23 +69,27 @@
       "rows": [
         {
           "label": "文件格式",
-          "value": "NEF (RAW): 12 or 14 bit (lossless compressed, compressed, or uncompressed) JPEG: JPEG-Baseline compliant with fine (约 1:4), normal (约 1:8), or basic (约 1:16) compression; size-priority and optimal-quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "NEF (RAW): 12 或 14位 (无损压缩, 压缩, 或 未压缩) JPEG: 兼容JPEG Baseline，精细 (约 1:4), 标准 (约 1:8), 或基本 (约 1:16) 压缩；可选文件大小优先或最佳画质优先 NEF (RAW)+JPEG: 同一照片同时记录NEF（RAW）和JPEG",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "NEF (RAW): 12 or 14 bit (lossless compressed, compressed, or uncompressed) JPEG: JPEG-Baseline compliant with fine (约 1:4), normal (约 1:8), or basic (约 1:16) compression; size-priority and optimal-quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats"
         },
         {
           "label": "优化校准",
-          "value": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat, 20 Creative Picture Controls; selected Picture Control can be modified; storage for custom Picture Controls",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "自动, 标准, 自然, 鲜艳, 单色, 人像, 风景, 平面, 20 创意优化校准; 可修改所选优化校准，并保存自定义优化校准",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat, 20 Creative Picture Controls; selected Picture Control can be modified; storage for custom Picture Controls"
         },
         {
           "label": "存储介质",
-          "value": "CFexpress (Type B), XQD, SD (Secure Digital), and UHS-II compliant SDHC and SDXC memory cards",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "CFexpress (B型), XQD, SD、 兼容UHS-II的 SDHC 、 SDXC 存储卡",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "CFexpress (Type B), XQD, SD (Secure Digital), and UHS-II compliant SDHC and SDXC memory cards"
         },
         {
           "label": "双卡槽",
-          "value": "Either card can be used for primary or backup storage or for separate storage of NEF (RAW) and JPEG images; pictures can be copied between cards.",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "任一卡槽可用作主存储或备份，也可分别记录NEF（RAW）和JPEG；支持卡间复制照片.",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Either card can be used for primary or backup storage or for separate storage of NEF (RAW) and JPEG images; pictures can be copied between cards."
         }
       ]
     },
@@ -94,13 +99,15 @@
       "rows": [
         {
           "label": "测光模式",
-          "value": "Matrix, center-weighted or highlight-weighted",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "矩阵、中央重点或亮部重点测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Matrix, center-weighted or highlight-weighted"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 120p, 100p, 60p, 50p, 30p, 25p, 24p 1920 x 1080 (slow-mo); 30p x4, 25p x4, 24p x5 Actual frame rates for 120p, 100p, 60p, 50p, 30p, 25p, and 24p are 119.88, 100, 59.94, 50, 29.97, 25, and 23.976 fps respectively",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "3840 x 2160 (4K UHD); 30p (逐行扫描), 25p, 24p 1920 x 1080; 120p, 100p, 60p, 50p, 30p, 25p, 24p 1920 x 1080 (慢动作); 30p x4, 25p x4, 24p x5 以下标称帧率的实际帧率： 120p, 100p, 60p, 50p, 30p, 25p、 24p 为 119.88, 100, 59.94, 50, 29.97, 25、 23.976 fps （依次对应）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 120p, 100p, 60p, 50p, 30p, 25p, 24p 1920 x 1080 (slow-mo); 30p x4, 25p x4, 24p x5 Actual frame rates for 120p, 100p, 60p, 50p, 30p, 25p, and 24p are 119.88, 100, 59.94, 50, 29.97, 25, and 23.976 fps respectively"
         },
         {
           "label": "视频文件格式",
@@ -114,23 +121,27 @@
         },
         {
           "label": "录音格式",
-          "value": "Linear PCM, AAC",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "线性PCM, AAC",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Linear PCM, AAC"
         },
         {
           "label": "录音装置",
-          "value": "Built-in stereo or external microphone with attenuator option; sensitivity adjustable",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "内置立体声或外接麦克风，可选衰减器并调整灵敏度",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Built-in stereo or external microphone with attenuator option; sensitivity adjustable"
         },
         {
           "label": "感光度（推荐曝光指数）",
-          "value": "M: Manual selection (ISO 100 to 51200 in steps of 1/3 or 1/2 EV); with additional options available equivalent to 约 0.3, 0.5, 0.7, 1, or 2 EV (ISO 204800 equivalent) above ISO 51200; auto ISO sensitivity control (ISO 100 to Hi 2.0) available with selectable upper limit P, S, A: Auto ISO sensitivity control (ISO 100 to Hi 2.0) with selectable upper limit Auto: Auto ISO sensitivity control (ISO 100 to 51200)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "M: 手动选择 (ISO 100 至 51200 步进为 1/3 或 1/2 EV); 还可扩展至相当于 约 0.3, 0.5, 0.7, 1, 或 2 EV (ISO 204800 等效) 高于ISO 51200; 自动ISO感光度控制 (ISO 100 至 Hi 2.0) 可用且可设置上限 P, S, A: 自动 ISO感光度控制 (ISO 100 至 Hi 2.0) 可设置上限 自动: 自动 ISO感光度控制 (ISO 100 至 51200)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "M: Manual selection (ISO 100 to 51200 in steps of 1/3 or 1/2 EV); with additional options available equivalent to 约 0.3, 0.5, 0.7, 1, or 2 EV (ISO 204800 equivalent) above ISO 51200; auto ISO sensitivity control (ISO 100 to Hi 2.0) available with selectable upper limit P, S, A: Auto ISO sensitivity control (ISO 100 to Hi 2.0) with selectable upper limit Auto: Auto ISO sensitivity control (ISO 100 to 51200)"
         },
         {
           "label": "其他功能",
-          "value": "Time-lapse movie recording, electronic vibration reduction, time codes, logarithmic (N-Log) and HDR (HLG) movie output",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "延时视频录制, 电子减震, 时间码, 对数伽马（N-Log） 、 HDR (HLG) 视频输出",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Time-lapse movie recording, electronic vibration reduction, time codes, logarithmic (N-Log) and HDR (HLG) movie output"
         }
       ]
     },
@@ -140,19 +151,21 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "1.27-cm/0.5-in. 约 3690k-dot (Quad VGA) OLED 电子取景器 with color balance and auto and 11-level manual brightness controls",
+          "value": "1.27-cm/0.5-in. 约 3690k-dot (Quad VGA) OLED 电子取景器 支持色彩平衡、自动亮度及 11级手动亮度调节",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
           "originalValue": "1.27-cm/0.5-in. 约 3690k-dot (Quad VGA) OLED electronic viewfinder with color balance and auto and 11-level manual brightness controls"
         },
         {
           "label": "视野率",
-          "value": "约 100% horizontal and 100% vertical",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "约 100% 水平及垂直均为100%",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "约 100% horizontal and 100% vertical"
         },
         {
           "label": "放大倍率",
-          "value": "约 0.8x (50 mm lens at infinity, -1.0 m -1 )",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "约 0.8x (50mm镜头、无限远对焦, -1.0 m -1 )",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "约 0.8x (50 mm lens at infinity, -1.0 m -1 )"
         }
       ]
     },
@@ -162,8 +175,9 @@
       "rows": [
         {
           "label": "显示屏类型",
-          "value": "8-cm/3.2-in., 约 2100k-dot tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, and color balance and 11-level manual brightness controls",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "8-cm/3.2-in., 约 2100k-dot 可翻折 TFT触控液晶显示屏 可视角170°, 约 100% 画面覆盖率、 色彩平衡 、 11级手动亮度调节",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "8-cm/3.2-in., 约 2100k-dot tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, and color balance and 11-level manual brightness controls"
         }
       ]
     },
@@ -179,8 +193,9 @@
         },
         {
           "label": "快门速度",
-          "value": "1/8000 to 30 s in steps of 1/3 and 1/2 EV, extendable to 900 s in mode M, bulb, time, X200",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "1/8000 至 30 s 步进为 1/3 、 1/2 EV, 可扩展至 900 s 在M模式下, B门、T门, X200",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "1/8000 to 30 s in steps of 1/3 and 1/2 EV, extendable to 900 s in mode M, bulb, time, X200"
         }
       ]
     },
@@ -190,14 +205,16 @@
       "rows": [
         {
           "label": "释放模式",
-          "value": "Single frame, continuous L, continuous H, continuous H (extended), self-timer",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "单张, 低速连拍, 高速连拍, 扩展高速连拍, 自拍",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Single frame, continuous L, continuous H, continuous H (extended), self-timer"
         },
         {
           "label": "连拍速度",
-          "value": "Continuous L: 约 1 to 5 fps Continuous H: 约 5.5 fps Continuous H (extended): 约 14 fps (14-bit NEF/RAW: 约 10 fps)",
+          "value": "低速连拍: 约 1 至 5 fps 高速连拍: 约 5.5 fps 扩展高速连拍: 约 14 fps (14-位 NEF/RAW: 约 10 fps)",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
-          "condition": "最高扩展高速连拍须MF、AF-S，或AF-C配合单点AF；其他AF组合最高约Z7II 9fps / Z6II 12fps。RAW位深也影响速度。"
+          "condition": "最高扩展高速连拍须MF、AF-S，或AF-C配合单点AF；其他AF组合最高约Z7II 9fps / Z6II 12fps。RAW位深也影响速度。",
+          "originalValue": "Continuous L: 约 1 to 5 fps Continuous H: 约 5.5 fps Continuous H (extended): 约 14 fps (14-bit NEF/RAW: 约 10 fps)"
         },
         {
           "label": "最高连拍对焦条件",
@@ -212,28 +229,33 @@
       "rows": [
         {
           "label": "测光系统",
-          "value": "TTL metering using camera image sensor",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "使用图像传感器进行TTL测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "TTL metering using camera image sensor"
         },
         {
           "label": "测光模式",
-          "value": "Matrix metering Center-weighted metering: Weight of 75% given to 12 mm circle in center of frame; weighting can instead be based on average of entire frame Spot metering: Meters 4 mm circle (about 1.5% of frame) centered on selected focus point Highlight-weighted metering",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "矩阵测光 中央重点测光: 75%测光权重分配给 12 mm 画面中央圆形区域; 也可采用全画面平均测光 点测光: 测量 4 mm 圆形区域 (约占画面的1.5%) 以所选对焦点为中心 亮部重点测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Matrix metering Center-weighted metering: Weight of 75% given to 12 mm circle in center of frame; weighting can instead be based on average of entire frame Spot metering: Meters 4 mm circle (about 1.5% of frame) centered on selected focus point Highlight-weighted metering"
         },
         {
           "label": "测光范围 (ISO 100, f/2.0, 20°C/68°F)",
-          "value": "-4 to +17 EV",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "-4 至 +17 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "-4 to +17 EV"
         },
         {
           "label": "感光度（推荐曝光指数）",
-          "value": "ISO 100 to 51200 in steps of 1/3 or 1/2 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 50 equivalent) below ISO 100 or to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 204800 equivalent) above ISO 51200; auto ISO sensitivity control available",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "ISO 100 至 51200 步进为 1/3 或 1/2 EV; 也可扩展至 约 0.3, 0.5, 0.7 或 1 EV (ISO 50 等效) 低于ISO 100 或 至 约 0.3, 0.5, 0.7, 1 或 2 EV (ISO 204800 等效) 高于ISO 51200; 支持自动ISO感光度控制",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "ISO 100 to 51200 in steps of 1/3 or 1/2 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 50 equivalent) below ISO 100 or to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 204800 equivalent) above ISO 51200; auto ISO sensitivity control available"
         },
         {
           "label": "动态D-Lighting",
-          "value": "Can be selected from auto, extra high, high, normal, low or off (available in both photo and movie modes)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "可选自动、极高、高、标准、低或关闭 (可用于 照片与视频模式均可用)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Can be selected from auto, extra high, high, normal, low or off (available in both photo and movie modes)"
         }
       ]
     },
@@ -243,23 +265,27 @@
       "rows": [
         {
           "label": "类型",
-          "value": "Hybrid phase-detection/contrast AF with AF assist",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "相位检测与反差检测混合自动对焦，支持AF辅助照明",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Hybrid phase-detection/contrast AF with AF assist"
         },
         {
-          "label": "对焦检测范围  (in photo mode, AF-S, ISO 100, f/2.0, 20°C/68°F)",
-          "value": "-4.5 to +19 EV (-6 to +19 EV with low-light AF)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "label": "对焦检测范围  (照片模式下, AF-S, ISO 100, f/2.0, 20°C/68°F)",
+          "value": "-4.5 至 +19 EV (-6 至 +19 EV 启用低光AF时)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "-4.5 to +19 EV (-6 to +19 EV with low-light AF)"
         },
         {
-          "label": "对焦点 (in photo mode, FX format, single-point AF)",
-          "value": "273 points",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "label": "对焦点 (照片模式下, FX格式, 单点AF)",
+          "value": "273 点",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "273 points"
         },
         {
           "label": "自动对焦区域",
-          "value": "Pinpoint AF, single-point and dynamic-area AF (pinpoint and dynamic-area AF available in photo mode only); wide-area AF (S); wide-area AF (L); wide-area AF (L-people); wide-area AF (L-animals); auto-area AF; auto-area AF (people); auto-area AF (animals)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "微点AF, 单点AF 、 动态区域 AF (微点AF 、 动态区域 AF 仅照片模式可用); 宽区域 AF (S); 宽区域 AF (L); 宽区域 AF (L人物); 宽区域 AF (L动物); 自动区域AF; 自动区域AF (人物); 自动区域AF (动物)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Pinpoint AF, single-point and dynamic-area AF (pinpoint and dynamic-area AF available in photo mode only); wide-area AF (S); wide-area AF (L); wide-area AF (L-people); wide-area AF (L-animals); auto-area AF; auto-area AF (people); auto-area AF (animals)"
         }
       ]
     },
@@ -269,13 +295,15 @@
       "rows": [
         {
           "label": "机身防抖",
-          "value": "5-axis image sensor shift",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "五轴传感器位移防抖",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "5-axis image sensor shift"
         },
         {
           "label": "镜头防抖",
-          "value": "Lens shift (available with VR lenses)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "镜头位移防抖（使用VR镜头时）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Lens shift (available with VR lenses)"
         }
       ]
     },
@@ -285,18 +313,21 @@
       "rows": [
         {
           "label": "闪光控制",
-          "value": "TTL: i-TTL flash control; i-TTL balanced fill-flash is used with matrix, center-weighted, and highlight-weighted metering, standard i-TTL fill-flash with spot metering",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "TTL：i-TTL闪光控制；矩阵、中央重点和亮部重点测光使用i-TTL均衡补光，点测光使用标准i-TTL补光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "TTL: i-TTL flash control; i-TTL balanced fill-flash is used with matrix, center-weighted, and highlight-weighted metering, standard i-TTL fill-flash with spot metering"
         },
         {
           "label": "闪光模式",
-          "value": "Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "前帘同步、慢速同步、后帘同步、防红眼、慢速同步防红眼、关闭",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, off"
         },
         {
           "label": "尼康创意闪光系统",
-          "value": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, color information communication, auto FP high-speed sync, unified flash control",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "i-TTL闪光控制, 无线电控制高级无线闪光, 光学控制高级无线闪光, 模拟照明, FV锁定, 色彩信息传达, 自动FP高速同步, 统一闪光控制",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, color information communication, auto FP high-speed sync, unified flash control"
         }
       ]
     },
@@ -306,7 +337,7 @@
       "rows": [
         {
           "label": "白平衡",
-          "value": "Auto (3 types), natural light auto, direct sunlight, cloudy, shade, incandescent, fluorescent (7 types), flash, choose color temperature (2500 K to 10000 K), preset manual (最高 6 values can be stored), all with fine-tuning except choose color temperature",
+          "value": "自动 (3 种), 自然光自动, 晴天, 阴天, 阴影, 白炽灯, 荧光灯 (7 种), 闪光, 选择色温 (2500 K 至 10000 K), 手动预设 (最高 6 组设定可存储), 均支持微调 色温选择除外",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
           "originalValue": "Auto (3 types), natural light auto, direct sunlight, cloudy, shade, incandescent, fluorescent (7 types), flash, choose color temperature (2500 K to 10000 K), preset manual (up to 6 values can be stored), all with fine-tuning except choose color temperature"
         }
@@ -318,8 +349,9 @@
       "rows": [
         {
           "label": "包围拍摄类型",
-          "value": "Exposure, flash, white balance and ADL",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "曝光、闪光、白平衡和动态D-Lighting包围",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Exposure, flash, white balance and ADL"
         }
       ]
     },
@@ -329,8 +361,9 @@
       "rows": [
         {
           "label": "工作环境",
-          "value": "Temperature: 0 to 40°C/32 to 104°F; humidity: 85% or less (no condensation)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "温度： 0 至 40°C/32 至 104°F; 湿度： 85% 以下 （无凝露）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Temperature: 0 to 40°C/32 to 104°F; humidity: 85% or less (no condensation)"
         },
         {
           "label": "尺寸（宽×高×深）",
@@ -339,7 +372,7 @@
         },
         {
           "label": "重量",
-          "value": "约 705 g/1 lb 8.9 oz with battery and memory card but without body cap; 约 615 g/1 lb 5.7 oz (camera 仅机身)",
+          "value": "约 705 g/1 lb 8.9 oz 含电池和存储卡，不含机身盖; 约 615 g/1 lb 5.7 oz (仅机身)",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
           "originalValue": "约 705 g/1 lb 8.9 oz with battery and memory card but without body cap; 约 615 g/1 lb 5.7 oz (camera body only)"
         }
@@ -351,28 +384,33 @@
       "rows": [
         {
           "label": "USB接口",
-          "value": "Type C USB connector (SuperSpeed USB); connection to built-in USB port is recommended",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "USB Type-C接口 (SuperSpeed USB); 建议连接电脑内置USB端口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Type C USB connector (SuperSpeed USB); connection to built-in USB port is recommended"
         },
         {
           "label": "HDMI输出",
-          "value": "Type C HDMI connector",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "HDMI Type-C接口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Type C HDMI connector"
         },
         {
           "label": "附件端口",
-          "value": "Built-in (can be used with MC-DC2 Remote Cords and other optional accessories)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "内置 (可配合使用 MC-DC2 遥控线 及其他另购配件)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Built-in (can be used with MC-DC2 Remote Cords and other optional accessories)"
         },
         {
           "label": "音频输入",
-          "value": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "立体声迷你插孔 (3.5-mm 直径; 支持插入供电)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)"
         },
         {
           "label": "音频输出",
-          "value": "Stereo mini-pin jack (3.5-mm diameter)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "立体声迷你插孔 (3.5-mm 直径)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "Stereo mini-pin jack (3.5-mm diameter)"
         },
         {
           "label": "Wi-Fi无线连接",
@@ -394,23 +432,27 @@
       "rows": [
         {
           "label": "电池",
-          "value": "One EN-EL15c Rechargeable Li-ion Battery; EN-EL15b/EN-EL15a/EN-EL15 can also be used, but note that fewer pictures can be taken on a single charge and that the EH-7P charging AC adapter can be used to charge EN-EL15c/EN-EL15b batteries only",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "一块EN-EL15c 可充电锂离子电池; EN-EL15b/EN-EL15a/EN-EL15 也可使用, 但需注意 单次充电可拍张数较少 ； EH-7P 充电用交流适配器仅可为以下电池充电： EN-EL15c/EN-EL15b 仅限这些电池",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "One EN-EL15c Rechargeable Li-ion Battery; EN-EL15b/EN-EL15a/EN-EL15 can also be used, but note that fewer pictures can be taken on a single charge and that the EH-7P charging AC adapter can be used to charge EN-EL15c/EN-EL15b batteries only"
         },
         {
           "label": "电池手柄",
-          "value": "MB-N11 Power Battery Pack and MB-N10 Battery Pack (available separately); each takes two EN-EL15c batteries; EN-EL15b/EN-EL15a/EN-EL15 batteries can be used in place of the EN-EL15c. The number of pictures that can be taken on a single charge (i.e., battery endurance) will however drop compared to the EN-EL15c",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "MB-N11 电池匣 、 MB-N10 电池匣 (另售); 每个容纳两块EN-EL15c电池; EN-EL15b/EN-EL15a/EN-EL15 电池 可替代 EN-EL15c. 但单次充电可拍张数（电池续航）少于EN-EL15c",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "MB-N11 Power Battery Pack and MB-N10 Battery Pack (available separately); each takes two EN-EL15c batteries; EN-EL15b/EN-EL15a/EN-EL15 batteries can be used in place of the EN-EL15c. The number of pictures that can be taken on a single charge (i.e., battery endurance) will however drop compared to the EN-EL15c"
         },
         {
           "label": "充电适配器",
-          "value": "EH-7P charging AC adapter (available separately)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "EH-7P 充电用交流适配器 (另售)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "EH-7P charging AC adapter (available separately)"
         },
         {
           "label": "交流适配器",
-          "value": "EH-5d/EH-5c/EH-5b AC adapter (requires EP-5B power connector, which is available separately)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html"
+          "value": "EH-5d/EH-5c/EH-5b 交流适配器 (需要 EP-5B 电源连接器, 另售)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/mirrorless/z_6_2/index.html",
+          "originalValue": "EH-5d/EH-5c/EH-5b AC adapter (requires EP-5B power connector, which is available separately)"
         }
       ]
     }

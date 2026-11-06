@@ -20,33 +20,39 @@
       "rows": [
         {
           "label": "图像传感器",
-          "value": "Type: Primary color filter CMOS. Size: 23.5mm x 15.6mm",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "原色滤镜 CMOS，23.5×15.6 mm",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Type: Primary color filter CMOS. Size: 23.5mm x 15.6mm"
         },
         {
           "label": "有效像素",
-          "value": "约 24.24 mega像素",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "约 2424 万像素",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "约 24.24 mega像素"
         },
         {
           "label": "低通滤镜模拟",
-          "value": "Moiré reduction using SR unit (Off, Low, High)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "利用 SR 单元抑制摩尔纹；关／低／高",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Moiré reduction using SR unit (Off, Low, High)"
         },
         {
           "label": "内置 ND（2EV）",
-          "value": "AUTO, ON, OFF",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "自动, 开启, 关闭",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "AUTO, ON, OFF"
         },
         {
           "label": "基础参数调整",
-          "value": "Normal editing, Monotone editing* Parameter: Brightness, Saturation, Filter Effect*, Hue, Toning*, Contrast, Sharpness (Adjust parameter varies depending on the selected editing setting) *The latest firmware is required to use the full feature with GR III. ",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "标准或单色编辑；可调亮度、饱和度、滤镜效果、色相、色调、对比度、锐度，参数随编辑模式变化；滤镜效果及色调为单色相关项；GR III 完整功能需最新固件",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Normal editing, Monotone editing* Parameter: Brightness, Saturation, Filter Effect*, Hue, Toning*, Contrast, Sharpness (Adjust parameter varies depending on the selected editing setting) *The latest firmware is required to use the full feature with GR III. "
         },
         {
           "label": "RAW 机内处理",
-          "value": "Aspect Ratio, JPEG Recorded Pixels, Color Space, White Balance, Image Control, Peripheral Illumination Correction, Sensitivity, High-ISO Noise Reduction, Shadow Correction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "画幅比例、JPEG 像素、色彩空间、白平衡、图像控制、周边光量校正、感光度、高 ISO 降噪、阴影校正",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Aspect Ratio, JPEG Recorded Pixels, Color Space, White Balance, Image Control, Peripheral Illumination Correction, Sensitivity, High-ISO Noise Reduction, Shadow Correction"
         }
       ]
     },
@@ -56,28 +62,33 @@
       "rows": [
         {
           "label": "镜头结构",
-          "value": "6 elements in 4 groups (2 aspherical lens elements)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "4 组 6 片，含 2 片非球面镜片",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "6 elements in 4 groups (2 aspherical lens elements)"
         },
         {
           "label": "焦距与光圈",
-          "value": "18.3mm (约 28mm in 35mm equivalent focal length), F2.8～F16",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "18.3 mm（全画幅等效约 28 mm）；F2.8–F16",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "18.3mm (约 28mm in 35mm equivalent focal length), F2.8～F16"
         },
         {
           "label": "防抖",
-          "value": "Sensor-shift shake reduction (SR)(3-axis)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "传感器位移式 3 轴 SR 防抖",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Sensor-shift shake reduction (SR)(3-axis)"
         },
         {
           "label": "对焦模式",
-          "value": "Auto-area AF, Auto-area AF (Center)*, Zone Select AF*, Select AF, Pinpoint AF, Tracking AF, Continuous AF, MF, Snap (0.3m*, 1.5m, 2m, 2.5m, 3.5m*, 5m, ∞ ), ∞ * The latest firmware is required to use the full feature. ",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "自动区域 AF、中央自动区域 AF、分区选择 AF、选择 AF、微点 AF、追踪 AF、连续 AF、手动、快拍、无限远；快拍距离 0.3／1.5／2／2.5／3.5／5m／∞；中央自动区域、分区选择、0.3m 及 3.5m 等完整功能需最新固件",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Auto-area AF, Auto-area AF (Center)*, Zone Select AF*, Select AF, Pinpoint AF, Tracking AF, Continuous AF, MF, Snap (0.3m*, 1.5m, 2m, 2.5m, 3.5m*, 5m, ∞ ), ∞ * The latest firmware is required to use the full feature. "
         },
         {
           "label": "对焦范围（镜头前端起算）",
-          "value": "Normal: 约 0.1m～ ∞ , Macro Mode: 约 0.06m～0.12m",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "标准约 0.1m–∞；微距约 0.06–0.12m",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Normal: 约 0.1m～ ∞ , Macro Mode: 约 0.06m～0.12m"
         }
       ]
     },
@@ -87,18 +98,21 @@
       "rows": [
         {
           "label": "人脸 / 眼睛检测",
-          "value": "ON, Use only in Auto-area, OFF *The latest firmware is required to use Eye detection with GR III. ",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "开启、仅自动区域、关闭；GR III 眼睛检测需最新固件",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "ON, Use only in Auto-area, OFF *The latest firmware is required to use Eye detection with GR III. "
         },
         {
           "label": "显示屏",
-          "value": "Display magnification (4x, 16x), Grid display (4x4 Grid, 3x3 Grid), Histogram, Bright area warning, Electronic Level",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "4×／16× 放大；4×4／3×3 网格；直方图、高光警告、电子水平仪",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Display magnification (4x, 16x), Grid display (4x4 Grid, 3x3 Grid), Histogram, Bright area warning, Electronic Level"
         },
         {
           "label": "触摸屏",
-          "value": "Capacitive sensing method",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "电容式触摸",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Capacitive sensing method"
         }
       ]
     },
@@ -108,18 +122,21 @@
       "rows": [
         {
           "label": "标准输出感光度",
-          "value": "ISO100～102400: Auto (ISO Auto Lower/Upper Limit and Minimum Shutter Speed can be set), Manual",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "ISO 100–102400；自动可设上下限及最低快门速度；支持手动",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "ISO100～102400: Auto (ISO Auto Lower/Upper Limit and Minimum Shutter Speed can be set), Manual"
         },
         {
           "label": "曝光模式",
-          "value": "Program AE, Aperture Priority AE, Shutter Priority AE, Manual Exposure, Snap Distance Priority* *The latest firmware is required to use the full feature. ",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "程序自动、光圈优先、快门优先、手动、快拍距离优先；快拍距离优先完整功能需最新固件",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Program AE, Aperture Priority AE, Shutter Priority AE, Manual Exposure, Snap Distance Priority* *The latest firmware is required to use the full feature. "
         },
         {
           "label": "测光模式",
-          "value": "Multi-segment, Center-weighted, Spot, Highlight-weighted",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "多重、中央重点、点测光、高光重点",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Multi-segment, Center-weighted, Spot, Highlight-weighted"
         }
       ]
     },
@@ -129,8 +146,9 @@
       "rows": [
         {
           "label": "快门速度",
-          "value": "1/4000 sec. - 30 sec. (Limit by aperture setting F2.8: 1/2500 sec, F5.6 or greater: 1/4000 sec.) Timed Exposure (10sec. - 20min.), Bulb, Time",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "1/4000–30 秒；受光圈限制：F2.8 最快 1/2500 秒，F5.6 或更小光圈可达 1/4000 秒；定时曝光 10 秒–20 分钟、B 门、T 门",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "1/4000 sec. - 30 sec. (Limit by aperture setting F2.8: 1/2500 sec, F5.6 or greater: 1/4000 sec.) Timed Exposure (10sec. - 20min.), Bulb, Time"
         }
       ]
     },
@@ -140,111 +158,129 @@
       "rows": [
         {
           "label": "除尘",
-          "value": "影像传感器 cleaning using ultrasonic vibrations \"DR II\"",
+          "value": "DR II 超声波振动传感器清洁",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
           "originalValue": "Image sensor cleaning using ultrasonic vibrations \"DR II\""
         },
         {
           "label": "视频格式与尺寸",
-          "value": "File Format: MPEG4 AVC/H.264 (MOV) Recorded Pixels: Full HD (1920x1080, 60p/30p/24p), Sound: Built-in stereo microphone Recording Time: 最高 25 minutes or 4GB; automatically stops recording if the internal temperature of the camera becomes high",
+          "value": "MPEG-4 AVC／H.264（MOV）；全高清 1920×1080，60p／30p／24p；内置立体声麦克风；最长 25 分钟或 4GB，机内温度过高时自动停止",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
           "originalValue": "File Format: MPEG4 AVC/H.264 (MOV) Recorded Pixels: Full HD (1920x1080, 60p/30p/24p), Sound: Built-in stereo microphone Recording Time: Up to 25 minutes or 4GB; automatically stops recording if the internal temperature of the camera becomes high"
         },
         {
           "label": "自动对焦系统",
-          "value": "Hybrid AF (Image plane phase-matching and Contrast detection)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "混合 AF：传感器相位检测与反差检测",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Hybrid AF (Image plane phase-matching and Contrast detection)"
         },
         {
           "label": "完全按下快拍",
-          "value": "Performs shooting by focusing at the Snap distance with a single press of the Shutter Release Button or a touch of the LCD Monitor* *The latest firmware is required to use the full feature with GR III. ",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "一次全按快门或触摸液晶屏即按快拍预设距离拍摄；GR III 完整功能需最新固件",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Performs shooting by focusing at the Snap distance with a single press of the Shutter Release Button or a touch of the LCD Monitor* *The latest firmware is required to use the full feature with GR III. "
         },
         {
           "label": "曝光补偿",
-          "value": "Still Image: ±5EV, 1/3EV steps, Movie: ±2EV, 1/3EV steps",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "照片 ±5 EV，视频 ±2 EV；均为 1/3 EV 步长",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Still Image: ±5EV, 1/3EV steps, Movie: ±2EV, 1/3EV steps"
         },
         {
           "label": "白平衡微调",
-          "value": "Adjustable ±14 steps on A-B axis or G-M axis",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "A–B 或 G–M 轴 ±14 级",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Adjustable ±14 steps on A-B axis or G-M axis"
         },
         {
           "label": "驱动模式",
-          "value": "Single Frame Shooting, Continuous Shooting, Bracketing, Multi-exposure, Interval Shooting, Interval Composite",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "单张、连拍、包围、多重曝光、间隔拍摄、间隔合成",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Single Frame Shooting, Continuous Shooting, Bracketing, Multi-exposure, Interval Shooting, Interval Composite"
         },
         {
           "label": "自拍定时",
-          "value": "10 sec., 2 sec., OFF",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "10秒, 2秒, 关闭",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "10 sec., 2 sec., OFF"
         },
         {
           "label": "裁切",
-          "value": "35mm, 50mm, OFF",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "35mm, 50mm, 关闭",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "35mm, 50mm, OFF"
         },
         {
           "label": "图像控制",
-          "value": "Standard, Vivid, Monotone, Soft Monotone, Hard Monotone, Hi-Contrast B&W, Positive Film, Negative Film**, Bleach Bypass, Retro, Cross Processing*, HDR Tone, Custom1, Custom2 Adjust parameters: Saturation, Hue, High/Low Key Adjustment, Contrast, Contrast (Highlight), Contrast (Shadow), Sharpness, Shading, Clarity, Toning, Filter Effect, Grain Effect*, HDR Tone Level, Color Tone* (Adjust parameter varies depending on the selected image setting) **The latest firmware is required to use the full feature.  *The latest firmware is required to use the full feature with GR III. ",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "标准、鲜艳、单色、柔和单色、硬调单色、高对比度黑白、正片、负片、漂白旁路、复古、正负逆冲、HDR 色调、自定义 1／2；可调饱和度、色相、高／低调、对比度及高光／阴影对比度、锐度、暗角、清晰度、色调、滤镜、颗粒、HDR 色调等级、色彩色调；可调项随模式变化。负片、正负逆冲、颗粒及色彩色调等完整功能需最新固件",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Standard, Vivid, Monotone, Soft Monotone, Hard Monotone, Hi-Contrast B&W, Positive Film, Negative Film**, Bleach Bypass, Retro, Cross Processing*, HDR Tone, Custom1, Custom2 Adjust parameters: Saturation, Hue, High/Low Key Adjustment, Contrast, Contrast (Highlight), Contrast (Shadow), Sharpness, Shading, Clarity, Toning, Filter Effect, Grain Effect*, HDR Tone Level, Color Tone* (Adjust parameter varies depending on the selected image setting) **The latest firmware is required to use the full feature.  *The latest firmware is required to use the full feature with GR III. "
         },
         {
           "label": "动态范围校正",
-          "value": "Highlight Correction, Shadow Correction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "高光和阴影校正",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Highlight Correction, Shadow Correction"
         },
         {
           "label": "降噪",
-          "value": "Slow Shutter Speed Noise Reduction, High-ISO Noise Reduction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "慢速快门降噪、高 ISO 降噪",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Slow Shutter Speed Noise Reduction, High-ISO Noise Reduction"
         },
         {
           "label": "水平校正",
-          "value": "SR On: correction 最高 1 degrees, SR Off: correction 最高 1.5 degrees *The latest firmware is required to use the full feature with GR III. ",
+          "value": "SR 开启时最高校正 1°，关闭时最高 1.5°；GR III 完整功能需最新固件",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
           "originalValue": "SR On: correction up to 1 degrees, SR Off: correction up to 1.5 degrees *The latest firmware is required to use the full feature with GR III. "
         },
         {
           "label": "显示屏类型",
-          "value": "3.0 inch TFT color LCD (aspect ratio 3:2), 约 1037K 点, Wide viewing angle, Air-gapless tempered glass",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "3 英寸 TFT 彩色液晶屏，3:2，约 103.7 万点；宽视角，无空气间隙钢化玻璃",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "3.0 inch TFT color LCD (aspect ratio 3:2), 约 1037K 点, Wide viewing angle, Air-gapless tempered glass"
         },
         {
           "label": "显示调节",
-          "value": "Brightness, Saturation, Blue/Amber, Green/Magenta, Outdoor View Setting: ±2 Steps",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "可调亮度、饱和度、蓝／琥珀、绿／洋红；户外显示 ±2 级",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Brightness, Saturation, Blue/Amber, Green/Magenta, Outdoor View Setting: ±2 Steps"
         },
         {
           "label": "无线标准",
-          "value": "IEEE 802.11b/g/n (HT20) (Wireless LAN standard protocol)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "IEEE 802.11b/g/n（HT20）无线局域网",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "IEEE 802.11b/g/n (HT20) (Wireless LAN standard protocol)"
         },
         {
           "label": "中心频率",
-          "value": "2412MHz～2462MHz (1ch～11ch)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "2412–2462MHz，1–11 信道",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "2412MHz～2462MHz (1ch～11ch)"
         },
         {
           "label": "无线安全",
-          "value": "Authentication: WPA2, Encryption: AES",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "WPA2 认证，AES 加密",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Authentication: WPA2, Encryption: AES"
         },
         {
           "label": "无线标准",
-          "value": "Bluetooth ® v4.2 (Bluetooth Low Energy）",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "蓝牙 v4.2 低功耗",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Bluetooth ® v4.2 (Bluetooth Low Energy）"
         },
         {
           "label": "中心频率",
-          "value": "2402MHz～2480MHz (CH0～CH39)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "2402–2480MHz，0–39 信道",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "2402MHz～2480MHz (CH0～CH39)"
         },
         {
           "label": "闪光灯热靴",
-          "value": "Compatible with P-TTL Auto Flash Flash Mode: Flash On, Flash On+Red-eye, Slow-speed Sync, Slow Sync+Red-eye Flash Exposure Compensation: -2.0 -+1.0",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "兼容 P-TTL 自动闪光；开启、开启防红眼、慢速同步、慢速同步防红眼；闪光曝光补偿 −2.0 至 +1.0 EV",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Compatible with P-TTL Auto Flash Flash Mode: Flash On, Flash On+Red-eye, Slow-speed Sync, Slow Sync+Red-eye Flash Exposure Compensation: -2.0 -+1.0"
         }
       ]
     },
@@ -254,13 +290,15 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "Internal Memory (约 2GB), SD/SDHC/SDXC Memory Card (Conforms to UHS-I standards)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "内置约 2GB；SD／SDHC／SDXC 存储卡，符合 UHS-I",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Internal Memory (约 2GB), SD/SDHC/SDXC Memory Card (Conforms to UHS-I standards)"
         },
         {
           "label": "USB Type-C",
-          "value": "Battery Recharge/Power Supply (Optional AC Adapter required), Data Transfer: MTP, Video output: DisplayPort over USB-C (DisplayPort Alternative Mode)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "电池充电／供电（需另售交流适配器）；MTP 数据传输；USB-C DisplayPort 替代模式视频输出",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Battery Recharge/Power Supply (Optional AC Adapter required), Data Transfer: MTP, Video output: DisplayPort over USB-C (DisplayPort Alternative Mode)"
         }
       ]
     },
@@ -270,22 +308,25 @@
       "rows": [
         {
           "label": "电池类型",
-          "value": "Rechargeable Battery DB-110",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "DB-110 可充电池",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Rechargeable Battery DB-110"
         },
         {
           "label": "电池续航",
-          "value": "Number of recordable images: 约 200 images, * With a fully-charged Rechargeable Lithium-ion Battery under the temperature at 23°C. Tested in compliance with CIPA standard. Actual results may vary depending on the shooting condition. Playback time: 约 180 minutes * The playback time is a guide based on RICOH's measurement method . The actual number differs according to usage conditions",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "可拍照片数: 约 200 张, * 23°C、满电可充电锂离子电池，依CIPA标准测定；实际续航随拍摄条件变化。 回放时间: 约 180分钟 * 回放时间基于理光测试，仅供参考，实际随使用条件变化",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "Number of recordable images: 约 200 images, * With a fully-charged Rechargeable Lithium-ion Battery under the temperature at 23°C. Tested in compliance with CIPA standard. Actual results may vary depending on the shooting condition. Playback time: 约 180 minutes * The playback time is a guide based on RICOH's measurement method . The actual number differs according to usage conditions"
         },
         {
           "label": "机身尺寸",
-          "value": "约 109.4(W)×61.9(H)×33.2(D)mm (excluding protrusions) Lens part：33.2(D)mm Body part：26.5(D)mm",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/"
+          "value": "约 109.4×61.9×33.2 mm（宽×高×深），不含突出部分；镜头部厚 33.2 mm，机身部厚 26.5 mm",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
+          "originalValue": "约 109.4(W)×61.9(H)×33.2(D)mm (excluding protrusions) Lens part：33.2(D)mm Body part：26.5(D)mm"
         },
         {
           "label": "重量",
-          "value": "约 257g (Included dedicated battery and SD memory card), 约 227g (仅机身)",
+          "value": "含随附专用电池和 SD 卡约 257g；仅机身约 227g",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/gr-3/spec/",
           "originalValue": "约 257g (Included dedicated battery and SD memory card), 约 227g (Body only)"
         }

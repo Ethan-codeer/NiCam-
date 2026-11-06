@@ -25,8 +25,9 @@
         },
         {
           "label": "图像传感器",
-          "value": "4/3\" Live MOS sensor, total pixel number 17,200,000 像素, Primary color filter",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "4/3 型 Live MOS 传感器，总像素 1720 万；原色滤镜",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "4/3\" Live MOS sensor, total pixel number 17,200,000 像素, Primary color filter"
         }
       ]
     },
@@ -36,13 +37,15 @@
       "rows": [
         {
           "label": "数码裁切 / 变焦",
-          "value": "Max. 4x",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "最高 4×",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Max. 4x"
         },
         {
           "label": "对焦系统",
-          "value": "Auto Focus / Manual Focus, Face/Eye Detection / Tracking / 49-area-focusing / Custom Multi / 1-area-focusing / Pinpoint (Touch focus area selection possible)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "自动／手动对焦；人脸／眼睛识别、追踪、49 区、自定义多区、单区、微点 AF；支持触摸选择对焦区域",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Auto Focus / Manual Focus, Face/Eye Detection / Tracking / 49-area-focusing / Custom Multi / 1-area-focusing / Pinpoint (Touch focus area selection possible)"
         }
       ]
     },
@@ -52,14 +55,15 @@
       "rows": [
         {
           "label": "显示屏",
-          "value": "3.0\" OLED Monitor (3:2) (约 1,040,000 点) (field of view ratio about 100%) 触摸屏",
+          "value": "3 英寸 OLED 触摸屏，3:2，约 104 万点；视野约 100%",
           "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
           "originalValue": "3.0\" OLED Monitor (3:2) (约 1,040,000 点) (field of view ratio about 100%) Touch screen"
         },
         {
           "label": "取景器",
-          "value": "OLED Live Viewfinder (4:3) (约 2,360,000 点) (field of view ratio about 100%) (with diopter adjustment –4 to +4 diopter)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "OLED 电子取景器，4:3，约 236 万点，视野约 100%；屈光度 −4 至 +4",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "OLED Live Viewfinder (4:3) (约 2,360,000 点) (field of view ratio about 100%) (with diopter adjustment –4 to +4 diopter)"
         }
       ]
     },
@@ -69,28 +73,33 @@
       "rows": [
         {
           "label": "ISO 范围",
-          "value": "AUTO/ I-ISO /100*/200/400/800/1600/3200/6400/12800/25600 (1/3 EV step change possible) * Only available when [Extended ISO] is set",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "自动、智能 ISO；ISO 100（仅扩展 ISO）、200、400、800、1600、3200、6400、12800、25600；可调 1/3 EV 步长",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "AUTO/ I-ISO /100*/200/400/800/1600/3200/6400/12800/25600 (1/3 EV step change possible) * Only available when [Extended ISO] is set"
         },
         {
           "label": "测光范围",
-          "value": "EV 0 to EV 18",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "EV 0–18",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "EV 0 to EV 18"
         },
         {
           "label": "白平衡",
-          "value": "Auto White Balance / Daylight / Cloudy / Shade / Incandescent lights / Flash / White set1 / White set2 / White set3 / White set4 / White Balance K set",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "自动、日光、阴天、阴影、白炽灯、闪光；手动白平衡 1–4；手动色温",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Auto White Balance / Daylight / Cloudy / Shade / Incandescent lights / Flash / White set1 / White set2 / White set3 / White set4 / White Balance K set"
         },
         {
           "label": "曝光模式",
-          "value": "Program AE (P) / Aperture-priority AE (A) / Shutter-priority AE (S) / Manual exposure (M) / AUTO Exposure Compensation (1/3 EV Step, –5 EV to +5 EV)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "程序自动 P、光圈优先 A、快门优先 S、手动 M；自动曝光补偿 −5 至 +5 EV，1/3 EV 步长",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Program AE (P) / Aperture-priority AE (A) / Shutter-priority AE (S) / Manual exposure (M) / AUTO Exposure Compensation (1/3 EV Step, –5 EV to +5 EV)"
         },
         {
           "label": "测光系统与模式",
-          "value": "1728-zone multi-pattern sensing system,Multiple / Center weighted / Spot",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "1728 区多区测光系统；多重、中央重点、点测光",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "1728-zone multi-pattern sensing system,Multiple / Center weighted / Spot"
         }
       ]
     },
@@ -100,23 +109,27 @@
       "rows": [
         {
           "label": "快门系统",
-          "value": "Focal-plane shutter",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Focal-plane shutter"
         },
         {
           "label": "快门速度",
-          "value": "Still picture: B (Bulb) (Max. 约 60 minutes), 60 seconds to 1/8000th of a second Motion picture: 1/30th of a second to 1/16000th of a second (When [System Frequency] is set to [59.94 Hz (NTSC)]) 1/25th of a second to 1/16000th of a second (When [System Frequency] is set to [50.00 Hz (PAL)]) 1/24th of a second to 1/16000th of a second (When [System Frequency] is set to [24.00 Hz (CINEMA)])",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "照片：60–1/8000 秒，B 门最长约 60 分钟。视频：59.94Hz（NTSC）为 1/30–1/16000 秒；50.00Hz（PAL）为 1/25–1/16000 秒；24.00Hz（电影）为 1/24–1/16000 秒",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Still picture: B (Bulb) (Max. 约 60 minutes), 60 seconds to 1/8000th of a second Motion picture: 1/30th of a second to 1/16000th of a second (When [System Frequency] is set to [59.94 Hz (NTSC)]) 1/25th of a second to 1/16000th of a second (When [System Frequency] is set to [50.00 Hz (PAL)]) 1/24th of a second to 1/16000th of a second (When [System Frequency] is set to [24.00 Hz (CINEMA)])"
         },
         {
           "label": "闪光系统",
-          "value": "Built-in pop up flash GN 17.0 equivalent (ISO 200·m) [GN 12.0 equivalent (ISO 100·m)] Flash range: 约 30 cm (0.98 feet) to 17.1 m (56 feet) [When the Interchangeable lens (H-HS12035) is mounted, WIDE, [ISO AUTO] is set] AUTO, AUTO/Red-Eye Reduction, Forced ON, Forced ON/Red-Eye Reduction, Slow Sync., Slow Sync/Red-Eye Reduction, Forced OFF",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "内置弹出式闪光灯，GN 17.0（ISO 200·m）／GN 12.0（ISO 100·m）；H-HS12035 镜头广角端、自动 ISO 时范围约 30 cm–17.1 m（0.98–56 英尺）。自动、自动防红眼、强制开启、强制开启防红眼、慢速同步、慢速同步防红眼、强制关闭",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Built-in pop up flash GN 17.0 equivalent (ISO 200·m) [GN 12.0 equivalent (ISO 100·m)] Flash range: 约 30 cm (0.98 feet) to 17.1 m (56 feet) [When the Interchangeable lens (H-HS12035) is mounted, WIDE, [ISO AUTO] is set] AUTO, AUTO/Red-Eye Reduction, Forced ON, Forced ON/Red-Eye Reduction, Slow Sync., Slow Sync/Red-Eye Reduction, Forced OFF"
         },
         {
           "label": "闪光同步速度",
-          "value": "Equal to or smaller than 1/250th of a second",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "1/250 秒或更慢",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Equal to or smaller than 1/250th of a second"
         }
       ]
     },
@@ -126,23 +139,27 @@
       "rows": [
         {
           "label": "扩展远摄转换",
-          "value": "When taking still pictures: Max. 2x (When a picture size of [S] (4 M), aspect ratio of [4:3] is selected.) When recording motion pictures: 2.4x / 3.6x / 4.8x",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "照片：4:3、S（400 万像素）时最高 2×；视频：2.4×／3.6×／4.8×",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "When taking still pictures: Max. 2x (When a picture size of [S] (4 M), aspect ratio of [4:3] is selected.) When recording motion pictures: 2.4x / 3.6x / 4.8x"
         },
         {
           "label": "连拍速度",
-          "value": "40 pictures/second (Super high speed) 12 pictures/second (High speed, AFS) 7 pictures/second (High speed, AFC) 7 pictures/second (Middle speed) 2 pictures/second (Low speed)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "40 张／秒 (超高速) 12 张／秒 (高速, AFS) 7 张／秒 (高速, AFC) 7 张／秒 (中速) 2 张／秒 (低速)",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "40 pictures/second (Super high speed) 12 pictures/second (High speed, AFS) 7 pictures/second (High speed, AFC) 7 pictures/second (Middle speed) 2 pictures/second (Low speed)"
         },
         {
           "label": "连拍张数",
-          "value": "When there are RAW files: 40 pictures When there are no RAW files: 100 or higher pictures * Recording conditions are based on CIPA standards and an SDHC card manufactured by Panasonic is used",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "含 RAW：40 张；不含 RAW：至少 100 张；依 CIPA 条件，使用松下 SDHC 卡",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "When there are RAW files: 40 pictures When there are no RAW files: 100 or higher pictures * Recording conditions are based on CIPA standards and an SDHC card manufactured by Panasonic is used"
         },
         {
           "label": "最低照度",
-          "value": "约 6 lx [when i-Low light is used, the shutter speed is: 1/30th of a second (When [System Frequency] is set to [59.94 Hz (NTSC)]) 1/25th (When [System Frequency] is set to [50.00 Hz (PAL)]) [When the Interchangeable lens (H-HS12035) is used]",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "约 6 lx；i-Low light、H-HS12035 镜头，59.94Hz（NTSC）时 1/30 秒、50.00Hz（PAL）时 1/25 秒",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "约 6 lx [when i-Low light is used, the shutter speed is: 1/30th of a second (When [System Frequency] is set to [59.94 Hz (NTSC)]) 1/25th (When [System Frequency] is set to [50.00 Hz (PAL)]) [When the Interchangeable lens (H-HS12035) is used]"
         },
         {
           "label": "麦克风",
@@ -156,28 +173,33 @@
         },
         {
           "label": "照片尺寸",
-          "value": "When the aspect ratio setting is [4:3]: 4608x3456 像素, 3264x2448 像素, 2336x1752 像素 When the aspect ratio setting is [3:2]: 4608x3072 像素, 3264x2176 像素, 2336x1560 像素 When the aspect ratio setting is [16:9]: 4608x2592 像素, 3840x2160 像素, 1920x1080 像素 When the aspect ratio setting is [1:1]: 3456x3456 像素, 2448x2448 像素, 1744x1744 像素",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "4:3：4608×3456、3264×2448、2336×1752；3:2：4608×3072、3264×2176、2336×1560；16:9：4608×2592、3840×2160、1920×1080；1:1：3456×3456、2448×2448、1744×1744 像素",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "When the aspect ratio setting is [4:3]: 4608x3456 像素, 3264x2448 像素, 2336x1752 像素 When the aspect ratio setting is [3:2]: 4608x3072 像素, 3264x2176 像素, 2336x1560 像素 When the aspect ratio setting is [16:9]: 4608x2592 像素, 3840x2160 像素, 1920x1080 像素 When the aspect ratio setting is [1:1]: 3456x3456 像素, 2448x2448 像素, 1744x1744 像素"
         },
         {
           "label": "视频画质",
-          "value": "MOV / MP4（LPCM）：4096×2160 24p、3840×2160 最高29.97p，100Mbps IPB；FHD最高59.94p，最高200Mbps ALL-Intra。PAL模式对应25p/50p",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "MOV；MP4（LPCM）：4096×2160 24p、3840×2160 最高29.97p，100Mbps IPB；FHD最高59.94p，最高200Mbps ALL-Intra。PAL模式对应25p/50p",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "MOV / MP4（LPCM）：4096×2160 24p、3840×2160 最高29.97p，100Mbps IPB；FHD最高59.94p，最高200Mbps ALL-Intra。PAL模式对应25p/50p"
         },
         {
           "label": "画质",
-          "value": "RAW / RAW + Fine / RAW + Standard / Fine / Standard / MPO + Fine / MPO + Standard",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "RAW；RAW + 精细；RAW + 标准；精细；标准；MPO + 精细；MPO + 标准",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "RAW / RAW + Fine / RAW + Standard / Fine / Standard / MPO + Fine / MPO + Standard"
         },
         {
           "label": "记录文件格式",
-          "value": "Still Picture: RAW / JPEG (based on “Design rule for Camera File system”, based on “Exif 2.3” standard, DPOF corresponding) / MPO Motion Pictures: AVCHD Progressive / AVCHD / MP4 / MOV",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "照片：RAW、JPEG（DCF、Exif 2.3，支持 DPOF）、MPO；视频：AVCHD Progressive、AVCHD、MP4、MOV",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Still Picture: RAW / JPEG (based on “Design rule for Camera File system”, based on “Exif 2.3” standard, DPOF corresponding) / MPO Motion Pictures: AVCHD Progressive / AVCHD / MP4 / MOV"
         },
         {
           "label": "音频压缩",
-          "value": "AVCHD: Dolby® Digital (2 ch) MP4: AAC (2 ch) MP4 (LPCM), MOV: LPCM (2 ch)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "AVCHD：双声道 Dolby Digital；MP4：双声道 AAC；MP4（LPCM）和 MOV：双声道 LPCM",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "AVCHD: Dolby® Digital (2 ch) MP4: AAC (2 ch) MP4 (LPCM), MOV: LPCM (2 ch)"
         }
       ]
     },
@@ -187,28 +209,33 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD Memory Card / SDHC Memory Card / SDXC Memory Card* (* UHS-I UHS Speed Class 3)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "SD／SDHC／SDXC 存储卡；支持 UHS-I、UHS 速度等级 3",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "SD Memory Card / SDHC Memory Card / SDXC Memory Card* (* UHS-I UHS Speed Class 3)"
         },
         {
           "label": "连接接口",
-          "value": "Digital: “USB 2.0” (High Speed) Analog video/audio: NTSC / PAL Composite (Switched by [System Frequency]) Audio line output (monaural)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "数字：高速 USB 2.0；模拟音视频：NTSC／PAL 复合视频（随系统频率切换）、单声道线路音频输出",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Digital: “USB 2.0” (High Speed) Analog video/audio: NTSC / PAL Composite (Switched by [System Frequency]) Audio line output (monaural)"
         },
         {
           "label": "连接端口",
-          "value": "[REMOTE]: ϕ 2.5 mm jack [AV OUT/DIGITAL]: Dedicated jack (8 pin) [HDMI]: MicroHDMI Type D [MIC]: ϕ 3.5 mm jack Headphone: ϕ 3.5 mm jack Flash synchro: Available",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "2.5 mm 遥控接口；8 针专用 AV OUT／DIGITAL；Micro HDMI Type-D；3.5 mm 麦克风及耳机接口；闪光同步接口",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "[REMOTE]: ϕ 2.5 mm jack [AV OUT/DIGITAL]: Dedicated jack (8 pin) [HDMI]: MicroHDMI Type D [MIC]: ϕ 3.5 mm jack Headphone: ϕ 3.5 mm jack Flash synchro: Available"
         },
         {
           "label": "无线传输",
-          "value": "Compliance standard: IEEE 802.11b/g/n (standard wireless LAN protocol) Frequency range used (central frequency): 2412 MHz to 2462 MHz (1 to 11ch) Encryption method: Wi-Fi compliant WPA™ / WPA2™ Access method: Infrastructure mode",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "IEEE 802.11b/g/n 无线局域网；2412–2462MHz（1–11 信道）；WPA／WPA2 加密；基础设施模式",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Compliance standard: IEEE 802.11b/g/n (standard wireless LAN protocol) Frequency range used (central frequency): 2412 MHz to 2462 MHz (1 to 11ch) Encryption method: Wi-Fi compliant WPA™ / WPA2™ Access method: Infrastructure mode"
         },
         {
           "label": "近场通信 NFC",
-          "value": "Compliance standard: ISO/IEC 18092 NFC-F (Passive Mode)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "ISO／IEC 18092 NFC-F 标准；被动模式",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Compliance standard: ISO/IEC 18092 NFC-F (Passive Mode)"
         }
       ]
     },
@@ -223,28 +250,33 @@
         },
         {
           "label": "功耗",
-          "value": "2.7 W (When recording with Monitor) [When the Interchangeable lens (H-HS12035) is used] 1.6 W (When playing back with Monitor) [When the Interchangeable lens (H-HS12035) is used]",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "使用 H-HS12035 镜头及后屏：拍摄 2.7W，回放 1.6W",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "2.7 W (When recording with Monitor) [When the Interchangeable lens (H-HS12035) is used] 1.6 W (When playing back with Monitor) [When the Interchangeable lens (H-HS12035) is used]"
         },
         {
           "label": "机身尺寸",
-          "value": "约 132.9 mm (W) × 93.4 mm (H) × 83.9 mm (D) [5.23\" (W) × 3.68\" (H) × 3.30\" (D)] (excluding the projecting parts)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "约 132.9×93.4×83.9 mm（宽×高×深；5.23×3.68×3.30 英寸），不含突出部分",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "约 132.9 mm (W) × 93.4 mm (H) × 83.9 mm (D) [5.23\" (W) × 3.68\" (H) × 3.30\" (D)] (excluding the projecting parts)"
         },
         {
           "label": "重量",
-          "value": "约 560 g / 1.23 lb (with the card and battery) 约 480 g / 1.06 lb (camera body) 约 865 g / 1.91 lb (with the Interchangeable lens (H-HS12035), card, and battery)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "含卡和电池约 560g／1.23lb；仅机身约 480g／1.06lb；含 H-HS12035 镜头、卡和电池约 865g／1.91lb",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "约 560 g / 1.23 lb (with the card and battery) 约 480 g / 1.06 lb (camera body) 约 865 g / 1.91 lb (with the Interchangeable lens (H-HS12035), card, and battery)"
         },
         {
           "label": "工作温度",
-          "value": "0°C to 40°C (32°F to 104°F)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "0–40°C（32–104°F）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "0°C to 40°C (32°F to 104°F)"
         },
         {
           "label": "工作湿度",
-          "value": "10%RH to 80%RH",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "10%–80%RH",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "10%RH to 80%RH"
         },
         {
           "label": "防尘防泼溅",
@@ -253,8 +285,9 @@
         },
         {
           "label": "电池与供电",
-          "value": "Voltage/capacity: 7.2 V / 1860 mAh",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/"
+          "value": "电压 7.2V，容量 1860mAh",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dmc-gh4/",
+          "originalValue": "Voltage/capacity: 7.2 V / 1860 mAh"
         }
       ]
     }

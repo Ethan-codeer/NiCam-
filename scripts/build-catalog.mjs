@@ -18,7 +18,9 @@ for (const [index, camera] of cameras.entries()) {
 }
 const save = (name, value) => writeFile(path.join(root, name), JSON.stringify(value, null, 2) + '\n');
 await mkdir(path.join(root, 'src/digital-batches'), { recursive: true });
-await save('src/digital-cameras.json', cameras);
+// Keep editorial originals in reviewed source files; the public UI only uses the concise translation.
+const runtimeCameras = cameras.map(camera => ({ ...camera, specGroups: camera.specGroups.map(group => ({ ...group, rows: group.rows.map(({ originalValue, ...row }) => row) })) }));
+await save('src/digital-cameras.json', runtimeCameras);
 for (const key of ['nikon', 'canon', 'sony', 'fujifilm', 'other']) {
   const group = cameras.filter(camera => key === 'other' ? !['nikon', 'canon', 'sony', 'fujifilm'].includes(camera.brand) : camera.brand === key);
   await save(`src/digital-batches/${key}.json`, { cameras: group, photos: Object.fromEntries(group.map(camera => [camera.id, photos[camera.id]])) });

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "canon",
+    "source": "https://commons.wikimedia.org/wiki/File:Canon_wordmark.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Canon_wordmark.svg",
+    "bytes": 4310,
+    "sha256": "9b6acea0a1a760992b23754c0be41eaaa2fdac8d9b75ae3cc5218a1ade278192",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "fujifilm",
+    "source": "https://commons.wikimedia.org/wiki/File:Fujifilm_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Fujifilm_logo.svg",
+    "bytes": 6530,
+    "sha256": "d86cf1e0208b9898846f9ccd93bc514be3130fcb64492e5fc915a4e08d7dd8f2",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "hasselblad",
+    "source": "https://commons.wikimedia.org/wiki/File:Hasselblad_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Hasselblad_logo.svg",
+    "bytes": 4443,
+    "sha256": "e5e6db04ea5b880d6ce89235623e508e9286248893173f7e189eb49be402c2cd",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "leica",
+    "source": "https://commons.wikimedia.org/wiki/File:Leica_Camera_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Leica_Camera_logo.svg",
+    "bytes": 4729,
+    "sha256": "5fcb8f72ae1640fa4475765ea16383dc8a2b0e4b4973057f88b5cdd8063e18bb",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "nikon",
+    "source": "https://commons.wikimedia.org/wiki/File:Nikon_Logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Nikon_Logo.svg",
+    "bytes": 7441,
+    "sha256": "449bab29e259c46b7264ed19886e5a0e2ef567250d01163c8e2cd1bbce486c53",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "olympus",
+    "source": "https://commons.wikimedia.org/wiki/File:Olympus_Corporation_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Olympus_Corporation_logo.svg",
+    "bytes": 5417,
+    "sha256": "c9af41e756dba5c54b28bc8cdf17f8188ecd862cf315b2935290d1892a213ab4",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "panasonic",
+    "source": "https://commons.wikimedia.org/wiki/File:Panasonic_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/9/95/Panasonic_logo.svg",
+    "bytes": 4382,
+    "sha256": "dc8e1c4a22237ce45f36b9a83f0f89942717fca261ac84d7f598cf3367985dd7",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "pentax",
+    "source": "https://commons.wikimedia.org/wiki/File:Pentax_Logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pentax_Logo.svg",
+    "bytes": 4389,
+    "sha256": "c2a4761c9a69d04bfd987b352b370b8e05cec9bf7bac5f7036ffbd185f165cc5",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "ricoh",
+    "source": "https://commons.wikimedia.org/wiki/File:Ricoh_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Ricoh_logo_2005.svg",
+    "bytes": 4108,
+    "sha256": "8508bb3b741c70b535606af079758cd64471fce481f4ae3d67f134fc8798981b",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  },
+  {
+    "id": "sony",
+    "source": "https://commons.wikimedia.org/wiki/File:Sony_logo.svg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sony_logo.svg",
+    "bytes": 5135,
+    "sha256": "f6191bc69f8df259c86a13dc9582ba9ed2e0101d4452ba3f1d33ec8e907ddda0",
+    "retrieved": "2026-11-06",
+    "commonsNotice": "PD-textlogo; trademarked",
+    "modifications": "None; downloaded SVG bytes preserved"
+  }
+]

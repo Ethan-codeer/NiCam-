@@ -26,45 +26,51 @@
         },
         {
           "label": "记录尺寸",
-          "value": "still image / L : (3:2) 4288 x 2848 / (16:9) 4288 x 2416 / M : (3:2) 3072 x 2048 / (16:9) 3072 x 1728 / S : (3:2) 2176 x 1448 / (16:9) 1920 x 1080 / / <Motion Panorama> / 180° Vertical 7680 x 2160 Horizontal 7680 x 1440 / 120° Vertical 5120 x 2160 Horizontal 5120 x 1440",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "照片；L : (3:2) 4288 x 2848；(16:9) 4288 x 2416；M : (3:2) 3072 x 2048；(16:9) 3072 x 1728；S : (3:2) 2176 x 1448；(16:9) 1920 x 1080；<动态 全景>；180° 垂直 7680 x 2160 水平 7680 x 1440；120° 垂直 5120 x 2160 水平 5120 x 1440",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "still image / L : (3:2) 4288 x 2848 / (16:9) 4288 x 2416 / M : (3:2) 3072 x 2048 / (16:9) 3072 x 1728 / S : (3:2) 2176 x 1448 / (16:9) 1920 x 1080 / / <Motion Panorama> / 180° Vertical 7680 x 2160 Horizontal 7680 x 1440 / 120° Vertical 5120 x 2160 Horizontal 5120 x 1440"
         },
         {
           "label": "连拍",
-          "value": "最高 10 /JPEG / 最高 8 /RAW or RAW+JPEG / 5 / 3 fps selectable",
+          "value": "最高 10 /JPEG；最高 8 /RAW 或 RAW+JPEG；5；3 fps 可选",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Up to 10 /JPEG / Up to 8 /RAW or RAW+JPEG / 5 / 3 fps selectable"
         },
         {
           "label": "包围曝光",
-          "value": "AE Bracketing (±1/3EV, ±2/3EV, ±1EV) / Film Simulation Bracketing (PROVIA / STANDARD, Velvia / VIVID, ASTIA / SOFT) Dynamic Range Bracketing (100%, 200%, 400%) / ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "自动曝光包围 (±1/3EV, ±2/3EV, ±1EV)；胶片模拟包围 (PROVIA；标准, Velvia；鲜艳, ASTIA；柔和) 动态范围包围 (100%, 200%, 400%)；感光度包围 (±1/3EV, ±2/3EV, ±1EV)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "AE Bracketing (±1/3EV, ±2/3EV, ±1EV) / Film Simulation Bracketing (PROVIA / STANDARD, Velvia / VIVID, ASTIA / SOFT) Dynamic Range Bracketing (100%, 200%, 400%) / ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV)"
         },
         {
           "label": "自拍",
-          "value": "约 10sec. / 2sec. Delay",
+          "value": "约 10秒；2秒 延时",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Approx. 10sec. / 2sec. Delay"
         },
         {
           "label": "视频记录",
-          "value": "1280 x 720 pixels (24frames / sec.) with stereo sound",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "1280 x 720 像素 (24张；秒) 搭配 立体声",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "1280 x 720 pixels (24frames / sec.) with stereo sound"
         },
         {
           "label": "拍摄功能",
-          "value": "Select custom setting, Motion panorama, Color space, Film simulation, Auto red-eye removal, Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Focus check, Electronic level, One-touch RAW",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "选择自定义设置, 动态全景, 色彩空间, 胶片模拟, 自动 去红眼, 构图辅助线, 帧编号记忆, 直方图显示, 景深预览, 对焦检查, 电子水平仪, 一键 RAW",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Select custom setting, Motion panorama, Color space, Film simulation, Auto red-eye removal, Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Focus check, Electronic level, One-touch RAW"
         },
         {
           "label": "回放功能",
-          "value": "RAW conversing, Image rotate, Photobook assist, Erase selected frames, image search, Multi-frame playback (with micro thumbnail), Slide show, Mark for upload, Protect, Crop, Resize, Panorama, Favorites",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "RAW转换, 图像旋转, 照片书助手, 删除所选照片, 图像搜索, 多张回放 (含微缩略图), 幻灯片, 上传标记, 保护, 裁切, 调整尺寸, 全景, 收藏",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "RAW conversing, Image rotate, Photobook assist, Erase selected frames, image search, Multi-frame playback (with micro thumbnail), Slide show, Mark for upload, Protect, Crop, Resize, Panorama, Favorites"
         },
         {
           "label": "其他功能",
-          "value": "PictBridge, Exif Print, 35 languages selection, Time difference, Quick start mode, OVF power save mode, Silent mode, Shutter sound select",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "PictBridge, Exif Print, 35 语言选择, 时差, 快速启动模式, OVF 节能 模式, 静音 模式, 快门声音选择",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "PictBridge, Exif Print, 35 languages selection, Time difference, Quick start mode, OVF power save mode, Silent mode, Shutter sound select"
         }
       ]
     },
@@ -74,8 +80,9 @@
       "rows": [
         {
           "label": "感光元件",
-          "value": "23.6mm x 15.8mm (APS-C) CMOS with primary color filter",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "23.6mm x 15.8mm (APS-C) CMOS 配备原色滤镜",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "23.6mm x 15.8mm (APS-C) CMOS with primary color filter"
         }
       ]
     },
@@ -85,19 +92,21 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "Internal memory (约 20MB)SD / SDHC / SDXC(UHS-I) memory card*2",
+          "value": "内置存储器 (约 20MB)SD；SDHC；SDXC(UHS-I) 存储卡*2",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Internal memory (Approx. 20MB)SD / SDHC / SDXC(UHS-I) memory card*2"
         },
         {
           "label": "文件格式",
-          "value": "still image / JPEG (Exif Ver 2.3)*3, RAW (RAF format), RAW+JPEG / (Design rule for Camera File system compliant / DPOF-compatible) / / movie / H.264 (MOV) with Stereo sound",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "照片；JPEG (Exif Ver 2.3)*3, RAW (RAF 格式), RAW+JPEG；(符合相机文件系统设计规则；兼容 DPOF)；视频；H.264 (MOV) 搭配 立体声",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "still image / JPEG (Exif Ver 2.3)*3, RAW (RAF format), RAW+JPEG / (Design rule for Camera File system compliant / DPOF-compatible) / / movie / H.264 (MOV) with Stereo sound"
         },
         {
           "label": "接口",
-          "value": "Digital interface / USB 2.0 High-Speed / / HD output / b>HDMI Mini connector",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "数字接口；USB 2.0 高速；HD 输出；b>Mini HDMI 接口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Digital interface / USB 2.0 High-Speed / / HD output / b>HDMI Mini connector"
         }
       ]
     },
@@ -107,24 +116,27 @@
       "rows": [
         {
           "label": "镜头",
-          "value": "name / Fujinon Single focal length lens / / focal length / f=23mm, equivalent to 35mm on a 35mm camera / / full-aperture / F2 / / constitution / 6groups 8 lenses (1 aspherical glass molded lens included)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "name；富士龙定焦镜头；焦距；f=23mm, 等效 至 35mm，按以下画幅换算： 35mm 相机；最大光圈；F2；结构；6组 8 片镜片 (1 含非球面玻璃模铸镜片)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "name / Fujinon Single focal length lens / / focal length / f=23mm, equivalent to 35mm on a 35mm camera / / full-aperture / F2 / / constitution / 6groups 8 lenses (1 aspherical glass molded lens included)"
         },
         {
           "label": "光圈",
-          "value": "F2-F16 1/3EV step (controlled with 9-blade aperture diaphragm)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "F2-F16 1/3EV 步长 (可通过以下方式调节： 9-片叶片光圈)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "F2-F16 1/3EV step (controlled with 9-blade aperture diaphragm)"
         },
         {
           "label": "对焦距离",
-          "value": "Normal / 约 80cm / 2.6ft. to infinity / / Macro / 约10cm - 2.0m / 3.9in. - 6.6ft.",
+          "value": "标准；约 80cm；2.6英尺 至 无限远；微距；约10cm - 2.0m；3.9英寸 - 6.6英尺",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Normal / Approx. 80cm / 2.6ft. to infinity / / Macro / Approx.10cm - 2.0m / 3.9in. - 6.6ft."
         },
         {
           "label": "对焦",
-          "value": "mode / Single AF / Continuous AF/MF Distance Indicator / / type / TTL contrast AF, AF assist illuminator available / / AF frame selection / Area / Multi",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "模式；单次自动对焦；连续自动对焦/MF 距离指示；type；TTL反差检测AF，提供AF辅助照明；AF框选择；区域；多重",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "mode / Single AF / Continuous AF/MF Distance Indicator / / type / TTL contrast AF, AF assist illuminator available / / AF frame selection / Area / Multi"
         }
       ]
     },
@@ -134,28 +146,33 @@
       "rows": [
         {
           "label": "感光度",
-          "value": "Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / Extended output sensitivity equivalent ISO 100 or 12800 / ISO AUTO Control available",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "等效 ISO 200 - 6400 (标准 输出感光度)；扩展感光度，等效 ISO 100 或 12800；ISO 自动 可设置",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / Extended output sensitivity equivalent ISO 100 or 12800 / ISO AUTO Control available"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zones metering, Multi / Spot / Average",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "TTL 256-区测光, 多重；点测光；平均",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "TTL 256-zones metering, Multi / Spot / Average"
         },
         {
           "label": "曝光模式",
-          "value": "Programmed AE, Shutter priority AE, Aperture priority AE, Manual exposure",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "程序自动曝光、快门优先、光圈优先、手动曝光",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Programmed AE, Shutter priority AE, Aperture priority AE, Manual exposure"
         },
         {
           "label": "曝光补偿",
-          "value": "-2.0EV - +2.0EV 1/3EV step",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "-2.0EV - +2.0EV 1/3EV 步长",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "-2.0EV - +2.0EV 1/3EV step"
         },
         {
           "label": "白平衡",
-          "value": "Automatic scene recognition / / Preset / Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, underwater, Custom, Color temperature selection",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "自动场景识别；预设；晴天, 阴影, 荧光灯 (日光), 荧光灯 (暖白色), 荧光灯 (冷白色), 白炽灯, 水下, 自定义, 色温选择",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Automatic scene recognition / / Preset / Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, underwater, Custom, Color temperature selection"
         }
       ]
     },
@@ -165,24 +182,27 @@
       "rows": [
         {
           "label": "机械快门速度",
-          "value": "(P mode) 1/4 sec. to 1/4000* sec., (All other modes) 30 sec. to 1/4000* sec. Bulb (max.60min.) / * 1/4000sec at F8 or smaller apeture, 1/1000 sec at F2",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "(P模式) 1/4秒 至 1/4000* 秒, (其他所有模式) 30秒 至 1/4000* 秒 B门 (最多60分钟)；* 1/4000秒 于 F8 或更小光圈, 1/1000秒 于 F2",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "(P mode) 1/4 sec. to 1/4000* sec., (All other modes) 30 sec. to 1/4000* sec. Bulb (max.60min.) / * 1/4000sec at F8 or smaller apeture, 1/1000 sec at F2"
         },
         {
           "label": "闪光灯",
-          "value": "Auto flash (super intelligent flash) / Effective range : (ISO 1600) / 约 50cm - 9m / 1.6ft. - 29.5.ft.",
+          "value": "自动 闪光灯 (超级智能 闪光灯)；有效范围 : (ISO 1600)；约 50cm - 9m；1.6英尺 - 29.5.英尺",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Auto flash (super intelligent flash) / Effective range : (ISO 1600) / approx. 50cm - 9m / 1.6ft. - 29.5.ft."
         },
         {
           "label": "闪光模式",
-          "value": "Red-eye removal OFF : Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye removal ON : Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro.",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "去红眼 关闭 : 自动, 强制闪光, 禁止闪光, 慢速同步. 去红眼 开启 : 防红眼 自动, 防红眼 & 强制闪光, 禁止闪光, 防红眼 & 慢速同步.",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Red-eye removal OFF : Auto, Forced Flash, Suppressed Flash, Slow Synchro. Red-eye removal ON : Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro."
         },
         {
           "label": "热靴",
-          "value": "Yes (dedicated TTL Flash compatible)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "支持 (专用 TTL 闪光 兼容)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "Yes (dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -192,13 +212,13 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "Hybrid viewfinderOptical viewfinder Reverse Galilean viewfinder with electronic bright frame display 0.5 x magnifications Coverage of frame area v.s. capturing area : 约 90%电子取景器 0.47-in., 约1,440,000-dot color LCD viewfinder Coverage of viewing area v.s capturing area : 约 100% Eye sensor installedEye point : 约 15mmDiopter adjustment : -2 - +1m-1 (dpt)",
+          "value": "混合取景器：光学取景器 逆伽利略式光学取景器，带电子亮框显示 0.5 倍放大倍率 取景覆盖率 : 约 90%电子取景器 0.47-英寸, 约1,440,000-dot 彩色液晶取景器 取景覆盖率 : 约 100% 内置眼传感器眼点 : 约 15mm屈光度调节 : -2 - +1m⁻¹ (dpt)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Hybrid viewfinderOptical viewfinder Reverse Galilean viewfinder with electronic bright frame display 0.5 x magnifications Coverage of frame area v.s. capturing area : approx. 90%Electronic viewfinder 0.47-in., approx.1,440,000-dot color LCD viewfinder Coverage of viewing area v.s capturing area : approx. 100% Eye sensor installedEye point : approx. 15mmDiopter adjustment : -2 - +1m-1 (dpt)"
         },
         {
           "label": "液晶屏",
-          "value": "2.8-inch, 约 460,000dots, TFT color LCD monitor (约 100% coverage)",
+          "value": "2.8-英寸, 约 460,000点, TFT 彩色液晶显示屏 (约 100% 视野率)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "2.8-inch, approx. 460,000dots, TFT color LCD monitor (Approx. 100% coverage)"
         }
@@ -210,17 +230,19 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-95 Li-ion battery (included)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "NP-95 锂离子电池（随附）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "NP-95 Li-ion battery (included)"
         },
         {
           "label": "尺寸",
-          "value": "126.5(W) x 74.4(H) x 53.9(D) mm / 5.0(W) x 2.9(H) x 2.1(D) in. / (Minimum thickness : 31.0mm / 1.2in.)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "126.5(W) x 74.4(H) x 53.9(D) mm；5.0(W) x 2.9(H) x 2.1(D) 英寸；(最薄处 : 31.0mm；1.2英寸)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "126.5(W) x 74.4(H) x 53.9(D) mm / 5.0(W) x 2.9(H) x 2.1(D) in. / (Minimum thickness : 31.0mm / 1.2in.)"
         },
         {
           "label": "重量",
-          "value": "约 405g / 14.3oz. (excluding accessories, battery and memory card) 约 445g / 15.7oz. (including battery and memory card)",
+          "value": "约 405g；14.3oz. (不含配件、电池和存储卡) 约 445g；15.7oz. (含电池和存储卡)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Approx. 405g / 14.3oz. (excluding accessories, battery and memory card) Approx. 445g / 15.7oz. (including battery and memory card)"
         },
@@ -231,18 +253,19 @@
         },
         {
           "label": "工作湿度",
-          "value": "10% - 80% (no condensation)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/"
+          "value": "10% - 80% （无凝露）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
+          "originalValue": "10% - 80% (no condensation)"
         },
         {
           "label": "电池续航",
-          "value": "约 300 frames",
+          "value": "约 300张",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Approx. 300 frames"
         },
         {
           "label": "启动时间",
-          "value": "约 2.2sec. ( Approx 0.7sec at QUICK START mode)*4",
+          "value": "约 2.2秒 ( 约 0.7秒 于 快速启动模式)*4",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/x100/specifications/",
           "originalValue": "Approx. 2.2sec. ( Approx 0.7sec at QUICK START mode)*4"
         }

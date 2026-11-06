@@ -6,7 +6,7 @@
   "format": "APS-C",
   "type": "固定镜头相机",
   "megapixels": 26.1,
-  "width": 128.0,
+  "width": 128,
   "height": 74.8,
   "depth": 53.3,
   "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
@@ -20,14 +20,15 @@
       "rows": [
         {
           "label": "有效像素",
-          "value": "约 26.1 million",
+          "value": "约 26.1 百万像素",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "Approx. 26.1 million"
         },
         {
           "label": "感光元件",
-          "value": "23.5 mm × 15.6 mm (APS-C), X-Trans CMOS sensor with primary color filter",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "23.5 mm × 15.6 mm (APS-C), X-Trans CMOS 传感器 配备原色滤镜",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "23.5 mm × 15.6 mm (APS-C), X-Trans CMOS sensor with primary color filter"
         }
       ]
     },
@@ -37,53 +38,63 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "Fujifilm-recommended SD/SDHC/SDXC memory cards",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "富士推荐的 SD/SDHC/SDXC 存储卡",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Fujifilm-recommended SD/SDHC/SDXC memory cards"
         },
         {
           "label": "存储卡槽",
-          "value": "SD memory card slot (UHS-I compliant)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "SD 存储卡 slot (兼容 UHS-I)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "SD memory card slot (UHS-I compliant)"
         },
         {
           "label": "文件系统",
-          "value": "Compliant with Design Rule for Camera File System (DCF2.0), Exif 2.3, and Digital Print Order Format (DPOF)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "符合相机文件系统设计规则 (DCF2.0), Exif 2.3, 及 数码打印指令格式 (DPOF)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Compliant with Design Rule for Camera File System (DCF2.0), Exif 2.3, and Digital Print Order Format (DPOF)"
         },
         {
           "label": "文件格式 · 1",
-          "value": "Still pictures: Exif 2.3 JPEG (compressed)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "照片 张照片: Exif 2.3 JPEG (压缩)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Still pictures: Exif 2.3 JPEG (compressed)"
         },
         {
           "label": "文件格式 · 2",
-          "value": "RAW (original RAF format, uncompressed or compressed using a lossless algorithm",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "RAW (RAF 原始格式, 未压缩或采用无损算法压缩",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "RAW (original RAF format, uncompressed or compressed using a lossless algorithm"
         },
         {
           "label": "文件格式 · 3",
-          "value": "special purpose software required)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "需专用软件)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "special purpose software required)"
         },
         {
           "label": "文件格式 · 4",
-          "value": "RAW+JPEG available Movies: H.264 standard with stereo sound (MOV) Audio (voice memos): Stereo sound (WAV)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "RAW+可用 JPEG 视频： H.264 标准 搭配 立体声 (MOV) 音频 (语音备忘): 立体声 (WAV)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "RAW+JPEG available Movies: H.264 standard with stereo sound (MOV) Audio (voice memos): Stereo sound (WAV)"
         },
         {
           "label": "HDMI 输出",
-          "value": "HDMI Micro connector (type D)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "Micro HDMI 接口 (type D)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "HDMI Micro connector (type D)"
         },
         {
           "label": "标准",
-          "value": "IEEE 802.11b/g/n (standard wireless protocol)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "IEEE 802.11b/g/n (标准无线协议)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "IEEE 802.11b/g/n (standard wireless protocol)"
         },
         {
           "label": "网络协议",
-          "value": "Infrastructure",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "基础架构模式",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Infrastructure"
         }
       ]
     },
@@ -93,54 +104,60 @@
       "rows": [
         {
           "label": "图像尺寸",
-          "value": "O3:2 / (6240 × 4160) O16:9 / (6240 × 3512) O1:1 / (4160 × 4160)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "O3:2；(6240 × 4160) O16:9；(6240 × 3512) O1:1；(4160 × 4160)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "O3:2 / (6240 × 4160) O16:9 / (6240 × 3512) O1:1 / (4160 × 4160)"
         },
         {
           "label": "连拍",
-          "value": "CONTINUOUS MODE Available frame advance rates (JPEG) 30fps(1.25X CROP) 1 30 20fps(1.25X CROP) 1 20 10fps(1.25X CROP) 1 10 20 fps 1 20 11 fps 2 11 10 fps 1 10 8.0 fps 8.0 6.0 fps 6.0 5.0 fps 5.0 4.0 fps 4.0 3.0 fps 3.0 1 Available with 电子快门 only. 2 10 fps with 电子快门. The frame rate and number of frames per burst varies with shooting conditions and type of memory card used.",
+          "value": "连续 模式 可选连拍速度 (JPEG) 30fps(1.25X CROP) 1 30 20fps(1.25X CROP) 1 20 10fps(1.25X CROP) 1 10 20 fps 1 20 11 fps 2 11 10 fps 1 10 8.0 fps 8.0 6.0 fps 6.0 5.0 fps 5.0 4.0 fps 4.0 3.0 fps 3.0 1 可使用 电子快门 仅限. 2 10 fps 搭配 电子快门. 连拍速度及每次连拍张数因拍摄条件和存储卡类型而异",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "CONTINUOUS MODE Available frame advance rates (JPEG) 30fps(1.25X CROP) 1 30 20fps(1.25X CROP) 1 20 10fps(1.25X CROP) 1 10 20 fps 1 20 11 fps 2 11 10 fps 1 10 8.0 fps 8.0 6.0 fps 6.0 5.0 fps 5.0 4.0 fps 4.0 3.0 fps 3.0 1 Available with electronic shutter only. 2 10 fps with electronic shutter. The frame rate and number of frames per burst varies with shooting conditions and type of memory card used."
         },
         {
           "label": "自拍",
-          "value": "Off, 2 sec., 10 sec.",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "关闭, 2秒, 10秒",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Off, 2 sec., 10 sec."
         },
         {
           "label": "立体声视频",
-          "value": "Movie size: V 16∶9, d 17∶9, W 16∶9, W 17∶9 Frame rate: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P Bit rate: 200Mbps, 100Mbps, 50Mbps Recording/output format: SD card, 4∶2∶0, 8-bit/HDMI output, 4∶2∶2, 10-bit",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "视频 尺寸: V 16∶9, d 17∶9, W 16∶9, W 17∶9 帧率: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P 码率: 200Mbps, 100Mbps, 50Mbps 记录／输出格式: SD 卡, 4∶2∶0, 8-位/HDMI 输出, 4∶2∶2, 10-位",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Movie size: V 16∶9, d 17∶9, W 16∶9, W 17∶9 Frame rate: 59.94P, 50P, 29.97P, 25P, 24P, 23.98P Bit rate: 200Mbps, 100Mbps, 50Mbps Recording/output format: SD card, 4∶2∶0, 8-bit/HDMI output, 4∶2∶2, 10-bit"
         },
         {
           "label": "高速视频",
-          "value": "Movie size: FULL HD 16∶9 Frame advance rate: 120P, 100P",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "视频 尺寸: 全高清 16∶9 帧率: 120P, 100P",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Movie size: FULL HD 16∶9 Frame advance rate: 120P, 100P"
         },
         {
           "label": "麦克风接口",
-          "value": "⌀2.5 mm mini-stereo jack",
+          "value": "⌀2.5 mm 立体声迷你插孔",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
         },
         {
           "label": "耳机接口",
-          "value": "The USB connector can be converted to a headphone jack socket using a USB Type-C to ⌀3.5 mm stereo mini-pin jack adapter cable compatible with analog audio I/O (USB Type-C Audio Adapter Accessory Mode)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "USB 接口可通过 USB Type-C 转 ⌀3.5 mm 立体声迷你插孔 兼容模拟音频的转接线，用于 音频 I/O (USB Type-C 音频适配器附件模式)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "The USB connector can be converted to a headphone jack socket using a USB Type-C to ⌀3.5 mm stereo mini-pin jack adapter cable compatible with analog audio I/O (USB Type-C Audio Adapter Accessory Mode)"
         },
         {
           "label": "遥控接口",
-          "value": "⌀2.5 mm 3-pole mini jack",
+          "value": "⌀2.5 mm 3-极迷你插孔",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
         },
         {
           "label": "数字输入输出",
-          "value": "USB connector (Type-C) USB3.1Gen1",
+          "value": "USB 接口 (Type-C) USB3.1Gen1",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
         },
         {
-          "label": "工作频率 (center frequency)",
-          "value": "Japan, China: 2,412 MHz–2,472 MHz (13 channels) Other countries: 2,412 MHz–2,462 MHz (11 channels)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "label": "工作频率 (中心频率)",
+          "value": "Japan, China: 2,412 MHz–2,472 MHz (13 声道) 其他国家: 2,412 MHz–2,462 MHz (11 声道)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Japan, China: 2,412 MHz–2,472 MHz (13 channels) Other countries: 2,412 MHz–2,462 MHz (11 channels)"
         }
       ]
     },
@@ -150,18 +167,21 @@
       "rows": [
         {
           "label": "镜头",
-          "value": "Type: FUJINON fixed focal length lens Focal length: f=23 mm (35 mm format equivalent: 35 mm) Maximum aperture: F2.0",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "Type: 富士龙定焦镜头；焦距: f=23 mm (35 mm 画幅 等效: 35 mm) 最大光圈: F2.0",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Type: FUJINON fixed focal length lens Focal length: f=23 mm (35 mm format equivalent: 35 mm) Maximum aperture: F2.0"
         },
         {
           "label": "对焦 · 1",
-          "value": "Mode: Single or continuous AF",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "模式: 单次或连续自动对焦",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Mode: Single or continuous AF"
         },
         {
           "label": "对焦 · 2",
-          "value": "manual focus with focus ring Autofocus system: Intelligent hybrid AF (TTL contrast-detect/phase-detection AF) with AF-assist illuminator Focus-area selection: SINGLE POINT, ZONE, WIDE/TRACKING, ALL",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "通过对焦环手动对焦 自动对焦系统: 智能混合AF (TTL 对比度/相位检测自动对焦) 支持AF辅助照明 对焦区域选择: 单点、区域、广域／跟踪、全部",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "manual focus with focus ring Autofocus system: Intelligent hybrid AF (TTL contrast-detect/phase-detection AF) with AF-assist illuminator Focus-area selection: SINGLE POINT, ZONE, WIDE/TRACKING, ALL"
         }
       ]
     },
@@ -171,53 +191,63 @@
       "rows": [
         {
           "label": "感光度 · 1",
-          "value": "Still pictures: Standard output sensitivity equivalent to ISO 160 – 12800 in increments of 1/3 EV",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "照片 张照片: 标准感光度相当于 ISO 160 – 12800 以1/3EV步进",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Still pictures: Standard output sensitivity equivalent to ISO 160 – 12800 in increments of 1/3 EV"
         },
         {
           "label": "感光度 · 2",
-          "value": "AUTO",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "自动",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "AUTO"
         },
         {
           "label": "感光度 · 3",
-          "value": "extended output sensitivity equivalent to ISO 80, 100, 125, 25600, or 51200 Movies: Standard output sensitivity equivalent to ISO 160 – 12800 in increments of 1/3 EV",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "扩展感光度相当于 ISO 80, 100, 125, 25600, 或 51200 视频： 标准感光度相当于 ISO 160 – 12800 以1/3EV步进",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "extended output sensitivity equivalent to ISO 80, 100, 125, 25600, or 51200 Movies: Standard output sensitivity equivalent to ISO 160 – 12800 in increments of 1/3 EV"
         },
         {
           "label": "感光度 · 4",
-          "value": "AUTO",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "自动",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "AUTO"
         },
         {
           "label": "感光度 · 5",
-          "value": "extended output sensitivity equivalent to ISO 25600",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "扩展感光度相当于 ISO 25600",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "extended output sensitivity equivalent to ISO 25600"
         },
         {
           "label": "测光 · 1",
-          "value": "256-segment through-the-lens (TTL) metering",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "256 区 TTL 测光",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "256-segment through-the-lens (TTL) metering"
         },
         {
           "label": "测光 · 2",
-          "value": "MULTI, SPOT, AVERAGE, CENTER WEIGHTED",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "多重, 点测光, 平均, 中央重点",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "MULTI, SPOT, AVERAGE, CENTER WEIGHTED"
         },
         {
           "label": "曝光控制",
-          "value": "Programmed AE (with program shift); shutter-priority AE; aperture-priority AE; manual exposure",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "程序自动曝光 (搭配 程序偏移); 快门优先自动曝光; 光圈优先自动曝光; 手动曝光",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Programmed AE (with program shift); shutter-priority AE; aperture-priority AE; manual exposure"
         },
         {
           "label": "曝光补偿",
-          "value": "Still pictures: −5 EV – +5 EV in increments of 1/3 EV Movies: −2 EV – +2 EV in increments of 1/3 EV",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "照片 张照片: −5 EV – +5 EV 以1/3EV步进 视频： −2 EV – +2 EV 以1/3EV步进",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Still pictures: −5 EV – +5 EV in increments of 1/3 EV Movies: −2 EV – +2 EV in increments of 1/3 EV"
         },
         {
           "label": "白平衡",
-          "value": "Auto, Custom 1, Custom 2, Custom 3, color temperature selection, direct sunlight, shade, daylight fluorescent, warm white fluorescent, cool white fluorescent, incandescent, underwater",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "自动, 自定义 1, 自定义 2, 自定义 3, 色温选择, 晴天, 阴影, 日光荧光灯, 暖白色荧光灯, 冷白色荧光灯, 白炽灯, 水下",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Auto, Custom 1, Custom 2, Custom 3, color temperature selection, direct sunlight, shade, daylight fluorescent, warm white fluorescent, cool white fluorescent, incandescent, underwater"
         }
       ]
     },
@@ -227,24 +257,27 @@
       "rows": [
         {
           "label": "快门速度",
-          "value": "MECHANICAL SHUTTER Mode P: 4 s to 1/4000 s Mode A: 30 s to 1/4000 s Time: 15 min. to 1/4000 s Bulb: Max. 60 min. ELECTRONIC SHUTTER Mode P: 4 s to 1/32000 s Mode A: 30 s to 1/32000 s Time: 15 min. to 1/32000 s Bulb: Fixed at 1 s MECHANICAL + ELECTRONIC Mode P: 4 s to 1/32000 s Mode A: 30 s to 1/32000 s Time: 15 min. to 1/32000 s Bulb: Max. 60 min.",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "机械快门 模式 P: 4 s 至 1/4000 s 模式 A: 30 s 至 1/4000 s T 门: 15分钟 至 1/4000 s B门: 最多 60分钟 电子快门 模式 P: 4 s 至 1/32000 s 模式 A: 30 s 至 1/32000 s T 门: 15分钟 至 1/32000 s B门: 固定于 1 s 机械 + 电子 模式 P: 4 s 至 1/32000 s 模式 A: 30 s 至 1/32000 s T 门: 15分钟 至 1/32000 s B门: 最多 60分钟",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "MECHANICAL SHUTTER Mode P: 4 s to 1/4000 s Mode A: 30 s to 1/4000 s Time: 15 min. to 1/4000 s Bulb: Max. 60 min. ELECTRONIC SHUTTER Mode P: 4 s to 1/32000 s Mode A: 30 s to 1/32000 s Time: 15 min. to 1/32000 s Bulb: Fixed at 1 s MECHANICAL + ELECTRONIC Mode P: 4 s to 1/32000 s Mode A: 30 s to 1/32000 s Time: 15 min. to 1/32000 s Bulb: Max. 60 min."
         },
         {
           "label": "闪光灯",
-          "value": "Type: Auto flash Effective range (ISO 1600): 约 0.3 m – 7.4 m/1.0 ft. – 24 ft.",
+          "value": "Type: 自动 闪光灯 有效范围 (ISO 1600): 约 0.3 m – 7.4 m/1.0 英尺 – 24 英尺",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "Type: Auto flash Effective range (ISO 1600): Approx. 0.3 m – 7.4 m/1.0 ft. – 24 ft."
         },
         {
           "label": "闪光模式",
-          "value": "MODE: TTL MODE (FLASH AUTO, STANDARD, SLOW SYNC.), MANUAL, COMMANDER, OFF SYNC. MODE: 1ST CURTAIN, 2ND CURTAIN RED EYE REMOVAL: e FLASH+REMOVAL, L FLASH, d REMOVAL, OFF",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "模式：TTL (闪光灯 自动, 标准, 慢速同步.), 手动, 指令模式, 关闭 同步模式: 前帘同步, 后帘同步 防红眼: e 闪光灯+去红眼, L 闪光灯, d 去红眼, 关闭",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "MODE: TTL MODE (FLASH AUTO, STANDARD, SLOW SYNC.), MANUAL, COMMANDER, OFF SYNC. MODE: 1ST CURTAIN, 2ND CURTAIN RED EYE REMOVAL: e FLASH+REMOVAL, L FLASH, d REMOVAL, OFF"
         },
         {
           "label": "热靴",
-          "value": "Accessory shoe with TTL contacts",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "带 TTL 触点的热靴",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Accessory shoe with TTL contacts"
         }
       ]
     },
@@ -254,36 +287,39 @@
       "rows": [
         {
           "label": "光学取景器 · 1",
-          "value": "Reverse Galilean viewfinder with electronic bright frame display and 约 0.52× magnification",
+          "value": "逆伽利略式光学取景器，带电子亮框显示 及 约 0.52× 放大倍率",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "Reverse Galilean viewfinder with electronic bright frame display and approx. 0.52× magnification"
         },
         {
           "label": "光学取景器 · 2",
-          "value": "frame coverage 约 95%",
+          "value": "张 视野率 约 95%",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "frame coverage approx. 95%"
         },
         {
           "label": "电子取景器 · 1",
-          "value": "0.5-in., 3690k-dot OLED viewfinder",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "0.5-英寸, 3690000 点 OLED 取景器",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "0.5-in., 3690k-dot OLED viewfinder"
         },
         {
           "label": "电子取景器 · 2",
-          "value": "magnification 0.66× with 50 mm lens (35 mm format equivalent) at infinity and diopter set to −1.0 m−1",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "放大倍率 0.66× 使用 50 mm 镜头 (35 mm 画幅 等效) 无限远对焦、屈光度设为 −1.0 m−1",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "magnification 0.66× with 50 mm lens (35 mm format equivalent) at infinity and diopter set to −1.0 m−1"
         },
         {
           "label": "电子取景器 · 3",
-          "value": "diagonal angle of view 约 32° (horizontal angle of view 约 27°) Diopter adjustment: −4 to +2 m–1 Eyepoint: 约 16.8 mm",
+          "value": "对角视角 约 32° (水平视角 约 27°) 屈光度调节: −4 至 +2 m–1 眼点: 约 16.8 mm",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "diagonal angle of view approximately 32° (horizontal angle of view approximately 27°) Diopter adjustment: −4 to +2 m–1 Eyepoint: Approximately 16.8 mm"
         },
         {
           "label": "液晶屏",
-          "value": "3.0-in/7.6 cm, 1620k-dot color touchscreen LCD monitor, tilting",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "3.0-in/7.6 cm, 1620000 点 色彩 触摸屏 液晶显示屏, 可翻折",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "3.0-in/7.6 cm, 1620k-dot color touchscreen LCD monitor, tilting"
         }
       ]
     },
@@ -293,36 +329,39 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W126S rechargeable battery (supplied with camera)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "NP-W126S 可充电电池 (随附 搭配 相机)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "NP-W126S rechargeable battery (supplied with camera)"
         },
         {
           "label": "电池续航",
-          "value": "Battery type: NP-W126S Flash: Disabled Shooting mode: Mode P Number of shots PERFORMANCE LCD BOOST 约 310 NORMAL 约 370 PERFORMANCE EVF BOOST 约 250 NORMAL 约 350 PERFORMANCE OVF BOOST 约 390 NORMAL 约 420 Total length of footage that can be recorded on a single charge Actual battery life of movie capture Continuance battery life of movie capture V 1 约 45 minutes W 2 约 50 minutes High-speed movies 3 约 45 minutes Actual battery life of movie capture Continuance battery life of movie capture V 1 约 55 minutes W 2 约 75 minutes High-speed movies 3 － 1 At a frame rate of 29.97 fps. 2 At a frame rate of 59.94 fps. 3 At a frame rate of 120 fps. CIPA standard. Measured using battery supplied with camera and SD memory card. Note: Battery endurance varies with battery charge level and the figures given above are not guaranteed. Battery endurance will decline at low temperatures.",
+          "value": "电池类型: NP-W126S 闪光: 禁用拍摄 模式: 模式 P 拍摄张数 性能：LCD 增强 约 310 NORMAL 约 370 性能：EVF 增强 约 250 NORMAL 约 350 性能：OVF 增强 约 390 NORMAL 约 420 单次充电视频总时长：实际录制/连续录制 V 1 约 45分钟 W 2 约 50分钟 高速视频 3 约 45分钟 实际录制/连续录制 V 1 约 55分钟 W 2 约 75分钟 高速视频 3 － 1 于 a 张 速率 29.97 fps. 2 于 a 张 速率 59.94 fps. 3 于 a 张 速率 120 fps. CIPA 标准. 使用随附电池和 SD 存储卡测量. 备注: 电池续航随电量变化，上述数值不作保证. 低温下电池续航会缩短.",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "Battery type: NP-W126S Flash: Disabled Shooting mode: Mode P Number of shots PERFORMANCE LCD BOOST Approx. 310 NORMAL Approx. 370 PERFORMANCE EVF BOOST Approx. 250 NORMAL Approx. 350 PERFORMANCE OVF BOOST Approx. 390 NORMAL Approx. 420 Total length of footage that can be recorded on a single charge Actual battery life of movie capture Continuance battery life of movie capture V 1 Approx. 45 minutes W 2 Approx. 50 minutes High-speed movies 3 Approx. 45 minutes Actual battery life of movie capture Continuance battery life of movie capture V 1 Approx. 55 minutes W 2 Approx. 75 minutes High-speed movies 3 － 1 At a frame rate of 29.97 fps. 2 At a frame rate of 59.94 fps. 3 At a frame rate of 120 fps. CIPA standard. Measured using battery supplied with camera and SD memory card. Note: Battery endurance varies with battery charge level and the figures given above are not guaranteed. Battery endurance will decline at low temperatures."
         },
         {
           "label": "机身尺寸 / (W × H × D)",
-          "value": "128.0 mm × 74.8 mm × 53.3 mm (32.7 mm excluding projections, measured at thinnest part)/5.04 in. × 2.94 in. × 2.10 in.(1.29 in.)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "128.0 mm × 74.8 mm × 53.3 mm (32.7 mm 不含凸出部分, 在最薄处测量)/5.04 英寸 × 2.94 英寸 × 2.10 英寸(1.29 英寸)",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "128.0 mm × 74.8 mm × 53.3 mm (32.7 mm excluding projections, measured at thinnest part)/5.04 in. × 2.94 in. × 2.10 in.(1.29 in.)"
         },
         {
           "label": "机身重量",
-          "value": "约 428 g/15.1 oz., excluding battery, accessories, and memory card",
+          "value": "约 428 g/15.1 oz., 不含电池、配件和存储卡",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "Approx. 428 g/15.1 oz., excluding battery, accessories, and memory card"
         },
         {
           "label": "拍摄重量",
-          "value": "约 478 g/16.9 oz., including battery and memory card",
+          "value": "约 478 g/16.9 oz., 含电池和存储卡",
           "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
           "originalValue": "Approx. 478 g/16.9 oz., including battery and memory card"
         },
         {
           "label": "工作环境",
-          "value": "Temperature: 0 °C to +40 °C/+32 °F to +104 °F Humidity: 10% to 80% (no condensation)",
-          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html"
+          "value": "温度： 0 °C 至 +40 °C/+32 °F 至 +104 °F 湿度： 10% 至 80% （无凝露）",
+          "sourceUrl": "https://fujifilm-dsc.com/en/manual/x100v/technical_notes/spec/index.html",
+          "originalValue": "Temperature: 0 °C to +40 °C/+32 °F to +104 °F Humidity: 10% to 80% (no condensation)"
         }
       ]
     }

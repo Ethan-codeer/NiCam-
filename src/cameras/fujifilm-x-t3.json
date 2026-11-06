@@ -20,23 +20,27 @@
       "rows": [
         {
           "label": "有效像素",
-          "value": "26.1 Megapixels",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "26.1 百万像素",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "26.1 Megapixels"
         },
         {
           "label": "感光元件",
-          "value": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 with primary color filter.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 配备原色滤镜",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 with primary color filter."
         },
         {
           "label": "传感器清洁",
-          "value": "Ultra Sonic Vibration",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "超声波振动除尘",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Ultra Sonic Vibration"
         },
         {
           "label": "记录尺寸",
-          "value": "L: (3:2) 6240 x 4160 / (16:9) 6240 x 3512 / (1:1) 4160 x 4160 / M: (3:2) 4416 x 2944 / (16:9) 4416 x 2488 / (1:1) 2944 x 2944 / S: (3:2) 3120 x 2080 / (16:9) 3120 x 1760 / (1:1) 2080 x 2080",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "L: (3:2) 6240 x 4160；(16:9) 6240 x 3512；(1:1) 4160 x 4160；M: (3:2) 4416 x 2944；(16:9) 4416 x 2488；(1:1) 2944 x 2944；S: (3:2) 3120 x 2080；(16:9) 3120 x 1760；(1:1) 2080 x 2080",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "L: (3:2) 6240 x 4160 / (16:9) 6240 x 3512 / (1:1) 4160 x 4160 / M: (3:2) 4416 x 2944 / (16:9) 4416 x 2488 / (1:1) 2944 x 2944 / S: (3:2) 3120 x 2080 / (16:9) 3120 x 1760 / (1:1) 2080 x 2080"
         }
       ]
     },
@@ -46,36 +50,42 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD memory card (-2GB) / SDHC memory card (-32GB) / SDXC memory card (-512GB) / UHS-I / UHS-II / Video Speed Class V90 *1",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "SD 存储卡 (-2GB)；SDHC 存储卡 (-32GB)；SDXC 存储卡 (-512GB)；UHS-I；UHS-II；视频速度等级 V90 *1",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "SD memory card (-2GB) / SDHC memory card (-32GB) / SDXC memory card (-512GB) / UHS-I / UHS-II / Video Speed Class V90 *1"
         },
         {
           "label": "文件格式 / 静态照片",
-          "value": "JPEG (Exif Ver.2.3)*2, RAW : 14bit RAW(RAF original format), RAW+JPEG",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "JPEG (Exif Ver.2.3)*2, RAW : 14位 RAW(RAF原始格式), RAW+JPEG",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "JPEG (Exif Ver.2.3)*2, RAW : 14bit RAW(RAF original format), RAW+JPEG"
         },
         {
           "label": "无线传输 / 标准",
-          "value": "IEEE 802.11b / g / n (standard wireless protocol)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "IEEE 802.11b；g；n (标准无线协议)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "IEEE 802.11b / g / n (standard wireless protocol)"
         },
         {
           "label": "加密",
-          "value": "WEP / WPA / WPA2 mixed mode",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "WEP／WPA／WPA2混合模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "WEP / WPA / WPA2 mixed mode"
         },
         {
           "label": "接入模式",
-          "value": "Infrastructure",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "基础架构模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Infrastructure"
         },
         {
           "label": "无线传输 / 标准",
-          "value": "Bluetooth Ver. 4.2 (Bluetooth low energy)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "Bluetooth Ver. 4.2 (低功耗蓝牙)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Bluetooth Ver. 4.2 (Bluetooth low energy)"
         },
         {
-          "label": "接入模式 / 工作频率 / [Center frequency]",
+          "label": "接入模式 / 工作频率 / [中心频率]",
           "value": "2402 - 2480MHz",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
         },
@@ -86,13 +96,15 @@
         },
         {
           "label": "接口 / HDMI 输出",
-          "value": "HDMI micro connector (Type D)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "HDMI Micro接口 (Type D)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "HDMI micro connector (Type D)"
         },
         {
           "label": "接口 / 其他接口",
-          "value": "ø3.5mm, stereo mini connector (Microphone) / ø3.5mm, stereo mini connector (headphone) / ø2.5mm, Remote Release Connector / Hot shoe, Synchronized terminal",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "ø3.5mm, 立体声迷你接口 (麦克风)；ø3.5mm, 立体声迷你接口 (耳机)；ø2.5mm, 遥控快门接口；热靴, 同步端子",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "ø3.5mm, stereo mini connector (Microphone) / ø3.5mm, stereo mini connector (headphone) / ø2.5mm, Remote Release Connector / Hot shoe, Synchronized terminal"
         }
       ]
     },
@@ -102,22 +114,25 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "对焦 / 模式",
-          "value": "Single AF / Continuous AF / MF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "单次AF／连续AF／手动对焦",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Single AF / Continuous AF / MF"
         },
         {
           "label": "对焦 / 类型",
-          "value": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "智能混合AF（TTL反差检测／TTL相位检测）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF)"
         },
         {
           "label": "对焦 / 对焦区域",
-          "value": "Single point AF: EVF / LCD: 13×9 / 25×17 (Changeable size of AF frame) / Zone AF: 3×3 / 5×5 / 7×7 from 117 areas on 13×9 grid / Wide/Tracking AF: (最高 18 area)* AF-S: Wide / AF-C: Tracking / All",
+          "value": "单点AF: EVF；LCD: 13×9；25×17 (AF框尺寸可调)；区域AF: 3×3；5×5；7×7 从13×9网格的117区中选择；广域／跟踪AF: (最高 18 区域)* AF-S：广域／AF-C：跟踪；全部",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "Single point AF: EVF / LCD: 13×9 / 25×17 (Changeable size of AF frame) / Zone AF: 3×3 / 5×5 / 7×7 from 117 areas on 13×9 grid / Wide/Tracking AF: (up to 18 area)* AF-S: Wide / AF-C: Tracking / All"
         }
@@ -129,29 +144,33 @@
       "rows": [
         {
           "label": "感光度",
-          "value": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(最高 ISO12800) / ISO160 to 12800(1/3 step) / Extended output sensitivity : ISO80 /100 /125 / 25600 / 51200",
+          "value": "标准 输出感光度 : 自动1；自动2；自动3(最高 ISO12800)；ISO160 至 12800(1/3 步长)；扩展感光度 : ISO80 /100 /125；25600；51200",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "Standard Output Sensitivity : AUTO1 / AUTO2 / AUTO3(up to ISO12800) / ISO160 to 12800(1/3 step) / Extended output sensitivity : ISO80 /100 /125 / 25600 / 51200"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "TTL 256区测光, 多重／点测光／平均／中央重点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted"
         },
         {
           "label": "曝光模式",
-          "value": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "P程序自动曝光／A光圈优先／S快门优先／M手动曝光",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)"
         },
         {
           "label": "曝光补偿",
-          "value": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "-5.0EV - +5.0EV, 1/3EV 步长；(视频录制 : -2.0EV - +2.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "-5.0EV - +5.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)"
         },
         {
           "label": "白平衡",
-          "value": "Automatic Scene recognition / Custom1-3 / Color temperature selection (2500K~10000K) / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "自动场景识别；自定义1-3；色温选择 (2500K~10000K)；预设： 晴天, 阴影, 荧光灯 (日光), 荧光灯 (暖白色), 荧光灯 (冷白色), 白炽灯, 水下",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Automatic Scene recognition / Custom1-3 / Color temperature selection (2500K~10000K) / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, Underwater"
         }
       ]
     },
@@ -161,54 +180,63 @@
       "rows": [
         {
           "label": "防抖",
-          "value": "Supported with OIS type lenses",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "使用OIS镜头时支持",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Supported with OIS type lenses"
         },
         {
           "label": "连拍",
-          "value": "约 30fps [Only 电子快门, 1.25 x Crop ] (JPEG： 60 frames Lossless compression RAW： 35 frames Uncompressed RAW： 33 frames) / 约 20fps [Only 电子快门, 1.25 x Crop ] (JPEG： 114 frames Lossless compression RAW： 37 frames Uncompressed RAW： 34 frames) / 约 10fps [Only 电子快门, 1.25 x Crop ] (JPEG： 500 frames Lossless compression RAW： 48 frames Uncompressed RAW： 39 frames) / 约 20fps [Only 电子快门 ] (JPEG: 79 frames Lossless compression RAW: 36 frames Uncompressed RAW: 34 frames) / 约 11fps (JPEG: 145 frames Lossless compression RAW: 42 frames Uncompressed RAW: 36 frames) / 约 8.0fps (JPEG: 200 frames Lossless compression RAW: 49 frames Uncompressed RAW: 39 frames) / 约 5.7fps (JPEG: endless Lossless Compression RAW: 62 frames Uncompressed RAW: 43 frames) / Pre-shot: 约 30fps [Only 电子快门, 1.25 x Crop ] (max. 20 frames while half press, max. 20 frames after full press, total max. 40 frames) / Pre-shot: 约 20fps [Only 电子快门, 1.25 x Crop ] (max. 20 frames while half press, max. 37 frames after full press, total max. 57 frames) / Pre-shot: 约 10fps [Only 电子快门, 1.25 x Crop ] (max. 10 frames while half press, max. 300 frames after full press, total max. 310 frames) / * Recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames",
+          "value": "约 30fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 60张 无损压缩 RAW： 35张 未压缩 RAW： 33张)；约 20fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 114张 无损压缩 RAW： 37张 未压缩 RAW： 34张)；约 10fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 500张 无损压缩 RAW： 48张 未压缩 RAW： 39张)；约 20fps [仅限 电子快门 ] (JPEG: 79张 无损压缩 RAW: 36张 未压缩 RAW: 34张)；约 11fps (JPEG: 145张 无损压缩 RAW: 42张 未压缩 RAW: 36张)；约 8.0fps (JPEG: 200张 无损压缩 RAW: 49张 未压缩 RAW: 39张)；约 5.7fps (JPEG: 不限张数 无损压缩 RAW: 62张 未压缩 RAW: 43张)；预拍摄: 约 30fps [仅限 电子快门, 1.25 x 裁切 ] (最多 20张 半按快门时, 最多 20张 完全按下快门后, 合计最多 40张)；预拍摄: 约 20fps [仅限 电子快门, 1.25 x 裁切 ] (最多 20张 半按快门时, 最多 37张 完全按下快门后, 合计最多 57张)；预拍摄: 约 10fps [仅限 电子快门, 1.25 x 裁切 ] (最多 10张 半按快门时, 最多 300张 完全按下快门后, 合计最多 310张)；* 可记录张数取决于存储介质；* 连拍速度取决于拍摄环境和拍摄张数",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 60 frames Lossless compression RAW： 35 frames Uncompressed RAW： 33 frames) / Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 114 frames Lossless compression RAW： 37 frames Uncompressed RAW： 34 frames) / Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 500 frames Lossless compression RAW： 48 frames Uncompressed RAW： 39 frames) / Approx. 20fps [Only electronic shutter ] (JPEG: 79 frames Lossless compression RAW: 36 frames Uncompressed RAW: 34 frames) / Approx. 11fps (JPEG: 145 frames Lossless compression RAW: 42 frames Uncompressed RAW: 36 frames) / Approx. 8.0fps (JPEG: 200 frames Lossless compression RAW: 49 frames Uncompressed RAW: 39 frames) / Approx. 5.7fps (JPEG: endless Lossless Compression RAW: 62 frames Uncompressed RAW: 43 frames) / Pre-shot: Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (max. 20 frames while half press, max. 20 frames after full press, total max. 40 frames) / Pre-shot: Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (max. 20 frames while half press, max. 37 frames after full press, total max. 57 frames) / Pre-shot: Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (max. 10 frames while half press, max. 300 frames after full press, total max. 310 frames) / * Recordable frames depends on recording media / * Speed of continuous shooting depends on shooting environment and shooting frames"
         },
         {
           "label": "自动包围",
-          "value": "AE Bracketing (Frames: -2, -3, +3, +2, ±9, ±7, ±5, ±3 Step: 1/3EV, 2/3EV, 1EV, 4/3EV、5/3EV、2EV、7/3EV、8/3EV、3EV) / Film Simulation bracketing (Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100%, 200%, 400%) / ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV) / White Balance Bracketing (±1, ±2, ±3) / Focus Bracketing (Frames: 1-999, Step: 1-10, Interval: 0-10s)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "自动曝光包围 (张数: -2, -3, +3, +2, ±9, ±7, ±5, ±3 步长: 1/3EV, 2/3EV, 1EV, 4/3EV、5/3EV、2EV、7/3EV、8/3EV、3EV)；胶片模拟包围 (可选择任意三种胶片模拟)；动态范围包围 (100%, 200%, 400%)；感光度包围 (±1/3EV, ±2/3EV, ±1EV)；白平衡包围 (±1, ±2, ±3)；对焦包围 (张数: 1-999, 步长: 1-10, 间隔: 0-10s)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "AE Bracketing (Frames: -2, -3, +3, +2, ±9, ±7, ±5, ±3 Step: 1/3EV, 2/3EV, 1EV, 4/3EV、5/3EV、2EV、7/3EV、8/3EV、3EV) / Film Simulation bracketing (Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100%, 200%, 400%) / ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV) / White Balance Bracketing (±1, ±2, ±3) / Focus Bracketing (Frames: 1-999, Step: 1-10, Interval: 0-10s)"
         },
         {
           "label": "自拍",
-          "value": "10sec. / 2sec.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "10秒；2秒",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "10sec. / 2sec."
         },
         {
           "label": "间隔拍摄",
-          "value": "Yes (Setting : Interval, Number of shots, Starting time)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "支持 (设置 : 间隔, 拍摄张数, 开始时间)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Yes (Setting : Interval, Number of shots, Starting time)"
         },
         {
           "label": "胶片模拟",
-          "value": "16 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Black & White, Black & White+Ye Filter, Black & White+R Filter, Black & White+G Filter, Sepia, ACROS, ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, ETERNA/Cinema) / B & W Adjustment: -9-+9",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "16 种模式 (PROVIA/标准, Velvia/鲜艳, ASTIA/柔和, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, 黑白, 黑白+黄滤镜, 黑白+红滤镜, 黑白+绿滤镜, 棕褐色, ACROS, ACROS+黄滤镜, ACROS+红滤镜, ACROS+绿滤镜, ETERNA/电影)；黑白调整: -9-+9",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "16 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, Black & White, Black & White+Ye Filter, Black & White+R Filter, Black & White+G Filter, Sepia, ACROS, ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, ETERNA/Cinema) / B & W Adjustment: -9-+9"
         },
         {
           "label": "颗粒效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "彩色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "动态范围",
-          "value": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "自动, 100%, 200%, 400%；ISO限制 (DR100%: 无限制, DR200%: ISO320 或更高, DR400%: ISO640 或更高)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)"
         },
         {
           "label": "创意滤镜",
-          "value": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus, Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "玩具相机, 微缩景观, 流行色彩, 高调, 低调, 动态色调, 柔焦, 局部色彩 (红色；橙色；黄色；绿色；蓝色；紫色)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus, Partial color (Red / Orange / Yellow / Green / Blue / Purple)"
         }
       ]
     },
@@ -218,68 +246,75 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "快门速度 / 机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 1sec. Fixed",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 1秒 固定",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 1sec. Fixed"
         },
         {
           "label": "快门速度 / 电子前帘快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 机械加电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 电子前帘加机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min. / *Electronic front curtain shutter works until 1/2000sec."
         },
         {
-          "label": "快门速度 / E-front + 机械加电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec, 机械快门 works until 1/8000sec.",
+          "label": "快门速度 / 电子前帘快门 + 机械加电子快门",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒, 机械快门 最高可用至 1/8000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: up to 60min. / *Electronic front curtain shutter works until 1/2000sec, Mechanical shutter works until 1/8000sec."
         },
         {
           "label": "快门速度 / 视频",
-          "value": "FHD: 1/8000sec.-1/4sec. / DCI4K/4K: 1/8000sec.-1/4sec. / *Cannot choose slower shutter speed than framerate with DCI4K/4K 59.94p/50p or DCI4K/4K/FHD LongGOP recording.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "FHD: 1/8000秒-1/4秒；DCI4K/4K: 1/8000秒-1/4秒；*快门速度不能低于帧率倒数 搭配 DCI4K/4K 59.94p/50p 或 DCI4K/4K/FHD LongGOP 录制.",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "FHD: 1/8000sec.-1/4sec. / DCI4K/4K: 1/8000sec.-1/4sec. / *Cannot choose slower shutter speed than framerate with DCI4K/4K 59.94p/50p or DCI4K/4K/FHD LongGOP recording."
         },
         {
           "label": "快门速度 / 闪光同步速度",
-          "value": "1/250sec. or slower",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "1/250秒 或更慢",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "1/250sec. or slower"
         },
         {
-          "label": "闪光模式 / SYNC. 模式",
-          "value": "1ST CURTAIN / 2ND CURTAIN / AUTO FP(HSS) (excl. EF-X8)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "label": "闪光模式 / 同步模式",
+          "value": "前帘同步；后帘同步；自动 FP 高速同步（HSS） (不含 EF-X8)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "1ST CURTAIN / 2ND CURTAIN / AUTO FP(HSS) (excl. EF-X8)"
         },
         {
           "label": "闪光模式 / 闪光模式",
-          "value": "TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF (When EF-X8 is set) / TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / MULTI / OFF (When SHOE MOUNT FLASH is set)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "TTL (TTL 自动 (P模式)；标准；慢速同步. )；手动；指令模式；关闭 (使用 EF-X8 设为)；TTL (TTL 自动 (P模式)；标准；慢速同步. )；手动；多重；关闭 (热靴闪光灯设为)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / COMMANDER / OFF (When EF-X8 is set) / TTL (TTL AUTO (P mode) / STANDARD / SLOW SYNC. ) / MANUAL / MULTI / OFF (When SHOE MOUNT FLASH is set)"
         },
         {
           "label": "热靴",
-          "value": "Yes (Dedicated TTL Flash compatible)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "支持（兼容专用TTL闪光灯）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Yes (Dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -289,29 +324,31 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "0.5 inch 约 3.69 millions dots OLED Color Viewfinder / Coverage of viewing area vs. capturing area: 约 100% / Eyepoint: 约 23mm (from the eyepiece lens) Diopter adjustment: -4-+2m-1 (lockable) / Magnification: 0.75x with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: 约 38° (Horizontal angle of view: 约 30° ) / Built-in eye sensor",
+          "value": "0.5 英寸 约 3.69 百万点 OLED 彩色取景器；取景覆盖率: 约 100%；眼点: 约 23mm (距接目镜) 屈光度调节: -4-+2m⁻¹ (可锁定)；放大倍率: 0.75x 使用 50 mm 镜头 (等效 35 mm 画幅) 无限远对焦、屈光度设为 -1m⁻¹；对角视角: 约 38° (水平视角: 约 30° )；内置 眼传感器",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "0.5 inch approx. 3.69 millions dots OLED Color Viewfinder / Coverage of viewing area vs. capturing area: approx. 100% / Eyepoint: approx. 23mm (from the eyepiece lens) Diopter adjustment: -4-+2m-1 (lockable) / Magnification: 0.75x with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: approx. 38° (Horizontal angle of view: approx. 30° ) / Built-in eye sensor"
         },
         {
           "label": "液晶屏",
-          "value": "3.0 inch, aspect ratio 3:2, 约 1.04 millions dots 触摸屏 color LCD monitor(约 100% coverage)",
+          "value": "3.0 英寸, 画面比例 3:2, 约 1.04 百万点 触摸屏 彩色液晶显示屏(约 100% 视野率)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "3.0 inch, aspect ratio 3:2, approx. 1.04 millions dots touch screen color LCD monitor(approx. 100% coverage)"
         },
         {
           "label": "液晶屏 / 文件格式",
-          "value": "MOV (MPEG-4 AVC/H.264, HEVC/H.265, Audio: Linear PCM / Stereo sound 24bit / 48KHz sampling)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "MOV (MPEG-4 AVC/H.264, HEVC/H.265, 音频: 线性PCM；立体声 24位；48kHz 采样)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "MOV (MPEG-4 AVC/H.264, HEVC/H.265, Audio: Linear PCM / Stereo sound 24bit / 48KHz sampling)"
         },
         {
-          "label": "液晶屏 / 视频 compression",
-          "value": "All Intra/Long-GOP / * All Intra can be used with following settings. / DCI4K/4K 29.97p/25p/24p/23.98p 400Mbps / Full HD(2048×1080)/Full HD(1920×1080) 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "label": "液晶屏 / 视频压缩",
+          "value": "帧内压缩/Long-GOP；* 以下设置可使用帧内压缩：；DCI4K/4K 29.97p/25p/24p/23.98p 400Mbps；全高清(2048×1080)/全高清(1920×1080) 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "All Intra/Long-GOP / * All Intra can be used with following settings. / DCI4K/4K 29.97p/25p/24p/23.98p 400Mbps / Full HD(2048×1080)/Full HD(1920×1080) 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps"
         },
         {
           "label": "液晶屏 / 视频尺寸 / 帧率 / 录制时长",
-          "value": "[DCI 4K(4096×2160)] / 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps / 59.94p/50p: 最高 约 20min. 29.97p/25p/24p/23.98p: 最高 约 30min / / [4K(3840×2160)] / 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps / 59.94p/50p: 最高 约 20min. 29.97p/25p/24p/23.98p: 最高 约 30min / / [Full HD(2048 ×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30min. / / [Full HD(1920×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30min. / / [Full HD(1920×1080) High speed rec.] / * For recording movies, use a SD memory card with UHS Speed Class 3 or higher. / * For recording movies in 400Mbps, use a SD memory card with Video Speed Class 60 or higher. / * Recording movies in 400Mbps can be done with DCI4K/4K 29.97p/25p/24p/23.98p. / * DCI4K 59.94p/50p is not available when H.264 is selected.",
+          "value": "[DCI 4K(4096×2160)]；59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps；59.94p/50p: 最高 约 20分钟 29.97p/25p/24p/23.98p: 最高 约 30分钟；[4K(3840×2160)]；59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps；59.94p/50p: 最高 约 20分钟 29.97p/25p/24p/23.98p: 最高 约 30分钟；[全高清(2048 ×1080)]；59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30分钟；[全高清(1920×1080)]；59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 30分钟；[全高清(1920×1080) 高速录制]；* 录制视频时, 请使用以下等级的 SD 存储卡： UHS 速度等级 3 或更高.；* 录制以下视频时： 400Mbps, 请使用以下等级的 SD 存储卡： 视频速度等级 60 或更高.；* 录制以下视频时： 400Mbps 可用于 DCI4K/4K 29.97p/25p/24p/23.98p.；* DCI4K 59.94p/50p 不适用于 H.264 被选中时.",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "[DCI 4K(4096×2160)] / 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps / 59.94p/50p: up to approx. 20min. 29.97p/25p/24p/23.98p: up to approx. 30min / / [4K(3840×2160)] / 59.94p/50p/29.97p/25p/24p/23.98p 400Mbps/200Mbps/100Mbps / 59.94p/50p: up to approx. 20min. 29.97p/25p/24p/23.98p: up to approx. 30min / / [Full HD(2048 ×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps up to approx. 30min. / / [Full HD(1920×1080)] / 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps up to approx. 30min. / / [Full HD(1920×1080) High speed rec.] / * For recording movies, use a SD memory card with UHS Speed Class 3 or higher. / * For recording movies in 400Mbps, use a SD memory card with Video Speed Class 60 or higher. / * Recording movies in 400Mbps can be done with DCI4K/4K 29.97p/25p/24p/23.98p. / * DCI4K 59.94p/50p is not available when H.264 is selected."
         }
@@ -323,23 +360,25 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W126S Li-ion battery (included)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "NP-W126S 锂离子电池（随附）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "NP-W126S Li-ion battery (included)"
         },
         {
           "label": "电源 / 照片续航",
-          "value": "约 390 frames (NORMAL MODE) When XF35mmF1.4 R is set.",
+          "value": "约 390张 (标准模式) 安装XF35mmF1.4 R镜头时",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "Approx. 390 frames (NORMAL MODE) When XF35mmF1.4 R is set."
         },
         {
           "label": "尺寸",
-          "value": "132.5mm (W) x 92.8mm (H) x 58.8mm (D) (minimum depth 35.4mm)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "132.5mm (W) x 92.8mm (H) x 58.8mm (D) (最薄处 35.4mm)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "132.5mm (W) x 92.8mm (H) x 58.8mm (D) (minimum depth 35.4mm)"
         },
         {
           "label": "重量",
-          "value": "约 539g (including battery and SD memory card) / 约 489g (excluding battery and SD memory card)",
+          "value": "约 539g (含电池和SD存储卡)；约 489g (不含电池和SD存储卡)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
           "originalValue": "Approx. 539g (including battery and SD memory card) / Approx. 489g (excluding battery and SD memory card)"
         },
@@ -350,13 +389,15 @@
         },
         {
           "label": "工作湿度",
-          "value": "10 - 80% (no condensation)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "10 - 80% （无凝露）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "10 - 80% (no condensation)"
         },
         {
           "label": "启动时间",
-          "value": "Approx 0.3sec. / * Fujifilm research",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/"
+          "value": "约 0.3秒；* 富士测试",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-t3/specifications/",
+          "originalValue": "Approx 0.3sec. / * Fujifilm research"
         }
       ]
     }

@@ -7,8 +7,8 @@
   "type": "单反相机",
   "megapixels": 24.32,
   "width": 140.5,
-  "height": 113.0,
-  "depth": 78.0,
+  "height": 113,
+  "depth": 78,
   "description": "Nikon D750，尼康FX全画幅F卡口数码单反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
   "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d750/spec.html",
   "verification": "verified",
@@ -63,8 +63,9 @@
         },
         {
           "label": "除尘系统",
-          "value": "图像传感器清洁、图像除尘参考数据获取（Capture NX-D需要）",
-          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d750/spec.html"
+          "value": "图像传感器清洁、图像除尘参考数据获取（需使用Capture NX-D）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d750/spec.html",
+          "originalValue": "图像传感器清洁、图像除尘参考数据获取（Capture NX-D需要）"
         }
       ]
     },
@@ -80,7 +81,7 @@
         },
         {
           "label": "画质格式",
-          "value": "RAW12bit/14bit（无损压缩、压缩） ；JPEG-Baseline兼容、压缩率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸优先时、画质优先可选择 ；RAW及JPEG的同时记录可",
+          "value": "RAW12bit/14位（无损压缩、压缩） ；JPEG-Baseline兼容、压缩率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸优先时、画质优先可选择 ；RAW及JPEG的同时记录可",
           "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d750/spec.html",
           "originalValue": "・RAW12bit/14bit（ロスレス圧縮、圧縮） ・JPEG-Baseline準拠、圧縮率（约）：FINE（1/4）、NORMAL（1/8）、BASIC（1/16）尺寸優先時、画質優先選択可能 ・RAWとJPEGの同時記録可能"
         },
@@ -232,7 +233,7 @@
         },
         {
           "label": "快门速度",
-          "value": "1/4000～30秒（1/3档、1/2档可切换）、Bulb、Time、X200",
+          "value": "1/4000～30秒（1/3档、1/2档可切换）、B门、T门、X200",
           "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d750/spec.html",
           "originalValue": "・1/4000～30秒（1/3档、1/2档可切换）、Bulb、Time、X200"
         },

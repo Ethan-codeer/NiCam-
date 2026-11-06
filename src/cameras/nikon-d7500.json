@@ -7,7 +7,7 @@
   "type": "单反相机",
   "megapixels": 20.9,
   "width": 135.5,
-  "height": 104.0,
+  "height": 104,
   "depth": 72.5,
   "description": "Nikon D7500，尼康DX格式F卡口数码单反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
   "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
@@ -25,13 +25,15 @@
         },
         {
           "label": "镜头卡口",
-          "value": "尼康F卡口 (with AF coupling and AF contacts)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "尼康F卡口 (带AF耦合及AF触点)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "尼康F卡口 (with AF coupling and AF contacts)"
         },
         {
           "label": "等效视角",
-          "value": "尼康DX格式; focal length in 35 mm [135] format equivalent to 约 1.5x that of lenses with FX format angle of view",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "尼康DX格式；35mm（135）格式等效焦距约为FX格式镜头标称焦距的1.5倍",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "尼康DX格式; focal length in 35 mm [135] format equivalent to 约 1.5x that of lenses with FX format angle of view"
         }
       ]
     },
@@ -41,8 +43,9 @@
       "rows": [
         {
           "label": "兼容镜头",
-          "value": "Compatible with AF NIKKOR lenses, including type G, E and D lenses (some restrictions apply to PC lenses) and AI-P NIKKOR lenses and non-CPU AI lenses (M mode only); IX-NIKKOR lenses, lenses for the F3AF, and non-AI lenses can not be used The electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster (the electronic rangefinder supports the center focus point with lenses that have a maximum aperture of f/8 or faster)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "兼容AF尼克尔镜头，包括G、E、D型镜头 (PC镜头部分功能受限) 、 AI-P尼克尔镜头 、 非CPU AI镜头 (仅M模式); IX尼克尔镜头, F3AF专用镜头、 非AI镜头 不可使用 电子测距仪支持最大光圈为f/5.6或更大的镜头 (使用最大光圈为f/8或更大的镜头时，电子测距仪支持中央对焦点)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Compatible with AF NIKKOR lenses, including type G, E and D lenses (some restrictions apply to PC lenses) and AI-P NIKKOR lenses and non-CPU AI lenses (M mode only); IX-NIKKOR lenses, lenses for the F3AF, and non-AI lenses can not be used The electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster (the electronic rangefinder supports the center focus point with lenses that have a maximum aperture of f/8 or faster)"
         }
       ]
     },
@@ -67,7 +70,7 @@
         },
         {
           "label": "除尘系统",
-          "value": "影像传感器 cleaning, Image Dust Off reference data (Capture NX-D software required)",
+          "value": "图像传感器清洁, 图像除尘参考数据 (Capture NX-D 软件需另备)",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
           "originalValue": "Image sensor cleaning, Image Dust Off reference data (Capture NX-D software required)"
         }
@@ -79,23 +82,27 @@
       "rows": [
         {
           "label": "照片尺寸",
-          "value": "DX (24x16) image area: 5568 x 3712 (L: 20.6百万像素), 4176 x 2784 (M: 11.6百万像素), 2784 x 1856 (S: 5.1百万像素) 1.3x (18x12) image area: 4272 x 2848 (L: 12.1百万像素), 3200 x 2136 (M: 6.8百万像素), 2128 x 1424 (S: 3百万像素) Photographs with image area of DX taken during movie recording: 5568 x 3128 (L: 17.4百万像素), 4176 x 2344 (M: 9.7百万像素), 2784 x 1560 (S: 4.3百万像素) Photographs with image area of 1.3x taken during movie recording: 4272 x 2400 (L: 10.2百万像素), 3200 x 1800 (M: 5.7百万像素), 2128 x 1192 (S: 2.5百万像素) Photographs taken during movie recording at a frame size of 3840 x 2160: 3840 x 2160 (8.2百万像素)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "DX (24x16) 画面区域： 5568 x 3712 (L: 20.6百万像素), 4176 x 2784 (M: 11.6百万像素), 2784 x 1856 (S: 5.1百万像素) 1.3x (18x12) 画面区域： 4272 x 2848 (L: 12.1百万像素), 3200 x 2136 (M: 6.8百万像素), 2128 x 1424 (S: 3百万像素) 录制视频时拍摄的DX区域照片： 5568 x 3128 (L: 17.4百万像素), 4176 x 2344 (M: 9.7百万像素), 2784 x 1560 (S: 4.3百万像素) 录制视频时拍摄的1.3倍裁切区域照片： 4272 x 2400 (L: 10.2百万像素), 3200 x 1800 (M: 5.7百万像素), 2128 x 1192 (S: 2.5百万像素) 录制以下尺寸视频时拍摄的照片： 3840 x 2160: 3840 x 2160 (8.2百万像素)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "DX (24x16) image area: 5568 x 3712 (L: 20.6百万像素), 4176 x 2784 (M: 11.6百万像素), 2784 x 1856 (S: 5.1百万像素) 1.3x (18x12) image area: 4272 x 2848 (L: 12.1百万像素), 3200 x 2136 (M: 6.8百万像素), 2128 x 1424 (S: 3百万像素) Photographs with image area of DX taken during movie recording: 5568 x 3128 (L: 17.4百万像素), 4176 x 2344 (M: 9.7百万像素), 2784 x 1560 (S: 4.3百万像素) Photographs with image area of 1.3x taken during movie recording: 4272 x 2400 (L: 10.2百万像素), 3200 x 1800 (M: 5.7百万像素), 2128 x 1192 (S: 2.5百万像素) Photographs taken during movie recording at a frame size of 3840 x 2160: 3840 x 2160 (8.2百万像素)"
         },
         {
           "label": "文件格式",
-          "value": "NEF (RAW): 12 or 14 bit, lossless compressed or compressed JPEG: JPEG-Baseline compliant with fine (约 1:4), normal (约 1:8), or basic (约 1:16) compression; optimal quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "NEF (RAW): 12 或 14位, 无损压缩 或 压缩 JPEG: 兼容JPEG Baseline，精细 (约 1:4), 标准 (约 1:8), 或基本 (约 1:16) 压缩；支持最佳画质优先压缩 NEF (RAW)+JPEG: 同一照片同时记录NEF（RAW）和JPEG",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "NEF (RAW): 12 or 14 bit, lossless compressed or compressed JPEG: JPEG-Baseline compliant with fine (约 1:4), normal (约 1:8), or basic (约 1:16) compression; optimal quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats"
         },
         {
           "label": "优化校准",
-          "value": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat; selected Picture Control can be modified; storage for custom Picture Controls",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "自动, 标准, 自然, 鲜艳, 单色, 人像, 风景, 平面; 可修改所选优化校准，并保存自定义优化校准",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat; selected Picture Control can be modified; storage for custom Picture Controls"
         },
         {
           "label": "存储介质",
-          "value": "SD (Secure Digital) and UHS-I compliant SDHC and SDXC memory cards",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "SD 、 兼容UHS-I的 SDHC 、 SDXC 存储卡",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "SD (Secure Digital) and UHS-I compliant SDHC and SDXC memory cards"
         },
         {
           "label": "文件系统",
@@ -110,18 +117,21 @@
       "rows": [
         {
           "label": "测光系统",
-          "value": "TTL exposure metering using main image sensor",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "使用主图像传感器进行TTL曝光测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "TTL exposure metering using main image sensor"
         },
         {
           "label": "测光模式",
-          "value": "Matrix, center-weighted or highlight-weighted",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "矩阵、中央重点或亮部重点测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Matrix, center-weighted or highlight-weighted"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 60p, 50p, 30p, 25p, 24p 1280 x 720; 60p, 50p Actual frame rates for 60p, 50p, 30p, 25p and 24p are 59.94, 50, 29.97, 25 and 23.976 fps respectively; ★high quality available at all frame sizes, normal quality available at all sizes except 3840 x 2160",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "3840 x 2160 (4K UHD); 30p (逐行扫描), 25p, 24p 1920 x 1080; 60p, 50p, 30p, 25p, 24p 1280 x 720; 60p, 50p 以下标称帧率的实际帧率： 60p, 50p, 30p, 25p 、 24p 为 59.94, 50, 29.97, 25 、 23.976 fps （依次对应）; 所有尺寸支持★高画质；标准画质不适用于 3840 x 2160",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 60p, 50p, 30p, 25p, 24p 1280 x 720; 60p, 50p Actual frame rates for 60p, 50p, 30p, 25p and 24p are 59.94, 50, 29.97, 25 and 23.976 fps respectively; ★high quality available at all frame sizes, normal quality available at all sizes except 3840 x 2160"
         },
         {
           "label": "视频文件格式",
@@ -135,33 +145,39 @@
         },
         {
           "label": "录音格式",
-          "value": "Linear PCM, AAC",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "线性PCM, AAC",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Linear PCM, AAC"
         },
         {
           "label": "录音装置",
-          "value": "Built-in stereo or external microphone; sensitivity adjustable",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "内置立体声或外接麦克风，灵敏度可调",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Built-in stereo or external microphone; sensitivity adjustable"
         },
         {
           "label": "感光度（推荐曝光指数）",
-          "value": "Mode M: Auto ISO sensitivity control (ISO 100 to Hi 5) available with selectable upper limit; manual selection (ISO 100 to 51200 in steps of 1/3 or 1/2 EV) with additional options available equivalent to 约 0.3, 0.5, 0.7, 1, 2, 3, 4 or 5 EV (ISO 1640000 equivalent) above ISO 51200 Modes P, S and A: Auto ISO sensitivity control (ISO 100 to Hi 5) with selectable upper limit EFFECT mode: Auto ISO sensitivity control (ISO 100 to Hi 5) Other modes: Auto ISO sensitivity control (ISO 100 to 12800)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "M模式： 自动 ISO感光度控制 (ISO 100 至 Hi 5) 可用且可设置上限; 手动选择 (ISO 100 至 51200 步进为 1/3 或 1/2 EV) 还可扩展至相当于 约 0.3, 0.5, 0.7, 1, 2, 3, 4 或 5 EV (ISO 1640000 等效) 高于ISO 51200 P、S、A模式： 自动 ISO感光度控制 (ISO 100 至 Hi 5) 可设置上限 特效模式： 自动 ISO感光度控制 (ISO 100 至 Hi 5) 其他模式： 自动 ISO感光度控制 (ISO 100 至 12800)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Mode M: Auto ISO sensitivity control (ISO 100 to Hi 5) available with selectable upper limit; manual selection (ISO 100 to 51200 in steps of 1/3 or 1/2 EV) with additional options available equivalent to 约 0.3, 0.5, 0.7, 1, 2, 3, 4 or 5 EV (ISO 1640000 equivalent) above ISO 51200 Modes P, S and A: Auto ISO sensitivity control (ISO 100 to Hi 5) with selectable upper limit EFFECT mode: Auto ISO sensitivity control (ISO 100 to Hi 5) Other modes: Auto ISO sensitivity control (ISO 100 to 12800)"
         },
         {
           "label": "动态D-Lighting",
-          "value": "Can be selected from same as photo settings, extra high, high, normal, low or off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "可沿用照片设置，或选择极高、高、标准、低或关闭",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Can be selected from same as photo settings, extra high, high, normal, low or off"
         },
         {
           "label": "最长录制时间",
-          "value": "29 min. 59 s",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "29分钟 59 s",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "29 min. 59 s"
         },
         {
           "label": "其他功能",
-          "value": "Index marking, time-lapse movies, electronic vibration reduction",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "索引标记, 延时视频, 电子减震",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Index marking, time-lapse movies, electronic vibration reduction"
         }
       ]
     },
@@ -171,43 +187,51 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "Eye-level pentaprism single-lens reflex viewfinder",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "眼平五棱镜单反光学取景器",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Eye-level pentaprism single-lens reflex viewfinder"
         },
         {
           "label": "视野率",
-          "value": "DX (24x16) image area: 约 100% horizontal and 100% vertical 1.3x (18x12) image area: 约 97% horizontal and 97% vertical",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "DX (24x16) 画面区域： 约 100% 水平及垂直均为100% 1.3x (18x12) 画面区域： 约 97% 水平和 97% 垂直",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "DX (24x16) image area: 约 100% horizontal and 100% vertical 1.3x (18x12) image area: 约 97% horizontal and 97% vertical"
         },
         {
           "label": "放大倍率",
-          "value": "约 0.94x (50 mm f/1.4 lens at infinity, -1.0 m -1 )",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "约 0.94x (50 mm f/1.4 镜头对焦无限远, -1.0 m -1 )",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "约 0.94x (50 mm f/1.4 lens at infinity, -1.0 m -1 )"
         },
         {
           "label": "眼点",
-          "value": "18.5 mm (-1.0 m -1 ; from center surface of viewfinder eyepiece lens)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "18.5 mm (-1.0 m -1 ; 从取景器目镜镜片中心表面起计算)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "18.5 mm (-1.0 m -1 ; from center surface of viewfinder eyepiece lens)"
         },
         {
           "label": "屈光度调节",
-          "value": "-2 to +1 m -1",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "-2 至 +1 m -1",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "-2 to +1 m -1"
         },
         {
           "label": "对焦屏",
-          "value": "Type B BriteView Clear Matte Mark II screen with AF area brackets (framing grid can be displayed)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "B型BriteView II明亮磨砂对焦屏，带AF区域框，可显示构图网格",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Type B BriteView Clear Matte Mark II screen with AF area brackets (framing grid can be displayed)"
         },
         {
           "label": "反光镜",
-          "value": "Quick return",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "快速回位",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Quick return"
         },
         {
           "label": "镜头光圈",
-          "value": "Instant return, electronically controlled",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "电子控制、即时回位",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Instant return, electronically controlled"
         }
       ]
     },
@@ -217,19 +241,21 @@
       "rows": [
         {
           "label": "类型",
-          "value": "Electronically controlled vertical-travel focal-plane 机械快门; 电子前帘快门 available in mirror up release mode",
+          "value": "电子控制纵走式焦平面 机械快门; 电子前帘快门 可用于 反光板预升释放模式",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
           "originalValue": "Electronically controlled vertical-travel focal-plane mechanical shutter; electronic front-curtain shutter available in mirror up release mode"
         },
         {
           "label": "快门速度",
-          "value": "1/8000 to 30 s in steps of 1/3 or 1/2 EV, bulb, time, X250",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "1/8000 至 30 s 步进为 1/3 或 1/2 EV, B门、T门, X250",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "1/8000 to 30 s in steps of 1/3 or 1/2 EV, bulb, time, X250"
         },
         {
           "label": "闪光同步速度",
-          "value": "X=1/250 s; synchronizes with shutter at 1/320 s or slower (flash range drops at speeds between 1/250 and 1/320 s)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "X=1/250 s; 闪光同步速度为 1/320 s 或更慢 (1/250至1/320秒时闪光范围缩小)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "X=1/250 s; synchronizes with shutter at 1/320 s or slower (flash range drops at speeds between 1/250 and 1/320 s)"
         }
       ]
     },
@@ -239,18 +265,21 @@
       "rows": [
         {
           "label": "释放模式",
-          "value": "S (single frame), CL (continuous low speed), CH (continuous high speed), Q (quiet shutter-release), QC (quiet continuous shutter-release), self-timer, MUP (mirror up)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "S (单张), CL (低速连拍), CH (高速连拍), Q (安静快门释放), QC (安静连拍), 自拍, MUP (反光板预升)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "S (single frame), CL (continuous low speed), CH (continuous high speed), Q (quiet shutter-release), QC (quiet continuous shutter-release), self-timer, MUP (mirror up)"
         },
         {
           "label": "连拍速度",
-          "value": "CL: 1 to 7 fps, CH: 8 fps Frame rates assume continuous-servo AF, manual or shutter-priority auto exposure, a shutter speed of 1/250 s or faster, release selected for custom setting a1 (AF-C priority selection), and other settings at default values",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "CL: 1 至 7 fps, CH: 8 fps 上述帧率条件：连续伺服AF、手动或快门优先自动曝光、快门1/250秒或更快、自定义设定a1（AF-C优先选择）设为释放，其余使用默认设定",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "CL: 1 to 7 fps, CH: 8 fps Frame rates assume continuous-servo AF, manual or shutter-priority auto exposure, a shutter speed of 1/250 s or faster, release selected for custom setting a1 (AF-C priority selection), and other settings at default values"
         },
         {
           "label": "自拍定时",
-          "value": "2 s, 5 s, 10 s, 20 s; 1 to 9 exposures at intervals of 0.5, 1, 2 or 3 s",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "延时2、5、10或20秒；拍摄1至9张，间隔0.5、1、2或3秒",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "2 s, 5 s, 10 s, 20 s; 1 to 9 exposures at intervals of 0.5, 1, 2 or 3 s"
         }
       ]
     },
@@ -260,18 +289,21 @@
       "rows": [
         {
           "label": "测光系统",
-          "value": "TTL exposure metering using RGB sensor with 约 180K (180,000) pixels",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "使用RGB传感器进行TTL测光，像素数为 约 180K (180,000) 像素",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "TTL exposure metering using RGB sensor with 约 180K (180,000) pixels"
         },
         {
           "label": "测光模式",
-          "value": "Matrix: 3D color matrix metering III (type G, E and D lenses); color matrix metering III (other CPU lenses) Center-weighted: Weight of 约 75% given to 8-mm circle in center of frame; diameter of circle can be changed to 6, 10 or 13 mm, or weighting can be based on average of entire frame Spot: Meters circle with diameter of about 3.5 mm (about 2.5% of frame) centered on selected focus point Highlight-weighted: Available with type G, E and D lenses",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "矩阵测光： 3D彩色矩阵测光III (G、E、D型镜头); 彩色矩阵测光III (其他CPU镜头) 中央重点测光：约75%权重分配给 8-mm 画面中央圆形区域; 圆形区域直径可改为 6, 10 或 13 mm, 或 也可采用全画面平均测光 点测光： 测量圆形区域，直径约 3.5 mm (约占画面的2.5%) 以所选对焦点为中心 亮部重点测光：适用于 G、E、D型镜头",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Matrix: 3D color matrix metering III (type G, E and D lenses); color matrix metering III (other CPU lenses) Center-weighted: Weight of 约 75% given to 8-mm circle in center of frame; diameter of circle can be changed to 6, 10 or 13 mm, or weighting can be based on average of entire frame Spot: Meters circle with diameter of about 3.5 mm (about 2.5% of frame) centered on selected focus point Highlight-weighted: Available with type G, E and D lenses"
         },
         {
-          "label": "测光范围 (ISO 100, f/1.4 lens, 20°C/68°F)",
-          "value": "Matrix, center-weighted or highlight-weighted metering: 0 to 20 EV Spot metering: 2 to 20 EV",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "label": "测光范围 (ISO 100, f/1.4 镜头, 20°C/68°F)",
+          "value": "矩阵、中央重点或亮部重点测光 测光: 0 至 20 EV 点测光: 2 至 20 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Matrix, center-weighted or highlight-weighted metering: 0 to 20 EV Spot metering: 2 to 20 EV"
         },
         {
           "label": "测光耦合",
@@ -280,28 +312,33 @@
         },
         {
           "label": "模式",
-          "value": "Auto modes (auto, auto [flash off]), scene modes (portrait, landscape, child, sports, close up, night portrait, night landscape, party/indoor, beach/snow, sunset, dusk/dawn, pet portrait, candlelight, blossom, autumn colors, food), special effects modes (night vision, super vivid, pop, photo illustration, toy camera effect, miniature effect, selective color, silhouette, high key, low key), programmed auto with flexible program (P), shutter-priority auto (S), aperture-priority auto (A), manual (M), U1 (user settings 1), U2 (user settings 2)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "自动模式 (自动, 自动（闪光关闭）), 场景模式 (人像, 风景, 儿童, 运动, 近摄, 夜间人像, 夜景, 聚会／室内, 海滩／雪景, 日落, 黄昏／黎明, 宠物人像, 烛光, 花卉, 秋色, 食物), 特殊效果模式 (夜视, 超级鲜艳, 流行, 照片说明, 玩具相机效果, 模型效果, 可选颜色, 剪影, 高调, 低调), 带柔性程序的程序自动曝光 (P), 快门优先自动 (S), 光圈优先自动 (A), 手动 (M), U1 (用户设定1), U2 (用户设定2)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Auto modes (auto, auto [flash off]), scene modes (portrait, landscape, child, sports, close up, night portrait, night landscape, party/indoor, beach/snow, sunset, dusk/dawn, pet portrait, candlelight, blossom, autumn colors, food), special effects modes (night vision, super vivid, pop, photo illustration, toy camera effect, miniature effect, selective color, silhouette, high key, low key), programmed auto with flexible program (P), shutter-priority auto (S), aperture-priority auto (A), manual (M), U1 (user settings 1), U2 (user settings 2)"
         },
         {
           "label": "曝光补偿",
-          "value": "Can be adjusted by -5 to +5 EV in increments of 1/3 or 1/2 EV in P, S, A, M, SCENE and EFFECTS modes",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "可调整 -5 至 +5 EV 步长为 1/3 或 1/2 EV 适用于P、S、A、M、场景及特效模式",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Can be adjusted by -5 to +5 EV in increments of 1/3 or 1/2 EV in P, S, A, M, SCENE and EFFECTS modes"
         },
         {
           "label": "曝光锁定",
-          "value": "Luminosity locked at detected value",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "锁定当前测得的亮度值",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Luminosity locked at detected value"
         },
         {
           "label": "感光度（推荐曝光指数）",
-          "value": "ISO 100 to 51200 in steps of 1/3 or 1/2 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 50 equivalent) below ISO 100 or to 约 0.3, 0.5, 0.7, 1, 2, 3, 4 or 5 EV (ISO 1640000 equivalent) above ISO 51200; auto ISO sensitivity control available",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "ISO 100 至 51200 步进为 1/3 或 1/2 EV; 也可扩展至 约 0.3, 0.5, 0.7 或 1 EV (ISO 50 等效) 低于ISO 100 或 至 约 0.3, 0.5, 0.7, 1, 2, 3, 4 或 5 EV (ISO 1640000 等效) 高于ISO 51200; 支持自动ISO感光度控制",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "ISO 100 to 51200 in steps of 1/3 or 1/2 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 50 equivalent) below ISO 100 or to 约 0.3, 0.5, 0.7, 1, 2, 3, 4 or 5 EV (ISO 1640000 equivalent) above ISO 51200; auto ISO sensitivity control available"
         },
         {
           "label": "动态D-Lighting",
-          "value": "Can be selected from auto, extra high, high, normal, low or off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "可选自动、极高、高、标准、低或关闭",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Can be selected from auto, extra high, high, normal, low or off"
         }
       ]
     },
@@ -311,43 +348,51 @@
       "rows": [
         {
           "label": "无线连接",
-          "value": "Standards: IEEE 802.11b, IEEE 802.11g Operating frequency: 2412 to 2462 MHz (channels 1 to 11) Maximum output power: 8.4 dBm (EIRP) Authentication: Open system, WPA2-PSK",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "标准： IEEE 802.11b, IEEE 802.11g 工作频率： 2412 至 2462 MHz (信道 1 至 11) 最大输出功率： 8.4 dBm (EIRP) 验证方式：开放系统, WPA2-PSK",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Standards: IEEE 802.11b, IEEE 802.11g Operating frequency: 2412 to 2462 MHz (channels 1 to 11) Maximum output power: 8.4 dBm (EIRP) Authentication: Open system, WPA2-PSK"
         },
         {
           "label": "Bluetooth无线连接",
-          "value": "Communication protocols: Bluetooth Specification Version 4.1",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "通信协议：蓝牙规范版本 4.1",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Communication protocols: Bluetooth Specification Version 4.1"
         },
         {
-          "label": "测光范围 (line of sight)",
-          "value": "约 10 m/32 ft without interference; range may vary with signal strength and presence or absence of obstacles",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "label": "测光范围 (无遮挡直线距离)",
+          "value": "约 10 m/32 ft 无干扰条件下；范围因信号强度及障碍物而异",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "约 10 m/32 ft without interference; range may vary with signal strength and presence or absence of obstacles"
         },
         {
           "label": "USB接口",
-          "value": "Hi-Speed USB with Micro-B connector; connection to built-in USB port is recommended",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "带Micro-B接口的高速USB; 建议连接电脑内置USB端口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Hi-Speed USB with Micro-B connector; connection to built-in USB port is recommended"
         },
         {
           "label": "HDMI输出",
-          "value": "Type C HDMI connector",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "HDMI Type-C接口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Type C HDMI connector"
         },
         {
           "label": "附件端口",
-          "value": "Wireless remote controllers: WR-1 and WR-R10, Remote cord: MC-DC2, GPS unit: GP-1/GP-1A (all available separately)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "无线遥控器： WR-1 、 WR-R10, 遥控线： MC-DC2, GPS装置： GP-1/GP-1A (均另售)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Wireless remote controllers: WR-1 and WR-R10, Remote cord: MC-DC2, GPS unit: GP-1/GP-1A (all available separately)"
         },
         {
           "label": "音频输入",
-          "value": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "立体声迷你插孔 (3.5-mm 直径; 支持插入供电)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)"
         },
         {
           "label": "音频输出",
-          "value": "Stereo mini-pin jack (3.5-mm diameter)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "立体声迷你插孔 (3.5-mm 直径)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Stereo mini-pin jack (3.5-mm diameter)"
         }
       ]
     },
@@ -357,33 +402,39 @@
       "rows": [
         {
           "label": "自动对焦（光学取景）",
-          "value": "Nikon Advanced Multi-CAM 3500 II autofocus sensor module with TTL phase detection, fine-tuning, 51 focus points (including 15 cross-type sensors; f/8 supported by one sensor), and AF-assist illuminator (range 约 0.5 to 3 m/1 ft 8 in. to 9 ft 10 in.)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "尼康Advanced Multi-CAM 3500 II自动对焦模块，支持TTL相位检测、AF微调及51个对焦点（含15个十字型，其中1点支持f/8），带AF辅助照明（范围约0.5至3米／1英尺8英寸至9英尺10英寸）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Nikon Advanced Multi-CAM 3500 II autofocus sensor module with TTL phase detection, fine-tuning, 51 focus points (including 15 cross-type sensors; f/8 supported by one sensor), and AF-assist illuminator (range 约 0.5 to 3 m/1 ft 8 in. to 9 ft 10 in.)"
         },
         {
           "label": "对焦检测范围 ",
-          "value": "-3 to +19 EV (ISO 100, 20°C/68°F)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "-3 至 +19 EV (ISO 100, 20°C/68°F)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "-3 to +19 EV (ISO 100, 20°C/68°F)"
         },
         {
           "label": "对焦驱动模式（光学取景）",
-          "value": "Autofocus (AF): Single-servo AF (AF-S); continuous-servo AF (AF-C); auto AF-S/AF-C selection (AF-A); predictive focus tracking activated automatically according to subject status Manual focus (M): Electronic rangefinder can be used",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "自动对焦（AF）： 单次伺服AF (AF-S); 连续伺服AF (AF-C); 自动选择AF-S/AF-C (AF-A); 根据主体状态自动启用预测对焦跟踪 手动 对焦（M）: 可使用电子测距仪",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Autofocus (AF): Single-servo AF (AF-S); continuous-servo AF (AF-C); auto AF-S/AF-C selection (AF-A); predictive focus tracking activated automatically according to subject status Manual focus (M): Electronic rangefinder can be used"
         },
         {
           "label": "对焦点",
-          "value": "Can be selected from 51 or 11 focus points",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "可选择51点或11点",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Can be selected from 51 or 11 focus points"
         },
         {
           "label": "自动对焦区域（光学取景）",
-          "value": "Single-point AF; 9-, 21- or 51-point dynamic-area AF, 3D-tracking, group-area AF, auto-area AF",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "单点 AF; 9-, 21- 或 51点 动态区域 AF, 3D跟踪, 群组区域AF, 自动区域AF",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Single-point AF; 9-, 21- or 51-point dynamic-area AF, 3D-tracking, group-area AF, auto-area AF"
         },
         {
           "label": "对焦锁定",
-          "value": "Focus can be locked by pressing shutter-release button halfway (single-servo AF) or by pressing AE-L/AF-L button",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "半按快门释放按钮（单次伺服AF）或按AE-L/AF-L按钮可锁定对焦",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Focus can be locked by pressing shutter-release button halfway (single-servo AF) or by pressing AE-L/AF-L button"
         }
       ]
     },
@@ -393,23 +444,27 @@
       "rows": [
         {
           "label": "模式",
-          "value": "Photo live view, movie live view",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "照片实时取景、视频实时取景",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Photo live view, movie live view"
         },
         {
           "label": "对焦驱动模式（实时取景）",
-          "value": "Autofocus (AF): Single-servo AF (AF-S); full-time servo AF (AF-F) Manual focus (M)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "自动对焦（AF）： 单次伺服AF (AF-S); 全时伺服AF (AF-F) 手动 对焦（M）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Autofocus (AF): Single-servo AF (AF-S); full-time servo AF (AF-F) Manual focus (M)"
         },
         {
           "label": "自动对焦区域（实时取景）",
-          "value": "Face-priority AF, wide-area AF, normal-area AF, subject-tracking AF",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "脸部优先 AF, 宽区域 AF, 标准区域AF, 对象跟踪AF",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Face-priority AF, wide-area AF, normal-area AF, subject-tracking AF"
         },
         {
           "label": "自动对焦（实时取景）",
-          "value": "Contrast-detect AF anywhere in frame (camera selects focus point automatically when face-priority AF or subject-tracking AF is selected)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "全画面反差检测AF（选择脸部优先AF或对象跟踪AF时，相机自动选择对焦点）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Contrast-detect AF anywhere in frame (camera selects focus point automatically when face-priority AF or subject-tracking AF is selected)"
         }
       ]
     },
@@ -419,43 +474,51 @@
       "rows": [
         {
           "label": "内置闪光灯",
-          "value": "Auto, portrait, child, close up, night portrait, party/indoor, pet portrait, super vivid, pop, photo illustration, toy camera effect: Auto flash with auto pop-up P, S, A, M, food: Manual pop-up with button release",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "自动, 人像, 儿童, 近摄, 夜间人像, 聚会／室内, 宠物人像, 超级鲜艳, 流行, 照片说明, 玩具相机效果: 自动 闪光 自动弹出 P, S, A, M, 食物: 按按钮手动弹出",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Auto, portrait, child, close up, night portrait, party/indoor, pet portrait, super vivid, pop, photo illustration, toy camera effect: Auto flash with auto pop-up P, S, A, M, food: Manual pop-up with button release"
         },
         {
           "label": "闪光控制",
-          "value": "TTL: i-TTL flash control using RGB sensor with 约 180K (180,000) pixels is available with built-in flash; i-TTL balanced fill-flash for digital SLR is used with matrix, center-weighted and highlight-weighted metering, standard i-TTL fill-flash for digital SLR with spot metering",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "TTL: i-TTL闪光控制 使用RGB传感器，像素数为 约 180K (180,000) 像素；内置闪光灯可用; 数码单反相机i-TTL均衡补光用于 矩阵, 中央重点 、 亮部重点测光, 数码单反相机标准i-TTL补光用于 点测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "TTL: i-TTL flash control using RGB sensor with 约 180K (180,000) pixels is available with built-in flash; i-TTL balanced fill-flash for digital SLR is used with matrix, center-weighted and highlight-weighted metering, standard i-TTL fill-flash for digital SLR with spot metering"
         },
         {
           "label": "闪光模式",
-          "value": "Auto, auto with red-eye reduction, auto slow sync, auto slow sync with red-eye reduction, fill-flash, red-eye reduction, slow sync, slow sync with red-eye reduction, rear-curtain with slow sync, rear-curtain sync, off; auto FP high-speed sync supported",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "自动, 自动防红眼, 自动慢速同步, 自动慢速同步防红眼, 补充闪光, 防红眼, 慢速同步, 慢速同步防红眼, 慢速后帘同步, 后帘同步, 关闭; 支持自动FP高速同步",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Auto, auto with red-eye reduction, auto slow sync, auto slow sync with red-eye reduction, fill-flash, red-eye reduction, slow sync, slow sync with red-eye reduction, rear-curtain with slow sync, rear-curtain sync, off; auto FP high-speed sync supported"
         },
         {
           "label": "闪光补偿",
-          "value": "-3 to +1 EV in increments of 1/3 or 1/2 EV",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "-3 至 +1 EV 步长为 1/3 或 1/2 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "-3 to +1 EV in increments of 1/3 or 1/2 EV"
         },
         {
           "label": "闪光就绪提示",
-          "value": "Lights when built-in flash or optional flash unit is fully charged; flashes after flash is fired at full output",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "内置或另购闪光灯充满电时点亮；全功率闪光后闪烁",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Lights when built-in flash or optional flash unit is fully charged; flashes after flash is fired at full output"
         },
         {
           "label": "热靴",
-          "value": "ISO 518 hot-shoe with sync and data contacts and safety lock",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "ISO 518热靴，带同步与数据触点及安全锁",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "ISO 518 hot-shoe with sync and data contacts and safety lock"
         },
         {
           "label": "尼康创意闪光系统",
-          "value": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, color information communication, auto FP high-speed sync, AF-assist for multi-area AF",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "i-TTL闪光控制, 无线电控制高级无线闪光, 光学控制高级无线闪光, 模拟照明, FV锁定, 色彩信息传达, 自动FP高速同步, 多区域AF辅助照明",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, color information communication, auto FP high-speed sync, AF-assist for multi-area AF"
         },
         {
           "label": "同步端口",
-          "value": "AS-15 Sync Terminal Adapter (available separately)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "AS-15同步端口适配器 (另售)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "AS-15 Sync Terminal Adapter (available separately)"
         }
       ]
     },
@@ -465,7 +528,7 @@
       "rows": [
         {
           "label": "白平衡",
-          "value": "Auto (2 types), incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual (最高 6 values can be stored, spot white balance measurement available during live view), choose color temperature (2500 K to 10000 K), all with fine-tuning",
+          "value": "自动 (2 种), 白炽灯, 荧光灯 (7 种), 晴天, 闪光, 阴天, 阴影, 手动预设 (最高 6 组设定可存储, 即时取景时支持点白平衡测量), 选择色温 (2500 K 至 10000 K), 均支持微调",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
           "originalValue": "Auto (2 types), incandescent, fluorescent (7 types), direct sunlight, flash, cloudy, shade, preset manual (up to 6 values can be stored, spot white balance measurement available during live view), choose color temperature (2500 K to 10000 K), all with fine-tuning"
         }
@@ -477,8 +540,9 @@
       "rows": [
         {
           "label": "包围拍摄类型",
-          "value": "Exposure, flash, white balance and ADL",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "曝光、闪光、白平衡和动态D-Lighting包围",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Exposure, flash, white balance and ADL"
         }
       ]
     },
@@ -488,8 +552,9 @@
       "rows": [
         {
           "label": "工作环境",
-          "value": "Temperature: 0 to 40°C/32 to 104°F humidity: 85% or less (no condensation)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "温度： 0 至 40°C/32 至 104°F 湿度： 85% 以下 （无凝露）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Temperature: 0 to 40°C/32 to 104°F humidity: 85% or less (no condensation)"
         },
         {
           "label": "三脚架接口",
@@ -503,7 +568,7 @@
         },
         {
           "label": "重量",
-          "value": "约 720 g/1 lb 9.4 oz with battery and memory card but without body cap; 约 640 g/1 lb 6.6 oz (camera 仅机身)",
+          "value": "约 720 g/1 lb 9.4 oz 含电池和存储卡，不含机身盖; 约 640 g/1 lb 6.6 oz (仅机身)",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
           "originalValue": "约 720 g/1 lb 9.4 oz with battery and memory card but without body cap; 约 640 g/1 lb 6.6 oz (camera body only)"
         }
@@ -515,8 +580,9 @@
       "rows": [
         {
           "label": "显示屏",
-          "value": "8-cm/3.2-in., 约 922k-dot (VGA) tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, manual monitor brightness control and an eye-sensor controlling display on/off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "8-cm/3.2-in., 约 922k-dot (VGA) 可翻折 TFT触控液晶显示屏 可视角170°, 约 100% 画面覆盖率, 手动显示屏亮度调节 、 眼传感器控制显示开关",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "8-cm/3.2-in., 约 922k-dot (VGA) tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, manual monitor brightness control and an eye-sensor controlling display on/off"
         }
       ]
     },
@@ -526,8 +592,9 @@
       "rows": [
         {
           "label": "回放功能",
-          "value": "Full-frame and thumbnail (4, 9 or 72 images or calendar) playback with playback zoom, playback zoom cropping, movie playback, photo and/or movie slide shows, histogram display, highlights, photo information, location data display, picture rating and auto image rotation",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "全屏及缩略图 (4, 9 或 72 张或日历显示) 回放，支持回放缩放及裁切、视频回放、照片及／或视频幻灯片、直方图、亮部、照片信息及位置数据显示, 照片评级 、 自动图像旋转",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "Full-frame and thumbnail (4, 9 or 72 images or calendar) playback with playback zoom, playback zoom cropping, movie playback, photo and/or movie slide shows, histogram display, highlights, photo information, location data display, picture rating and auto image rotation"
         }
       ]
     },
@@ -537,13 +604,15 @@
       "rows": [
         {
           "label": "电池",
-          "value": "One EN-EL15a Rechargeable Li-ion Battery",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "一块EN-EL15a 可充电锂离子电池",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "One EN-EL15a Rechargeable Li-ion Battery"
         },
         {
           "label": "交流适配器",
-          "value": "EH-5b/EH-5c AC Adapter; requires EP-5B Power Connector (available separately)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html"
+          "value": "EH-5b/EH-5c 交流适配器; 需要 EP-5B 电源连接器 (另售)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d7500/index.html",
+          "originalValue": "EH-5b/EH-5c AC Adapter; requires EP-5B Power Connector (available separately)"
         }
       ]
     }

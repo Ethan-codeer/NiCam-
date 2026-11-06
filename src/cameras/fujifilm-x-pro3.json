@@ -20,18 +20,21 @@
       "rows": [
         {
           "label": "有效像素",
-          "value": "26.1 millions pixels",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "26.1百万像素",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "26.1 millions pixels"
         },
         {
           "label": "感光元件",
-          "value": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 with primary color filter.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 配备原色滤镜",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "23.5mm×15.6mm (APS-C) X-Trans CMOS 4 with primary color filter."
         },
         {
           "label": "传感器清洁",
-          "value": "Ultra Sonic Vibration",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "超声波振动除尘",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Ultra Sonic Vibration"
         },
         {
           "label": "记录尺寸 · [L]<3",
@@ -58,55 +61,63 @@
       "title": "存储与接口",
       "rows": [
         {
-          "label": "存储介质 · SD memory card ",
-          "value": "SD memory card (~2GB) / SDHC memory card (~32GB) / SDXC memory card (~512GB)",
+          "label": "存储介质 · SD 存储卡",
+          "value": "SD 存储卡 (~2GB)；SDHC 存储卡 (~32GB)；SDXC 存储卡 (~512GB)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "SD memory card "
+          "condition": "SD 存储卡 ",
+          "originalValue": "SD memory card (~2GB) / SDHC memory card (~32GB) / SDXC memory card (~512GB)"
         },
         {
-          "label": "存储介质 · UHS-I / UHS-II / Video Speed Class V30 *1",
-          "value": "UHS-I / UHS-II / Video Speed Class V30 *1",
+          "label": "存储介质 · UHS-I / UHS-II / 视频速度等级 V30 *1",
+          "value": "UHS-I；UHS-II；视频速度等级 V30 *1",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "UHS-I / UHS-II / Video Speed Class V30 *1"
+          "condition": "UHS-I / UHS-II / 视频速度等级 V30 *1",
+          "originalValue": "UHS-I / UHS-II / Video Speed Class V30 *1"
         },
         {
           "label": "静态文件格式",
-          "value": "JPEG: Exif Ver.2.3*2, RAW: 14bit RAW (RAF original format) / RAW+JPEG",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "JPEG: Exif Ver.2.3*2, RAW: 14位RAW（RAF原始格式）；RAW+JPEG",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "JPEG: Exif Ver.2.3*2, RAW: 14bit RAW (RAF original format) / RAW+JPEG"
         },
         {
           "label": "视频记录 / 文件格式",
-          "value": "Format: MOV, Compression: MPEG-4 AVC/H.264 Audio: Linear PCM / Stereo sound 2ch / 24bit / 48KHz sampling)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "格式: MOV, 压缩: MPEG-4 AVC/H.264 音频: 线性PCM；立体声 2ch；24位；48kHz 采样)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Format: MOV, Compression: MPEG-4 AVC/H.264 Audio: Linear PCM / Stereo sound 2ch / 24bit / 48KHz sampling)"
         },
         {
           "label": "视频记录 / 视频尺寸",
-          "value": "［DCI 4K(4096×2160)］ 29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 15min",
+          "value": "［DCI 4K(4096×2160)］ 29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 15分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "［DCI 4K(4096×2160)］ 29.97p/25p/24p/23.98p 200Mbps/100Mbps up to approx. 15min"
         },
         {
           "label": "无线传输 / 标准",
-          "value": "IEEE802.11b/g/n (standard wireless protocol)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "IEEE802.11b/g/n (标准无线协议)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "IEEE802.11b/g/n (standard wireless protocol)"
         },
         {
           "label": "无线传输 / 加密",
-          "value": "WEP / WPA / WPA2 mixed mode",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "WEP／WPA／WPA2混合模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "WEP / WPA / WPA2 mixed mode"
         },
         {
           "label": "无线传输 / 接入模式",
-          "value": "Infrastructure",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "基础架构模式",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Infrastructure"
         },
         {
-          "label": "Bluetooth / 标准",
-          "value": "Bluetooth Ver 4.2 (Bluetooth low energy)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "label": "蓝牙 / 标准",
+          "value": "Bluetooth Ver 4.2 (低功耗蓝牙)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Bluetooth Ver 4.2 (Bluetooth low energy)"
         },
         {
-          "label": "Bluetooth / 工作频率 (Center frequency)",
+          "label": "蓝牙 / 工作频率 (中心频率)",
           "value": "2402 - 2480MHz",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
         },
@@ -117,8 +128,9 @@
         },
         {
           "label": "接口 / 其他接口",
-          "value": "Microphone / shutter release input: ø2.5mm, Hot shoe",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "麦克风；快门线输入: ø2.5mm, 热靴",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Microphone / shutter release input: ø2.5mm, Hot shoe"
         }
       ]
     },
@@ -128,27 +140,31 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "对焦 / 模式",
-          "value": "Single AF / Continuous AF / MF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "单次AF／连续AF／手动对焦",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Single AF / Continuous AF / MF"
         },
         {
           "label": "对焦 / 类型",
-          "value": "Intelligent Hybrid AF / (TTL contrast AF / TTL phase detection AF)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "智能混合自动对焦；(TTL反差检测AF；TTL相位检测AF)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Intelligent Hybrid AF / (TTL contrast AF / TTL phase detection AF)"
         },
         {
           "label": "对焦 / 低照度对焦",
-          "value": "Contrast: -3.0EV Phase Detection: -7.0EV (XF50mmF1.0 attached)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "对比度: -3.0EV 相位检测: -7.0EV (XF50mmF1.0 已安装)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Contrast: -3.0EV Phase Detection: -7.0EV (XF50mmF1.0 attached)"
         },
         {
-          "label": "对焦 / AF frame / selection",
-          "value": "Single point AF: EVF / LCD: 13×9 / 25×17 (Changeable size of AF frame) / Zone AF: 3×3 / 5×5 / 7×7 from 91 areas on 13×9 grid / Wide/Tracking AF: (最高 18 area) / *AF-S: Wide / AF-C: Tracking / All",
+          "label": "对焦 / AF 框选择",
+          "value": "单点AF: EVF；LCD: 13×9；25×17 (AF框尺寸可调)；区域AF: 3×3；5×5；7×7 从 91 点分布于 13×9 网格；广域／跟踪AF: (最高 18 区域)；*AF-S：广域／AF-C：跟踪；全部",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "Single point AF: EVF / LCD: 13×9 / 25×17 (Changeable size of AF frame) / Zone AF: 3×3 / 5×5 / 7×7 from 91 areas on 13×9 grid / Wide/Tracking AF: (up to 18 area) / *AF-S: Wide / AF-C: Tracking / All"
         }
@@ -159,34 +175,40 @@
       "title": "曝光与测光",
       "rows": [
         {
-          "label": "感光度 / 标准 output",
-          "value": "AUTO1 / AUTO2 / AUTO3 / ISO160~12800 (1/3 step)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "label": "感光度 / 标准输出",
+          "value": "自动1；自动2；自动3；ISO160~12800 (1/3 步长)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "AUTO1 / AUTO2 / AUTO3 / ISO160~12800 (1/3 step)"
         },
         {
           "label": "感光度 / 扩展感光度",
-          "value": "ISO80 / 100 / 125 / 25600 / 51200",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "ISO80；100；125；25600；51200",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "ISO80 / 100 / 125 / 25600 / 51200"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "TTL 256区测光, 多重／点测光／平均／中央重点",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "TTL 256-zone metering, Multi / Spot / Average / Center Weighted"
         },
         {
           "label": "曝光模式",
-          "value": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "P程序自动曝光／A光圈优先／S快门优先／M手动曝光",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "P (Program AE) / A (Aperture Priority AE) / S (Shutter Speed Priority AE) / M (Manual Exposure)"
         },
         {
           "label": "曝光补偿",
-          "value": "-5.0EV~+5.0EV 1/3EV step (Movie: -2.0EV~+2.0EV)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "-5.0EV~+5.0EV 1/3EV 步长 (视频: -2.0EV~+2.0EV)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "-5.0EV~+5.0EV 1/3EV step (Movie: -2.0EV~+2.0EV)"
         },
         {
           "label": "白平衡",
-          "value": "Automatic Scene recognition / Custom1~3 / Color temperature selection (2500K~10000K) / Preset: Fine, / Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), / Incandescent light, Underwater",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "自动场景识别；自定义1~3；色温选择 (2500K~10000K)；预设： 晴天,；阴影, 荧光灯 (日光), 荧光灯 (暖白色), 荧光灯 (冷白色),；白炽灯, 水下",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Automatic Scene recognition / Custom1~3 / Color temperature selection (2500K~10000K) / Preset: Fine, / Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), / Incandescent light, Underwater"
         }
       ]
     },
@@ -196,58 +218,63 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "快门速度 / 机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 1sec. Fixed",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 1秒 固定",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 1sec. Fixed"
         },
         {
           "label": "快门速度 / 电子前帘快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min."
         },
         {
-          "label": "快门速度 / Mechanical + / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 最高 60min.",
+          "label": "快门速度 / 机械快门 + / 电子快门",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 最高 60分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: up to 60min."
         },
         {
           "label": "快门速度 / 电子前帘加机械快门",
-          "value": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec.",
+          "value": "P模式: 4秒 至 1/8000秒 A模式: 30秒 至 1/8000秒 S／M模式: 15分钟 至 1/8000秒 B门模式: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "P mode: 4sec. to 1/8000sec. A mode: 30sec. to 1/8000sec. S/M mode: 15min. to 1/8000sec. Bulb mode: up to 60min. / *Electronic front curtain shutter works until 1/2000sec."
         },
         {
-          "label": "快门速度 / E-front + Mechanical + / 电子快门",
-          "value": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: 最高 60min. / *Electronic front curtain shutter works until 1/2000sec, 机械快门 works until 1/8000sec.",
+          "label": "快门速度 / 电子前帘快门 + 机械快门 + / 电子快门",
+          "value": "P模式: 4秒 至 1/32000秒 A模式: 30秒 至 1/32000秒 S／M模式: 15分钟 至 1/32000秒 B门模式: 最高 60分钟；*电子前帘快门最高可用至 1/2000秒, 机械快门 最高可用至 1/8000秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "P mode: 4sec. to 1/32000sec. A mode: 30sec. to 1/32000sec. S/M mode: 15min. to 1/32000sec. Bulb mode: up to 60min. / *Electronic front curtain shutter works until 1/2000sec, Mechanical shutter works until 1/8000sec."
         },
         {
           "label": "快门速度 / 闪光同步速度",
-          "value": "1/250sec. or slower",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "1/250秒 或更慢",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "1/250sec. or slower"
         },
         {
           "label": "闪光模式",
-          "value": "MODE: TTL MODE (Flash Auto, Standard, Slow Sync.), Manual, Multi, OFF / SYNC. MODE: 1st Curtain, 2nd Curtain, AUTO FP (high-speed sync) / RED EYE REMOVAL: FLASH + REMOVAL, FLASH, REMOVAL, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "模式：TTL (闪光 自动, 标准, 慢速同步), 手动, 多重, 关闭；同步模式: 前帘同步, 后帘同步, 自动 FP (高速同步)；防红眼: 闪光＋数码校正、闪光、数码校正, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "MODE: TTL MODE (Flash Auto, Standard, Slow Sync.), Manual, Multi, OFF / SYNC. MODE: 1st Curtain, 2nd Curtain, AUTO FP (high-speed sync) / RED EYE REMOVAL: FLASH + REMOVAL, FLASH, REMOVAL, OFF"
         },
         {
           "label": "热靴",
-          "value": "Yes (Dedicated TTL Flash compatible)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "支持（兼容专用TTL闪光灯）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Yes (Dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -256,205 +283,222 @@
       "title": "拍摄与视频",
       "rows": [
         {
-          "label": "连拍 · Approx. 11fps ",
-          "value": "约 11fps (JPEG: 145 frames Lossless compression RAW: 42 frames Uncompressed RAW: 36 frames)",
+          "label": "连拍 · 约 11fps",
+          "value": "约 11fps (JPEG: 145张 无损压缩 RAW: 42张 未压缩 RAW: 36张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 11fps ",
+          "condition": "约. 11fps ",
           "originalValue": "Approx. 11fps (JPEG: 145 frames Lossless compression RAW: 42 frames Uncompressed RAW: 36 frames)"
         },
         {
-          "label": "连拍 · Approx. 8.0fps ",
-          "value": "约 8.0fps (JPEG: 200 frames Lossless compression RAW: 46 frames Uncompressed RAW: 39 frames)",
+          "label": "连拍 · 约 8.0fps",
+          "value": "约 8.0fps (JPEG: 200张 无损压缩 RAW: 46张 未压缩 RAW: 39张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 8.0fps ",
+          "condition": "约. 8.0fps ",
           "originalValue": "Approx. 8.0fps (JPEG: 200 frames Lossless compression RAW: 46 frames Uncompressed RAW: 39 frames)"
         },
         {
-          "label": "连拍 · Approx. 5.7fps ",
-          "value": "约 5.7fps (JPEG: endless Lossless Compression RAW: 62 frames Uncompressed RAW: 43 frames)",
+          "label": "连拍 · 约 5.7fps",
+          "value": "约 5.7fps (JPEG: 不限张数 无损压缩 RAW: 62张 未压缩 RAW: 43张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 5.7fps ",
+          "condition": "约. 5.7fps ",
           "originalValue": "Approx. 5.7fps (JPEG: endless Lossless Compression RAW: 62 frames Uncompressed RAW: 43 frames)"
         },
         {
-          "label": "连拍 · Approx. 5.0fps ",
-          "value": "约 5.0fps (JPEG: endless Lossless compression RAW: 79 frames Uncompressed RAW: 46 frames)",
+          "label": "连拍 · 约 5.0fps",
+          "value": "约 5.0fps (JPEG: 不限张数 无损压缩 RAW: 79张 未压缩 RAW: 46张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 5.0fps ",
+          "condition": "约. 5.0fps ",
           "originalValue": "Approx. 5.0fps (JPEG: endless Lossless compression RAW: 79 frames Uncompressed RAW: 46 frames)"
         },
         {
-          "label": "连拍 · Approx. 4.0fps ",
-          "value": "约 4.0fps (JPEG: endless Lossless compression RAW: 134 frames Uncompressed RAW: 53 frames)",
+          "label": "连拍 · 约 4.0fps",
+          "value": "约 4.0fps (JPEG: 不限张数 无损压缩 RAW: 134张 未压缩 RAW: 53张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 4.0fps ",
+          "condition": "约. 4.0fps ",
           "originalValue": "Approx. 4.0fps (JPEG: endless Lossless compression RAW: 134 frames Uncompressed RAW: 53 frames)"
         },
         {
-          "label": "连拍 · Approx. 3.0fps ",
-          "value": "约 3.0fps (JPEG: endless Lossless Compression RAW: endless Uncompressed RAW: 71 frames)",
+          "label": "连拍 · 约 3.0fps",
+          "value": "约 3.0fps (JPEG: 不限张数 无损压缩 RAW: 不限张数 未压缩 RAW: 71张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 3.0fps ",
+          "condition": "约. 3.0fps ",
           "originalValue": "Approx. 3.0fps (JPEG: endless Lossless Compression RAW: endless Uncompressed RAW: 71 frames)"
         },
         {
-          "label": "连拍 · Approx. 30fps [Only electronic shutter, 1.25 x Crop ] ",
-          "value": "约 30fps [Only 电子快门, 1.25 x Crop ] (JPEG： 60 frames Lossless compression RAW： 35 frames Uncompressed RAW： 33 frames)",
+          "label": "连拍 · 约 30fps [仅电子快门, 1.25 x 裁切 ]",
+          "value": "约 30fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 60张 无损压缩 RAW： 35张 未压缩 RAW： 33张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 30fps [Only electronic shutter, 1.25 x Crop ] ",
+          "condition": "约. 30fps [仅限 电子快门, 1.25 x 裁切 ] ",
           "originalValue": "Approx. 30fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 60 frames Lossless compression RAW： 35 frames Uncompressed RAW： 33 frames)"
         },
         {
-          "label": "连拍 · Approx. 20fps [Only electronic shutter, 1.25 x Crop ] ",
-          "value": "约 20fps [Only 电子快门, 1.25 x Crop ] (JPEG： 114 frames Lossless compression RAW： 37 frames Uncompressed RAW： 34 frames)",
+          "label": "连拍 · 约 20fps [仅电子快门, 1.25 x 裁切 ]",
+          "value": "约 20fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 114张 无损压缩 RAW： 37张 未压缩 RAW： 34张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 20fps [Only electronic shutter, 1.25 x Crop ] ",
+          "condition": "约. 20fps [仅限 电子快门, 1.25 x 裁切 ] ",
           "originalValue": "Approx. 20fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 114 frames Lossless compression RAW： 37 frames Uncompressed RAW： 34 frames)"
         },
         {
-          "label": "连拍 · Approx. 20fps [Only electronic shutter ] ",
-          "value": "约 20fps [Only 电子快门 ] (JPEG: 79 frames Lossless compression RAW: 36 frames Uncompressed RAW: 34 frames)",
+          "label": "连拍 · 约 20fps [仅电子快门 ]",
+          "value": "约 20fps [仅限 电子快门 ] (JPEG: 79张 无损压缩 RAW: 36张 未压缩 RAW: 34张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 20fps [Only electronic shutter ] ",
+          "condition": "约. 20fps [仅限 电子快门 ] ",
           "originalValue": "Approx. 20fps [Only electronic shutter ] (JPEG: 79 frames Lossless compression RAW: 36 frames Uncompressed RAW: 34 frames)"
         },
         {
-          "label": "连拍 · Approx. 10fps [Only electronic shutter, 1.25 x Crop ] ",
-          "value": "约 10fps [Only 电子快门, 1.25 x Crop ] (JPEG： 500 frames Lossless compression RAW： 48 frames Uncompressed RAW： 39 frames)",
+          "label": "连拍 · 约 10fps [仅电子快门, 1.25 x 裁切 ]",
+          "value": "约 10fps [仅限 电子快门, 1.25 x 裁切 ] (JPEG： 500张 无损压缩 RAW： 48张 未压缩 RAW： 39张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 10fps [Only electronic shutter, 1.25 x Crop ] ",
+          "condition": "约. 10fps [仅限 电子快门, 1.25 x 裁切 ] ",
           "originalValue": "Approx. 10fps [Only electronic shutter, 1.25 x Crop ] (JPEG： 500 frames Lossless compression RAW： 48 frames Uncompressed RAW： 39 frames)"
         },
         {
-          "label": "连拍 · Approx. 10fps [Only electronic shutter ] ",
-          "value": "约 10fps [Only 电子快门 ] (JPEG: 164 frames Lossless compression RAW: 44 frames Uncompressed RAW: 37 frames)",
+          "label": "连拍 · 约 10fps [仅电子快门 ]",
+          "value": "约 10fps [仅限 电子快门 ] (JPEG: 164张 无损压缩 RAW: 44张 未压缩 RAW: 37张)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Approx. 10fps [Only electronic shutter ] ",
+          "condition": "约. 10fps [仅限 电子快门 ] ",
           "originalValue": "Approx. 10fps [Only electronic shutter ] (JPEG: 164 frames Lossless compression RAW: 44 frames Uncompressed RAW: 37 frames)"
         },
         {
-          "label": "自动包围 · AE Bracketing ",
-          "value": "AE Bracketing (Frames: 2, 3, 5, 7, 9 Step: by 1/3EV step, 最高 ±3EV steps)",
+          "label": "自动包围 · 自动曝光包围",
+          "value": "自动曝光包围 (张数: 2, 3, 5, 7, 9 步长: by 1/3EV 步长, 最高 ±3EV 档)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "AE Bracketing ",
+          "condition": "自动曝光包围 ",
           "originalValue": "AE Bracketing (Frames: 2, 3, 5, 7, 9 Step: by 1/3EV step, up to ±3EV steps)"
         },
         {
-          "label": "自动包围 · Filmsimulation bracketing ",
-          "value": "Filmsimulation bracketing (Any 3 types of film simulation selectable)",
+          "label": "自动包围 · 胶片模拟包围",
+          "value": "胶片模拟包围 (可选择任意三种胶片模拟)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Filmsimulation bracketing "
+          "condition": "胶片模拟包围 ",
+          "originalValue": "Filmsimulation bracketing (Any 3 types of film simulation selectable)"
         },
         {
-          "label": "自动包围 · Dynamic Range Bracketing ",
-          "value": "Dynamic Range Bracketing (100%, 200%, 400%)",
+          "label": "自动包围 · 动态范围包围",
+          "value": "动态范围包围 (100%, 200%, 400%)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Dynamic Range Bracketing "
+          "condition": "动态范围 包围拍摄 ",
+          "originalValue": "Dynamic Range Bracketing (100%, 200%, 400%)"
         },
         {
-          "label": "自动包围 · ISO sensitivity Bracketing ",
-          "value": "ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV)",
+          "label": "自动包围 · 感光度包围",
+          "value": "感光度包围 (±1/3EV, ±2/3EV, ±1EV)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "ISO sensitivity Bracketing "
+          "condition": "感光度包围 ",
+          "originalValue": "ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV)"
         },
         {
-          "label": "自动包围 · White Balance Bracketing ",
-          "value": "White Balance Bracketing (±1, ±2, ±3)",
+          "label": "自动包围 · 白平衡包围",
+          "value": "白平衡包围 (±1, ±2, ±3)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "White Balance Bracketing "
+          "condition": "白平衡包围 ",
+          "originalValue": "White Balance Bracketing (±1, ±2, ±3)"
         },
         {
-          "label": "自动包围 · Focus Bracketing ",
-          "value": "Focus Bracketing (AUTO, MANUAL)",
+          "label": "自动包围 · 对焦包围",
+          "value": "对焦包围 (自动, 手动)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "Focus Bracketing "
+          "condition": "对焦包围 ",
+          "originalValue": "Focus Bracketing (AUTO, MANUAL)"
         },
         {
           "label": "自拍",
-          "value": "10sec. / 2sec.",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "10秒；2秒",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "10sec. / 2sec."
         },
         {
           "label": "间隔拍摄",
-          "value": "Yes (Setting: Interval, Number of shots, Starting time)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "支持 (设置: 间隔, 拍摄张数, 开始时间)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Yes (Setting: Interval, Number of shots, Starting time)"
         },
         {
           "label": "视频记录 / 帧率",
-          "value": "［4K(3840×2160)］ 29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 15min",
+          "value": "［4K(3840×2160)］ 29.97p/25p/24p/23.98p 200Mbps/100Mbps 最高 约 15分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "［4K(3840×2160)］ 29.97p/25p/24p/23.98p 200Mbps/100Mbps up to approx. 15min"
         },
         {
           "label": "视频记录 / 录制时长",
-          "value": "［Full HD(2048 ×1080)］ 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 59min.",
+          "value": "［全高清(2048 ×1080)］ 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 59分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "［Full HD(2048 ×1080)］ 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps up to approx. 59min."
         },
         {
-          "label": "视频记录 · ［Full HD",
-          "value": "［Full HD(1920×1080)］ 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 59min.",
+          "label": "视频记录 · ［全高清",
+          "value": "［全高清(1920×1080)］ 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps 最高 约 59分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "［Full HD",
+          "condition": "［全高清",
           "originalValue": "［Full HD(1920×1080)］ 59.94p/50p/29.97p/25p/24p/23.98p 200Mbps/100Mbps/50Mbps up to approx. 59min."
         },
         {
-          "label": "视频记录 · ［Full HD",
-          "value": "［Full HD(1920×1080) High speed rec.] 120p / 100p 200Mbps(recording) 最高 约 6min.",
+          "label": "视频记录 · ［全高清",
+          "value": "［全高清(1920×1080) 高速录制] 120p；100p 200Mbps(录制) 最高 约 6分钟",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "［Full HD",
+          "condition": "［全高清",
           "originalValue": "［Full HD(1920×1080) High speed rec.] 120p / 100p 200Mbps(recording) up to approx. 6min."
         },
         {
-          "label": "视频记录 · footage will be recorded to a separate file which must be viewed ",
-          "value": "footage will be recorded to a separate file which must be viewed separately.",
+          "label": "视频记录 · 影像另存文件，需单独播放",
+          "value": "影像将另存为文件，需单独播放.",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
-          "condition": "footage will be recorded to a separate file which must be viewed "
+          "condition": "影像将另存为文件，需单独播放 ",
+          "originalValue": "footage will be recorded to a separate file which must be viewed separately."
         },
         {
           "label": "胶片模拟",
-          "value": "17 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, / Black & White, Black & White+Ye Filter, Black & White+R Filter, Black & White+G Filter, Sepia, ACROS, / ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, ETERNA/Cinema, Classic Neg) / Monochromatic Color",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "17 种模式 (PROVIA/标准, Velvia/鲜艳, ASTIA/柔和, Classic Chrome, PRO Neg.Hi, PRO Neg.Std,；黑白, 黑白+黄滤镜, 黑白+红滤镜, 黑白+绿滤镜, 棕褐色, ACROS,；ACROS+黄滤镜, ACROS+红滤镜, ACROS+绿滤镜, ETERNA/电影, Classic Neg)；单色调整",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "17 modes (PROVIA/Standard, Velvia/Vivid, ASTIA/Soft, Classic Chrome, PRO Neg.Hi, PRO Neg.Std, / Black & White, Black & White+Ye Filter, Black & White+R Filter, Black & White+G Filter, Sepia, ACROS, / ACROS+Ye Filter, ACROS+R Filter, ACROS+G Filter, ETERNA/Cinema, Classic Neg) / Monochromatic Color"
         },
         {
           "label": "清晰度",
-          "value": "±5 steps",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "±5 档",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "±5 steps"
         },
         {
           "label": "HDR 模式",
-          "value": "AUTO, 200%, 400%, 800%, PLUS",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "自动, 200%, 400%, 800%, PLUS",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "AUTO, 200%, 400%, 800%, PLUS"
         },
         {
           "label": "颗粒效果",
-          "value": "Roughness: STRONG, WEAK, OFF Size: LARGE, SMALL",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "颗粒大小: 强, 弱, 关闭 尺寸: 大, 小",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Roughness: STRONG, WEAK, OFF Size: LARGE, SMALL"
         },
         {
           "label": "彩色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "彩色蓝色效果",
-          "value": "STRONG, WEAK, OFF",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "强, 弱, 关闭",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "STRONG, WEAK, OFF"
         },
         {
           "label": "动态范围 / 静态照片",
-          "value": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "自动, 100%, 200%, 400%；ISO限制 (DR100%: 无限制, DR200%: ISO320 或更高, DR400%: ISO640 或更高)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "AUTO, 100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)"
         },
         {
           "label": "动态范围 / 视频",
-          "value": "100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "100%, 200%, 400%；ISO限制 (DR100%: 无限制, DR200%: ISO320 或更高, DR400%: ISO640 或更高)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "100%, 200%, 400% / ISO restriction (DR100%: No limit, DR200%: ISO320 or more, DR400%: ISO640 or more)"
         },
         {
           "label": "创意滤镜",
-          "value": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus, / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "玩具相机, 微缩景观, 流行色彩, 高调, 低调, 动态色调, 柔焦,；局部色彩 (红色；橙色；黄色；绿色；蓝色；紫色)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "Toy camera, Miniature, Pop color, High-key, Low-key, Dynamic tone, Soft focus, / Partial color (Red / Orange / Yellow / Green / Blue / Purple)"
         }
       ]
     },
@@ -464,26 +508,27 @@
       "rows": [
         {
           "label": "取景器 / OVF",
-          "value": "Reverse Galilean viewfinder with electronic bright frame display / Coverage of frame area v.s. capturing area: 约 95% / Magnifications approx x0.52",
+          "value": "逆伽利略式光学取景器，带电子亮框显示；取景覆盖率: 约 95%；放大倍率 约 x0.52",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "Reverse Galilean viewfinder with electronic bright frame display / Coverage of frame area v.s. capturing area: approx. 95% / Magnifications approx x0.52"
         },
         {
           "label": "取景器 / EVF",
-          "value": "0.5 inch 约 3.69 millions dots OLED Color Viewfinder (4:3) / Coverage of viewing area vs. capturing area: 约 100% / Eyepoint: 约 16.8mm (from the eyepiece lens) Diopter adjustment: -4~+2m-1 / Magnification: 0.66× with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: 约 32° (Horizontal angle of view: 约 27° ) Built-in eye sensor",
+          "value": "0.5 英寸 约 3.69 百万点 OLED 彩色取景器 (4:3)；取景覆盖率: 约 100%；眼点: 约 16.8mm (距接目镜) 屈光度调节: -4~+2m⁻¹；放大倍率: 0.66× 使用 50 mm 镜头 (等效 35 mm 画幅) 无限远对焦、屈光度设为 -1m⁻¹；对角视角: 约 32° (水平视角: 约 27° ) 内置 眼传感器",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "0.5 inch approx. 3.69 millions dots OLED Color Viewfinder (4:3) / Coverage of viewing area vs. capturing area: approx. 100% / Eyepoint: approx. 16.8mm (from the eyepiece lens) Diopter adjustment: -4~+2m-1 / Magnification: 0.66× with 50mm lens (35mm equivalent) at infinity and diopter set to -1m-1 / Diagonal angle of view: approx. 32° (Horizontal angle of view: approx. 27° ) Built-in eye sensor"
         },
         {
           "label": "液晶屏",
-          "value": "3.0 inch, aspect ratio 3:2, 约 180 degree tilting 1.62 millions dots 触摸屏 color LCD monitor(约 100% coverage)",
+          "value": "3.0 英寸, 画面比例 3:2, 约 180 度 可翻折 1.62 百万点 触摸屏 彩色液晶显示屏(约 100% 视野率)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "3.0 inch, aspect ratio 3:2, approx. 180 degree tilting 1.62 millions dots touch screen color LCD monitor(approx. 100% coverage)"
         },
         {
           "label": "辅助屏幕",
-          "value": "1.28 inch, aspect ration 1:1, Color Memory LCD",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "1.28 英寸, 画面比例n 1:1, 彩色记忆液晶屏",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "1.28 inch, aspect ration 1:1, Color Memory LCD"
         }
       ]
     },
@@ -493,51 +538,55 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W126S Li-ion battery (included)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "NP-W126S 锂离子电池（随附）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "NP-W126S Li-ion battery (included)"
         },
         {
           "label": "电源 / 照片续航",
-          "value": "约 370 / 440 frames (EVF / OVF Normal Mode) When XF35mmF1.4 R is set.",
+          "value": "约 370；440张 (EVF；OVF 标准 模式) 安装XF35mmF1.4 R镜头时",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "Approx. 370 / 440 frames (EVF / OVF Normal Mode) When XF35mmF1.4 R is set."
         },
         {
-          "label": "电源 / Actual battery life of / 视频 capture / *人脸检测 is set to OFF",
-          "value": "[4K] 约 45min. (29.97p) / [Full HD] 约 45min. (59.94p)",
+          "label": "电源 / 视频实际续航（人脸检测关闭）",
+          "value": "[4K] 约 45分钟 (29.97p)；[全高清] 约 45分钟 (59.94p)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "[4K] approx. 45min. (29.97p) / [Full HD] approx. 45min. (59.94p)"
         },
         {
-          "label": "电源 / Continuance battery life of / 视频 capture / *人脸检测 is set to OFF",
-          "value": "[4K] 约 60min. (29.97p) / [Full HD] 约 75min. (59.94p)",
+          "label": "电源 / 视频连续录制续航（人脸检测关闭）",
+          "value": "[4K] 约 60分钟 (29.97p)；[全高清] 约 75分钟 (59.94p)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "[4K] approx. 60min. (29.97p) / [Full HD] approx. 75min. (59.94p)"
         },
         {
           "label": "尺寸",
-          "value": "(W) 140.5mm × (H) 82.8mm × (D) 46.1mm / (W) 5.5in × (H) 3.3in × (D) 1.8in (minimum depth 34.8mm/1.4in)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "value": "(W) 140.5mm × (H) 82.8mm × (D) 46.1mm；(W) 5.5in × (H) 3.3in × (D) 1.8in (最薄处 34.8mm/1.4in)",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "(W) 140.5mm × (H) 82.8mm × (D) 46.1mm / (W) 5.5in × (H) 3.3in × (D) 1.8in (minimum depth 34.8mm/1.4in)"
         },
         {
           "label": "重量",
-          "value": "约 497g / 17.5oz (including battery and SD memory card) / 约 447g / 15.8oz (excluding battery and SD memory card)",
+          "value": "约 497g；17.5oz (含电池和SD存储卡)；约 447g；15.8oz (不含电池和SD存储卡)",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "Approx. 497g / 17.5oz (including battery and SD memory card) / Approx. 447g / 15.8oz (excluding battery and SD memory card)"
         },
         {
-          "label": "Operation / Environment / 工作温度",
-          "value": "'-10°C~+40°C / 32°F~104°F",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "label": "工作环境 / 工作温度",
+          "value": "'-10°C~+40°C；32°F~104°F",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "'-10°C~+40°C / 32°F~104°F"
         },
         {
-          "label": "Operation / Environment / 工作湿度",
-          "value": "10%~80% (no condensation)",
-          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/"
+          "label": "工作环境 / 工作湿度",
+          "value": "10%~80% （无凝露）",
+          "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
+          "originalValue": "10%~80% (no condensation)"
         },
         {
           "label": "启动时间",
-          "value": "约 0.4sec.",
+          "value": "约 0.4秒",
           "sourceUrl": "https://fujifilm-x.com/en-us/products/cameras/x-pro3/specifications/",
           "originalValue": "Approx. 0.4sec."
         }

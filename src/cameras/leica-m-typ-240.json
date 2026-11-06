@@ -71,8 +71,9 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "Leica M 卡口，6 bit 镜头编码传感器",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+          "value": "Leica M 卡口，6位 镜头编码传感器",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+          "originalValue": "Leica M 卡口，6 bit 镜头编码传感器"
         },
         {
           "label": "镜头系统",
@@ -81,8 +82,9 @@
         },
         {
           "label": "对焦模式",
-          "value": "手动；裂像 / 叠影测距",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+          "value": "手动；裂像；叠影测距",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+          "originalValue": "手动；裂像 / 叠影测距"
         }
       ]
     },
@@ -138,8 +140,9 @@
         },
         {
           "label": "感光度范围",
-          "value": "ISO 200–6400，Pull 100，自动 / 手动",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+          "value": "ISO 200–6400，Pull 100，自动；手动",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+          "originalValue": "ISO 200–6400，Pull 100，自动 / 手动"
         },
         {
           "label": "白平衡",
@@ -189,8 +192,9 @@
         },
         {
           "label": "闪光控制",
-          "value": "中央重点 TTL 预闪；前 / 后帘同步",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+          "value": "中央重点 TTL 预闪；前；后帘同步",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+          "originalValue": "中央重点 TTL 预闪；前 / 后帘同步"
         }
       ]
     },
@@ -210,13 +214,15 @@
         },
         {
           "label": "自拍定时",
-          "value": "2 秒 / 12 秒",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+          "value": "2 秒；12 秒",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+          "originalValue": "2 秒 / 12 秒"
         },
         {
           "label": "视频格式",
-          "value": "Motion JPEG / QuickTime",
-          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf"
+          "value": "Motion JPEG；QuickTime",
+          "sourceUrl": "https://leica-camera.com/sites/default/files/pm-28562-Leica-MTyp240_Instructions_en.pdf",
+          "originalValue": "Motion JPEG / QuickTime"
         },
         {
           "label": "音频",

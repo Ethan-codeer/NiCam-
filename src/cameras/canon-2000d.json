@@ -6,7 +6,7 @@
   "format": "APS-C",
   "type": "单反相机",
   "megapixels": 24.1,
-  "width": 129.0,
+  "width": 129,
   "height": 101.3,
   "depth": 77.6,
   "description": "Canon EOS 2000D，APS-C数码单反相机。",
@@ -19,7 +19,7 @@
       "title": "传感器",
       "rows": [
         {
-          "label": "类型",
+          "label": "传感器类型",
           "value": "约 22.3 mm x 14.9 mm CMOS",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
         },
@@ -45,8 +45,9 @@
         },
         {
           "label": "除尘系统",
-          "value": "手动 cleaning and Dust Delete Data acquisition",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "手动清洁及除尘数据采集",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "手动 cleaning and Dust Delete Data acquisition"
         },
         {
           "label": "彩色滤镜",
@@ -60,7 +61,7 @@
       "title": "影像处理器",
       "rows": [
         {
-          "label": "类型",
+          "label": "处理器",
           "value": "DIGIC 4+",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
         }
@@ -77,8 +78,9 @@
         },
         {
           "label": "焦距换算",
-          "value": "Equivalent to 1.6x the focal length of the lens",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "35mm等效焦距换算系数1.6×",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Equivalent to 1.6x the focal length of the lens"
         }
       ]
     },
@@ -87,44 +89,52 @@
       "title": "对焦系统",
       "rows": [
         {
-          "label": "类型",
-          "value": "Via optical viewfinder: / TTL secondary image-forming phase-difference detection system 使用 AF-dedicated sensor / Via Live View on LCD screen: / Contrast detection AF",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "label": "自动对焦系统",
+          "value": "通过光学取景器:；使用专用AF传感器的TTL二次成像相位差检测系统；通过液晶屏实时取景:；反差检测AF",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Via optical viewfinder: / TTL secondary image-forming phase-difference detection system 使用 AF-dedicated sensor / Via Live View on LCD screen: / Contrast detection AF"
         },
         {
           "label": "自动对焦系统与点数",
-          "value": "Via optical viewfinder: / 9 AF points (f/5.6 cross type at centre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "通过光学取景器:；9 AF点 (中央f/5.6十字型)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Via optical viewfinder: / 9 AF points (f/5.6 cross type at centre)"
         },
         {
           "label": "对焦工作范围",
-          "value": "Via optical viewfinder: / 中央对焦点: EV 0 -18 (at room temperature & ISO100) / Other AF points: EV 1 -18 (at room temperature & ISO100) / Via Live View LCD screen: / EV 1 -18 (at room temperature & ISO100)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "通过光学取景器:；中央对焦点: EV 0 -18 (室温、ISO 100)；其他AF点: EV 1 -18 (室温、ISO 100)；通过液晶屏实时取景:；EV 1 -18 (室温、ISO 100)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Via optical viewfinder: / 中央对焦点: EV 0 -18 (at room temperature & ISO100) / Other AF points: EV 1 -18 (at room temperature & ISO100) / Via Live View LCD screen: / EV 1 -18 (at room temperature & ISO100)"
         },
         {
           "label": "对焦模式",
-          "value": "Via optical viewfinder: / AI Focus (Switches between 单次自动对焦 and AI SERVO AF automatically) / 单次自动对焦 AF / AI Servo / 手动 / Via Live View LCD screen: / 单次自动对焦 AF (Contrast detect AF) / Quick Mode (via phase detection AF sensor) / 手动",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "通过光学取景器:；AI Focus (自动切换单次AF及AI Servo AF)；单次自动对焦 AF；AI Servo；手动；通过液晶屏实时取景:；单次自动对焦 AF (反差检测AF)；快速模式（使用相位检测AF传感器）；手动",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Via optical viewfinder: / AI Focus (Switches between 单次自动对焦 and AI SERVO AF automatically) / 单次自动对焦 AF / AI Servo / 手动 / Via Live View LCD screen: / 单次自动对焦 AF (Contrast detect AF) / Quick Mode (via phase detection AF sensor) / 手动"
         },
         {
           "label": "对焦点选择",
-          "value": "Via optical viewfinder: / Automatic selection from 最高 9 points / 手动 selection / Via Live View on LCD screen: / FlexiZone - Freely position 1 AF point via manual selection / Live Mode - Automatic selection 使用 face detection",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "通过光学取景器:；自动选择最多9点；手动选择；通过液晶屏实时取景:；FlexiZone：手动自由移动单个AF点；实时模式：使用脸部识别自动选择",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Via optical viewfinder: / Automatic selection from 最高 9 points / 手动 selection / Via Live View on LCD screen: / FlexiZone - Freely position 1 AF point via manual selection / Live Mode - Automatic selection 使用 face detection"
         },
         {
           "label": "对焦锁定",
-          "value": "Locked when shutter button is pressed half way in 单次自动对焦 AF mode. Customisation available via AE Lock Button",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "单次AF模式下半按快门锁定，可通过AE锁定按钮自定义",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Locked when shutter button is pressed half way in 单次自动对焦 AF mode. Customisation available via AE Lock Button"
         },
         {
           "label": "对焦辅助灯",
-          "value": "Intermittent firing of built-in flash or emitted by optional dedicated Speedlite (effective 最高 4.0 m)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "内置闪光灯间歇闪光，或由另售专用Speedlite发出（有效范围最高4m）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Intermittent firing of built-in flash or emitted by optional dedicated Speedlite (effective 最高 4.0 m)"
         },
         {
           "label": "手动对焦",
-          "value": "Selected on lens",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "在镜头上选择",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Selected on lens"
         }
       ]
     },
@@ -134,30 +144,34 @@
       "rows": [
         {
           "label": "测光模式",
-          "value": "Via optical viewfinder: / Evaluative via 63 zone dual-layer metering sensor (linked to all AF points) / Partial (centre, 约 10% of viewfinder) / Centre-weighted average available / Via Live View on LCD screen: / Evaluative metering (315 zones)",
+          "value": "通过光学取景器:；使用63区双层传感器评价测光 (联动所有AF点)；局部测光（中央约10%取景画面）；支持中央重点平均测光；通过液晶屏实时取景:；评价测光 (315区)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
           "originalValue": "Via optical viewfinder: / Evaluative via 63 zone dual-layer metering sensor (linked to all AF points) / Partial (centre, approx. 10% of viewfinder) / Centre-weighted average available / Via Live View on LCD screen: / Evaluative metering (315 zones)"
         },
         {
           "label": "自动曝光锁定",
-          "value": "自动: In 1-shot AF mode 使用 evaluative metering exposure is locked when focus is achieved. / 手动: By AE lock button in creative zone modes.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "自动: 单次AF及评价测光时，合焦即锁定曝光。；手动: 在创意拍摄区模式使用AE锁定按钮。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "自动: In 1-shot AF mode 使用 evaluative metering exposure is locked when focus is achieved. / 手动: By AE lock button in creative zone modes."
         },
         {
           "label": "曝光补偿",
-          "value": "+/-5 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB).",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "+/-5 EV 以1/3或1/2档步进 (可结合自动曝光包围使用).",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "+/-5 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)."
         },
         {
           "label": "自动包围曝光",
-          "value": "3 张 +/- 2 EV, 1/2 or 1/3-stop increments",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "3 张 +/- 2 EV, 1/2或1/3档步进",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "3 张 +/- 2 EV, 1/2 or 1/3-stop increments"
         },
         {
           "label": "感光度",
-          "value": "AUTO(100-6400), 100-6400 in 1-stop increments / ISO can be expanded to H: 12800 / During Movie shooting: 自动 (100-6400), 100-6400 (Whole stop increments)",
+          "value": "自动(100-6400), 100-6400 以1档步进；ISO可扩展至 H: 12800；视频拍摄时: 自动 (100-6400), 100-6400 (1档步进)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "Recommended Exposure Index"
+          "condition": "推荐曝光指数",
+          "originalValue": "AUTO(100-6400), 100-6400 in 1-stop increments / ISO can be expanded to H: 12800 / During Movie shooting: 自动 (100-6400), 100-6400 (Whole stop increments)"
         }
       ]
     },
@@ -166,14 +180,16 @@
       "title": "快门",
       "rows": [
         {
-          "label": "类型",
-          "value": "电子控制 焦平面快门, 使用 electronic first curtain",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "label": "快门类型",
+          "value": "电子控制焦平面快门，采用电子前帘",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "电子控制 焦平面快门, 使用 electronic first curtain"
         },
         {
           "label": "快门速度",
-          "value": "30-1/4000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "30-1/4000秒 (1/2或1/3档步进), B门 (整体快门速度范围；实际可用范围随拍摄模式变化)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "30-1/4000 sec (1/2 or 1/3 stop increments), Bulb (Total shutter speed range. Available range varies by shooting mode)"
         }
       ]
     },
@@ -182,24 +198,28 @@
       "title": "白平衡",
       "rows": [
         {
-          "label": "类型",
-          "value": "自动白平衡 使用 the imaging sensor",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "label": "白平衡检测",
+          "value": "使用图像传感器自动检测白平衡",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "自动白平衡 使用 the imaging sensor"
         },
         {
           "label": "设置",
-          "value": "AWB (Ambience priority, White priority), 日光, 阴影, 阴天, Tungsten, 白色荧光灯, Flash, 自定义 (约 2000 K - 10000 K). / White balance compensation: / Blue/Amber +/-9 / Magenta/ Green +/-9.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, 闪光, 自定义 (约 2000 K - 10000 K).；白平衡补偿:；蓝色／琥珀色 +/-9；洋红／绿色 +/-9.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "AWB (Ambience priority, White priority), 日光, 阴影, 阴天, Tungsten, 白色荧光灯, Flash, 自定义 (约 2000 K - 10000 K). / White balance compensation: / Blue/Amber +/-9 / Magenta/ Green +/-9."
         },
         {
           "label": "自定义白平衡",
-          "value": "支持, 1 setting can be registered",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "支持保存一组设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "支持, 1 setting can be registered"
         },
         {
           "label": "白平衡包围",
-          "value": "+/-3 levels in single level increments / 3 bracketed 张图像 per shutter release. / Selectable Blue/Amber bias or Magenta/Green bias.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "+/-3 级，1级步进；每次释放快门拍摄3张包围照片.；可选择 蓝色／琥珀色偏移或洋红／绿色偏移.",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "+/-3 levels in single level increments / 3 bracketed 张图像 per shutter release. / Selectable Blue/Amber bias or Magenta/Green bias."
         }
       ]
     },
@@ -208,7 +228,7 @@
       "title": "取景器",
       "rows": [
         {
-          "label": "类型",
+          "label": "取景器类型",
           "value": "Pentamirror",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
         },
@@ -221,27 +241,31 @@
           "label": "放大倍率",
           "value": "约 0.80x",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "使用 50mm lens at 无限远, -1m-1 dpt"
+          "condition": "50mm镜头、无限远对焦、屈光度−1m⁻¹时"
         },
         {
           "label": "眼点",
-          "value": "约 21mm (from eyepiece lens center)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "约 21mm (从目镜透镜中心起)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "约 21mm (from eyepiece lens center)"
         },
         {
           "label": "屈光度调节",
-          "value": "-2.5 to +0.5 m-1 (dioptre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "-2.5至+0.5 m-1 (屈光度)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "-2.5 to +0.5 m-1 (dioptre)"
         },
         {
           "label": "景深预览",
-          "value": "支持, assigned to SET button",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "支持， 分配至SET按钮",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "支持, assigned to SET button"
         },
         {
           "label": "目镜遮光",
-          "value": "On strap",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "肩带附带",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "On strap"
         }
       ]
     },
@@ -250,8 +274,8 @@
       "title": "显示屏",
       "rows": [
         {
-          "label": "类型",
-          "value": "7.5 cm (3.0\") TFT LCD, 约 920 K dots",
+          "label": "显示屏类型",
+          "value": "7.5 cm (3.0\") TFT LCD, 约 920千点",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
           "originalValue": "7.5 cm (3.0\") TFT LCD, approx. 920 K dots"
         },
@@ -267,13 +291,15 @@
         },
         {
           "label": "亮度调节",
-          "value": "Adjustable to one of seven levels",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "七级亮度调节",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Adjustable to one of seven levels"
         },
         {
           "label": "显示选项",
-          "value": "Quick Control Screen / Camera settings",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "速控屏幕；Camera 档设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Quick Control Screen / Camera settings"
         }
       ]
     },
@@ -283,19 +309,22 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "自动, 手动 Flash On/off",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "自动、手动、闪光开启／关闭",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "自动, 手动 Flash On/off"
         },
         {
           "label": "闪光同步速度",
-          "value": "Cameras manufactured before September 2020 are not equipped 使用 an X-contact, 最高 flash sync speed: 1/200 sec. 使用 compatible Speedlites",
+          "value": "2020年9月前生产机身未配备X触点；使用兼容Speedlite时最高同步速度1/200秒。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "For cameras without an X-contact: Speedlites other than the EX-series or non-Canon flash units cannot be used. Not all functions of the Canon EX-series flashes are supported."
+          "condition": "无X触点机身不能使用非EX系列Speedlite或非佳能闪光灯；佳能EX系列也并非所有功能均受支持。",
+          "originalValue": "Cameras manufactured before September 2020 are not equipped 使用 an X-contact, 最高 flash sync speed: 1/200 sec. 使用 compatible Speedlites"
         },
         {
           "label": "闪光曝光补偿",
-          "value": "+/- 2EV in 1/2 or 1/3 increments",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "+/- 2EV 以1/2或1/3档步进",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "+/- 2EV in 1/2 or 1/3 increments"
         },
         {
           "label": "闪光曝光锁定",
@@ -309,14 +338,16 @@
         },
         {
           "label": "外接闪光灯兼容",
-          "value": "E-TTL II 使用 EX series Speedlites",
+          "value": "E-TTL II 使用 EX系列Speedlite",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "For cameras without an X-contact: Speedlites other than the EX-series or non-Canon flash units cannot be used. Not all functions of the Canon EX-series flashes are supported."
+          "condition": "无X触点机身不能使用非EX系列Speedlite或非佳能闪光灯；佳能EX系列也并非所有功能均受支持。",
+          "originalValue": "E-TTL II 使用 EX series Speedlites"
         },
         {
           "label": "外接闪光灯控制",
-          "value": "Available via camera menu screen, except for wireless radio flash shooting settings",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "可通过相机菜单设置，无线电闪光拍摄设置除外",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Available via camera menu screen, except for wireless radio flash shooting settings"
         }
       ]
     },
@@ -326,8 +357,9 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "Scene Intelligent 自动, 不支持 Flash, Creative 自动, 人像, 风光, Close-up, Sports, Food, Night 人像, Movie, Program AE , Shutter priority AE, Aperture priority AE, 手动",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "场景智能自动, 不支持 闪光, 创意自动, 人像, 风光, 微距, 运动, 食物, 夜间人像, 视频, 程序自动曝光 , 快门优先自动曝光, 光圈优先自动曝光, 手动",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Scene Intelligent 自动, 不支持 Flash, Creative 自动, 人像, 风光, Close-up, Sports, Food, Night 人像, Movie, Program AE , Shutter priority AE, Aperture priority AE, 手动"
         },
         {
           "label": "照片风格",
@@ -336,24 +368,27 @@
         },
         {
           "label": "色彩空间",
-          "value": "sRGB and Adobe RGB",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "sRGB及Adobe RGB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "sRGB and Adobe RGB"
         },
         {
           "label": "图像处理",
-          "value": "Highlight Tone Priority / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction / High ISO speed noise reduction (4 settings) / 自动 Correction of Lens Peripheral illumination (最高 36 lens profiles can be registered in camera) / Creative filters (Grainy B/W, Soft focus, Toy camera, Miniature effect, Fish-eye) - during image Playback only",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "高光色调优先、四档自动亮度优化、长曝光降噪、四档高ISO降噪；自动周边光量校正，机内最多注册36款镜头配置。回放时可应用颗粒黑白、柔焦、玩具相机、微缩景观及鱼眼滤镜。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Highlight Tone Priority / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction / High ISO speed noise reduction (4 settings) / 自动 Correction of Lens Peripheral illumination (最高 36 lens profiles can be registered in camera) / Creative filters (Grainy B/W, Soft focus, Toy camera, Miniature effect, Fish-eye) - during image Playback only"
         },
         {
           "label": "驱动模式",
-          "value": "Single, Continuous, Self timer (2s, 10s, 10s + continuous 张 2-10)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "单张、 连续, 自拍（2秒、10秒、10秒后连续拍摄2–10张）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Single, Continuous, Self timer (2s, 10s, 10s + continuous 张 2-10)"
         },
         {
           "label": "连续拍摄",
-          "value": "最高 约 3 fps for 约 150 JPEG 张图像, 11 张图像 RAW",
+          "value": "最高约 3 fps 可连续约150张JPEG或11张RAW",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "Large/Fine (Quality 8) resolution / Based on Canon's testing conditions, JPEG, ISO 100, 标准 Picture Style. Varies depending on the subject, memory card brand and capacity, image recording quality, ISO speed, drive mode, Picture Style, 自定义 functions etc. / Sustained continuous shooting speed is tested based on Canon's testing standard. Function requires compatible SDHC/SDXC UHS Speed Class 1 memory card, total number of frames captured varies depending on shooting subject, settings and brand of memory card",
+          "condition": "佳能测试条件：JPEG、ISO 100、标准照片风格；最高速度和缓存张数随主体、亮度、相机设置、存储卡品牌／容量、画质和自定义功能变化。大尺寸／精细画质（画质8）。需兼容SDHC／SDXC UHS-I存储卡。",
           "originalValue": "最高 约 3 fps for approx. 150 JPEG 张图像, 11 张图像 RAW"
         }
       ]
@@ -364,43 +399,51 @@
       "rows": [
         {
           "label": "静态图像格式",
-          "value": "JPEG: Fine, Normal (Exif 2.30 compliant) / Design rule for Camera File system (2.0), / RAW: RAW (14bit, Canon original RAW 2nd edition), / Digital Print Order Format [DPOF] Version 1.1 compliant",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "JPEG: 精细, 标准 (兼容Exif 2.30)；DCF 2.0,；RAW: RAW (14位, 佳能第二版原始RAW格式),；兼容DPOF 1.1",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "JPEG: Fine, Normal (Exif 2.30 compliant) / Design rule for Camera File system (2.0), / RAW: RAW (14bit, Canon original RAW 2nd edition), / Digital Print Order Format [DPOF] Version 1.1 compliant"
         },
         {
           "label": "RAW与JPEG同时记录",
-          "value": "支持, RAW + Large JPEG",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "支持， RAW + 大 JPEG",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "支持, RAW + Large JPEG"
         },
         {
           "label": "图像尺寸",
-          "value": "JPEG 3:2: (L) 6000 x 4000, (M) 3984 x 2656, (S1) 2976 x 1984, (S2) 1920 x 1280, (S3) 720 x 480 / JPEG 4:3: (L) 5328 x 4000, (M) 3552 x 2664, (S1) 2656 x 1992, (S2) 1696 x 1280, (S3) 640 x 480 / JPEG 16:9: (L) 6000 x 3368, (M) 3984 x 2240, (S1) 2976 x 1680 (S2) 1920 x 1080, (S3) 720 x 408 / JPEG 1:1: (L) 4000 x 4000, (M) 2656 x 2656, (S1) 1984 x 1984, (S2) 1280 x 1280, (S3) 480 x 480 / RAW: (RAW) 6000 x 4000",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "JPEG 3:2: (L) 6000 x 4000, (M) 3984 x 2656, (S1) 2976 x 1984, (S2) 1920 x 1280, (S3) 720 x 480；JPEG 4:3: (L) 5328 x 4000, (M) 3552 x 2664, (S1) 2656 x 1992, (S2) 1696 x 1280, (S3) 640 x 480；JPEG 16:9: (L) 6000 x 3368, (M) 3984 x 2240, (S1) 2976 x 1680 (S2) 1920 x 1080, (S3) 720 x 408；JPEG 1:1: (L) 4000 x 4000, (M) 2656 x 2656, (S1) 1984 x 1984, (S2) 1280 x 1280, (S3) 480 x 480；RAW: (RAW) 6000 x 4000",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "JPEG 3:2: (L) 6000 x 4000, (M) 3984 x 2656, (S1) 2976 x 1984, (S2) 1920 x 1280, (S3) 720 x 480 / JPEG 4:3: (L) 5328 x 4000, (M) 3552 x 2664, (S1) 2656 x 1992, (S2) 1696 x 1280, (S3) 640 x 480 / JPEG 16:9: (L) 6000 x 3368, (M) 3984 x 2240, (S1) 2976 x 1680 (S2) 1920 x 1080, (S3) 720 x 408 / JPEG 1:1: (L) 4000 x 4000, (M) 2656 x 2656, (S1) 1984 x 1984, (S2) 1280 x 1280, (S3) 480 x 480 / RAW: (RAW) 6000 x 4000"
         },
         {
           "label": "视频格式",
-          "value": "MOV (Video: H.264 inter frame (IPB), Sound: Linear PCM, recording level can be manually adjusted by user)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "MOV (视频： H.264 帧间压缩 (IPB), Sound: 线性PCM, 录音电平可手动调整)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "MOV (Video: H.264 inter frame (IPB), Sound: Linear PCM, recording level can be manually adjusted by user)"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "1920 x 1080 (30, 25, 24 fps) / 1280 x 720 (60, 50 fps) / 640 x 480 (30, 25 fps)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "1920 x 1080 (30, 25, 24 fps)；1280 x 720 (60, 50 fps)；640 x 480 (30, 25 fps)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "1920 x 1080 (30, 25, 24 fps) / 1280 x 720 (60, 50 fps) / 640 x 480 (30, 25 fps)"
         },
         {
           "label": "单段视频长度",
-          "value": "Max duration 29 min 59 sec, Max file size 4 GB",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "最长时长 29分钟 59秒, 最大文件大小 4 GB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Max duration 29 min 59 sec, Max file size 4 GB"
         },
         {
           "label": "文件夹",
-          "value": "New folders can be manually created and selected",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "可手动创建和选择文件夹",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "New folders can be manually created and selected"
         },
         {
           "label": "文件编号",
-          "value": "Consecutive numbering / 自动 reset / 手动 reset",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "连续编号；自动 重置；手动 重置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Consecutive numbering / 自动 reset / 手动 reset"
         }
       ]
     },
@@ -410,20 +453,23 @@
       "rows": [
         {
           "label": "电脑接口",
-          "value": "Hi-Speed USB only",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "仅Hi-Speed USB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Hi-Speed USB only"
         },
         {
           "label": "无线网络",
-          "value": "Wi-Fi (IEEE802.11b/g/n), (2.4 GHz only) / Connectivity to Smart devices is possible via Canon Camera Connect app",
+          "value": "Wi-Fi (IEEE802.11b/g/n), (仅2.4GHz)；通过Canon Camera Connect应用连接智能设备",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "Wi-Fi use may be restricted in certain countries or regions. / Canon Camera Connect app is available for Apple iOS and Andriod devices only. Please refer to Google PlayStore® and Apple AppStore® for compatible versions of Android OS and Apple iOS."
+          "condition": "部分国家或地区可能限制Wi-Fi使用。；Canon Camera Connect仅支持Apple iOS及Android设备；兼容系统版本见对应应用商店。",
+          "originalValue": "Wi-Fi (IEEE802.11b/g/n), (2.4 GHz only) / Connectivity to Smart devices is possible via Canon Camera Connect app"
         },
         {
           "label": "其他接口",
-          "value": "HDMI mini (Type-C) output",
+          "value": "HDMI Mini（Type-C）输出",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "Canon Camera Connect app is available for Apple iOS and Andriod devices only. Please refer to Google PlayStore® and Apple AppStore® for compatible versions of Android OS and Apple iOS."
+          "condition": "Canon Camera Connect仅支持Apple iOS及Android设备；兼容系统版本见对应应用商店。",
+          "originalValue": "HDMI mini (Type-C) output"
         }
       ]
     },
@@ -432,9 +478,10 @@
       "title": "存储",
       "rows": [
         {
-          "label": "类型",
-          "value": "SD card, SDHC card or SDXC card",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "label": "存储介质",
+          "value": "SD／SDHC／SDXC存储卡",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "SD card, SDHC card or SDXC card"
         }
       ]
     },
@@ -449,19 +496,22 @@
         },
         {
           "label": "电池续航",
-          "value": "约 500 (23°C时, AE 50%, FE 50%) / 约 410 (0°C时, AE 50%, FE 50%)",
+          "value": "约 500 (23°C时, AE 50%, FE 50%)；约 410 (0°C时, AE 50%, FE 50%)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
-          "condition": "Based on the CIPA 标准 and using the batteries and memory card format supplied 使用 the camera, except where indicated"
+          "condition": "除特别说明外，依CIPA标准使用随附电池及规定存储卡测定。",
+          "originalValue": "约 500 (23°C时, AE 50%, FE 50%) / 约 410 (0°C时, AE 50%, FE 50%)"
         },
         {
           "label": "电量显示",
-          "value": "4 levels",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "4级",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "4 levels"
         },
         {
           "label": "节电",
-          "value": "Power turns off after 30 sec or 1, 2, 4, 8 or 15 mins.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/"
+          "value": "自动关机时间： 30秒或1, 2, 4, 8或15分钟",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-2000d/specifications/",
+          "originalValue": "Power turns off after 30 sec or 1, 2, 4, 8 or 15 mins."
         }
       ]
     },

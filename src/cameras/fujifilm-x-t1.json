@@ -6,7 +6,7 @@
   "format": "APS-C",
   "type": "无反相机",
   "megapixels": 16.3,
-  "width": 129.0,
+  "width": 129,
   "height": 89.8,
   "depth": 46.7,
   "description": "富士 X 系列 APS-C 数码相机。参数依据官方规格表及使用说明书整理，保留拍摄模式和工作条件。",
@@ -26,14 +26,15 @@
         },
         {
           "label": "感光元件",
-          "value": "23.6mm x 15.6mm (APS-C) X-Trans CMOS II with primary color filter / Total number of pixels: 16.7 百万像素 Sensor Cleaning system Ultra Sonic Vibration",
+          "value": "23.6mm x 15.6mm (APS-C) X-Trans CMOS II 配备原色滤镜；总像素: 16.7 百万像素 传感器清洁系统 超声波振动除尘",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "23.6mm x 15.6mm (APS-C) X-Trans CMOS II with primary color filter / Total number of pixels: 16.7 million pixels Sensor Cleaning system Ultra Sonic Vibration"
         },
         {
           "label": "记录尺寸",
-          "value": "L: (3:2) 4896 x 3264 / (16:9) 4896 x 2760 / (1:1) 3264 x 3264 / M: (3:2) 3456 x 2304 / (16:9) 3456 x 1944 / (1:1) 2304 x 2304 / S: (3:2) 2496 x 1664 / (16:9) 2496 x 1408 / (1:1) 1664 x 1664 <Motion Panorama> / L: Vertical: 2160 x 9600 / Horizontal: 9600 x 1440 / M: Vertical: 2160 x 6400 / Horizontal: 6400 x 1440",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "L: (3:2) 4896 x 3264；(16:9) 4896 x 2760；(1:1) 3264 x 3264；M: (3:2) 3456 x 2304；(16:9) 3456 x 1944；(1:1) 2304 x 2304；S: (3:2) 2496 x 1664；(16:9) 2496 x 1408；(1:1) 1664 x 1664 <动态 全景>；L: 垂直: 2160 x 9600；水平: 9600 x 1440；M: 垂直: 2160 x 6400；水平: 6400 x 1440",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "L: (3:2) 4896 x 3264 / (16:9) 4896 x 2760 / (1:1) 3264 x 3264 / M: (3:2) 3456 x 2304 / (16:9) 3456 x 1944 / (1:1) 2304 x 2304 / S: (3:2) 2496 x 1664 / (16:9) 2496 x 1408 / (1:1) 1664 x 1664 <Motion Panorama> / L: Vertical: 2160 x 9600 / Horizontal: 9600 x 1440 / M: Vertical: 2160 x 6400 / Horizontal: 6400 x 1440"
         }
       ]
     },
@@ -43,28 +44,33 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD memory card / SDHC memory card / SDXC (UHS-II) memory card*1",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "SD 存储卡；SDHC 存储卡；SDXC (UHS-II) 存储卡*1",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "SD memory card / SDHC memory card / SDXC (UHS-II) memory card*1"
         },
         {
           "label": "文件格式",
-          "value": "Still image JPEG (Exif Ver 2.3)*2, RAW (RAF format), RAW+JPEG (Design rule for Camera File system compliant / DPOF-compatible) Movie Movie File Format: MOV / Movie Video Compression: H.264 / Audio: Linear PCM Stereo",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "照片 图像 JPEG (Exif Ver 2.3)*2, RAW (RAF 格式), RAW+JPEG (符合相机文件系统设计规则；兼容 DPOF) 视频 视频 文件格式: MOV；视频 视频压缩: H.264；音频: 线性PCM 立体声",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Still image JPEG (Exif Ver 2.3)*2, RAW (RAF format), RAW+JPEG (Design rule for Camera File system compliant / DPOF-compatible) Movie Movie File Format: MOV / Movie Video Compression: H.264 / Audio: Linear PCM Stereo"
         },
         {
           "label": "无线传输",
-          "value": "Standard IEEE 802.11b / g / n (standard wireless protocol) Access mode Infrastructure",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "标准 IEEE 802.11b；g；n (标准无线协议) 访问 模式 基础架构模式",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Standard IEEE 802.11b / g / n (standard wireless protocol) Access mode Infrastructure"
         },
         {
           "label": "无线功能",
-          "value": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, PC Autosave",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "地理标记, 无线通信 (图像传输), 查看 & 获取图像, 远程拍摄, 电脑自动保存",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Geotagging, Wireless communication (Image transfer), View & Obtain Images, Remote camera shooting, PC Autosave"
         },
         {
           "label": "接口",
-          "value": "Video output - Digital interface USB 2.0 High-Speed / micro USB terminal * connectable with Remote Release RR-90 (sold separately) HDMI output HDMI mini connector (Type C) Others Microphone / shutter release input: ø2.5mm, stereo mini connector",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "视频输出 - 数字接口 USB 2.0 高速；Micro USB 接口 * 可连接 RR-90 快门线 (另售) HDMI 输出 HDMI Mini接口 (Type C) 其他 麦克风；快门线输入: ø2.5mm, 立体声迷你接口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Video output - Digital interface USB 2.0 High-Speed / micro USB terminal * connectable with Remote Release RR-90 (sold separately) HDMI output HDMI mini connector (Type C) Others Microphone / shutter release input: ø2.5mm, stereo mini connector"
         }
       ]
     },
@@ -74,13 +80,15 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "对焦",
-          "value": "mode Single AF / Continuous AF / MF Distance Indicator type Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF), AF assist illuminator available AF frame selection Area (EVF / LCD : 49 areas with 7 x 7) / Multi * Changeable size of AF frame among 5 types",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "模式 单次AF／连续AF／手动对焦 距离指示 type 智能混合AF（TTL反差检测／TTL相位检测）, 支持 AF 辅助灯 AF框选择 区域 (EVF；LCD : 49 areas 搭配 7 x 7)；多重 * AF框尺寸可调 among 5 types",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "mode Single AF / Continuous AF / MF Distance Indicator type Intelligent Hybrid AF (TTL contrast AF / TTL phase detection AF), AF assist illuminator available AF frame selection Area (EVF / LCD : 49 areas with 7 x 7) / Multi * Changeable size of AF frame among 5 types"
         }
       ]
     },
@@ -90,29 +98,33 @@
       "rows": [
         {
           "label": "感光度",
-          "value": "AUTO (Control available 最高 ISO 6400) / Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / Extended output sensitivity : Equivalent ISO 100, 12800, 25600 and 51200",
+          "value": "自动 (可设置 最高 ISO 6400)；等效 ISO 200 - 6400 (标准 输出感光度)；扩展感光度 : 等效 ISO 100, 12800, 25600 及 51200",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "AUTO (Control available up to ISO 6400) / Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / Extended output sensitivity : Equivalent ISO 100, 12800, 25600 and 51200"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zone metering, Multi / Spot / Average",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "TTL 256区测光, 多重；点测光；平均",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "TTL 256-zone metering, Multi / Spot / Average"
         },
         {
           "label": "曝光模式",
-          "value": "Programmed AE / Shutter Speed priority AE / Aperture priority AE / Manual exposure",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "程序自动曝光；快门优先自动曝光；光圈优先 AE；手动曝光",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Programmed AE / Shutter Speed priority AE / Aperture priority AE / Manual exposure"
         },
         {
           "label": "曝光补偿",
-          "value": "-3.0EV - +3.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "-3.0EV - +3.0EV, 1/3EV 步长；(视频录制 : -2.0EV - +2.0EV)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "-3.0EV - +3.0EV, 1/3EV step / (movie recording : -2.0EV - +2.0EV)"
         },
         {
           "label": "白平衡",
-          "value": "Automatic scene recognition / Custom / Color temperature selection (K) / Preset : Fine / Shade / Fluorescent light (Daylight) / Fluorescent light (Warm White) / Fluorescent light (Cool White) / Incandescent light / Underwater",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "自动场景识别；自定义；色温选择 (K)；预设 : 晴天；阴影；荧光灯 (日光)；荧光灯 (暖白色)；荧光灯 (冷白色)；白炽灯；水下",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Automatic scene recognition / Custom / Color temperature selection (K) / Preset : Fine / Shade / Fluorescent light (Daylight) / Fluorescent light (Warm White) / Fluorescent light (Cool White) / Incandescent light / Underwater"
         }
       ]
     },
@@ -122,8 +134,9 @@
       "rows": [
         {
           "label": "防抖",
-          "value": "Supported with OIS type lenses",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "使用OIS镜头时支持",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Supported with OIS type lenses"
         },
         {
           "label": "人脸检测",
@@ -133,60 +146,69 @@
         },
         {
           "label": "连拍",
-          "value": "约 8.0 fps (JPEG : max. 约 47 frames) / 约 3.0 fps (JPEG : 最高 the capacity of the card) * Recordable frame number may vary depending on the type of memory card used. * The frame rate varies with shooting condition and the number of images recorded.",
+          "value": "约 8.0 fps (JPEG : 最多 约 47张)；约 3.0 fps (JPEG : 最高 取决于存储卡容量) * 可记录张数因存储卡类型而异 * 连拍速度取决于拍摄环境和拍摄张数",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "Approx. 8.0 fps (JPEG : max. approx. 47 frames) / Approx. 3.0 fps (JPEG : up to the capacity of the card) * Recordable frame number may vary depending on the type of memory card used. * The frame rate varies with shooting condition and the number of images recorded."
         },
         {
           "label": "自动包围",
-          "value": "AE Bracketing (±1/3EV, ±2/3EV, ±1EV) / Film Simulation Bracketing (Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV) / White Balance Bracketing (±1, ±2, ±3)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "自动曝光包围 (±1/3EV, ±2/3EV, ±1EV)；胶片模拟包围 (可选择任意三种胶片模拟)；动态范围包围 (100% · 200% · 400%)；感光度包围 (±1/3EV, ±2/3EV, ±1EV)；白平衡包围 (±1, ±2, ±3)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "AE Bracketing (±1/3EV, ±2/3EV, ±1EV) / Film Simulation Bracketing (Any 3 types of film simulation selectable) / Dynamic Range Bracketing (100% · 200% · 400%) / ISO sensitivity Bracketing (±1/3EV, ±2/3EV, ±1EV) / White Balance Bracketing (±1, ±2, ±3)"
         },
         {
           "label": "自拍",
-          "value": "10 sec. / 2 sec. Delay",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "10秒；2秒 延时",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "10 sec. / 2 sec. Delay"
         },
         {
           "label": "间隔拍摄",
-          "value": "Yes (Setting : Interval, Number of shots, Startinng time)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "支持 (设置 : 间隔, 拍摄张数, 启动时间)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Yes (Setting : Interval, Number of shots, Startinng time)"
         },
         {
           "label": "视频记录",
-          "value": "Full HD 1920 x 1080 60p / 30p, Continuous recording : 最高 约 14 min. / HD 1280 x 720 60p / 30p, Continuous recording : 最高 约 27 min. * Use a card with SD Speed Class with or higher",
+          "value": "全高清 1920 x 1080 60p；30p, 连续录制 : 最高 约 14分钟；HD 1280 x 720 60p；30p, 连续录制 : 最高 约 27分钟 * 请使用 SD 速度等级 搭配 或更高",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "Full HD 1920 x 1080 60p / 30p, Continuous recording : up to approx. 14 min. / HD 1280 x 720 60p / 30p, Continuous recording : up to approx. 27 min. * Use a card with SD Speed Class with or higher"
         },
         {
           "label": "胶片模拟",
-          "value": "10 type (PROVIA/STANDARD, Velvia/VIVID, ASTIA/SOFT, PRO Neg Hi, PRO Neg. Std, MONOCHROME, MONOCHROME+Ye FILTER, MONOCHROME+R FILTER, MONOCHROME+G FILTER, SEPIA)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "10 type (PROVIA/标准, Velvia/鲜艳, ASTIA/柔和, PRO Neg Hi, PRO Neg. Std, 黑白, 黑白+黄滤镜, 黑白+红滤镜, 黑白+绿滤镜, 棕褐色)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "10 type (PROVIA/STANDARD, Velvia/VIVID, ASTIA/SOFT, PRO Neg Hi, PRO Neg. Std, MONOCHROME, MONOCHROME+Ye FILTER, MONOCHROME+R FILTER, MONOCHROME+G FILTER, SEPIA)"
         },
         {
           "label": "动态范围",
-          "value": "AUTO (100-400%), 100%, 200%, 400%",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "自动 (100-400%), 100%, 200%, 400%",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "AUTO (100-400%), 100%, 200%, 400%"
         },
         {
           "label": "创意滤镜",
-          "value": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "玩具相机；微缩景观；流行色彩；高调；低调；动态色调；柔焦；局部色彩 (红色；橙色；黄色；绿色；蓝色；紫色)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Toy camera / Miniature / Pop color / High-key / Low-key / Dynamic tone / Soft focus / Partial color (Red / Orange / Yellow / Green / Blue / Purple)"
         },
         {
           "label": "其他拍摄功能",
-          "value": "Auto Red-eye Removal, Setting (Color, Sharpness, D-range, Gradation), Select custom setting, Motion panorama, Color space, Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Lens Modulatioon Optimizer, Pre-AF, Focus check, Focus Peak Highlight, Digital Split Image™*3, Electronic level, Multiple exposure, Interval timer shooting, Release priority / Focus priority selection, Fn button setting (RAW, Movie, etc.), ISO AUTO control, Instant AF setting (AF-S / AF-C)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "自动 去红眼, 设置 (色彩, 锐度, 动态范围, 层次), 选择自定义设置, 动态全景, 色彩空间, 构图辅助线, 帧编号记忆, 直方图显示, 景深预览, 镜头优化调制, 预对焦, 对焦检查, 峰值对焦, 数码裂像™*3, 电子水平仪, 多重曝光, 间隔 定时拍摄, 快门释放优先；对焦优先选择, Fn 按钮设置 (RAW, 视频, etc.), ISO 自动 控制, 即时 AF 设置 (AF-S；AF-C)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Auto Red-eye Removal, Setting (Color, Sharpness, D-range, Gradation), Select custom setting, Motion panorama, Color space, Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Lens Modulatioon Optimizer, Pre-AF, Focus check, Focus Peak Highlight, Digital Split Image™*3, Electronic level, Multiple exposure, Interval timer shooting, Release priority / Focus priority selection, Fn button setting (RAW, Movie, etc.), ISO AUTO control, Instant AF setting (AF-S / AF-C)"
         },
         {
           "label": "回放功能",
-          "value": "RAW conversion, Image rotate, Red-eye reduction, Photobook assist, Erase selected frames, Image search, Multi-frame playback (with micro thumbnail), Slide show, Mark for upload, Protect, Crop, Resize, Panorama, Favorites",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "RAW 转换, 图像旋转, 防红眼, 照片书助手, 删除所选照片, 图像搜索, 多张回放 (含微缩略图), 幻灯片, 上传标记, 保护, 裁切, 调整尺寸, 全景, 收藏",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "RAW conversion, Image rotate, Red-eye reduction, Photobook assist, Erase selected frames, Image search, Multi-frame playback (with micro thumbnail), Slide show, Mark for upload, Protect, Crop, Resize, Panorama, Favorites"
         },
         {
           "label": "其他功能",
-          "value": "PictBridge, Exif Print, Language selection, Time difference, High Performance mode, Silent mode",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "PictBridge, Exif Print, 语言选择, 时差, 高性能模式, 静音 模式",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "PictBridge, Exif Print, Language selection, Time difference, High Performance mode, Silent mode"
         }
       ]
     },
@@ -196,29 +218,33 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "快门速度",
-          "value": "(P mode) 1/4 sec. to 1/4000 sec., / (All other modes) 30 sec. to 1/4000 sec. / Bulb (max. 60 min.) / Time 1/2 to 30 sec. / Synchronized shutter speed for flash : 1/180 sec. or slower",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "(P模式) 1/4秒 至 1/4000秒,；(其他所有模式) 30秒 至 1/4000秒；B门 (最多 60分钟)；T 门 1/2 至 30秒；闪光同步快门速度 : 1/180秒 或更慢",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "(P mode) 1/4 sec. to 1/4000 sec., / (All other modes) 30 sec. to 1/4000 sec. / Bulb (max. 60 min.) / Time 1/2 to 30 sec. / Synchronized shutter speed for flash : 1/180 sec. or slower"
         },
         {
           "label": "闪光灯",
-          "value": "External flash EF-X8 (included) (Super Intelligent Flash) / Guide number : 约 8 (ISO100 · m) / 约 11 (ISO200 · m)",
+          "value": "外接 闪光灯 EF-X8 (包含) (超级智能 闪光)；闪光指数 : 约 8 (ISO100 · m)；约 11 (ISO200 · m)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "External flash EF-X8 (included) (Super Intelligent Flash) / Guide number : approx. 8 (ISO100 · m) / approx. 11 (ISO200 · m)"
         },
         {
           "label": "闪光模式",
-          "value": "Activated when external flash is connected / Red-eye removal OFF Auto / Forced Flash / Slow Synchro / Suppressed Flash / Rear-curtain Synchro / Commander Red-eye removal ON Red-eye Reduction Auto / Red-eye Reduction & Forced Flash / Red-eye Reduction & Slow Synchro / Suppressed Flash / Red-eye Reduction & Rear-curtain Synchro / Commander * Red-eye removal is active when Face Detection is set to ON.",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "连接外接闪光灯后启用；去红眼 关闭 自动；强制闪光；慢速同步；禁止闪光；后帘同步；指令模式 去红眼 开启 防红眼 自动；防红眼 & 强制闪光；防红眼 & 慢速同步；禁止闪光；防红眼 & 后帘同步；指令模式 * 开启人脸检测后可使用去红眼.",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Activated when external flash is connected / Red-eye removal OFF Auto / Forced Flash / Slow Synchro / Suppressed Flash / Rear-curtain Synchro / Commander Red-eye removal ON Red-eye Reduction Auto / Red-eye Reduction & Forced Flash / Red-eye Reduction & Slow Synchro / Suppressed Flash / Red-eye Reduction & Rear-curtain Synchro / Commander * Red-eye removal is active when Face Detection is set to ON."
         },
         {
           "label": "热靴",
-          "value": "Yes (Dedicated TTL Flash compatible)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "支持（兼容专用TTL闪光灯）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "Yes (Dedicated TTL Flash compatible)"
         }
       ]
     },
@@ -228,13 +254,13 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "0.5-in., 约 2.360K-dot OLED color viewfinder / Coverage of viewing area vs. capturing area : 约 100% / Eye point : 约 23mm (from the rear end of the camera's eyepiece) / Diopter adjustment : -4m-1 to +2m-1 / Magnification : 0.77x with 50mm lens (35mm format equivalent) at infinity and diopter set to - 1.0m-1 / Diagonal angle of view : 约 38° (Horizontal angle of view : 约 31°) / Built-in eye sensor",
+          "value": "0.5-英寸, 约 2.360K 点 OLED 彩色取景器；取景覆盖率 : 约 100%；眼点 : 约 23mm (距相机目镜后端)；屈光度调节 : -4m⁻¹ 至 +2m⁻¹；放大倍率 : 0.77x 使用 50 mm 镜头 (等效 35 mm 画幅) 无限远对焦、屈光度设为 - 1.0m⁻¹；对角视角 : 约 38° (水平视角 : 约 31°)；内置 眼传感器",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "0.5-in., approx. 2.360K-dot OLED color viewfinder / Coverage of viewing area vs. capturing area : approx. 100% / Eye point : approx. 23mm (from the rear end of the camera's eyepiece) / Diopter adjustment : -4m-1 to +2m-1 / Magnification : 0.77x with 50mm lens (35mm format equivalent) at infinity and diopter set to - 1.0m-1 / Diagonal angle of view : approx. 38° (Horizontal angle of view : approx. 31°) / Built-in eye sensor"
         },
         {
           "label": "液晶屏",
-          "value": "3.0-inch, aspect ratio 3:2, 约 1,040K-dot, Tilt type color LCD monitor (约 100% coverage)",
+          "value": "3.0-英寸, 画面比例 3:2, 约 1040000 点, 可翻折 彩色液晶显示屏 (约 100% 视野率)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "3.0-inch, aspect ratio 3:2, approx. 1,040K-dot, Tilt type color LCD monitor (approx. 100% coverage)"
         }
@@ -246,17 +272,19 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W126 Li-ion battery (included)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "NP-W126 锂离子电池（随附）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "NP-W126 Li-ion battery (included)"
         },
         {
           "label": "尺寸",
-          "value": "129.0mm (W) x 89.8mm (H) x 46.7mm (D) / 5.0 in. (W) x 3.5 in. (H) x 1.8 in. (D) / (Minimum depth: 33.4mm / 1.3 in.)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "129.0mm (W) x 89.8mm (H) x 46.7mm (D)；5.0 英寸 (W) x 3.5 英寸 (H) x 1.8 英寸 (D)；(最薄处: 33.4mm；1.3 英寸)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "129.0mm (W) x 89.8mm (H) x 46.7mm (D) / 5.0 in. (W) x 3.5 in. (H) x 1.8 in. (D) / (Minimum depth: 33.4mm / 1.3 in.)"
         },
         {
           "label": "重量",
-          "value": "约 440g / 15.4 oz. (including battery and memory card) / 约 390g / 13.7 oz. (excluding accessories, battery and memory card)",
+          "value": "约 440g；15.4 oz. (含电池和存储卡)；约 390g；13.7 oz. (不含配件、电池和存储卡)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "Approx. 440g / 15.4 oz. (including battery and memory card) / Approx. 390g / 13.7 oz. (excluding accessories, battery and memory card)"
         },
@@ -267,24 +295,25 @@
         },
         {
           "label": "工作湿度",
-          "value": "10 - 80% (no condensation)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/"
+          "value": "10 - 80% （无凝露）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
+          "originalValue": "10 - 80% (no condensation)"
         },
         {
           "label": "照片续航",
-          "value": "约 350 frames (When XF35mmF1.4 R is set, LCD monitor / viewfinder on, and supplied flash EF-X8 not attached)",
+          "value": "约 350张 (安装XF35mmF1.4 R镜头时, 液晶显示屏；取景器开启、未安装随附 EF-X8 闪光灯)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "Approx. 350 frames (When XF35mmF1.4 R is set, LCD monitor / viewfinder on, and supplied flash EF-X8 not attached)"
         },
         {
           "label": "视频续航",
-          "value": "Consecutive movie recording : 约 103 min. (Face detection is set to OFF) * Individual movies cannot exceed 约 14 min. on Full HD mode, and 约 27 min. on HD mode in length.",
+          "value": "连续 视频录制 : 约 103分钟 (关闭脸部识别) * 单段视频最长 约 14分钟 on 全高清 模式, 及 约 27分钟 on HD 模式 。",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "Consecutive movie recording : approx. 103 min. (Face detection is set to OFF) * Individual movies cannot exceed approx. 14 min. on Full HD mode, and approx. 27 min. on HD mode in length."
         },
         {
           "label": "启动时间",
-          "value": "约 0.5 sec., when High Performance mode set to ON / 约 1.0 sec., when High Performance mode set to OFF * Fujifilm research",
+          "value": "高性能模式开启时约0.5秒，关闭时约1.0秒（富士测试）",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xt1/specifications/",
           "originalValue": "Approx. 0.5 sec., when High Performance mode set to ON / Approx. 1.0 sec., when High Performance mode set to OFF * Fujifilm research"
         }

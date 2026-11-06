@@ -25,43 +25,51 @@
         },
         {
           "label": "传感器尺寸与像素",
-          "value": "CMOS-Sensor, 62,39 MP/60,3 MP (总像素/有效像素)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "CMOS 传感器；总像素 6239 万，有效像素 6030 万",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "CMOS-Sensor, 62,39 MP/60,3 MP (总像素/有效像素)"
         },
         {
           "label": "图像处理器",
-          "value": "Leica Maestro series (Maestro IV)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "Leica Maestro IV 图像处理器",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Leica Maestro series (Maestro IV)"
         },
         {
           "label": "滤镜",
-          "value": "RGB color filter, UV/IR filter, 无低通滤镜",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "RGB 彩色滤镜、UV／IR 滤镜；无低通滤镜",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "RGB color filter, UV/IR filter, 无低通滤镜"
         },
         {
           "label": "图像分辨率",
-          "value": "DNG™ 9520 x 6336 Pixel (60,3 MP) 7404 x 4928 Pixel (36,5 MP) 5288 x 3518 Pixel (18,6 MP) JPG 9520 x 6336 Pixel (60,3 MP) 7392 x 4928 Pixel (36,4 MP) 5280 x 3512 Pixel (18,5 MP)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "DNG：9520×6336（6030 万）、7404×4928（3650 万）、5288×3518（1860 万）像素；JPEG：9520×6336（6030 万）、7392×4928（3640 万）、5280×3512（1850 万）像素",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "DNG™ 9520 x 6336 Pixel (60,3 MP) 7404 x 4928 Pixel (36,5 MP) 5288 x 3518 Pixel (18,6 MP) JPG 9520 x 6336 Pixel (60,3 MP) 7392 x 4928 Pixel (36,4 MP) 5280 x 3512 Pixel (18,5 MP)"
         },
         {
           "label": "色彩深度",
-          "value": "DNG™: 14 Bit JPG: 8 Bit",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "DNG 14 位；JPEG 8 位",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "DNG™: 14 Bit JPG: 8 Bit"
         },
         {
           "label": "色彩空间",
-          "value": "Foto: sRGB",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "照片：sRGB",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Foto: sRGB"
         },
         {
           "label": "视频分辨率",
-          "value": "C8K (17:9) 8192 x 4320 8K (16:9) 7680 x 4320 C4K (17:9) 4096 x 2160 4K (16:9) 3840 x 2160 Full HD (16:9) 1920 x 1080",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "C8K (17:9) 8192 x 4320 8K (16:9) 7680 x 4320 C4K (17:9) 4096 x 2160 4K (16:9) 3840 x 2160 全高清 (16:9) 1920 x 1080",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "C8K (17:9) 8192 x 4320 8K (16:9) 7680 x 4320 C4K (17:9) 4096 x 2160 4K (16:9) 3840 x 2160 Full HD (16:9) 1920 x 1080"
         },
         {
           "label": "视频帧率与码率",
-          "value": "MOV C8K：8192×4320，最高29.97fps，4:2:0 10bit H.265 LongGOP，300Mbps（其他视频组合见原厂规格）",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "MOV C8K：8192×4320，最高29.97fps，4:2:0 10位 H.265 LongGOP，300Mbps（其他视频组合见原厂规格）",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "MOV C8K：8192×4320，最高29.97fps，4:2:0 10bit H.265 LongGOP，300Mbps（其他视频组合见原厂规格）"
         },
         {
           "label": "镜头滤镜接口",
@@ -76,43 +84,51 @@
       "rows": [
         {
           "label": "数码裁切 / 变焦",
-          "value": "Optionally 约 1.25x (equivalent to 35 mm), 约 1.8x (equivalent to 50 mm), 约 2.7x (equivalent to 75 mm), or 约 3.2x (equivalent to 90 mm)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "可选约 1.25×（等效 35 mm）、1.8×（等效 50 mm）、2.7×（等效 75 mm）、3.2×（等效 90 mm）裁切",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Optionally 约 1.25x (equivalent to 35 mm), 约 1.8x (equivalent to 50 mm), 约 2.7x (equivalent to 75 mm), or 约 3.2x (equivalent to 90 mm)"
         },
         {
           "label": "防抖",
-          "value": "Visual compensation system for photos and video recordings",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "照片和视频均支持光学防抖",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Visual compensation system for photos and video recordings"
         },
         {
           "label": "光圈范围",
-          "value": "F1.7 to F16 in 1/3 EV increments",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "F1.7–F16，1/3 EV 步长",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "F1.7 to F16 in 1/3 EV increments"
         },
         {
           "label": "对焦距离",
-          "value": "30 cm to ∞ With macro setting: from 17 cm",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "30 cm–∞；微距模式最近 17 cm",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "30 cm to ∞ With macro setting: from 17 cm"
         },
         {
           "label": "对焦模式",
-          "value": "Automatic or manual With manual setting: optional magnifying glass function (Auto Magnification) and edge marking (Focus Peaking) available as focus assist",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "自动或手动对焦；手动对焦可启用自动放大和峰值辅助",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Automatic or manual With manual setting: optional magnifying glass function (Auto Magnification) and edge marking (Focus Peaking) available as focus assist"
         },
         {
           "label": "自动对焦系统",
-          "value": "Hybrid-AF due to a combination of contrast metering, depth mapping, and phase comparison metering with AF metering points in the sensor",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "混合自动对焦：结合反差检测、深度映射和传感器相位检测对焦点",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Hybrid-AF due to a combination of contrast metering, depth mapping, and phase comparison metering with AF metering points in the sensor"
         },
         {
           "label": "自动对焦模式",
-          "value": "Intelligent AF (autonomously selects AFs and AFc), AFs, AFc, AF setting can be saved, optional Touch AF",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "智能 AF（自动选择 AFs／AFc）、AFs、AFc；可保存 AF 设置，可选触摸对焦",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Intelligent AF (autonomously selects AFs and AFc), AFs, AFc, AF setting can be saved, optional Touch AF"
         },
         {
           "label": "对焦区域",
-          "value": "Spot (can be shifted), Field (can be shifted and scaled), Multi-Field, Zone (can be shifted), Eye/Face/Body Detection, Eye/Face/Body + Animal Detection, Tracking",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "点（可移动）、区域（可移动和缩放）、多区、分区（可移动）、眼睛／人脸／身体检测、眼睛／人脸／身体及动物检测、追踪",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Spot (can be shifted), Field (can be shifted and scaled), Multi-Field, Zone (can be shifted), Eye/Face/Body Detection, Eye/Face/Body + Animal Detection, Tracking"
         },
         {
           "label": "对焦区域",
@@ -127,13 +143,15 @@
       "rows": [
         {
           "label": "电子取景器",
-          "value": "Resolution: 5,760,000 点, 120 fps, magnification: 0.79x at aspect ratio: 4:3 / 0.76x at aspect ratio: 3:2, frame coverage: 100%, exit pupil position: 20.75 mm, setting range -4/+2 dpt, with eye sensor for automatic switchover between viewfinder and LCD panel, time delay 0.005 s",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "576 万点，120 帧/秒；放大倍率 0.79×（4:3）／0.76×（3:2），视野 100%，眼点 20.75 mm；屈光度 −4 至 +2；眼传感器自动切换取景器和显示屏，延迟 0.005 秒",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Resolution: 5,760,000 点, 120 fps, magnification: 0.79x at aspect ratio: 4:3 / 0.76x at aspect ratio: 3:2, frame coverage: 100%, exit pupil position: 20.75 mm, setting range -4/+2 dpt, with eye sensor for automatic switchover between viewfinder and LCD panel, time delay 0.005 s"
         },
         {
           "label": "显示屏",
-          "value": "3” TFT LCD, 约 1,843,200 点, 384 ppi, aspect ratio 3:2, touch panel",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "3 英寸 TFT 液晶触摸屏，约 184.32 万点，384 ppi，3:2",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "3” TFT LCD, 约 1,843,200 点, 384 ppi, aspect ratio 3:2, touch panel"
         }
       ]
     },
@@ -143,48 +161,57 @@
       "rows": [
         {
           "label": "测光",
-          "value": "TTL (exposure metering through the lens), with a working aperture",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "TTL 通过镜头测光，使用工作光圈",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "TTL (exposure metering through the lens), with a working aperture"
         },
         {
           "label": "测光原理",
-          "value": "Exposure metering is done by the image sensor for all exposure metering methods (in Live View mode and in rangefinder mode)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "所有测光方式均由图像传感器完成（实时取景及旁轴取景模式）",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Exposure metering is done by the image sensor for all exposure metering methods (in Live View mode and in rangefinder mode)"
         },
         {
           "label": "测光方式",
-          "value": "Spot, Center-Weighted, Highlight-Weighted, Multi-Field",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "点测光、中央重点、高光重点、多区",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Spot, Center-Weighted, Highlight-Weighted, Multi-Field"
         },
         {
           "label": "曝光模式",
-          "value": "Program AE mode (P) Aperture-priority mode (A): manual aperture setting Shutter-priority mode (S): manual shutter-speed setting Manual (M): manual setting for shutter speed and aperture Various fully automated variants (Scene Mode): AUTO, Sport, Portrait, Landscape, Night Portrait, Snow/Beach, Fireworks, Candlelight, Sunset, Digiscoping",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "程序自动 P、光圈优先 A（手动设光圈）、快门优先 S（手动设快门）、手动 M（手动设快门和光圈）；场景模式：自动、运动、人像、风景、夜景人像、雪景／海滩、烟花、烛光、日落、望远镜摄影",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Program AE mode (P) Aperture-priority mode (A): manual aperture setting Shutter-priority mode (S): manual shutter-speed setting Manual (M): manual setting for shutter speed and aperture Various fully automated variants (Scene Mode): AUTO, Sport, Portrait, Landscape, Night Portrait, Snow/Beach, Fireworks, Candlelight, Sunset, Digiscoping"
         },
         {
           "label": "曝光补偿",
-          "value": "±3 EV in 1/3 EV increments",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "±3 EV，1/3 EV 步长",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "±3 EV in 1/3 EV increments"
         },
         {
           "label": "ISO 范围",
-          "value": "Photo: Auto ISO 100 bis ISO 100 000 Manual ISO 50 bis ISO 100 000 Video: Auto ISO 100 bis ISO 100 000 Manual ISO 50 bis ISO 100 000",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "照片及视频：自动 ISO 100–100000；手动 ISO 50–100000",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Photo: Auto ISO 100 bis ISO 100 000 Manual ISO 50 bis ISO 100 000 Video: Auto ISO 100 bis ISO 100 000 Manual ISO 50 bis ISO 100 000"
         },
         {
           "label": "白平衡",
-          "value": "Automatic (Auto), default (Daylight, Cloudy, Shadow, Tungsten, Flash), manual metering (Gray card), manual color temperature settings (Color Temperature, 2000 K to 11500 K)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "自动；日光、阴天、阴影、白炽灯、闪光预设；灰卡手动测量；手动色温 2000–11500 K",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Automatic (Auto), default (Daylight, Cloudy, Shadow, Tungsten, Flash), manual metering (Gray card), manual color temperature settings (Color Temperature, 2000 K to 11500 K)"
         },
         {
           "label": "闪光测光",
-          "value": "Using center-weighted TTL pre-flash metering with Leica flash units (SF 26, SF 40, SF 58, SF 60, SF 64) or with system compatible flash units, remote-controlled flash SF C1",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "中央重点 TTL 预闪测光；支持 Leica SF 26／40／58／60／64 及系统兼容闪光灯；支持 SF C1 遥控闪光",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Using center-weighted TTL pre-flash metering with Leica flash units (SF 26, SF 40, SF 58, SF 60, SF 64) or with system compatible flash units, remote-controlled flash SF C1"
         },
         {
           "label": "闪光曝光补偿",
-          "value": "SF 40: ±2 EV in 1/2 EV increments SF 60: ±2 EV in 1/3 EV increments",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "SF 40：±2 EV，1/2 EV 步长；SF 60：±2 EV，1/3 EV 步长",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "SF 40: ±2 EV in 1/2 EV increments SF 60: ±2 EV in 1/3 EV increments"
         }
       ]
     },
@@ -194,36 +221,39 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Mechanical central shutter or optional 电子快门",
+          "value": "机械镜间快门；可选电子快门",
           "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
           "originalValue": "Mechanical central shutter or optional electronic shutter"
         },
         {
           "label": "快门速度",
-          "value": "Mech. shutter: 120 s to 1/2000 s Electro. shutter function: 1 s to 1/16000 s Flash Synchronization: 最高 1/2000 s",
+          "value": "机械快门 120–1/2000 秒；电子快门 1–1/16000 秒；闪光同步最高 1/2000 秒",
           "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
           "originalValue": "Mech. shutter: 120 s to 1/2000 s Electro. shutter function: 1 s to 1/16000 s Flash Synchronization: up to 1/2000 s"
         },
         {
           "label": "快门释放按钮",
-          "value": "Two-stage (1st stage: Activation of the camera electronics including autofocus and exposure metering, 2nd stage: Taking the picture)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "两段式：半按启动相机电子系统、自动对焦和测光；全按拍摄",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Two-stage (1st stage: Activation of the camera electronics including autofocus and exposure metering, 2nd stage: Taking the picture)"
         },
         {
           "label": "自动包围曝光",
-          "value": "3 or 5 frames, graduations between shoots 最高 3 EV, in 1/3 EV increments additional optional exposure compensation: 最高 ±3 EV",
+          "value": "3 或 5 张，相邻曝光间隔最高 3 EV，1/3 EV 步长；另可选最高 ±3 EV 曝光补偿",
           "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
           "originalValue": "3 or 5 frames, graduations between shoots up to 3 EV, in 1/3 EV increments additional optional exposure compensation: up to ±3 EV"
         },
         {
           "label": "闪光灯连接",
-          "value": "Via the accessory shoe",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "通过热靴连接",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Via the accessory shoe"
         },
         {
           "label": "闪光同步速度",
-          "value": "1/2000 s, slower shutter speeds available, an automatic changeover to TTL linear flash mode with HSS-compatible Leica system flash units if sync time is undercut",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "1/2000 秒，可用更慢快门；兼容 HSS 的 Leica 系统闪光灯在快于同步速度时自动切换 TTL 线性闪光",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "1/2000 s, slower shutter speeds available, an automatic changeover to TTL linear flash mode with HSS-compatible Leica system flash units if sync time is undercut"
         }
       ]
     },
@@ -233,33 +263,39 @@
       "rows": [
         {
           "label": "相机类型",
-          "value": "Digital 35 mm compact camera",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "全画幅数码便携相机",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Digital 35 mm compact camera"
         },
         {
           "label": "文件格式",
-          "value": "Photo: DNG™ (raw data), DNG + JPG, JPG (DCF 2.0, Exif 2.31) Video: MP4 h.265 / AAC / 48 kHz (16 Bit) h.264 AAC 48 kHz/16 Bit MOV h.265 / LPCM / 28 kHz (24 Bit) h.264 / LPCM / 28 kHz (24 Bit) ProRes / LPCM / 28 kHz (24 Bit)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "照片：DNG 原始数据、DNG+JPEG、JPEG（DCF 2.0、Exif 2.31）；视频：MP4 H.265／H.264，AAC 48 kHz／16 位；MOV H.265／H.264／ProRes，LPCM 28 kHz／24 位（采样率按原始规格记录）",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Photo: DNG™ (raw data), DNG + JPG, JPG (DCF 2.0, Exif 2.31) Video: MP4 h.265 / AAC / 48 kHz (16 Bit) h.264 AAC 48 kHz/16 Bit MOV h.265 / LPCM / 28 kHz (24 Bit) h.264 / LPCM / 28 kHz (24 Bit) ProRes / LPCM / 28 kHz (24 Bit)"
         },
         {
           "label": "文件大小",
-          "value": "DNG™: 约 70 MB, depending on resolution and image content JPG: depending on resolution and image content Video: max. length: 29 min",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "DNG 约 70 MB，取决于分辨率和内容；JPEG 大小取决于分辨率和内容；单段视频最长 29 分钟",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "DNG™: 约 70 MB, depending on resolution and image content JPG: depending on resolution and image content Video: max. length: 29 min"
         },
         {
           "label": "镜头型号",
-          "value": "Leica Summilux 28 f/1.7 ASPH., 11 lenses in 9 segments, 3 aspherical lens surfaces",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "Leica Summilux 28 f/1.7 ASPH.；9 组 11 片，含 3 个非球面镜面",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Leica Summilux 28 f/1.7 ASPH., 11 lenses in 9 segments, 3 aspherical lens surfaces"
         },
         {
           "label": "自拍定时",
-          "value": "Delay time: 2s or 12s",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "2 秒或 12 秒延时",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Delay time: 2s or 12s"
         },
         {
           "label": "驱动模式",
-          "value": "Single, Interval Shooting, Exposure Bracketing Continuous shooting: Continuous - 2 fps / 14 bit / AF, Continuous - 4 fps / 14 bit / AF: Automatic settings (exposure settings in operating modes P/A/S, automatic white balance, and autofocus) are implemented individually for each frame. Continuous - 7 fps / 14 bit, Continuous - 9 fps / 12 bit, Continuous - 15 fps / 12 bit: Automatic settings (exposure settings in operating modes P/A/S, automatic white balance, and autofocus) are implemented for the first frame and are then applied for each subsequent frame in the same picture series",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "单张、 间隔拍摄, 曝光包围 连续拍摄: 连拍 2 fps；14位；AF, 连拍 4 fps；14位；AF: 每张分别调整自动设置（P／A／S模式曝光、自动白平衡和自动对焦）。 连拍 7 fps；14位, 连拍 9 fps；12位, 连拍 15 fps；12位: 自动设置（P／A／S模式曝光、自动白平衡和自动对焦）以首张为准，后续各张沿用",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Single, Interval Shooting, Exposure Bracketing Continuous shooting: Continuous - 2 fps / 14 bit / AF, Continuous - 4 fps / 14 bit / AF: Automatic settings (exposure settings in operating modes P/A/S, automatic white balance, and autofocus) are implemented individually for each frame. Continuous - 7 fps / 14 bit, Continuous - 9 fps / 12 bit, Continuous - 15 fps / 12 bit: Automatic settings (exposure settings in operating modes P/A/S, automatic white balance, and autofocus) are implemented for the first frame and are then applied for each subsequent frame in the same picture series"
         },
         {
           "label": "麦克风",
@@ -279,44 +315,51 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "UHS-II (recommended), UHS-I, SD/SDHC/SDXC memory card",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "SD／SDHC／SDXC 存储卡，支持 UHS-I；推荐 UHS-II",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "UHS-II (recommended), UHS-I, SD/SDHC/SDXC memory card"
         },
         {
           "label": "连接接口",
-          "value": "ISO accessory shoe with additional control contacts for Leica flash units, HDMI jack Type D, USB 3.1 Gen 2 Type C 最高 10 Gbps",
+          "value": "带 Leica 闪光灯控制触点的 ISO 热靴；Micro HDMI Type D；USB 3.1 Gen 2 Type-C，最高 10 Gbps",
           "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
           "originalValue": "ISO accessory shoe with additional control contacts for Leica flash units, HDMI jack Type D, USB 3.1 Gen 2 Type C up to 10 Gbps"
         },
         {
           "label": "USB 音频",
-          "value": "New supported USB audio products by RØDE: VideoMic GO II, VideoMic NTG, Wireless GO II, Wireless ME and compatible USB microphones",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "支持 RØDE VideoMic GO II、VideoMic NTG、Wireless GO II、Wireless ME 及兼容 USB 麦克风",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "New supported USB audio products by RØDE: VideoMic GO II, VideoMic NTG, Wireless GO II, Wireless ME and compatible USB microphones"
         },
         {
           "label": "无线网络",
-          "value": "WLAN function for connecting to the Leica FOTOS app. The Leica app is available from the Apple App Store™ or the Google Play Store™. EU/US/CN: 2,4 GHz IEEE802.11b/g/n: Channel 1–11 (2412–2462 MHz) 5 GHz Client mode: (For indoor use only) IEEE802.11a/n/ac: Channel 36–64 (5180–5320 MHz) Access point + client mode: IEEE802.11a/n/ac: Channel 149–165 (5745–5825 MHz) JP: 2,4 GHz IEEE802.11b/g/n: Channel 1–11 (2412–2462 MHz) 5 GHz Access point + client mode: (For indoor use only) IEEE802.11a/n/ac: Channel 36–48 (5180–5240 MHz) Client mode: (For indoor use only) IEEE802.11a/n/ac: Channel 52–144 (5260–5720 MHz) Maximum output (e.i.r.p.): <14 dBm, encryption method: WLAN-compatible WPA™/WPA2™/WPA3™",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "支持通过无线局域网连接Leica FOTOS应用。 EU/US/CN: 2,4 GHz IEEE802.11b/g/n: 频道 1–11 (2412–2462 MHz) 5 GHz 客户端模式: (仅限室内使用) IEEE802.11a/n/ac: 频道 36–64 (5180–5320 MHz) 接入点＋客户端模式: IEEE802.11a/n/ac: 频道 149–165 (5745–5825 MHz) JP: 2,4 GHz IEEE802.11b/g/n: 频道 1–11 (2412–2462 MHz) 5 GHz 接入点＋客户端模式: (仅限室内使用) IEEE802.11a/n/ac: 频道 36–48 (5180–5240 MHz) 客户端模式: (仅限室内使用) IEEE802.11a/n/ac: 频道 52–144 (5260–5720 MHz) 最大等效全向辐射功率（e.i.r.p.）: <14 dBm, 加密方式: 兼容无线局域网 WPA™/WPA2™/WPA3™",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "WLAN function for connecting to the Leica FOTOS app. The Leica app is available from the Apple App Store™ or the Google Play Store™. EU/US/CN: 2,4 GHz IEEE802.11b/g/n: Channel 1–11 (2412–2462 MHz) 5 GHz Client mode: (For indoor use only) IEEE802.11a/n/ac: Channel 36–64 (5180–5320 MHz) Access point + client mode: IEEE802.11a/n/ac: Channel 149–165 (5745–5825 MHz) JP: 2,4 GHz IEEE802.11b/g/n: Channel 1–11 (2412–2462 MHz) 5 GHz Access point + client mode: (For indoor use only) IEEE802.11a/n/ac: Channel 36–48 (5180–5240 MHz) Client mode: (For indoor use only) IEEE802.11a/n/ac: Channel 52–144 (5260–5720 MHz) Maximum output (e.i.r.p.): <14 dBm, encryption method: WLAN-compatible WPA™/WPA2™/WPA3™"
         },
         {
           "label": "蓝牙",
-          "value": "Bluetooth Bluetooth 5.0 LE: Channel 0–39 (2402–2480 MHz), maximum output (e.i.r.p.): 10 dBm",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "蓝牙 5.0 LE，0–39 信道（2402–2480 MHz）；最大等效全向辐射功率 10 dBm",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Bluetooth Bluetooth 5.0 LE: Channel 0–39 (2402–2480 MHz), maximum output (e.i.r.p.): 10 dBm"
         },
         {
           "label": "定位 GPS",
-          "value": "Not available everywhere due to country-specific legislation; can be added via the Leica FOTOS app. Data is written to Exif header of the picture files",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "可通过 Leica FOTOS 应用添加；受各国法规限制，并非所有地区可用；定位数据写入照片 Exif",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Not available everywhere due to country-specific legislation; can be added via the Leica FOTOS app. Data is written to Exif header of the picture files"
         },
         {
           "label": "USB 充电",
-          "value": "During operation: 9 V/3 A (min. 27 W) With the camera switched off: 5 V/1500 mA (2.5 W or greater)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "开机：9V／3A，至少 27W；关机：5V／1500mA，2.5W 或以上（按原始规格记录）",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "During operation: 9 V/3 A (min. 27 W) With the camera switched off: 5 V/1500 mA (2.5 W or greater)"
         },
         {
           "label": "无线充电",
-          "value": "Optimal performance with 9 V chargers (10 W Charging Pad required)",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "使用 9V 充电器效果最佳；需 10W 无线充电板",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Optimal performance with 9 V chargers (10 W Charging Pad required)"
         }
       ]
     },
@@ -336,18 +379,21 @@
         },
         {
           "label": "机身材料",
-          "value": "Full metal housing: magnesium die-cast, leather covering, protection type IP52",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "全金属机身：镁合金压铸，皮革包覆；IP52 防护",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "Full metal housing: magnesium die-cast, leather covering, protection type IP52"
         },
         {
           "label": "使用环境",
-          "value": "0 °C to +40 °C",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "0–40°C",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "0 °C to +40 °C"
         },
         {
           "label": "三脚架接口",
-          "value": "A 1/4 DIN 4503 (1/4”) with stainless steel in the base",
-          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification"
+          "value": "A 1/4 DIN 4503（1/4 英寸），机底不锈钢接口",
+          "sourceUrl": "https://leica-camera.com/en-US/photography/cameras/q/q3-black/technical-specification",
+          "originalValue": "A 1/4 DIN 4503 (1/4”) with stainless steel in the base"
         },
         {
           "label": "可充电池 BP-SCL6",

@@ -50,9 +50,10 @@ export default function EquipmentCard({
           className={
             "compare-add " + (selection.includes(c.id) ? "active" : "")
           }
+          disabled={!selection.includes(c.id) && selection.length >= 3}
           onClick={() => toggleCompare(c.id)}
         >
-          {selection.includes(c.id) ? "✓ 已加入对比" : "+ 加入对比"}
+          {selection.includes(c.id) ? "✓ 已加入对比" : selection.length >= 3 ? "对比已满（最多 3 台）" : "+ 加入对比"}
         </button>
       </div>
     </article>

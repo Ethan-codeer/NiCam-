@@ -26,54 +26,63 @@
         },
         {
           "label": "记录尺寸",
-          "value": "L : (3:2) 4896 x 3264 / (16:9) 4896 x 2760 / (1:1) 3264 x 3264 / M : (3:2) 3456 x 2304 / (16:9) 3456 x 1944 / (1:1) 2304 x 2304 / S : (3:2) 2496 x 1664 / (16:9) 2496 x 1408 / (1:1) 1664 x 1664 / / <Motion Panorama> / L Vertical: 7680 x 1440 Horizontal: 7680 x 1440 / M Vertical: 5120 x 1440 Horizontal: 5120 x 1440",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "L : (3:2) 4896 x 3264；(16:9) 4896 x 2760；(1:1) 3264 x 3264；M : (3:2) 3456 x 2304；(16:9) 3456 x 1944；(1:1) 2304 x 2304；S : (3:2) 2496 x 1664；(16:9) 2496 x 1408；(1:1) 1664 x 1664；<动态 全景>；L 垂直: 7680 x 1440 水平: 7680 x 1440；M 垂直: 5120 x 1440 水平: 5120 x 1440",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "L : (3:2) 4896 x 3264 / (16:9) 4896 x 2760 / (1:1) 3264 x 3264 / M : (3:2) 3456 x 2304 / (16:9) 3456 x 1944 / (1:1) 2304 x 2304 / S : (3:2) 2496 x 1664 / (16:9) 2496 x 1408 / (1:1) 1664 x 1664 / / <Motion Panorama> / L Vertical: 7680 x 1440 Horizontal: 7680 x 1440 / M Vertical: 5120 x 1440 Horizontal: 5120 x 1440"
         },
         {
           "label": "连拍",
-          "value": "Max 6 / 3 fps selectable",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "最多 6；3 fps 可选",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Max 6 / 3 fps selectable"
         },
         {
           "label": "包围曝光",
-          "value": "AE Bracketing (±1/3 EV, ±2/3 EV, ±1 EV) / Film Simulation Bracketing (Any 3 type of film simulation selectable) / Dynamic Range Bracketing (100%, 200%, 400%) / ISO sensitivity Bracketing (±1/3 EV, ±2/3 EV, ±1 EV)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "自动曝光包围 (±1/3 EV, ±2/3 EV, ±1 EV)；胶片模拟包围 (可任选三种胶片模拟)；动态范围包围 (100%, 200%, 400%)；感光度包围 (±1/3 EV, ±2/3 EV, ±1 EV)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "AE Bracketing (±1/3 EV, ±2/3 EV, ±1 EV) / Film Simulation Bracketing (Any 3 type of film simulation selectable) / Dynamic Range Bracketing (100%, 200%, 400%) / ISO sensitivity Bracketing (±1/3 EV, ±2/3 EV, ±1 EV)"
         },
         {
           "label": "胶片模拟",
-          "value": "10 type (PROVIA/STD, Velvia/VIVID, ASTIA/SOFT, Pro Neg H, Pro Neg S, B/W, B/W+Ye filter, B/W+R filter, B/W+filter, SEPIA)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "10 type (PROVIA/STD, Velvia/鲜艳, ASTIA/柔和, Pro Neg H, Pro Neg S, B/W, B/W+黄滤镜, B/W+红滤镜, B/W+滤镜, 棕褐色)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "10 type (PROVIA/STD, Velvia/VIVID, ASTIA/SOFT, Pro Neg H, Pro Neg S, B/W, B/W+Ye filter, B/W+R filter, B/W+filter, SEPIA)"
         },
         {
           "label": "动态范围",
-          "value": "AUTO (100-400%), 100%, 200%, 400%",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "自动 (100-400%), 100%, 200%, 400%",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "AUTO (100-400%), 100%, 200%, 400%"
         },
         {
           "label": "自拍",
-          "value": "约 10 sec. / 2 sec. Delay",
+          "value": "约 10秒；2秒 延时",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
           "originalValue": "Approx. 10 sec. / 2 sec. Delay"
         },
         {
           "label": "视频记录",
-          "value": "1920 x 1080 pixels, 1280 x 720 pixels (24 frames/sec.) with stereo sound / Individual movies can not exceed 29 minutes in length.",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "1920 x 1080 像素, 1280 x 720 像素 (24张/秒) 搭配 立体声；单段视频最长 29分钟 。",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "1920 x 1080 pixels, 1280 x 720 pixels (24 frames/sec.) with stereo sound / Individual movies can not exceed 29 minutes in length."
         },
         {
           "label": "拍摄功能",
-          "value": "Select custom setting, Motion panorama, Color space, Color (Saturation), sharpness, Dynamic range, Film simulation, Gradation, Auto red-eye removal, Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Focus check, Electronic level, Multiple exposure, Date input, Fn button setting (One-touch RAW, Movie, etc)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "选择自定义设置, 动态全景, 色彩空间, 色彩 (饱和度), 锐度, 动态范围, 胶片模拟, 层次, 自动 去红眼, 构图辅助线, 帧编号记忆, 直方图显示, 景深预览, 对焦检查, 电子水平仪, 多重曝光, 日期 输入, Fn 按钮设置 (一键 RAW, 视频, etc)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Select custom setting, Motion panorama, Color space, Color (Saturation), sharpness, Dynamic range, Film simulation, Gradation, Auto red-eye removal, Framing guideline, Frame No. memory, Histogram display, Preview depth of focus, Focus check, Electronic level, Multiple exposure, Date input, Fn button setting (One-touch RAW, Movie, etc)"
         },
         {
           "label": "回放功能",
-          "value": "RAW conversing, Image rotate, Red-eye reduction, Photobook assist, Erase selected frames, image search, Multi-frame playback (with micro thumbnail), Slide show, Mark for upload, Protect, Crop, Resize, Panorama, Favorites",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "RAW转换, 图像旋转, 防红眼, 照片书助手, 删除所选照片, 图像搜索, 多张回放 (含微缩略图), 幻灯片, 上传标记, 保护, 裁切, 调整尺寸, 全景, 收藏",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "RAW conversing, Image rotate, Red-eye reduction, Photobook assist, Erase selected frames, image search, Multi-frame playback (with micro thumbnail), Slide show, Mark for upload, Protect, Crop, Resize, Panorama, Favorites"
         },
         {
           "label": "其他功能",
-          "value": "PictBridge, Exif Print, Languages selection, Time difference, Quick start mode, Power save mode, Silent mode",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "PictBridge, Exif Print, 语言选择, 时差, 快速启动模式, 节能 模式, 静音 模式",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "PictBridge, Exif Print, Languages selection, Time difference, Quick start mode, Power save mode, Silent mode"
         }
       ]
     },
@@ -83,8 +92,9 @@
       "rows": [
         {
           "label": "感光元件",
-          "value": "23.6 mm x 15.6 mm (APS-C) X-Trans CMOS with primary color filter / / Dust reduction system Ultra Sonic Vibration",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "23.6 mm x 15.6 mm (APS-C) X-Trans CMOS 配备原色滤镜；除尘系统 超声波振动除尘",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "23.6 mm x 15.6 mm (APS-C) X-Trans CMOS with primary color filter / / Dust reduction system Ultra Sonic Vibration"
         }
       ]
     },
@@ -94,18 +104,21 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD memory card / SDHC memory card / SDXC (UHS-I) memory card*1",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "SD 存储卡；SDHC 存储卡；SDXC (UHS-I) 存储卡*1",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "SD memory card / SDHC memory card / SDXC (UHS-I) memory card*1"
         },
         {
           "label": "文件格式",
-          "value": "still image JPEG (Exif Ver 2.3)*2, / RAW (RAF format), RAW+JPEG / (Design rule for Camera File system compliant / DPOF-compatible) movie H.264 (MOV) with Stereo sound",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "照片 JPEG (Exif Ver 2.3)*2,；RAW (RAF 格式), RAW+JPEG；(符合相机文件系统设计规则；兼容 DPOF) 视频 H.264 (MOV) 搭配 立体声",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "still image JPEG (Exif Ver 2.3)*2, / RAW (RAF format), RAW+JPEG / (Design rule for Camera File system compliant / DPOF-compatible) movie H.264 (MOV) with Stereo sound"
         },
         {
           "label": "接口",
-          "value": "Video output - Digital interface USB 2.0 High-Speed HDMI output HDMI mini connector",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "视频输出 - 数字接口 USB 2.0 高速 HDMI 输出 HDMI Mini接口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Video output - Digital interface USB 2.0 High-Speed HDMI output HDMI mini connector"
         }
       ]
     },
@@ -115,18 +128,21 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "FUJIFILM X mount",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "富士 X 卡口",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "FUJIFILM X mount"
         },
         {
           "label": "兼容镜头",
-          "value": "Interchnageable lens FUJINON LENS XF18mmF2 R Interchnageable lens FUJINON LENS XF35mmF1.4 R Interchnageable lens FUJINON LENS XF60mmF2.4 R Macro",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "可换镜头 FUJINON XF18mmF2 R；可换镜头 FUJINON XF35mmF1.4 R；可换镜头 FUJINON XF60mmF2.4 R 微距",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Interchnageable lens FUJINON LENS XF18mmF2 R Interchnageable lens FUJINON LENS XF35mmF1.4 R Interchnageable lens FUJINON LENS XF60mmF2.4 R Macro"
         },
         {
           "label": "对焦",
-          "value": "mode Single AF / Continuous AF / MF Distance Indicator type TTL contrast AF, AF assist illuminator available AF frame selection Area (EVF / LCD: 49 areas with 7 x 7, OVF: 25 areas with 5 x 5) / Multi / * changeable size of AF frame: among 5 type",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "模式 单次AF／连续AF／手动对焦 距离指示 TTL 类型反差检测AF，提供AF辅助照明 AF框选择 区域 (EVF；LCD: 49 areas 搭配 7 x 7, OVF: 25 areas 搭配 5 x 5)；多重；* AF 框尺寸可调: among 5 type",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "mode Single AF / Continuous AF / MF Distance Indicator type TTL contrast AF, AF assist illuminator available AF frame selection Area (EVF / LCD: 49 areas with 7 x 7, OVF: 25 areas with 5 x 5) / Multi / * changeable size of AF frame: among 5 type"
         }
       ]
     },
@@ -136,28 +152,33 @@
       "rows": [
         {
           "label": "感光度",
-          "value": "Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / AUTO mode : AUTO (400) / AUTO (800) / AUTO (1600) / AUTO (3200) / Extended output sensitivity equivalent ISO 100, 12800 and 25600",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "等效 ISO 200 - 6400 (标准 输出感光度)；自动 模式 : 自动 (400)；自动 (800)；自动 (1600)；自动 (3200)；扩展感光度，等效 ISO 100, 12800 及 25600",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Equivalent to ISO 200 - 6400 (Standard Output Sensitivity) / AUTO mode : AUTO (400) / AUTO (800) / AUTO (1600) / AUTO (3200) / Extended output sensitivity equivalent ISO 100, 12800 and 25600"
         },
         {
           "label": "曝光控制",
-          "value": "TTL 256-zones metering, Multi / Spot / Average",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "TTL 256-区测光, 多重；点测光；平均",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "TTL 256-zones metering, Multi / Spot / Average"
         },
         {
           "label": "曝光模式",
-          "value": "Programmed AE, Shutter priority AE, Aperture priority AE, Manual exposure",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "程序自动曝光、快门优先、光圈优先、手动曝光",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Programmed AE, Shutter priority AE, Aperture priority AE, Manual exposure"
         },
         {
           "label": "曝光补偿",
-          "value": "-2.0 EV - +2.0 EV, incliment with 1/3 EV step",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "-2.0 EV - +2.0 EV, 步长 1/3 EV 步长",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "-2.0 EV - +2.0 EV, incliment with 1/3 EV step"
         },
         {
           "label": "白平衡",
-          "value": "Automatic scene recognition / Custom, Color temperature selection (K) / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, underwater",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "自动场景识别；自定义, 色温选择 (K)；预设： 晴天, 阴影, 荧光灯 (日光), 荧光灯 (暖白色), 荧光灯 (冷白色), 白炽灯, 水下",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Automatic scene recognition / Custom, Color temperature selection (K) / Preset: Fine, Shade, Fluorescent light (Daylight), Fluorescent light (Warm White), Fluorescent light (Cool White), Incandescent light, underwater"
         }
       ]
     },
@@ -167,28 +188,33 @@
       "rows": [
         {
           "label": "快门控制",
-          "value": "Focal Plane Shutter",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Focal Plane Shutter"
         },
         {
           "label": "机械快门速度",
-          "value": "(AUTO mode) 1/4 sec. to 1/4000 sec., / (All other modes) 30 sec. to 1/4000 sec. / Bulb (max. 60 min.) / Time 1/2 to 30 sec.",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "(自动 模式) 1/4秒 至 1/4000秒,；(其他所有模式) 30秒 至 1/4000秒；B门 (最多 60分钟)；T 门 1/2 至 30秒",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "(AUTO mode) 1/4 sec. to 1/4000 sec., / (All other modes) 30 sec. to 1/4000 sec. / Bulb (max. 60 min.) / Time 1/2 to 30 sec."
         },
         {
           "label": "闪光模式",
-          "value": "Hot shoe with TTL contacts; sync terminal / Red-eye removal OFF: Auto, Forced Flash, Suppressed Flash, Slow Synchro, Rear-curtain Synchro. / Red-eye removal ON: Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro, Red-eye Reduction & Rear-curtain Synchro.",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "热靴 搭配 TTL 触点; 同步端子；去红眼 关闭: 自动, 强制闪光, 禁止闪光, 慢速同步, 后帘同步.；去红眼 开启: 防红眼 自动, 防红眼 & 强制闪光, 禁止闪光, 防红眼 & 慢速同步, 防红眼 & 后帘同步.",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Hot shoe with TTL contacts; sync terminal / Red-eye removal OFF: Auto, Forced Flash, Suppressed Flash, Slow Synchro, Rear-curtain Synchro. / Red-eye removal ON: Red-eye Reduction Auto, Red-eye Reduction & Forced Flash, Suppressed Flash, Red-eye Reduction & Slow Synchro, Red-eye Reduction & Rear-curtain Synchro."
         },
         {
           "label": "热靴",
-          "value": "Yes (dedicated TTL Flash compatible)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "支持 (专用 TTL 闪光 兼容)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "Yes (dedicated TTL Flash compatible)"
         },
         {
           "label": "闪光同步接口",
-          "value": "X terminal, synchronized Shutter speed: 1/180 sec or slower",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "X 同步端子, 闪光同步快门速度: 1/180秒 或更慢",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "X terminal, synchronized Shutter speed: 1/180 sec or slower"
         }
       ]
     },
@@ -198,13 +224,13 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "Hybrid Multi Viewfinder Optical viewfinder Reverse Galilean viewfinder with electronic bright frame display / Magnifications: 0.37x / 0.6x / Coverage of frame area v.s. capturing area: 约 90% 电子取景器 0.47-in., 约 1,440,000-dots color LCD viewfinder / Coverage of viewing area v.s capturing area: 约 100% Eye sensor installed Eye point: 约 14 mm",
+          "value": "混合多重取景器：光学取景器 逆伽利略式光学取景器，带电子亮框显示；放大倍率: 0.37x；0.6x；取景覆盖率: 约 90% 电子取景器 0.47-英寸, 约 1,440,000-像素点 彩色液晶取景器；取景覆盖率: 约 100% 内置眼传感器 眼点: 约 14 mm",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
           "originalValue": "Hybrid Multi Viewfinder Optical viewfinder Reverse Galilean viewfinder with electronic bright frame display / Magnifications: 0.37x / 0.6x / Coverage of frame area v.s. capturing area: approx. 90% Electronic viewfinder 0.47-in., approx. 1,440,000-dots color LCD viewfinder / Coverage of viewing area v.s capturing area: approx. 100% Eye sensor installed Eye point: approx. 14 mm"
         },
         {
           "label": "液晶屏",
-          "value": "3.0-inch RGBW (White) LCD monitor, 约 1,230,000 dots, (约 100% coverage)",
+          "value": "3.0-英寸 RGBW (白色) 液晶显示屏, 约 1,230,000点, (约 100% 视野率)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
           "originalValue": "3.0-inch RGBW (White) LCD monitor, approx. 1,230,000 dots, (Approx. 100% coverage)"
         }
@@ -216,17 +242,19 @@
       "rows": [
         {
           "label": "电源",
-          "value": "NP-W126 Li-ion battery (included)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "NP-W126 锂离子电池（随附）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "NP-W126 Li-ion battery (included)"
         },
         {
           "label": "尺寸",
-          "value": "139.5 (W) x 81.8 (H) x 42.5 (D) mm / 5.5 (W) x 3.2 (H) x 1.7 (D) in. / (Minimum depth: 34.1 mm / 1.3 in.)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "139.5 (W) x 81.8 (H) x 42.5 (D) mm；5.5 (W) x 3.2 (H) x 1.7 (D) 英寸；(最薄处: 34.1 mm；1.3 英寸)",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "139.5 (W) x 81.8 (H) x 42.5 (D) mm / 5.5 (W) x 3.2 (H) x 1.7 (D) in. / (Minimum depth: 34.1 mm / 1.3 in.)"
         },
         {
           "label": "重量",
-          "value": "约 450 g / 15.9 oz. (including battery and memory card) / 约 400 g / 14.1 oz. (excluding battery and memory card)",
+          "value": "约 450 g；15.9 oz. (含电池和存储卡)；约 400 g；14.1 oz. (不含电池和存储卡)",
           "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
           "originalValue": "Approx. 450 g / 15.9 oz. (including battery and memory card) / Approx. 400 g / 14.1 oz. (excluding battery and memory card)"
         },
@@ -237,13 +265,15 @@
         },
         {
           "label": "工作湿度",
-          "value": "10 - 80% (no condensation)",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "10 - 80% （无凝露）",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "10 - 80% (no condensation)"
         },
         {
           "label": "电池续航",
-          "value": "approx 300 frames",
-          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/"
+          "value": "约 300张",
+          "sourceUrl": "https://www.fujifilm.com.mx/productos/camaras_digitales/serie_x/xpro1/specifications/",
+          "originalValue": "approx 300 frames"
         }
       ]
     }

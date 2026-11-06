@@ -19,10 +19,10 @@
       "title": "传感器",
       "rows": [
         {
-          "label": "类型",
+          "label": "传感器类型",
           "value": "约 22.3 × 14.9 mm (APS-C) CMOS",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡"
         },
         {
           "label": "有效像素",
@@ -46,8 +46,9 @@
         },
         {
           "label": "除尘系统",
-          "value": "Not provided",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "未配备",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Not provided"
         },
         {
           "label": "彩色滤镜",
@@ -66,10 +67,10 @@
       "title": "影像处理器",
       "rows": [
         {
-          "label": "类型",
+          "label": "处理器",
           "value": "DIGIC X",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡"
         }
       ]
     },
@@ -79,14 +80,16 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "RF (natively supporting RF and RF-S lenses, excluding RF 5.2mm F2.8L DUAL FISHEYE) / EF and EF-S lenses can be attached using Mount Adapter EF-EOS R, EF-EOS R Control Ring Mount Adapter, Drop-in Filter Mount Adapter EF-EOS R / EF-M lenses are not compatible",
+          "value": "RF卡口，原生支持RF及RF-S镜头（RF 5.2mm F2.8L DUAL FISHEYE除外）；EF／EF-S镜头可经EF-EOS R普通、控制环或插入式滤镜适配器转接；不兼容EF-M镜头",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "The operation of the RF 5.2 mm F 2.8 L DUAL FISHEYE is not guaranteed. Excluding EF-M lenses. Operation of EF Cinema Lens is not guaranteed. Operation of the mount adapter EF-EOS R 0.71 X (sold separately) is not guaranteed."
+          "condition": "不兼容EF-M镜头；RF 5.2mm F2.8L DUAL FISHEYE、EF电影镜头及另售EF-EOS R 0.71×适配器不保证正常工作。",
+          "originalValue": "RF (natively supporting RF and RF-S lenses, excluding RF 5.2mm F2.8L DUAL FISHEYE) / EF and EF-S lenses can be attached using Mount Adapter EF-EOS R, EF-EOS R Control Ring Mount Adapter, Drop-in Filter Mount Adapter EF-EOS R / EF-M lenses are not compatible"
         },
         {
           "label": "焦距换算",
-          "value": "Equivalent to 1.6x the focal length of the lens 使用 RF/RF-S and EF/EF-S lenses",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "使用RF／RF-S及EF／EF-S镜头时，35mm等效焦距换算系数1.6×",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Equivalent to 1.6x the focal length of the lens 使用 RF/RF-S and EF/EF-S lenses"
         }
       ]
     },
@@ -95,16 +98,17 @@
       "title": "对焦系统",
       "rows": [
         {
-          "label": "类型",
+          "label": "自动对焦系统",
           "value": "Dual Pixel CMOS AF II",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡"
         },
         {
           "label": "自动对焦系统与点数",
-          "value": "100% horizontal and 100% vertical (自动 selection) / 90% horizontal and 100% vertical (手动 selection) / 最高 651 zones / 4503 positions for stills / 最高 527 zones / 3713 positions for movies",
+          "value": "100% 水平和 垂直100% (自动选择)；90% 水平和 垂直100% (手动选择)；最高 651区；4503 个照片对焦位置；最高 527区；3713 个视频对焦位置s",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Applicable when subject frame is shown while tracking and a compatible lens is attached to the camera while the full-range AF is active or the subject is detected successfully in another area mode. For details on supported lenses, refer to [Supplemental Information] for [EOS R7/EOS R10] in “cam.start.canon”."
+          "condition": "适用于安装兼容镜头，且全区域AF跟踪显示主体框，或其他区域模式成功识别主体时。兼容镜头见cam.start.canon中EOS R7／R10的补充信息。",
+          "originalValue": "100% horizontal and 100% vertical (自动 selection) / 90% horizontal and 100% vertical (手动 selection) / 最高 651 zones / 4503 positions for stills / 最高 527 zones / 3713 positions for movies"
         },
         {
           "label": "对焦工作范围",
@@ -114,34 +118,40 @@
         },
         {
           "label": "对焦模式",
-          "value": "单次自动对焦 / 伺服自动对焦 / 自动 Switch (only in A+ mode)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "单次自动对焦；伺服自动对焦；自动切换（仅A＋模式）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "单次自动对焦 / 伺服自动对焦 / 自动 Switch (only in A+ mode)"
         },
         {
           "label": "对焦点选择",
-          "value": "Automatic selection: 651 Available AF areas when automatically selected / 手动 selection: 1-point AF (AF frame size can be changed) 4503 AF positions available stills (3713 Movies) / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 513 maximum focusing zones) / 手动 selection: Whole Area AF (Entire focusing area 使用 651 maximum focusing zones)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "自动选择： 651 个可自动选择的AF区域；手动选择： 单点AF (AF框尺寸可更改) 4503 个照片AF位置 (3713 视频)；手动选择： AF点扩展（上、下、左、右4点）；手动选择： AF点扩展（周围）；手动选择： 灵活区域AF 1-3 (所有AF点可分成9–513个区域)；手动选择： 全区域AF（整个对焦区域最多651区）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Automatic selection: 651 Available AF areas when automatically selected / 手动 selection: 1-point AF (AF frame size can be changed) 4503 AF positions available stills (3713 Movies) / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 513 maximum focusing zones) / 手动 selection: Whole Area AF (Entire focusing area 使用 651 maximum focusing zones)"
         },
         {
           "label": "追踪对焦",
-          "value": "Humans (Eyes/Face/Head/Body), Animals (Dogs, Cats and Birds) or Vehicles (Racing cars or Motor bikes)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "人物 (眼睛／脸部／头部／身体), 动物 (狗, 猫及鸟)或车辆 (赛车或摩托车)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Humans (Eyes/Face/Head/Body), Animals (Dogs, Cats and Birds) or Vehicles (Racing cars or Motor bikes)"
         },
         {
           "label": "对焦锁定",
-          "value": "Locked when: / - shutter button is pressed halfway / - customised button set to Metering and AF start is pressed in 单次自动对焦 AF mode. / - Using customised button set to AF stop in AI servo",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "单次AF模式下半按快门，或按设为“测光和AF启动”的自定义按钮锁定；AI Servo模式可使用设为“AF停止”的自定义按钮。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Locked when: / - shutter button is pressed halfway / - customised button set to Metering and AF start is pressed in 单次自动对焦 AF mode. / - Using customised button set to AF stop in AI servo"
         },
         {
           "label": "对焦辅助灯",
-          "value": "Emitted by built in LED or optional dedicated Speedlite (flash)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "由内置LED或另售专用Speedlite闪光灯发出",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Emitted by built in LED or optional dedicated Speedlite (flash)"
         },
         {
           "label": "手动对焦",
-          "value": "Selected on lens / in camera menu for lenses without AF / MF switch",
+          "value": "在镜头上选择；不带AF／MF开关的镜头在相机菜单设置",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Depending on the lens attached. When RF lenses without a focus mode switch are attached manual focus is selected in the camera menu. When RF/EF lenses 使用 a focus mode switch are attached, the Focus mode menu option is not available."
+          "condition": "视所装镜头而定。不带对焦模式开关的RF镜头在相机菜单选择手动对焦；带开关的RF／EF镜头以镜头开关为准，相机对焦模式菜单不可用。",
+          "originalValue": "Selected on lens / in camera menu for lenses without AF / MF switch"
         }
       ]
     },
@@ -151,40 +161,47 @@
       "rows": [
         {
           "label": "测光模式",
-          "value": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (约 5.8% of viewfinder at centre) / (3) Spot metering: Centre spot metering (约 2.9% viewfinder at centre) AF point-linked spot metering not provided / (4) Centre weighted average metering",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "使用图像传感器实时测光, 384区测光.；(1) 评价测光 (联动所有AF点)；(2) 局部测光 (约 5.8% 取景画面中央)；(3) 点测光: 中央点测光 (约 2.9% 取景画面中央) 不支持AF点联动点测光；(4) 中央重点平均测光",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (约 5.8% of viewfinder at centre) / (3) Spot metering: Centre spot metering (约 2.9% viewfinder at centre) AF point-linked spot metering not provided / (4) Centre weighted average metering"
         },
         {
           "label": "测光范围",
-          "value": "Stills: EV -2 to 20 (23°C时, ISO100, 使用 evaluative metering) / Movies: EV 0 to 20 (23°C时, ISO100, 使用 evaluative metering)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "照片： EV -2至20 (23°C时, ISO100, 使用 评价测光)；视频： EV 0至20 (23°C时, ISO100, 使用 评价测光)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Stills: EV -2 to 20 (23°C时, ISO100, 使用 evaluative metering) / Movies: EV 0 to 20 (23°C时, ISO100, 使用 evaluative metering)"
         },
         {
           "label": "自动曝光锁定",
-          "value": "自动: AE lock takes effect when focus is achieved / 手动: By AE lock button in P, Av, Fv, Tv and M modes. Press again to cancel and once more to refresh. Enabled in all metering modes",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "自动：合焦时锁定曝光；手动：在P、Av、Fv、Tv和M模式下通过AE锁定按钮操作. 再按取消，再次按下更新；所有测光模式均可用",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "自动: AE lock takes effect when focus is achieved / 手动: By AE lock button in P, Av, Fv, Tv and M modes. Press again to cancel and once more to refresh. Enabled in all metering modes"
         },
         {
           "label": "曝光补偿",
-          "value": "+/-3 EV in 1/3 stop increments (can be combined 使用 AEB)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "+/-3 EV 以1/3档步进 (可结合自动曝光包围使用)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "+/-3 EV in 1/3 stop increments (can be combined 使用 AEB)"
         },
         {
           "label": "自动包围曝光",
-          "value": "+/-3 EV in 1/3 stop increments",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "+/-3 EV 以1/3档步进",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "+/-3 EV in 1/3 stop increments"
         },
         {
           "label": "防闪烁拍摄",
-          "value": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz / High frequency anti-flicker shooting not provided",
+          "value": "支持。 可检测100Hz或120Hz闪烁；不支持高频防闪烁拍摄",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "不提供 使用时 the electronic shutter Flicker can also be detected manuallt Increases shutter-release time lag May decrease continuous shooting speed The interval between 张 in continuous shooting may vary Color tone may not match the color tone of 张图像 captured 使用 this feature set to [Disable] Changing light source conditions during continuous shooting may revent reduction of the effects of flicker"
+          "condition": "电子快门不支持。可手动检测闪烁；此功能会增加快门释放时滞，可能降低连拍速度并使拍摄间隔变化。色调可能与关闭时不同；连拍中光源变化可能妨碍防闪烁效果。",
+          "originalValue": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz / High frequency anti-flicker shooting not provided"
         },
         {
           "label": "感光度",
-          "value": "自动 100-32000 (in 1/3-stop or whole stop increments) / ISO can be expanded to H: 51200",
+          "value": "自动 100-32000 (以1/3或1档步进)；ISO可扩展至 H: 51200",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "ISO is limited to ISO 200–32000 when [Highlight tone priority] is configured. Expanded ISO speeds cannot be set in HDR mode or for HDR shooting (HDR PQ)."
+          "condition": "高光色调优先时ISO限200–32000；HDR模式及HDR PQ拍摄不可设扩展感光度。",
+          "originalValue": "自动 100-32000 (in 1/3-stop or whole stop increments) / ISO can be expanded to H: 51200"
         }
       ]
     },
@@ -193,10 +210,11 @@
       "title": "快门",
       "rows": [
         {
-          "label": "类型",
-          "value": "Electronically controlled 焦平面快门 and Electronic rolling shutter function using the image sensor",
+          "label": "快门类型",
+          "value": "电子控制 焦平面快门及基于图像传感器的电子卷帘快门",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡",
+          "originalValue": "Electronically controlled 焦平面快门 and Electronic rolling shutter function using the image sensor"
         },
         {
           "label": "快门速度",
@@ -205,8 +223,9 @@
         },
         {
           "label": "快门释放",
-          "value": "Soft-touch electromagnetic release",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "轻触式电磁释放",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Soft-touch electromagnetic release"
         }
       ]
     },
@@ -215,26 +234,30 @@
       "title": "白平衡",
       "rows": [
         {
-          "label": "类型",
-          "value": "自动白平衡 使用 the imaging sensor / 自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置",
+          "label": "白平衡检测",
+          "value": "使用图像传感器自动检测白平衡；自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, 闪光, 自定义, 色温设置",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡",
+          "originalValue": "自动白平衡 使用 the imaging sensor / 自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置"
         },
         {
           "label": "设置",
-          "value": "White balance shift: / 1. Blue/Amber +/-9 / 2. Magenta/Green +/-9",
+          "value": "白平衡偏移:；1. 蓝色／琥珀色 +/-9；2. 洋红／绿色 +/-9",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "White balance shift cannot be set at the same time as white balance bracketing or exposure bracketing"
+          "condition": "白平衡偏移不可与白平衡包围或曝光包围同时使用",
+          "originalValue": "White balance shift: / 1. Blue/Amber +/-9 / 2. Magenta/Green +/-9"
         },
         {
           "label": "自定义白平衡",
-          "value": "支持, 5 setting can be registered by selecting an image on card",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "支持， 可从存储卡照片取样，保存五组设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "支持, 5 setting can be registered by selecting an image on card"
         },
         {
           "label": "白平衡包围",
-          "value": "+/- 3 levels (in single-level increments) / Selectable Blue/Amber bias or Magenta/Green bias",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "+/- 3级，1级步进；可选择 蓝色／琥珀色偏移或洋红／绿色偏移",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "+/- 3 levels (in single-level increments) / Selectable Blue/Amber bias or Magenta/Green bias"
         }
       ]
     },
@@ -243,59 +266,67 @@
       "title": "取景器",
       "rows": [
         {
-          "label": "类型",
-          "value": "0.39 inch OLED colour EVF",
+          "label": "取景器类型",
+          "value": "0.39英寸 OLED彩色电子取景器",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡",
+          "originalValue": "0.39 inch OLED colour EVF"
         },
         {
           "label": "显示点数",
-          "value": "2.36 Million dots (1024x768)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "2.36 百万点 (1024x768)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "2.36 Million dots (1024x768)"
         },
         {
           "label": "视野覆盖率",
           "value": "约 100%",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "At JPEG Large image quality, 3:2 aspect ratio, approx. 22mm eyepoint"
+          "condition": "JPEG大尺寸、3:2比例、眼点约22mm时"
         },
         {
           "label": "放大倍率",
           "value": "约 0.95x",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "使用 3:2 display, an RF 50mm F1.2 L USM lens at 无限远, -1 m-1"
+          "condition": "3:2显示、RF 50mm F1.2 L USM镜头无限远对焦、屈光度−1m⁻¹时"
         },
         {
           "label": "眼点",
-          "value": "约 22mm (At -1 m from eyepiece lens end)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "约 22mm (屈光度−1m⁻¹，从目镜透镜末端测量)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "约 22mm (At -1 m from eyepiece lens end)"
         },
         {
           "label": "屈光度调节",
-          "value": "-3 to +1 m (dioptre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "-3至+1 m (屈光度)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "-3 to +1 m (dioptre)"
         },
         {
           "label": "显示性能",
-          "value": "Power saving: 59.94 fps / Smooth: 119.98 fps",
+          "value": "节电59.94fps；流畅119.98fps",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "The maximum frame rate during AF, half-press of the shutter button, or continuous shooting is 59.94 fps. Note that the display frame rate may be lower depending on the lens you are using and shooting conditions."
+          "condition": "AF、半按快门或连拍时最高显示帧率59.94fps；实际帧率可能随镜头和拍摄条件降低。",
+          "originalValue": "Power saving: 59.94 fps / Smooth: 119.98 fps"
         },
         {
           "label": "取景信息",
-          "value": "Stills: Grid display (Off / 3x3 / 6x4 / 3x3 + diagonal), Histogram display (Brightness / RGB, Large / Small), Focus distance display, Focal length display, SA variable amount / Movies: Grid display (Off / 3x3 / 6x4 / 3x3 + diagonal), Histogram display (Brightness / RGB, Large / Small), Focus distance display, Focal length display, SA variable amount, Recording emphasis, aspect marker (Off / 1:1 / 4:5 / 5:4 / 9:16 / 4:3 / 13:9 / 14:9 / 1.375:1 / 1.66:1 / 1.75:1 / 1.85:1 / 1.90:1 / 2.35:1 / 1.39:1)",
+          "value": "显示曝光参数、拍摄模式、AF区域与对焦状态；剩余张数、电量、存储状态；白平衡、图像画质、闪光状态；直方图、电子水平仪及构图辅助；视频录制状态、时长与音频信息。完整图标与显示条件见官方规格。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "SA variable amount is only displayed when a lens 使用 SA control is attached"
+          "condition": "仅安装带SA控制的镜头时显示SA调节量",
+          "originalValue": "Stills: Grid display (Off / 3x3 / 6x4 / 3x3 + diagonal), Histogram display (Brightness / RGB, Large / Small), Focus distance display, Focal length display, SA variable amount / Movies: Grid display (Off / 3x3 / 6x4 / 3x3 + diagonal), Histogram display (Brightness / RGB, Large / Small), Focus distance display, Focal length display, SA variable amount, Recording emphasis, aspect marker (Off / 1:1 / 4:5 / 5:4 / 9:16 / 4:3 / 13:9 / 14:9 / 1.375:1 / 1.66:1 / 1.75:1 / 1.85:1 / 1.90:1 / 2.35:1 / 1.39:1)"
         },
         {
           "label": "景深预览",
-          "value": "支持, via customised button and when display simulation is set to Exposure+DOF",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "支持， 通过自定义按钮 且显示模拟设为“曝光＋景深”时",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "支持, via customised button and when display simulation is set to Exposure+DOF"
         },
         {
           "label": "目镜遮光",
-          "value": "Not provided",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "未配备",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Not provided"
         }
       ]
     },
@@ -304,22 +335,23 @@
       "title": "显示屏",
       "rows": [
         {
-          "label": "类型",
-          "value": "约 7.5 cm (2.95\") TFT colour LCD monitor, 约 1.62 百万点",
+          "label": "显示屏类型",
+          "value": "约 7.5 cm (2.95\") TFT彩色液晶显示屏, 约 1.62 百万点",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting",
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡",
           "originalValue": "约 7.5 cm (2.95\") TFT colour LCD monitor, 约 1.62 million dots"
         },
         {
           "label": "覆盖率",
           "value": "约 100%",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "At L image size and an aspect ration of 3:2"
+          "condition": "大尺寸、3:2比例时"
         },
         {
           "label": "可视角度",
-          "value": "约 170° vertically and horizontally",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "约 170° 水平和垂直",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "约 170° vertically and horizontally"
         },
         {
           "label": "表面涂层",
@@ -329,19 +361,22 @@
         },
         {
           "label": "亮度调节",
-          "value": "手动: Adjustable to one of seven levels / Colour Tone Adjustment: 不支持",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "手动: 七级亮度调节；色调调节: 不支持",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "手动: Adjustable to one of seven levels / Colour Tone Adjustment: 不支持"
         },
         {
           "label": "触控操作",
-          "value": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting.",
+          "value": "电容式触控；支持菜单、速控、回放与放大操作，照片和视频可触控选择AF点，照片模式支持触摸快门",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Double-tap 使用 two fingers to magnify menu screens around the two points touched"
+          "condition": "双指双击可放大两个触点周围的菜单区域",
+          "originalValue": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting."
         },
         {
           "label": "显示选项",
-          "value": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "(1) 基本相机设置；(2) 高级相机设置；(3) 相机设置、直方图及双轴电子水平仪；(4) 无信息；(5) 速控屏幕",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen"
         }
       ]
     },
@@ -351,24 +386,28 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "E-TTL II 自动 Flash, Metered 手动",
+          "value": "E-TTL II 自动 闪光, Metered 手动",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Special Scene: Brightness can be set (except in HDR backlight control mode) / Panoramic shot: Users can set their preferred direction to rotate the camera (right/left/up/down). Automatically set to [Large / Fine] and [Low speed continuous]. [Cropping / aspect ratio] is not available. All RF and EF lenses can be used, but some lenses can also reduce subject blue that is more likely to occur during panning. Refer to the separate lens list. / Panning: [Effect: min / med / max] can be set. Refer to the separate lens list] / Food: [Color tone: Cool tone-Warm tone (five levels)] can be set / Handheld night scene: Flash photography is not available / Silent shutter: The camera may make some sounds for operations such as autofocusing, aperture adjustment and image stabilisation. Flash photography not available / Creative filters: Only JPEGs (RAW image shooting is not possible) can be captured in Creative filters mode"
+          "condition": "特殊场景除HDR逆光控制外可调亮度。全景可选右／左／上／下方向，固定大尺寸／精细及低速连拍，不可设裁切比例；兼容RF／EF镜头，摇摄模糊抑制依镜头而定。摇摄效果低／中／高；食物冷暖色调五级。手持夜景和静音快门不支持闪光；静音模式仍可能发出对焦、光圈及防抖机构声。创意滤镜仅JPEG，不支持RAW。",
+          "originalValue": "E-TTL II 自动 Flash, Metered 手动"
         },
         {
           "label": "闪光同步速度",
-          "value": "1/250 sec. electronic 1st curtain / Flash photography is not available 使用 电子快门.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "1/250秒 电子前帘快门；电子快门不支持闪光。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "1/250 sec. electronic 1st curtain / Flash photography is not available 使用 电子快门."
         },
         {
           "label": "闪光曝光补偿",
-          "value": "+/- 3EV in 1/3 increments 使用 EX series Speedlite flashes / +/- 2EV in 1/3-stop increments 使用 built in flash",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "+/- 3EV 以1/3档步进 使用 EX系列Speedlite闪光灯；+/- 2EV 以1/3档步进 使用内置闪光灯",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "+/- 3EV in 1/3 increments 使用 EX series Speedlite flashes / +/- 2EV in 1/3-stop increments 使用 built in flash"
         },
         {
           "label": "闪光包围曝光",
-          "value": "支持, 使用 compatible External Flash (+/- 3EV in 1/3- or 1/2-stop increments 使用 EX/EL series Speedlite flashes)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "支持， 使用 兼容的外接闪光灯 (+/- 3EV 以1/3或1/2档步进 使用 EX／EL系列Speedlite闪光灯)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "支持, 使用 compatible External Flash (+/- 3EV in 1/3- or 1/2-stop increments 使用 EX/EL series Speedlite flashes)"
         },
         {
           "label": "闪光曝光锁定",
@@ -377,25 +416,29 @@
         },
         {
           "label": "后帘同步",
-          "value": "支持, (使用 both the built-in and external Speedlites)",
+          "value": "支持， (内置闪光灯及外接Speedlite均支持)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "使用 built-in flash, first-curtain synchronisation is used 使用 shutter speeds faster than 1/30 sec."
+          "condition": "使用内置闪光灯时，快门快于1/30秒采用前帘同步",
+          "originalValue": "支持, (使用 both the built-in and external Speedlites)"
         },
         {
           "label": "热靴与同步端子",
-          "value": "Hot shoe: 21-pin multi-function shoe only / PC Terminal: 不支持",
+          "value": "热靴: 仅21触点多功能热靴；PC同步端口: 不支持",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "A 5-pin contact for previous accessories is not equipped. Use of previous accessories requires multi-function shoe adapter AD-E1"
+          "condition": "未配备旧附件使用的五触点；使用旧附件需搭配AD-E1多功能热靴适配器",
+          "originalValue": "Hot shoe: 21-pin multi-function shoe only / PC Terminal: 不支持"
         },
         {
           "label": "外接闪光灯兼容",
-          "value": "E-TTL II 使用 EX/EL series Speedlite, wireless multi-flash support",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "E-TTL II，兼容EX／EL系列Speedlite，支持无线多灯闪光",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "E-TTL II 使用 EX/EL series Speedlite, wireless multi-flash support"
         },
         {
           "label": "外接闪光灯控制",
-          "value": "via camera menu screen",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "通过相机菜单设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "via camera menu screen"
         }
       ]
     },
@@ -405,9 +448,10 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "Scene Intelligent 自动 (A+ Assist): Creative Assist, Creative bracketing, Advanced A+ / Hybrid 自动: Digest Movie / Scene: Self 人像, 人像, Smooth skin, Group photos, 风光, Panoramic shot, Sports, Kids, Panning, Close-up, Food, Handheld Night Scene, HDR Backlight Control, Silent shutter / Creative filters: Grainy B/W, Soft focus, Fish-eye effect, Water painting effect, Toy camera effect, Miniature effect, HDR art standard, HDR art vivid, HDR art bold, HDR art embossed / P: Program / Tv: Shutter-priority AE / Av: Aperture-priority AE / M: 手动 exposure, bulb exposure / Movie: Movie auto exposure, Movie manual exposure, Movie for close-up demos, Movie IS mode, HDR movie, Movie auto exposure",
+          "value": "场景智能自动 (A＋辅助): 创意辅助, 创意包围, 高级A＋；混合自动: 摘要视频；场景： 自拍人像, 人像, 平滑皮肤, 合影, 风光, 全景拍摄, 运动, 儿童, 摇摄, 微距, 食物, 手持夜景, HDR逆光控制, 静音快门；创意滤镜: 颗粒黑白, 柔焦, 鱼眼效果, 水彩效果, 玩具相机效果, 微缩景观效果, HDR艺术标准, HDR艺术鲜艳, HDR艺术浓艳, HDR艺术浮雕；P: 程序；Tv: 快门优先自动曝光；Av: 光圈优先自动曝光；M: 手动曝光、B门曝光；视频: 视频自动曝光, 视频手动曝光, 特写演示视频, 视频防抖模式, HDR 视频, 视频自动曝光",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Special Scene: Brightness can be set (except in HDR backlight control mode) / Panoramic shot: Users can set their preferred direction to rotate the camera (right/left/up/down). Automatically set to [Large / Fine] and [Low speed continuous]. [Cropping / aspect ratio] is not available. All RF and EF lenses can be used, but some lenses can also reduce subject blue that is more likely to occur during panning. Refer to the separate lens list. / Panning: [Effect: min / med / max] can be set. Refer to the separate lens list] / Food: [Color tone: Cool tone-Warm tone (five levels)] can be set / Handheld night scene: Flash photography is not available / Silent shutter: The camera may make some sounds for operations such as autofocusing, aperture adjustment and image stabilisation. Flash photography not available / Creative filters: Only JPEGs (RAW image shooting is not possible) can be captured in Creative filters mode"
+          "condition": "特殊场景除HDR逆光控制外可调亮度。全景可选右／左／上／下方向，固定大尺寸／精细及低速连拍，不可设裁切比例；兼容RF／EF镜头，摇摄模糊抑制依镜头而定。摇摄效果低／中／高；食物冷暖色调五级。手持夜景和静音快门不支持闪光；静音模式仍可能发出对焦、光圈及防抖机构声。创意滤镜仅JPEG，不支持RAW。",
+          "originalValue": "Scene Intelligent 自动 (A+ Assist): Creative Assist, Creative bracketing, Advanced A+ / Hybrid 自动: Digest Movie / Scene: Self 人像, 人像, Smooth skin, Group photos, 风光, Panoramic shot, Sports, Kids, Panning, Close-up, Food, Handheld Night Scene, HDR Backlight Control, Silent shutter / Creative filters: Grainy B/W, Soft focus, Fish-eye effect, Water painting effect, Toy camera effect, Miniature effect, HDR art standard, HDR art vivid, HDR art bold, HDR art embossed / P: Program / Tv: Shutter-priority AE / Av: Aperture-priority AE / M: 手动 exposure, bulb exposure / Movie: Movie auto exposure, Movie manual exposure, Movie for close-up demos, Movie IS mode, HDR movie, Movie auto exposure"
         },
         {
           "label": "照片风格",
@@ -416,19 +460,21 @@
         },
         {
           "label": "色彩空间",
-          "value": "sRGB and Adobe RGB / Fixed at HDR PQ",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "sRGB及Adobe RGB；HDR PQ模式固定",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "sRGB and Adobe RGB / Fixed at HDR PQ"
         },
         {
           "label": "图像处理",
-          "value": "Resize JPEG / HEIF 张图像 to M, S1, S2 / Cropping: JPEG / HEIF 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / Cropping of 张图像 / - Switch between vertical and horizontal cropping orientation / - Cropping frame can be moved using 触摸屏 operation / RAW image processing: not supportsed / HDR / HEIF to Jpeg conversion / Lens optical correction: / - Peripheral illumination correction, Chromatic aberration correction, Distortion correction (during/after still photo shooting, during video only) / - Diffraction correction, Digital Lens Optimizer (during/after still photo shooting) / Focus breathing compensation (compatible lenses, movies only) / Highlight Tone Priority (3 settings) / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction (3 settings) / High ISO speed noise reduction (4 settings) (still and video) / Clarity (+/- 4)",
+          "value": "支持高光色调优先、自动亮度优化、长曝光降噪、高ISO降噪、清晰度调整、镜头光学补偿、衍射校正、数码镜头优化、缩小尺寸、裁切、机内RAW处理、HDR、HEIF转JPEG；各功能适用格式、拍摄阶段与详细设置见官方规格。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
           "originalValue": "Resize JPEG / HEIF 张图像 to M, S1, S2 / Cropping: JPEG / HEIF 张图像 can be cropped (Aspect ratios 3:2, 4:3, 16:9, 1:1) / Cropping of 张图像 / - Switch between vertical and horizontal cropping orientation / - Cropping frame can be moved using touch screen operation / RAW image processing: not supportsed / HDR / HEIF to Jpeg conversion / Lens optical correction: / - Peripheral illumination correction, Chromatic aberration correction, Distortion correction (during/after still photo shooting, during video only) / - Diffraction correction, Digital Lens Optimizer (during/after still photo shooting) / Focus breathing compensation (compatible lenses, movies only) / Highlight Tone Priority (3 settings) / 自动 Lighting Optimizer (4 settings) / Long exposure noise reduction (3 settings) / High ISO speed noise reduction (4 settings) (still and video) / Clarity (+/- 4)"
         },
         {
           "label": "驱动模式",
-          "value": "Single, Continuous High+, Continuous High, Continuous Low, Self-timer (2s+remote, 10s+remote, continous)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "单张、 高速连拍＋, 高速连拍, 低速连拍, 自拍 (2秒＋遥控、10秒＋遥控、连续)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Single, Continuous High+, Continuous High, Continuous Low, Self-timer (2s+remote, 10s+remote, continous)"
         },
         {
           "label": "连续拍摄",
@@ -438,8 +484,9 @@
         },
         {
           "label": "间隔定时器",
-          "value": "Built in: 3 Scenes (moving subjects, slowly changing subjects, slowly changing scenes), 自定义",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "内置: 三种场景（移动主体、缓慢变化主体、缓慢变化场景）, 自定义",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Built in: 3 Scenes (moving subjects, slowly changing subjects, slowly changing scenes), 自定义"
         }
       ]
     },
@@ -449,29 +496,34 @@
       "rows": [
         {
           "label": "静态图像格式",
-          "value": "RAW 14 bit: RAW and C-RAW (Canon original RAW 3rd edition) / JPEG 8 bit: 2 compression options / HEIF 10 bit: 2 compression options / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.1",
+          "value": "RAW 14位: RAW及C-RAW (佳能第三版原始RAW格式)；JPEG 8位: 2 种压缩选项；HEIF 10位: 2 种压缩选项；兼容Exif 2.31及DCF 2.0；兼容DPOF 1.1",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Using electonic shutter or High-speed continuous shooting + in Eelctronic 1st-curtain shutter, RAW files will have a 12-bit A/D conversion."
+          "condition": "使用电子快门，或电子前帘的高速连拍＋时，RAW采用12位模数转换。",
+          "originalValue": "RAW 14 bit: RAW and C-RAW (Canon original RAW 3rd edition) / JPEG 8 bit: 2 compression options / HEIF 10 bit: 2 compression options / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.1"
         },
         {
           "label": "RAW与JPEG同时记录",
-          "value": "支持, any combination of RAW + JPEG or RAW + HEIF possible",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "支持RAW＋JPEG或RAW＋HEIF的任意组合",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "支持, any combination of RAW + JPEG or RAW + HEIF possible"
         },
         {
           "label": "图像尺寸",
-          "value": "RAW/ C-RAW: 6000x4000 (3:2 aspect ratio) / JPEG/ HEIF: / 3:2 ratio (L) 6000x4000, (M) 3984x2656, (S1) 2976x1984, (S2) 2400x1600 / 4:3 ratio (L) 5328x4000, (M) 3552x2664, (S1) 2656x1992, (S2) 2112x1600 / 16:9 ratio (L) 6000x3368, (M) 3984x2240, (S1) 2976x1680, (S2) 2400x1344 / 1:1 ratio (L) 4000x4000, (M) 2656x2656, (S1) 1984x1984, (S2) 1600x1600",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "RAW/ C-RAW: 6000x4000 (3:2 画面比例)；JPEG/ HEIF:；3:2 比例 (L) 6000x4000, (M) 3984x2656, (S1) 2976x1984, (S2) 2400x1600；4:3 比例 (L) 5328x4000, (M) 3552x2664, (S1) 2656x1992, (S2) 2112x1600；16:9 比例 (L) 6000x3368, (M) 3984x2240, (S1) 2976x1680, (S2) 2400x1344；1:1 比例 (L) 4000x4000, (M) 2656x2656, (S1) 1984x1984, (S2) 1600x1600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "RAW/ C-RAW: 6000x4000 (3:2 aspect ratio) / JPEG/ HEIF: / 3:2 ratio (L) 6000x4000, (M) 3984x2656, (S1) 2976x1984, (S2) 2400x1600 / 4:3 ratio (L) 5328x4000, (M) 3552x2664, (S1) 2656x1992, (S2) 2112x1600 / 16:9 ratio (L) 6000x3368, (M) 3984x2240, (S1) 2976x1680, (S2) 2400x1344 / 1:1 ratio (L) 4000x4000, (M) 2656x2656, (S1) 1984x1984, (S2) 1600x1600"
         },
         {
           "label": "文件夹",
-          "value": "New folders can be manually created and selected",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "可手动创建和选择文件夹",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "New folders can be manually created and selected"
         },
         {
           "label": "文件编号",
-          "value": "(1) Continuous numbering / (2) 自动 reset / (3) 手动 reset",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "(1) 连续编号；(2) 自动 重置；(3) 手动 重置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "(1) Continuous numbering / (2) 自动 reset / (3) 手动 reset"
         },
         {
           "label": "文件命名",
@@ -486,20 +538,23 @@
       "rows": [
         {
           "label": "视频格式",
-          "value": "MP4；HDR PQ关闭：8位H.264 / MPEG-4 AVC、YCbCr 4:2:0、Rec.709；HDR PQ开启：10位H.265 / HEVC、YCbCr 4:2:2、Rec.2020；AAC音频",
+          "value": "MP4；HDR PQ关闭：8位H.264；MPEG-4 AVC、YCbCr 4:2:0、Rec.709；HDR PQ开启：10位H.265；HEVC、YCbCr 4:2:2、Rec.2020；AAC音频",
           "sourceUrl": "https://cam.start.canon/en/C011/manual/html/UG-11_Reference_0090.html",
-          "condition": "HDR PQ位深以佳能EOS R50官方说明书为准；欧洲产品规格页将此处写为8位，与说明书10 bits (HDR PQ)不一致。"
+          "condition": "HDR PQ位深以佳能EOS R50官方说明书为准；欧洲产品规格页将此处写为8位，与说明书10 bits (HDR PQ)不一致。",
+          "originalValue": "MP4；HDR PQ关闭：8位H.264 / MPEG-4 AVC、YCbCr 4:2:0、Rec.709；HDR PQ开启：10位H.265 / HEVC、YCbCr 4:2:2、Rec.2020；AAC音频"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "4K UHD: 3840 x 2160, 16:9, NTSC (29.97 / 23.98) / PAL (25.00), IPB (标准 / Light), AAC / 全高清 High Frame Rate Movies: 1920 x 1080, 16:9, NTSC (119.88) / PAL (100.00), IPB (标准 / Light), 不支持 audio / 全高清: 1920 x 1080, 16:9, NTSC (59.94 / 29.92 / 23.98) / PAL (50.00 / 25.00), IPB (标准 / Light), AAC, Digital Zoom 1-10x available at 29.97 / 23.98 / 25.00 / 全高清 time-lapse movies: 1920 x 1080, 16:9, NTSC (29.97) / PAL (25.00), ALL-I, 不支持 audio / HDR movies: 1920 x 1080, 16:9, NTSC (29.97) / PAL (25.00), IPB (标准), AAC / Creative filters: 1920 x 1080, 16:9, NTSC (29.97 / 23.98) / PAL (25.00), IPB (标准 / Light), AAC",
+          "value": "4K UHD: 3840 x 2160, 16:9, NTSC (29.97；23.98)；PAL (25.00), IPB (标准；轻量), AAC；全高清 高帧率 视频： 1920 x 1080, 16:9, NTSC (119.88)；PAL (100.00), IPB (标准；轻量), 无声；全高清: 1920 x 1080, 16:9, NTSC (59.94；29.92；23.98)；PAL (50.00；25.00), IPB (标准；轻量), AAC, 1–10倍数字变焦适用于 29.97；23.98；25.00；全高清 延时摄影 视频: 1920 x 1080, 16:9, NTSC (29.97)；PAL (25.00), ALL-I, 无声；HDR 视频: 1920 x 1080, 16:9, NTSC (29.97)；PAL (25.00), IPB (标准), AAC；创意滤镜: 1920 x 1080, 16:9, NTSC (29.97；23.98)；PAL (25.00), IPB (标准；轻量), AAC",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "4K UHD generated from 6K oversampling / Time-lapse: playback frame rate is shown High-frame rate: recording frame rate is shown / 不支持 audio is recorded for miniature effect movies, time-lapse movies and High Frame Rate movies"
+          "condition": "4K UHD由6K超采样生成。延时视频标示回放帧率，高帧率视频标示拍摄帧率。微缩景观、延时及高帧率视频均不录音。",
+          "originalValue": "4K UHD: 3840 x 2160, 16:9, NTSC (29.97 / 23.98) / PAL (25.00), IPB (标准 / Light), AAC / 全高清 High Frame Rate Movies: 1920 x 1080, 16:9, NTSC (119.88) / PAL (100.00), IPB (标准 / Light), 不支持 audio / 全高清: 1920 x 1080, 16:9, NTSC (59.94 / 29.92 / 23.98) / PAL (50.00 / 25.00), IPB (标准 / Light), AAC, Digital Zoom 1-10x available at 29.97 / 23.98 / 25.00 / 全高清 time-lapse movies: 1920 x 1080, 16:9, NTSC (29.97) / PAL (25.00), ALL-I, 不支持 audio / HDR movies: 1920 x 1080, 16:9, NTSC (29.97) / PAL (25.00), IPB (标准), AAC / Creative filters: 1920 x 1080, 16:9, NTSC (29.97 / 23.98) / PAL (25.00), IPB (标准 / Light), AAC"
         },
         {
           "label": "内部记录色彩采样",
-          "value": "4K UHD / 全高清 - YCbCr4:2:0 8-bit or YCbCr4:2:2 10bit (when HDR PQ is enabled)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "4K UHD；全高清 - YCbCr4:2:0 8位或YCbCr4:2:2 10位 (启用HDR PQ时)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "4K UHD / 全高清 - YCbCr4:2:0 8-bit or YCbCr4:2:2 10bit (when HDR PQ is enabled)"
         },
         {
           "label": "Canon Log",
@@ -508,27 +563,30 @@
         },
         {
           "label": "单段视频长度",
-          "value": "Max duration 1 hour (excluding High Frame Rate movies). 不支持 4 GB file limit 使用 exFAT formatted card.",
+          "value": "最长时长 1小时 (高帧率视频除外). 使用exFAT格式存储卡时无4GB文件大小限制.",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "最高 movie contnuous recording time available: Normal: 1 hr. High Frame Rate movie (全高清 120/100fps): 15 min. If the camera's internal temperature becomes too high the recording time may reduce. 4K 30p HQ: 约 50 min. if starting from +23°C."
+          "condition": "标准视频最长1小时；全高清120／100fps高帧率视频最长15分钟。机内温度过高可能缩短录制时间。23°C起始条件下，4K 30p HQ约50分钟。",
+          "originalValue": "Max duration 1 hour (excluding High Frame Rate movies). 不支持 4 GB file limit 使用 exFAT formatted card."
         },
         {
           "label": "高帧率视频",
-          "value": "全高清 1920 x 1080 at 100 fps or 119.9 fps / Recorded as 1/4-speed slow motion movie",
+          "value": "全高清 1920×1080，100 fps或119.9 fps；记录为1/4倍速慢动作视频",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "In High frame Rate Movie mode sound is not recorded"
+          "condition": "高帧率视频模式不录音",
+          "originalValue": "全高清 1920 x 1080 at 100 fps or 119.9 fps / Recorded as 1/4-speed slow motion movie"
         },
         {
           "label": "视频截帧",
-          "value": "8.3-MP JPEG still image frame grab from 4K UHD movie possible / (HEIF only possible when HDR PQ is set)",
+          "value": "可从4K UHD视频截取830万像素JPEG照片；(HEIF仅在HDR PQ设定下可用)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Extracted still photos cannot be resized or cropped within the camera.",
+          "condition": "截取的照片无法在机内缩小或裁切。",
           "originalValue": "8.3-megapixel JPEG still image frame grab from 4K UHD movie possible / (HEIF only possible when HDR PQ is set)"
         },
         {
           "label": "视频码率",
-          "value": "MOV: MP4 HDR PQ: Off: / 4K UHD (29.97p/25.00p/23.98p): IPB 约 120 Mbps / 4K UHD (29.97p/25.00p/23.98p): IPB Light 约 60 Mbps / 全高清 (119.9p / 100p): IPB 约 120 Mbps / 全高清 (119.9p / 100p): IPB Light 约 70 Mbps / 全高清 (59.94p/50.00p): IPB 约 60 Mbps / 全高清 (59.94p/50.00p): IPB light 约 35 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB 约 30 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB Light 约 12 Mbps / 全高清 Time-lapse (29.97p/25.00p): ALL-I 约 90 Mbps / MOV: MP4 HDR PQ: On / 4K UHD (29.97p/25.00p/23.98p): IPB 约 170 Mbps / 4K UHD (29.97p/25.00p/23.98p): IPB Light 约 85 Mbps / 全高清 (119.9p / 100p): IPB 约 180 Mbps / 全高清 (119.9p / 100p): IPB Light 约 100 Mbps / 全高清 (59.94p/50.00p): IPB 约 90 Mbps / 全高清 (59.94p/50.00p): IPB light 约 50 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB 约 45 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB Light 约 28 Mbps / 全高清 Time-lapse (29.97p/25.00p):ALL-I 约 135 Mbps",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "MOV: MP4 HDR PQ： 关闭:；4K UHD (29.97p/25.00p/23.98p): IPB 约 120 Mbps；4K UHD (29.97p/25.00p/23.98p): IPB 轻量 约 60 Mbps；全高清 (119.9p；100p): IPB 约 120 Mbps；全高清 (119.9p；100p): IPB 轻量 约 70 Mbps；全高清 (59.94p/50.00p): IPB 约 60 Mbps；全高清 (59.94p/50.00p): IPB轻量 约 35 Mbps；全高清 (29.97p/25.00p/23.98p): IPB 约 30 Mbps；全高清 (29.97p/25.00p/23.98p): IPB 轻量 约 12 Mbps；全高清 延时摄影 (29.97p/25.00p): ALL-I 约 90 Mbps；MOV: MP4 HDR PQ： On；4K UHD (29.97p/25.00p/23.98p): IPB 约 170 Mbps；4K UHD (29.97p/25.00p/23.98p): IPB 轻量 约 85 Mbps；全高清 (119.9p；100p): IPB 约 180 Mbps；全高清 (119.9p；100p): IPB 轻量 约 100 Mbps；全高清 (59.94p/50.00p): IPB 约 90 Mbps；全高清 (59.94p/50.00p): IPB轻量 约 50 Mbps；全高清 (29.97p/25.00p/23.98p): IPB 约 45 Mbps；全高清 (29.97p/25.00p/23.98p): IPB 轻量 约 28 Mbps；全高清 延时摄影 (29.97p/25.00p):ALL-I 约 135 Mbps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "MOV: MP4 HDR PQ: Off: / 4K UHD (29.97p/25.00p/23.98p): IPB 约 120 Mbps / 4K UHD (29.97p/25.00p/23.98p): IPB Light 约 60 Mbps / 全高清 (119.9p / 100p): IPB 约 120 Mbps / 全高清 (119.9p / 100p): IPB Light 约 70 Mbps / 全高清 (59.94p/50.00p): IPB 约 60 Mbps / 全高清 (59.94p/50.00p): IPB light 约 35 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB 约 30 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB Light 约 12 Mbps / 全高清 Time-lapse (29.97p/25.00p): ALL-I 约 90 Mbps / MOV: MP4 HDR PQ: On / 4K UHD (29.97p/25.00p/23.98p): IPB 约 170 Mbps / 4K UHD (29.97p/25.00p/23.98p): IPB Light 约 85 Mbps / 全高清 (119.9p / 100p): IPB 约 180 Mbps / 全高清 (119.9p / 100p): IPB Light 约 100 Mbps / 全高清 (59.94p/50.00p): IPB 约 90 Mbps / 全高清 (59.94p/50.00p): IPB light 约 50 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB 约 45 Mbps / 全高清 (29.97p/25.00p/23.98p): IPB Light 约 28 Mbps / 全高清 Time-lapse (29.97p/25.00p):ALL-I 约 135 Mbps"
         },
         {
           "label": "双卡记录",
@@ -537,24 +595,28 @@
         },
         {
           "label": "麦克风",
-          "value": "内置 stereo microphone (48 KHz, 16-bit x 2 channels)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "内置 立体声 麦克风 (48 KHz, 16位 x 2 个频道)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "内置 stereo microphone (48 KHz, 16-bit x 2 channels)"
         },
         {
           "label": "HDMI显示",
-          "value": "Output to external monitor only (output of 张图像 and shooting information, 张图像/video are recorded to the card) / Camera screen and External Monitor output (Recording to camera is not possible, use 使用 external recorder, camera screen shows 张图像 使用 shooting information)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "仅外接显示器输出：输出影像和拍摄信息，影像／视频记录到存储卡；机身屏幕与外接显示器同时输出：机身无法记录，需使用外部记录器，机身屏幕显示影像及拍摄信息",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Output to external monitor only (output of 张图像 and shooting information, 张图像/video are recorded to the card) / Camera screen and External Monitor output (Recording to camera is not possible, use 使用 external recorder, camera screen shows 张图像 使用 shooting information)"
         },
         {
           "label": "HDMI输出",
-          "value": "HDMI Micro OUT terminal (Type D) / 自动: / - 4K (UHD): NTSC (29.97p / 25.00p), PAL (23.98p) / - 1080 NTSC (59.94p / 59.94i), PAL (50.00p / 50.00i) / - 480 NTSC (59.94p) / - 576 PAL (50.00p) / 1080p: / - 1080 NTSC (59.94p / 59.94i), PAL (50.00p / 50.00i) / - 480 NTSC (59.94p) / - 576 PAL (50p) / HDR Specification: Rec. ITU-R BT.2100 (PQ) / Bit depth: 10 bits / Colour sampling method: Uncompressed YCbCr 4:2:2 / Colour space: BT.709 / BT.601 / BT.2020 / BT.2100",
+          "value": "HDMI Micro输出端口 (Type D)；自动:；- 4K (UHD): NTSC (29.97p；25.00p), PAL (23.98p)；- 1080 NTSC (59.94p；59.94i), PAL (50.00p；50.00i)；- 480 NTSC (59.94p)；- 576 PAL (50.00p)；1080p:；- 1080 NTSC (59.94p；59.94i), PAL (50.00p；50.00i)；- 480 NTSC (59.94p)；- 576 PAL (50p)；HDR规格: Rec. ITU-R BT.2100 (PQ)；位深: 10 位；色彩采样: 未压缩 YCbCr 4:2:2；色彩空间: BT.709；BT.601；BT.2020；BT.2100",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Resolution switches automatically HDMI CEC 不支持 Images not displayed unless [For NTSC] or [For PAL] is set correctly for the TV video system"
+          "condition": "输出分辨率自动切换，不支持HDMI-CEC。需按电视制式正确选择NTSC或PAL，否则无法显示影像。",
+          "originalValue": "HDMI Micro OUT terminal (Type D) / 自动: / - 4K (UHD): NTSC (29.97p / 25.00p), PAL (23.98p) / - 1080 NTSC (59.94p / 59.94i), PAL (50.00p / 50.00i) / - 480 NTSC (59.94p) / - 576 PAL (50.00p) / 1080p: / - 1080 NTSC (59.94p / 59.94i), PAL (50.00p / 50.00i) / - 480 NTSC (59.94p) / - 576 PAL (50p) / HDR Specification: Rec. ITU-R BT.2100 (PQ) / Bit depth: 10 bits / Colour sampling method: Uncompressed YCbCr 4:2:2 / Colour space: BT.709 / BT.601 / BT.2020 / BT.2100"
         },
         {
           "label": "视频感光度",
-          "value": "自动: 100-12800, H: 25600 / 手动: 100-12800, H: 16000-25600",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "自动: 100-12800, H: 25600；手动: 100-12800, H: 16000-25600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "自动: 100-12800, H: 25600 / 手动: 100-12800, H: 16000-25600"
         }
       ]
     },
@@ -564,19 +626,22 @@
       "rows": [
         {
           "label": "电脑接口",
-          "value": "Hi-Speed USB 2.0 USB Type-C connector / For computer communication / smartphone communication / battery charging / camera power supply",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "Hi-Speed USB 2.0，USB Type-C接口；用于电脑通信、智能手机通信、电池充电及相机供电",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Hi-Speed USB 2.0 USB Type-C connector / For computer communication / smartphone communication / battery charging / camera power supply"
         },
         {
           "label": "无线网络",
-          "value": "Wireless LAN (IEEE802.11b/g/n) (2.4 GHz), 使用 Bluetooth 4.2 support Features supported - EOS Utility, Smartphone, Upload to image.canon, Wireless printing",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "无线局域网 (IEEE802.11b/g/n) (2.4 GHz), 使用 支持蓝牙4.2 支持功能 - EOS Utility, 智能手机, 上传至image.canon, 无线打印",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Wireless LAN (IEEE802.11b/g/n) (2.4 GHz), 使用 Bluetooth 4.2 support Features supported - EOS Utility, Smartphone, Upload to image.canon, Wireless printing"
         },
         {
           "label": "其他接口",
-          "value": "HDMI Micro out (Type D, HDMI-CEC 不支持) / External Microphone In (3.5mm Stereo mini jack)",
+          "value": "HDMI Micro输出 (Type D, 不支持HDMI-CEC)；外接麦克风输入 (3.5mm 立体声迷你插孔)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Note that total camera mount load capacity for camera, lens, microphone, and other accessories should not exceed 1 kg /35.3 oz. When using an external microphone, depending on the lens used, the sound may be interrupted by the lens and then the sound may not be properly collected."
+          "condition": "机身、镜头、麦克风及附件总负载不得超过1kg。使用外接麦克风时，部分镜头可能遮挡声音，影响收音。",
+          "originalValue": "HDMI Micro out (Type D, HDMI-CEC 不支持) / External Microphone In (3.5mm Stereo mini jack)"
         }
       ]
     },
@@ -585,10 +650,11 @@
       "title": "存储",
       "rows": [
         {
-          "label": "类型",
-          "value": "SD/SDHC/SDXC and UHS-I",
+          "label": "存储介质",
+          "value": "SD／SDHC／SDXC，支持UHS-I",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "UHS-I high speed cards are recommended for 4K video recording and high speed continous shooting"
+          "condition": "4K视频及高速连拍建议使用UHS-I高速存储卡",
+          "originalValue": "SD/SDHC/SDXC and UHS-I"
         }
       ]
     },
@@ -598,26 +664,30 @@
       "rows": [
         {
           "label": "电池",
-          "value": "可充电锂离子电池 LP-E17 (supplied)",
+          "value": "可充电锂离子电池 LP-E17（随附）",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Charging over USB is supported. 使用 unauthenticated batteries, charging over USB is 不支持. Batteries may not be charged unless the remaining battery level is low."
+          "condition": "支持USB充电；未经认证的电池不支持USB充电。电量未降至较低水平时可能不进行充电。",
+          "originalValue": "可充电锂离子电池 LP-E17 (supplied)"
         },
         {
           "label": "电池续航",
-          "value": "使用 LCD 约 440 张 (23°C时) / 使用 Viewfinder 约 310 张 (23°C时)",
+          "value": "使用 LCD 约 440 张 (23°C时)；使用 Viewfinder 约 310 张 (23°C时)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode"
+          "condition": "除特别说明外，依CIPA标准使用随附电池测定。节电模式下。",
+          "originalValue": "使用 LCD 约 440 张 (23°C时) / 使用 Viewfinder 约 310 张 (23°C时)"
         },
         {
           "label": "电量显示",
-          "value": "4 level indicator",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "4 级指示",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "4 level indicator"
         },
         {
           "label": "节电",
-          "value": "Screen dimmer: 5 sec. / 10 sec. / 15 sec. / 20 sec. /25 sec. / 30 sec. / Disable / Screen off : 5 sec. / 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / 自动 power off: 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / Viewfinder off: 1 min. / 3 min. / Disable",
+          "value": "可分别设定屏幕变暗、屏幕关闭、自动关机及取景器关闭时间，支持禁用自动节电；具体时间选项见官方规格。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
-          "condition": "If the camera remains idle until the specified time elapses, the screen is dimmed and lower video frame rates are used. [Power off] and [Screen off] can be assigned to buttons using button customization."
+          "condition": "相机闲置达到设定时间后，屏幕变暗并降低显示帧率。可通过按键自定义分配关机和关闭屏幕功能。",
+          "originalValue": "Screen dimmer: 5 sec. / 10 sec. / 15 sec. / 20 sec. /25 sec. / 30 sec. / Disable / Screen off : 5 sec. / 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / 自动 power off: 15 sec. / 30 sec. / 1 min. / 3 min. / 5 min. / 10 min. / 30 min. / Disable / Viewfinder off: 1 min. / 3 min. / Disable"
         }
       ]
     },
@@ -627,13 +697,15 @@
       "rows": [
         {
           "label": "机身材质",
-          "value": "Primarily consists of aluminium alloy and high-strength engineering plastic",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "主要为铝合金与高强度工程塑料",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Primarily consists of aluminium alloy and high-strength engineering plastic"
         },
         {
           "label": "工作环境",
-          "value": "0 – 40 °C, 85% or less humidity",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "0 – 40 °C, 85% 以下湿度",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "0 – 40 °C, 85% or less humidity"
         },
         {
           "label": "外形尺寸（宽×高×深）",
@@ -642,8 +714,9 @@
         },
         {
           "label": "机身重量",
-          "value": "Black: 约 328 g (375g 使用 card and battery, Based on CIPA guidelines.) / White: 约 329 g (376g 使用 card and battery, Based on CIPA guidelines.)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/"
+          "value": "黑色： 约 328 g (375g 含存储卡和电池, 依CIPA规范。)；白色： 约 329 g (376g 含存储卡和电池, 依CIPA规范。)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r50/specifications/",
+          "originalValue": "Black: 约 328 g (375g 使用 card and battery, Based on CIPA guidelines.) / White: 约 329 g (376g 使用 card and battery, Based on CIPA guidelines.)"
         }
       ]
     }

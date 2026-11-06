@@ -1,0 +1,324 @@
+{
+  "id": "nikon-d5300",
+  "name": "Nikon D5300",
+  "brand": "nikon",
+  "year": null,
+  "format": "APS-C",
+  "type": "单反相机",
+  "megapixels": 24.16,
+  "width": 125,
+  "height": 98,
+  "depth": 76,
+  "description": "Nikon D5300，尼康DX画幅F卡口数码单反相机。",
+  "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html",
+  "verification": "verified",
+  "digital": true,
+  "specGroups": [
+    {
+      "id": "g1",
+      "title": "基本规格",
+      "rows": [
+        {
+          "label": "相机类型",
+          "value": "可换镜头数码单反相机",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "镜头卡口",
+          "value": "尼康F卡口，带AF触点",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "画幅",
+          "value": "DX画幅；35mm等效视角约为镜头焦距的1.5倍",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "有效像素",
+          "value": "2416万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "总像素",
+          "value": "2478万像素",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "图像传感器",
+          "value": "23.5×15.6mm CMOS",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "照片与存储",
+      "rows": [
+        {
+          "label": "最大照片尺寸",
+          "value": "6000×4000像素（DX画幅）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "中等照片尺寸",
+          "value": "4496×3000像素（DX画幅）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "小尺寸照片",
+          "value": "2992×2000像素（DX画幅）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "画质格式",
+          "value": "12/14位压缩RAW、JPEG；可同时记录RAW+JPEG",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "存储介质",
+          "value": "SD、SDHC、SDXC；SDHC/SDXC支持UHS-I",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "取景与显示",
+      "rows": [
+        {
+          "label": "取景器",
+          "value": "眼平五面镜光学取景器",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "取景器视野率",
+          "value": "上下左右约95％",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "取景器放大倍率",
+          "value": "约0.82倍（50mm f/1.4镜头、无限远、屈光度−1.0m⁻¹）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "眼点距离",
+          "value": "18mm（屈光度−1.0m⁻¹）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "屈光度调节",
+          "value": "−1.7～+1.0m⁻¹",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "显示屏",
+          "value": "3.2英寸约104万点，可侧翻旋转；可调亮度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "快门与连拍",
+      "rows": [
+        {
+          "label": "快门类型",
+          "value": "电子控制纵走式焦平面快门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "快门速度",
+          "value": "1/4000～30秒，支持B门与T门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html",
+          "originalValue": "1/4000～30秒，支持B门与T门（Time）"
+        },
+        {
+          "label": "闪光同步速度",
+          "value": "1/200秒及更慢速度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "连拍速度",
+          "value": "JPEG或12位RAW最高约5张/秒；14位RAW最高约4张/秒；低速最高约3张/秒",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "自拍延时",
+          "value": "2、5、10或20秒",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "测光与曝光",
+      "rows": [
+        {
+          "label": "测光系统",
+          "value": "2016像素RGB传感器，TTL全开光圈测光",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "测光模式",
+          "value": "矩阵、中央重点、点测光；矩阵测光细分功能依镜头类型",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "曝光模式",
+          "value": "P程序自动、S快门优先、A光圈优先、M手动",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "曝光补偿",
+          "value": "±5EV；1/3或1/2EV步长，可用模式受拍摄模式限制",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "感光度",
+          "value": "ISO 100～12800；可扩展至等效ISO 25600；支持自动ISO",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "曝光锁定",
+          "value": "AE/AF锁定按钮锁定测得的亮度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "自动对焦",
+      "rows": [
+        {
+          "label": "取景器对焦",
+          "value": "TTL相位检测，Multi-CAM 4800DX模块",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "对焦点",
+          "value": "39点，其中9个十字型",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "AF检测范围",
+          "value": "−1～+19EV（ISO 100、20℃）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "对焦辅助灯",
+          "value": "约0.5～3m",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "对焦锁定",
+          "value": "使用AE/AF锁定按钮，或在AF-S下半按快门",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "闪光与连接",
+      "rows": [
+        {
+          "label": "闪光补偿",
+          "value": "−3～+1EV；1/3或1/2EV步长",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "热靴",
+          "value": "ISO 518热靴，带同步触点、通信触点和安全锁孔",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "USB接口",
+          "value": "Hi-Speed USB",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "HDMI输出",
+          "value": "Type C迷你HDMI端口",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "机身与电源",
+      "rows": [
+        {
+          "label": "尺寸（宽×高×深）",
+          "value": "约125×98×76mm",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "重量",
+          "value": "约530g（含电池和SD卡，不含机身盖）；仅机身约480g",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "电池",
+          "value": "EN-EL14a锂离子充电电池，使用1块",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "三脚架接口",
+          "value": "1/4英寸（ISO 1222）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "工作温度",
+          "value": "0～40℃",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "工作湿度",
+          "value": "85％以下，无凝露",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g9",
+      "title": "视频与音频",
+      "rows": [
+        {
+          "label": "视频分辨率与帧率",
+          "value": "1920×1080：60p/50p/30p/25p/24p；1280×720：60p/50p；640×424：30p/25p。60p/30p/24p实际为59.94/29.97/23.976fps",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "最长单次视频",
+          "value": "29分59秒；部分分辨率、帧率或画质组合限制为20或10分钟",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "视频格式",
+          "value": "MOV，H.264/MPEG-4 AVC，线性PCM音频",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "录音",
+          "value": "内置立体声麦克风；支持3.5mm外接麦克风，可调灵敏度",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "title": "其他功能",
+      "rows": [
+        {
+          "label": "Wi-Fi",
+          "value": "IEEE 802.11b/g；2.4GHz；无遮挡、无干扰时约30m；实际距离受环境影响",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        },
+        {
+          "label": "电池续航",
+          "value": "约600张（使用EN-EL14a，CIPA标准；实际续航受使用方式影响）",
+          "sourceUrl": "https://nij.nikon.com/products/lineup/slr/d5300/spec.html"
+        }
+      ]
+    }
+  ]
+}

@@ -6,9 +6,9 @@
   "format": "中画幅",
   "type": "无反相机",
   "megapixels": 50,
-  "width": 150.0,
-  "height": 98.0,
-  "depth": 71.0,
+  "width": 150,
+  "height": 98,
+  "depth": 71,
   "description": "Hasselblad X1D 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
   "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
   "verification": "verified",
@@ -40,8 +40,9 @@
         },
         {
           "label": "色深与动态范围",
-          "value": "16 bit",
-          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+          "value": "16位",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+          "originalValue": "16 bit"
         },
         {
           "label": "色彩管理",
@@ -50,13 +51,15 @@
         },
         {
           "label": "图像尺寸与文件",
-          "value": "3FR RAW 平均 106MB；8 bit TIFF 154MB",
-          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+          "value": "3FR RAW 平均 106MB；8位 TIFF 154MB",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+          "originalValue": "3FR RAW 平均 106MB；8 bit TIFF 154MB"
         },
         {
           "label": "显示色深",
-          "value": "24 bit 彩色",
-          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+          "value": "24位 彩色",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+          "originalValue": "24 bit 彩色"
         },
         {
           "label": "视频分辨率",
@@ -81,8 +84,9 @@
         },
         {
           "label": "对焦模式",
-          "value": "自动 / 手动",
-          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+          "value": "自动；手动",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+          "originalValue": "自动 / 手动"
         },
         {
           "label": "对焦方式",
@@ -211,8 +215,9 @@
         },
         {
           "label": "其他接口",
-          "value": "Mini HDMI、音频输入 / 输出",
-          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+          "value": "Mini HDMI、音频输入；输出",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+          "originalValue": "Mini HDMI、音频输入 / 输出"
         },
         {
           "label": "无线网络 / 定位",
@@ -227,8 +232,9 @@
       "rows": [
         {
           "label": "电池与供电",
-          "value": "7.2V / 3200mAh 可充锂电池",
-          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf"
+          "value": "7.2V；3200mAh 可充锂电池",
+          "sourceUrl": "https://cdn.hasselblad.com/datasheets/x1d/X1D-50c-Datasheet_EN_v3.pdf",
+          "originalValue": "7.2V / 3200mAh 可充锂电池"
         },
         {
           "label": "工作温度",

@@ -25,8 +25,9 @@
         },
         {
           "label": "图像传感器",
-          "value": "4/3\" Live MOS sensor, total pixel number 21,770,000 像素, Primary color filter",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "4/3 型 Live MOS 传感器，总像素 2177 万；原色滤镜",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "4/3\" Live MOS sensor, total pixel number 21,770,000 像素, Primary color filter"
         }
       ]
     },
@@ -46,8 +47,9 @@
         },
         {
           "label": "自动对焦模式",
-          "value": "Face/Eye Detection/Tracking/225-area-focusing/Custom Multi/1-area-focusing/Pinpoint (Focus area selection is possible by touching or with the joystick)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "人脸／眼睛识别、追踪、225 区、自定义多区、单区、微点 AF；可通过触摸或摇杆选择对焦区域",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Face/Eye Detection/Tracking/225-area-focusing/Custom Multi/1-area-focusing/Pinpoint (Focus area selection is possible by touching or with the joystick)"
         }
       ]
     },
@@ -57,14 +59,15 @@
       "rows": [
         {
           "label": "显示屏",
-          "value": "3″ TFT LCD (3:2) (约 1,040,000 点) (Field of view ratio about 100%) 触摸屏",
+          "value": "3 英寸 TFT 液晶触摸屏，3:2，约 104 万点，视野约 100%",
           "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
           "originalValue": "3″ TFT LCD (3:2) (约 1,040,000 点) (Field of view ratio about 100%) Touch screen"
         },
         {
           "label": "取景器",
-          "value": "OLED Live Viewfinder (4:3) (约 3,680,000 点) (Field of view ratio about 100%) Magnification 约 1.66×, 0.83× (35 mm film camera equivalent, with 50 mm lens at infinity; ~1.0 m −1 ) (With diopter adjustment −4 to +3 diopter)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "OLED 电子取景器，4:3，约 368 万点，视野约 100%；放大倍率约 1.66×／全画幅等效 0.83×（50 mm 镜头、无限远、−1.0m⁻¹）；屈光度 −4 至 +3",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "OLED Live Viewfinder (4:3) (约 3,680,000 点) (Field of view ratio about 100%) Magnification 约 1.66×, 0.83× (35 mm film camera equivalent, with 50 mm lens at infinity; ~1.0 m −1 ) (With diopter adjustment −4 to +3 diopter)"
         }
       ]
     },
@@ -74,33 +77,39 @@
       "rows": [
         {
           "label": "ISO 范围",
-          "value": "Still Picture: AUTO/ISO 100 * /200/400/800/1600/3200/6400/12800/25600 Creative Video Mode: AUTO/100 * /200/400/800/1600/3200/6400/12800 (1/3 EV step change possible) * Only available when [Extended ISO] is set",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "照片：自动、ISO 100（扩展）、200、400、800、1600、3200、6400、12800、25600；创意视频：自动、ISO 100（扩展）至 12800，沿用上述各挡；可调 1/3 EV 步长",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Still Picture: AUTO/ISO 100 * /200/400/800/1600/3200/6400/12800/25600 Creative Video Mode: AUTO/100 * /200/400/800/1600/3200/6400/12800 (1/3 EV step change possible) * Only available when [Extended ISO] is set"
         },
         {
           "label": "测光范围",
-          "value": "EV 0 to EV 18",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "EV 0–18",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "EV 0 to EV 18"
         },
         {
           "label": "白平衡",
-          "value": "AWB/AWBc/Daylight/Cloudy/Shade/Incandescent Lights/Flash/White Set1, 2, 3, 4/White Balance K Set1, 2, 3, 4",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "AWB、AWBc、日光、阴天、阴影、白炽灯、闪光；手动白平衡 1–4；色温设置 1–4",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "AWB/AWBc/Daylight/Cloudy/Shade/Incandescent Lights/Flash/White Set1, 2, 3, 4/White Balance K Set1, 2, 3, 4"
         },
         {
           "label": "曝光模式",
-          "value": "Program AE/Aperture-priority AE/Shutter-priority AE/Manual exposure",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "程序自动曝光/光圈优先自动曝光/快门优先自动曝光/手动曝光",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Program AE/Aperture-priority AE/Shutter-priority AE/Manual exposure"
         },
         {
           "label": "曝光补偿",
-          "value": "1/3 EV Step, −5 EV to +5 EV",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "±5 EV，1/3 EV 步长",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "1/3 EV Step, −5 EV to +5 EV"
         },
         {
           "label": "测光系统与模式",
-          "value": "1728-zone multi-pattern sensing system, Multiple/Center Weighted/Spot",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "1728 区多区测光系统；多重、中央重点、点测光",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "1728-zone multi-pattern sensing system, Multiple/Center Weighted/Spot"
         }
       ]
     },
@@ -110,24 +119,27 @@
       "rows": [
         {
           "label": "快门类型",
-          "value": "Focal-plane shutter",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "焦平面快门",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Focal-plane shutter"
         },
         {
           "label": "快门速度",
-          "value": "Still Picture: B (Bulb) (Max. 约 30 minutes), 60 seconds to 1/8000th of a second (机械快门) B (Bulb) (Max. 约 30 minutes), 60 seconds to 1/2000th of a second (Electronic Front Curtain) 1 second to 1/32000th of a second (电子快门) Motion Picture: >1/25th of a second to 1/16000th of a second",
+          "value": "照片：机械 60–1/8000 秒，B 门最长约 30 分钟；电子前帘 60–1/2000 秒，B 门最长约 30 分钟；电子 1–1/32000 秒；视频：>1/25 秒至 1/16000 秒（按原始规格记录）",
           "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
           "originalValue": "Still Picture: B (Bulb) (Max. 约 30 minutes), 60 seconds to 1/8000th of a second (Mechanical shutter) B (Bulb) (Max. 约 30 minutes), 60 seconds to 1/2000th of a second (Electronic Front Curtain) 1 second to 1/32000th of a second (Electronic shutter) Motion Picture: >1/25th of a second to 1/16000th of a second"
         },
         {
           "label": "闪光模式",
-          "value": "AUTO, AUTO/Red-Eye Reduction, Forced ON, Forced ON/Red-Eye Reduction, Slow Sync., Slow Sync./Red-Eye Reduction, Forced OFF",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "自动、自动防红眼、强制开启、强制开启防红眼、慢速同步、慢速同步防红眼、强制关闭",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "AUTO, AUTO/Red-Eye Reduction, Forced ON, Forced ON/Red-Eye Reduction, Slow Sync., Slow Sync./Red-Eye Reduction, Forced OFF"
         },
         {
           "label": "闪光同步速度",
-          "value": "Equal to or smaller than 1/250th of a second",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "1/250 秒或更慢",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Equal to or smaller than 1/250th of a second"
         },
         {
           "label": "闪光同步接口",
@@ -143,18 +155,21 @@
       "rows": [
         {
           "label": "扩展远摄转换",
-          "value": "When taking still pictures: Max. 2× (When a picture size of [S] is selected) When recording motion pictures: 2.7× (FHD)/1.4× (4K)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "照片：选 S 尺寸时最高 2×；视频：全高清 2.7×、4K 1.4×",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "When taking still pictures: Max. 2× (When a picture size of [S] is selected) When recording motion pictures: 2.7× (FHD)/1.4× (4K)"
         },
         {
           "label": "连拍",
-          "value": "Burst Speed Mechanical Shutter/Electronic Front Curtain: 12 pictures/second (High speed, AFS/MF) 9 pictures/second (High speed, AFF/AFC) 7 pictures/second (Middle speed) 2 pictures/second (Low speed) Electronic Shutter: 60 pictures/second (Super high speed, AFS/MF) 20 pictures/second (Super high speed, AFF/AFC) 12 pictures/second (High speed, AFS/MF) 9 pictures/second (High speed, AFF/AFC) 7 pictures/second (Middle speed) 2 pictures/second (Low speed) Number of Recordable Pictures Super High Speed: When there are RAW files: 50 pictures When there are no RAW files: 50 pictures High Speed, Middle Speed, Low Speed: When there are RAW files: 60 or higher pictures When there are no RAW files: 600 or higher pictures Note: *When recording is performed under the test conditions specified by Panasonic",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "机械／电子前帘：AFS／MF 高速 12 张/秒，AFF／AFC 高速 9 张/秒，中速 7、低速 2 张/秒；电子：AFS／MF 超高速 60 张/秒，AFF／AFC 超高速 20 张/秒，高／中／低速同前。超高速含／不含 RAW 均 50 张；高／中／低速含 RAW 至少 60 张，不含 RAW 至少 600 张；依松下测试条件",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Burst Speed Mechanical Shutter/Electronic Front Curtain: 12 pictures/second (High speed, AFS/MF) 9 pictures/second (High speed, AFF/AFC) 7 pictures/second (Middle speed) 2 pictures/second (Low speed) Electronic Shutter: 60 pictures/second (Super high speed, AFS/MF) 20 pictures/second (Super high speed, AFF/AFC) 12 pictures/second (High speed, AFS/MF) 9 pictures/second (High speed, AFF/AFC) 7 pictures/second (Middle speed) 2 pictures/second (Low speed) Number of Recordable Pictures Super High Speed: When there are RAW files: 50 pictures When there are no RAW files: 50 pictures High Speed, Middle Speed, Low Speed: When there are RAW files: 60 or higher pictures When there are no RAW files: 600 or higher pictures Note: *When recording is performed under the test conditions specified by Panasonic"
         },
         {
           "label": "最低照度",
-          "value": "约 3 lx (when i-Low light is used, the shutter speed is 1/30th of a second) (When the Interchangeable lens (H-ES12060) is used)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "约 3 lx（使用 i-Low light、1/30 秒、H-ES12060 镜头）",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "约 3 lx (when i-Low light is used, the shutter speed is 1/30th of a second) (When the Interchangeable lens (H-ES12060) is used)"
         },
         {
           "label": "麦克风",
@@ -168,18 +183,21 @@
         },
         {
           "label": "照片尺寸",
-          "value": "Still Picture: When the aspect ratio setting is [4:3]: 4992×3744 像素 (6K photo) 3328×2496 像素 (4K photo) 5184×3888 像素 ([L]) 3712×2784 像素 ([M]) 2624×1968 像素 ([S]) 10368×7776 像素 ([XL]) * 7296×5472 像素 ([LL]) * When the aspect ratio setting is [3:2]: 5184×3456 像素 (6K photo) 3504×2336 像素 (4K photo) 5184×3456 像素 ([L]) 3712×2480 像素 ([M]) 2624×1752 像素 ([S]) 10368×6912 像素 ([XL]) * 7296×4864 像素 ([LL]) * When the aspect ratio setting is [16:9]: 3840×2160 像素 (4K photo) 5184×2920 像素 ([L]) 3840×2160 像素 ([M]) 1920×1080 像素 ([S]) 10368×5832 像素 ([XL]) * 7296×4104 像素 ([LL]) * When the aspect ratio setting is [1:1]: 2880×2880 像素 (4K photo) 3888×3888 像素 ([L]) 2784×2784 像素 ([M]) 1968×1968 像素 ([S]) 7776×7776 像素 ([XL]) * 5472×5472 像素 ([LL]) * * When recording in [High Resolution Mode] Motion Pictures: [Rec Format]: [AVCHD]/[MP4] Refer to Page 66 of the Basic O（其余模式见原厂规格表）",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "4:3：6K 照片 4992×3744，4K 照片 3328×2496；L／M／S 为 5184×3888、3712×2784、2624×1968；高分辨率 XL／LL 为 10368×7776、7296×5472。3:2：6K 照片 5184×3456，4K 照片 3504×2336；L／M／S 为 5184×3456、3712×2480、2624×1752；XL／LL 为 10368×6912、7296×4864。16:9：4K 照片 3840×2160；L／M／S 为 5184×2920、3840×2160、1920×1080；XL／LL 为 10368×5832、7296×4104。1:1：4K 照片 2880×2880；L／M／S 为 3888×3888、2784×2784、1968×1968；XL／LL 为 7776×7776、5472×5472。XL／LL 仅限高分辨率模式；视频格式 AVCHD／MP4，其他模式见原厂基本说明书第 66 页及规格表",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Still Picture: When the aspect ratio setting is [4:3]: 4992×3744 像素 (6K photo) 3328×2496 像素 (4K photo) 5184×3888 像素 ([L]) 3712×2784 像素 ([M]) 2624×1968 像素 ([S]) 10368×7776 像素 ([XL]) * 7296×5472 像素 ([LL]) * When the aspect ratio setting is [3:2]: 5184×3456 像素 (6K photo) 3504×2336 像素 (4K photo) 5184×3456 像素 ([L]) 3712×2480 像素 ([M]) 2624×1752 像素 ([S]) 10368×6912 像素 ([XL]) * 7296×4864 像素 ([LL]) * When the aspect ratio setting is [16:9]: 3840×2160 像素 (4K photo) 5184×2920 像素 ([L]) 3840×2160 像素 ([M]) 1920×1080 像素 ([S]) 10368×5832 像素 ([XL]) * 7296×4104 像素 ([LL]) * When the aspect ratio setting is [1:1]: 2880×2880 像素 (4K photo) 3888×3888 像素 ([L]) 2784×2784 像素 ([M]) 1968×1968 像素 ([S]) 7776×7776 像素 ([XL]) * 5472×5472 像素 ([LL]) * * When recording in [High Resolution Mode] Motion Pictures: [Rec Format]: [AVCHD]/[MP4] Refer to Page 66 of the Basic O（其余模式见原厂规格表）"
         },
         {
           "label": "记录文件格式",
-          "value": "Still Picture: RAW/JPEG (based on \"Design rule for Camera File system,\" based on \"Exif 2.31\" standard) 6K/4K Photo (Burst File): 6K Photo: MP4 (H.265/HEVC, AAC (2 ch)) 4K Photo: MP4 (H.264/MPEG-4 AVC, AAC (2 ch)) Motion Pictures: AVCHD Progressive/AVCHD/MP4",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "照片：RAW／JPEG（DCF、Exif 2.31）；6K 连拍文件：MP4，H.265／HEVC、双声道 AAC；4K 连拍文件：MP4，H.264／MPEG-4 AVC、双声道 AAC；视频：AVCHD Progressive／AVCHD／MP4",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Still Picture: RAW/JPEG (based on \"Design rule for Camera File system,\" based on \"Exif 2.31\" standard) 6K/4K Photo (Burst File): 6K Photo: MP4 (H.265/HEVC, AAC (2 ch)) 4K Photo: MP4 (H.264/MPEG-4 AVC, AAC (2 ch)) Motion Pictures: AVCHD Progressive/AVCHD/MP4"
         },
         {
           "label": "音频压缩",
-          "value": "AVCHD: Dolby Audio TM (2 ch) MP4: AAC (2 ch) LPCM * (2 ch, 48 kHz/16 bit) * When selecting [4K/150M/60p]",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "AVCHD：双声道 Dolby Audio；MP4：双声道 AAC；4K／150M／60p 时可用双声道 LPCM，48 kHz／16 位",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "AVCHD: Dolby Audio TM (2 ch) MP4: AAC (2 ch) LPCM * (2 ch, 48 kHz/16 bit) * When selecting [4K/150M/60p]"
         }
       ]
     },
@@ -189,18 +207,21 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD Memory Card/SDHC Memory Card * /SDXC Memory Card * * Card slot 1/Card slot 2: UHS-I/UHS-II UHS Speed Class 3 Double slot recording function is available",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "SD／SDHC／SDXC；卡槽 1 和 2 均支持 UHS-I／UHS-II、UHS 速度等级 3；支持双卡记录",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "SD Memory Card/SDHC Memory Card * /SDXC Memory Card * * Card slot 1/Card slot 2: UHS-I/UHS-II UHS Speed Class 3 Double slot recording function is available"
         },
         {
           "label": "连接接口",
-          "value": "[REMOTE]: Ø 2.5 mm jack [MIC]: Ø 3.5 mm jack Headphone: Ø 3.5 mm jack HDMI: HDMI Type A USB: Super Speed USB 3.0 GEN1/USB 3.0 Micro-B",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "2.5 mm 遥控接口；3.5 mm 麦克风和耳机接口；HDMI Type-A；SuperSpeed USB 3.0 Gen1／Micro-B",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "[REMOTE]: Ø 2.5 mm jack [MIC]: Ø 3.5 mm jack Headphone: Ø 3.5 mm jack HDMI: HDMI Type A USB: Super Speed USB 3.0 GEN1/USB 3.0 Micro-B"
         },
         {
           "label": "无线传输",
-          "value": "Wireless LAN: Compliance Standard: IEEE 802.11a/b/g/n/ac (standard wireless LAN protocol) Frequency Range Used (Central Frequency): 2412 MHz to 2462 MHz (1 to 11 ch) 5180 MHz to 5320 MHz (36/40/44/48/52/56/60/64 ch) 5500 MHz to 5720 MHz (100/104/108/112/116/120/124/128/132/136/140/144 ch) 5745 MHz to 5825 MHz (149/153/157/161/165 ch) Encryption Method: Wi-Fi compliant WPA TM /WPA2 TM Access Method: Infrastructure Mode Bluetooth Function: Compliance Standard: Bluetooth v4.2 (Bluetooth Low Energy (BLE)) Frequency Range Used (Central Frequency): 2402 MHz to 2480 MHz",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "无线局域网 IEEE 802.11a/b/g/n/ac：2412–2462MHz（1–11 信道）、5180–5320MHz（36／40／44／48／52／56／60／64）、5500–5720MHz（100／104／108／112／116／120／124／128／132／136／140／144）、5745–5825MHz（149／153／157／161／165）；WPA／WPA2 加密，基础设施模式。蓝牙 v4.2 低功耗，2402–2480MHz",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Wireless LAN: Compliance Standard: IEEE 802.11a/b/g/n/ac (standard wireless LAN protocol) Frequency Range Used (Central Frequency): 2412 MHz to 2462 MHz (1 to 11 ch) 5180 MHz to 5320 MHz (36/40/44/48/52/56/60/64 ch) 5500 MHz to 5720 MHz (100/104/108/112/116/120/124/128/132/136/140/144 ch) 5745 MHz to 5825 MHz (149/153/157/161/165 ch) Encryption Method: Wi-Fi compliant WPA TM /WPA2 TM Access Method: Infrastructure Mode Bluetooth Function: Compliance Standard: Bluetooth v4.2 (Bluetooth Low Energy (BLE)) Frequency Range Used (Central Frequency): 2402 MHz to 2480 MHz"
         }
       ]
     },
@@ -215,28 +236,33 @@
         },
         {
           "label": "功耗",
-          "value": "4.0 W (When recording with Monitor) (When the Interchangeable lens (H-ES12060) is used) 3.0 W (When playing back with Monitor) (When the Interchangeable lens (H-ES12060) is used)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "使用 H-ES12060 镜头及后屏：拍摄 4.0W，回放 3.0W",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "4.0 W (When recording with Monitor) (When the Interchangeable lens (H-ES12060) is used) 3.0 W (When playing back with Monitor) (When the Interchangeable lens (H-ES12060) is used)"
         },
         {
           "label": "机身尺寸",
-          "value": "约 136.9 mm (W) × 97.3 mm (H) × 91.6 mm (D) (5.39\" (W) × 3.83\" (H) × 3.61\" (D)) (Excluding the projecting parts)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "约 136.9×97.3×91.6 mm（宽×高×深；5.39×3.83×3.61 英寸），不含突出部分",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "约 136.9 mm (W) × 97.3 mm (H) × 91.6 mm (D) (5.39\" (W) × 3.83\" (H) × 3.61\" (D)) (Excluding the projecting parts)"
         },
         {
           "label": "重量",
-          "value": "约 658 g/1.45 lb (with one card and the battery) 约 586 g/1.30 lb (camera body) 约 978 g/2.16 lb (with the Interchangeable lens (H-ES12060), one card and the battery)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "含一张卡和电池约 658g／1.45lb；仅机身约 586g／1.30lb；含 H-ES12060 镜头、一张卡和电池约 978g／2.16lb",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "约 658 g/1.45 lb (with one card and the battery) 约 586 g/1.30 lb (camera body) 约 978 g/2.16 lb (with the Interchangeable lens (H-ES12060), one card and the battery)"
         },
         {
           "label": "工作温度",
-          "value": "−10 °C * to 40 °C (14 °F * to 104 °F) * The performance of the battery (number of recordable pictures/operating time) may decrease temporarily when using in a temperature between −10 °C and 0 °C (14 °F and 32 °F) (e.g., in cold places such as ski resorts or places at high altitude)",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "−10 至 40°C（14–104°F）；−10 至 0°C（14–32°F）寒冷或高海拔环境下，电池可拍张数及工作时间可能暂时下降",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "−10 °C * to 40 °C (14 °F * to 104 °F) * The performance of the battery (number of recordable pictures/operating time) may decrease temporarily when using in a temperature between −10 °C and 0 °C (14 °F and 32 °F) (e.g., in cold places such as ski resorts or places at high altitude)"
         },
         {
           "label": "工作湿度",
-          "value": "10%RH to 80%RH",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "10%–80%RH",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "10%RH to 80%RH"
         },
         {
           "label": "防尘防泼溅",
@@ -245,8 +271,9 @@
         },
         {
           "label": "电池与供电",
-          "value": "Voltage/Capacity: 7.2 V/1860 mAh",
-          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/"
+          "value": "电压 7.2V，容量 1860mAh",
+          "sourceUrl": "https://help.na.panasonic.com/answers/features-and-specifications-lumix-g-series-dc-g9/",
+          "originalValue": "Voltage/Capacity: 7.2 V/1860 mAh"
         }
       ]
     }

@@ -6,8 +6,8 @@
   "format": "全画幅",
   "type": "单反相机",
   "megapixels": 45.7,
-  "width": 146.0,
-  "height": 124.0,
+  "width": 146,
+  "height": 124,
   "depth": 78.5,
   "description": "Nikon D850，尼康FX全画幅F卡口数码单反相机。参数来自尼康官方规格及说明书，保留最高性能的适用条件。",
   "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
@@ -25,8 +25,9 @@
         },
         {
           "label": "镜头卡口",
-          "value": "尼康F卡口 (with AF coupling and AF contacts)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "尼康F卡口 (带AF耦合及AF触点)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "尼康F卡口 (with AF coupling and AF contacts)"
         },
         {
           "label": "等效视角",
@@ -41,8 +42,9 @@
       "rows": [
         {
           "label": "兼容镜头",
-          "value": "Compatible with AF NIKKOR lenses, including type G, E and D lenses (some restrictions apply to PC lenses), and DX lenses [using DX (24x16) image area], AI-P NIKKOR lenses, and non-CPU AI lenses (exposure modes A and M only); IX-NIKKOR lenses, lenses for the F3AF, and non-AI lenses cannot be used The electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster (the electronic rangefinder supports 15 focus points with lenses that have a maximum aperture of f/8 or faster, of which 9 points are available for selection)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "兼容AF尼克尔镜头，包括G、E、D型镜头 (PC镜头部分功能受限)、 DX镜头（使用DX 24×16画面区域）, AI-P尼克尔镜头、 非CPU AI镜头 (仅A、M曝光模式); IX尼克尔镜头, F3AF专用镜头、 非AI镜头 不可使用 电子测距仪支持最大光圈为f/5.6或更大的镜头 (使用最大光圈为f/8或更大的镜头时，电子测距仪支持15点，其中9点可选)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Compatible with AF NIKKOR lenses, including type G, E and D lenses (some restrictions apply to PC lenses), and DX lenses [using DX (24x16) image area], AI-P NIKKOR lenses, and non-CPU AI lenses (exposure modes A and M only); IX-NIKKOR lenses, lenses for the F3AF, and non-AI lenses cannot be used The electronic rangefinder can be used with lenses that have a maximum aperture of f/5.6 or faster (the electronic rangefinder supports 15 focus points with lenses that have a maximum aperture of f/8 or faster, of which 9 points are available for selection)"
         }
       ]
     },
@@ -67,7 +69,7 @@
         },
         {
           "label": "除尘系统",
-          "value": "影像传感器 cleaning, Image Dust Off reference data (Capture NX-D software required)",
+          "value": "图像传感器清洁, 图像除尘参考数据 (Capture NX-D 软件需另备)",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
           "originalValue": "Image sensor cleaning, Image Dust Off reference data (Capture NX-D software required)"
         }
@@ -79,28 +81,33 @@
       "rows": [
         {
           "label": "照片尺寸",
-          "value": "FX (36x24) image area: 8256 x 5504 (L: 45.4百万像素), 6192 x 4128 (M: 25.6百万像素), 4128 x 2752 (S: 11.4百万像素) 1.2x (30x20) image area: 6880 x 4584 (L: 31.5百万像素), 5152 x 3432 (M: 17.6百万像素), 3440 x 2288 (S: 7.8百万像素) DX (24x16) image area: 5408 x 3600 (L: 19.4百万像素), 4048 x 2696 (M: 10.9百万像素), 2704 x 1800 (S: 4.8百万像素) 5 : 4 (30x24) image area: 6880 x 5504 (L: 37.8百万像素), 5152 x 4120 (M: 21.2百万像素), 3440 x 2752 (S: 9.4百万像素) 1 : 1 (24x24) image area: 5504 x 5504 (L: 30.2百万像素), 4128 x 4128 (M: 17.0百万像素), 2752 x 2752 (S: 7.5百万像素) FX-format photographs taken during movie recording: 8256 x 4640 (L: 38.3百万像素), 6192 x 3480 (M: 21.5百万像素), 4128 x 2320 (S: 9.5百万像素) DX-format photographs taken during movie recording: 5408 x 3040 (L: 16.4百万像素), 4048 x 2272 (M: 9.1百万像素), 2704 x 1520 (S: 4.1百万像素)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "FX (36x24) 画面区域： 8256 x 5504 (L: 45.4百万像素), 6192 x 4128 (M: 25.6百万像素), 4128 x 2752 (S: 11.4百万像素) 1.2x (30x20) 画面区域： 6880 x 4584 (L: 31.5百万像素), 5152 x 3432 (M: 17.6百万像素), 3440 x 2288 (S: 7.8百万像素) DX (24x16) 画面区域： 5408 x 3600 (L: 19.4百万像素), 4048 x 2696 (M: 10.9百万像素), 2704 x 1800 (S: 4.8百万像素) 5 : 4 (30x24) 画面区域： 6880 x 5504 (L: 37.8百万像素), 5152 x 4120 (M: 21.2百万像素), 3440 x 2752 (S: 9.4百万像素) 1 : 1 (24x24) 画面区域： 5504 x 5504 (L: 30.2百万像素), 4128 x 4128 (M: 17.0百万像素), 2752 x 2752 (S: 7.5百万像素) 录制视频时拍摄的FX格式照片： 8256 x 4640 (L: 38.3百万像素), 6192 x 3480 (M: 21.5百万像素), 4128 x 2320 (S: 9.5百万像素) 录制视频时拍摄的DX格式照片： 5408 x 3040 (L: 16.4百万像素), 4048 x 2272 (M: 9.1百万像素), 2704 x 1520 (S: 4.1百万像素)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "FX (36x24) image area: 8256 x 5504 (L: 45.4百万像素), 6192 x 4128 (M: 25.6百万像素), 4128 x 2752 (S: 11.4百万像素) 1.2x (30x20) image area: 6880 x 4584 (L: 31.5百万像素), 5152 x 3432 (M: 17.6百万像素), 3440 x 2288 (S: 7.8百万像素) DX (24x16) image area: 5408 x 3600 (L: 19.4百万像素), 4048 x 2696 (M: 10.9百万像素), 2704 x 1800 (S: 4.8百万像素) 5 : 4 (30x24) image area: 6880 x 5504 (L: 37.8百万像素), 5152 x 4120 (M: 21.2百万像素), 3440 x 2752 (S: 9.4百万像素) 1 : 1 (24x24) image area: 5504 x 5504 (L: 30.2百万像素), 4128 x 4128 (M: 17.0百万像素), 2752 x 2752 (S: 7.5百万像素) FX-format photographs taken during movie recording: 8256 x 4640 (L: 38.3百万像素), 6192 x 3480 (M: 21.5百万像素), 4128 x 2320 (S: 9.5百万像素) DX-format photographs taken during movie recording: 5408 x 3040 (L: 16.4百万像素), 4048 x 2272 (M: 9.1百万像素), 2704 x 1520 (S: 4.1百万像素)"
         },
         {
           "label": "文件格式",
-          "value": "NEF (RAW): 12 or 14 bit (lossless compressed, compressed or uncompressed); large, medium and small available (medium and small images are recorded at a bit depth of 12 bits using lossless compression) TIFF (RGB) JPEG: JPEG-Baseline compliant with fine (约 1 : 4), normal (约 1 : 8) or basic (约 1 : 16) compression; optimal quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "NEF (RAW): 12 或 14位 (无损压缩、压缩或未压缩); 可选大、中、小尺寸 (中、小尺寸以12位无损压缩记录) TIFF (RGB) JPEG: 兼容JPEG Baseline，精细 (约 1 : 4), 标准 (约 1 : 8) 或基本 (约 1 : 16) 压缩；支持最佳画质优先压缩 NEF (RAW)+JPEG: 同一照片同时记录NEF（RAW）和JPEG",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "NEF (RAW): 12 or 14 bit (lossless compressed, compressed or uncompressed); large, medium and small available (medium and small images are recorded at a bit depth of 12 bits using lossless compression) TIFF (RGB) JPEG: JPEG-Baseline compliant with fine (约 1 : 4), normal (约 1 : 8) or basic (约 1 : 16) compression; optimal quality compression available NEF (RAW)+JPEG: Single photograph recorded in both NEF (RAW) and JPEG formats"
         },
         {
           "label": "优化校准",
-          "value": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat; selected Picture Control can be modified; storage for custom Picture Controls",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "自动, 标准, 自然, 鲜艳, 单色, 人像, 风景, 平面; 可修改所选优化校准，并保存自定义优化校准",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Auto, Standard, Neutral, Vivid, Monochrome, Portrait, Landscape, Flat; selected Picture Control can be modified; storage for custom Picture Controls"
         },
         {
           "label": "存储介质",
-          "value": "XQD and SD (Secure Digital) and UHS-II compliant SDHC and SDXC memory cards",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "XQD 、 SD 、 兼容UHS-II的 SDHC 、 SDXC 存储卡",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "XQD and SD (Secure Digital) and UHS-II compliant SDHC and SDXC memory cards"
         },
         {
           "label": "双卡槽",
-          "value": "Either card can be used for primary or backup storage or for separate storage of NEF (RAW) and JPEG images; pictures can be copied between cards",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "任一卡槽可用作主存储或备份，也可分别记录NEF（RAW）和JPEG；支持卡间复制照片",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Either card can be used for primary or backup storage or for separate storage of NEF (RAW) and JPEG images; pictures can be copied between cards"
         },
         {
           "label": "文件系统",
@@ -115,18 +122,21 @@
       "rows": [
         {
           "label": "测光系统",
-          "value": "TTL exposure metering using main image sensor",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "使用主图像传感器进行TTL曝光测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "TTL exposure metering using main image sensor"
         },
         {
           "label": "测光模式",
-          "value": "Matrix, center-weighted or highlight-weighted",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "矩阵、中央重点或亮部重点测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Matrix, center-weighted or highlight-weighted"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 60p, 50p, 30p, 25p, 24p 1280 x 720; 60p, 50p 1920 x 1080 (slow-mo); 30p x4, 25p x4, 24p x5 Actual frame rates for 60p, 50p, 30p, 25p and 24p are 59.94, 50, 29.97, 25 and 23.976 fps respectively; quality selection available at all sizes except 3840 x 2160 (when quality is fixed at ★) and 1920 x 1080 slow-mo (when quality is fixed at \"normal\")",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "3840 x 2160 (4K UHD); 30p (逐行扫描), 25p, 24p 1920 x 1080; 60p, 50p, 30p, 25p, 24p 1280 x 720; 60p, 50p 1920 x 1080 (慢动作); 30p x4, 25p x4, 24p x5 以下标称帧率的实际帧率： 60p, 50p, 30p, 25p 、 24p 为 59.94, 50, 29.97, 25 、 23.976 fps （依次对应）; 可选择画质，以下尺寸除外： 3840 x 2160 (此时画质固定为★) 、 1920 x 1080 慢动作 (此时画质固定为标准)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "3840 x 2160 (4K UHD); 30p (progressive), 25p, 24p 1920 x 1080; 60p, 50p, 30p, 25p, 24p 1280 x 720; 60p, 50p 1920 x 1080 (slow-mo); 30p x4, 25p x4, 24p x5 Actual frame rates for 60p, 50p, 30p, 25p and 24p are 59.94, 50, 29.97, 25 and 23.976 fps respectively; quality selection available at all sizes except 3840 x 2160 (when quality is fixed at ★) and 1920 x 1080 slow-mo (when quality is fixed at \"normal\")"
         },
         {
           "label": "视频文件格式",
@@ -140,33 +150,39 @@
         },
         {
           "label": "录音格式",
-          "value": "Linear PCM, AAC",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "线性PCM, AAC",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Linear PCM, AAC"
         },
         {
           "label": "录音装置",
-          "value": "Built-in stereo or external microphone; sensitivity adjustable",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "内置立体声或外接麦克风，灵敏度可调",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Built-in stereo or external microphone; sensitivity adjustable"
         },
         {
           "label": "感光度（推荐曝光指数）",
-          "value": "Exposure modes P, S and A: Auto ISO sensitivity control (ISO 64 to Hi 2) with selectable upper limit Exposure mode M: Auto ISO sensitivity control (ISO 64 to Hi 2) available with selectable upper limit; manual selection (ISO 64 to 25600 in steps of 1/3, 1/2 or 1 EV) with additional options available equivalent to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 102400 equivalent) above ISO 25600",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "P、S、A曝光模式： 自动 ISO感光度控制 (ISO 64 至 Hi 2) 可设置上限 M曝光模式： 自动 ISO感光度控制 (ISO 64 至 Hi 2) 可用且可设置上限; 手动选择 (ISO 64 至 25600 步进为 1/3, 1/2 或 1 EV) 还可扩展至相当于 约 0.3, 0.5, 0.7, 1 或 2 EV (ISO 102400 等效) 高于ISO 25600",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Exposure modes P, S and A: Auto ISO sensitivity control (ISO 64 to Hi 2) with selectable upper limit Exposure mode M: Auto ISO sensitivity control (ISO 64 to Hi 2) available with selectable upper limit; manual selection (ISO 64 to 25600 in steps of 1/3, 1/2 or 1 EV) with additional options available equivalent to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 102400 equivalent) above ISO 25600"
         },
         {
           "label": "动态D-Lighting",
-          "value": "Can be selected from same as photo settings, extra high, high, normal, low or off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "可沿用照片设置，或选择极高、高、标准、低或关闭",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Can be selected from same as photo settings, extra high, high, normal, low or off"
         },
         {
           "label": "最长录制时间",
-          "value": "29 min. 59 s",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "29分钟 59 s",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "29 min. 59 s"
         },
         {
           "label": "其他功能",
-          "value": "Index marking, time-lapse movies, electronic vibration reduction",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "索引标记, 延时视频, 电子减震",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Index marking, time-lapse movies, electronic vibration reduction"
         }
       ]
     },
@@ -176,48 +192,57 @@
       "rows": [
         {
           "label": "取景器",
-          "value": "Eye-level pentaprism single-lens reflex viewfinder",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "眼平五棱镜单反光学取景器",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Eye-level pentaprism single-lens reflex viewfinder"
         },
         {
           "label": "视野率",
-          "value": "FX (36x24): 约 100% horizontal and 100% vertical 1.2x (30x20): 约 97% horizontal and 97% vertical DX (24x16): 约 97% horizontal and 97% vertical 5:4 (30x24): 约 97% horizontal and 100% vertical 1:1 (24x24): 约 97% horizontal and 100% vertical",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "FX (36x24): 约 100% 水平及垂直均为100% 1.2x (30x20): 约 97% 水平和 97% 垂直 DX (24x16): 约 97% 水平和 97% 垂直 5:4 (30x24): 约 97% 水平及垂直均为100% 1:1 (24x24): 约 97% 水平及垂直均为100%",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "FX (36x24): 约 100% horizontal and 100% vertical 1.2x (30x20): 约 97% horizontal and 97% vertical DX (24x16): 约 97% horizontal and 97% vertical 5:4 (30x24): 约 97% horizontal and 100% vertical 1:1 (24x24): 约 97% horizontal and 100% vertical"
         },
         {
           "label": "放大倍率",
-          "value": "约 0.75x (50 mm f/1.4 lens at infinity, -1.0 m -1 )",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "约 0.75x (50 mm f/1.4 镜头对焦无限远, -1.0 m -1 )",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "约 0.75x (50 mm f/1.4 lens at infinity, -1.0 m -1 )"
         },
         {
           "label": "眼点",
-          "value": "17 mm (-1.0 m -1 ; from center surface of viewfinder eyepiece lens)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "17 mm (-1.0 m -1 ; 从取景器目镜镜片中心表面起计算)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "17 mm (-1.0 m -1 ; from center surface of viewfinder eyepiece lens)"
         },
         {
           "label": "屈光度调节",
-          "value": "-3 to +1 m -1",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "-3 至 +1 m -1",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "-3 to +1 m -1"
         },
         {
           "label": "对焦屏",
-          "value": "Type B BriteView Clear Matte Mark VIII screen with AF area brackets (framing grid can be displayed)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "B型BriteView VIII明亮磨砂对焦屏，带AF区域框，可显示构图网格",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Type B BriteView Clear Matte Mark VIII screen with AF area brackets (framing grid can be displayed)"
         },
         {
           "label": "反光镜",
-          "value": "Quick return",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "快速回位",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Quick return"
         },
         {
           "label": "景深预览",
-          "value": "Pressing Pv button stops lens aperture down to value selected by user (A and M modes) or by camera (P and S modes)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "按下Pv按钮可将光圈收缩至用户选择的值（A、M模式）或相机选择的值（P、S模式）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Pressing Pv button stops lens aperture down to value selected by user (A and M modes) or by camera (P and S modes)"
         },
         {
           "label": "镜头光圈",
-          "value": "Instant return, electronically controlled",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "电子控制、即时回位",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Instant return, electronically controlled"
         }
       ]
     },
@@ -227,19 +252,21 @@
       "rows": [
         {
           "label": "类型",
-          "value": "Electronically controlled vertical-travel focal-plane 机械快门; 电子前帘快门 available in quiet shutter-release, quiet continuous shutter-release and mirror up release modes",
+          "value": "电子控制纵走式焦平面 机械快门; 电子前帘快门 可用于 安静快门释放, 安静连拍 、 反光板预升释放模式",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
           "originalValue": "Electronically controlled vertical-travel focal-plane mechanical shutter; electronic front-curtain shutter available in quiet shutter-release, quiet continuous shutter-release and mirror up release modes"
         },
         {
           "label": "快门速度",
-          "value": "1/8000 to 30 s in steps of 1/3, 1/2 or 1 EV, bulb, time, X250",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "1/8000 至 30 s 步进为 1/3, 1/2 或 1 EV, B门、T门, X250",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "1/8000 to 30 s in steps of 1/3, 1/2 or 1 EV, bulb, time, X250"
         },
         {
           "label": "闪光同步速度",
-          "value": "X=1/250 s; synchronizes with shutter at 1/250 s or slower; auto FP high-speed sync supported",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "X=1/250 s; 闪光同步速度为 1/250 s 或更慢; 支持自动FP高速同步",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "X=1/250 s; synchronizes with shutter at 1/250 s or slower; auto FP high-speed sync supported"
         }
       ]
     },
@@ -249,18 +276,21 @@
       "rows": [
         {
           "label": "释放模式",
-          "value": "S (single frame), CL (continuous low speed), CH (continuous high speed), Q (quiet shutter-release), QC (quiet continuous shutter-release), Self-timer, MUP (mirror up)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "S (单张), CL (低速连拍), CH (高速连拍), Q (安静快门释放), QC (安静连拍), 自拍, MUP (反光板预升)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "S (single frame), CL (continuous low speed), CH (continuous high speed), Q (quiet shutter-release), QC (quiet continuous shutter-release), Self-timer, MUP (mirror up)"
         },
         {
           "label": "连拍速度",
-          "value": "With an EN-EL18b battery inserted in an MB-D18 battery pack CL: 1 to 8 fps, CH: 9 fps, QC: 3 fps Other power sources CL: 1 to 6 fps, CH: 7 fps, QC: 3 fps",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "MB-D18电池匣装入EN-EL18b电池时： CL: 1 至 8 fps, CH: 9 fps, QC: 3 fps 使用其他电源时： CL: 1 至 6 fps, CH: 7 fps, QC: 3 fps",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "With an EN-EL18b battery inserted in an MB-D18 battery pack CL: 1 to 8 fps, CH: 9 fps, QC: 3 fps Other power sources CL: 1 to 6 fps, CH: 7 fps, QC: 3 fps"
         },
         {
           "label": "自拍定时",
-          "value": "2 s, 5 s, 10 s, 20 s; 1 to 9 exposures at intervals of 0.5, 1, 2 or 3 s",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "延时2、5、10或20秒；拍摄1至9张，间隔0.5、1、2或3秒",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "2 s, 5 s, 10 s, 20 s; 1 to 9 exposures at intervals of 0.5, 1, 2 or 3 s"
         }
       ]
     },
@@ -270,48 +300,57 @@
       "rows": [
         {
           "label": "测光系统",
-          "value": "TTL exposure metering using RGB sensor with 约 180K (180,000) pixels",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "使用RGB传感器进行TTL测光，像素数为 约 180K (180,000) 像素",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "TTL exposure metering using RGB sensor with 约 180K (180,000) pixels"
         },
         {
           "label": "测光模式",
-          "value": "Matrix: 3D color matrix metering III (type G, E and D lenses); color matrix metering III (other CPU lenses); color matrix metering available with non-CPU lenses if user provides lens data Center-weighted: Weight of 75% given to 12 mm circle in center of frame; diameter of circle can be changed to 8, 15 or 20 mm, or weighting can be based on average of entire frame (non-CPU and AF-S Fisheye NIKKOR 8-15mm f/3.5-4.5E ED lenses use 12-mm circle) Spot: Meters 4 mm circle (about 1.5% of frame) centered on selected focus point (on center focus point when non-CPU or AF-S Fisheye NIKKOR 8-15mm f/3.5-4.5E ED lens is used) Highlight-weighted: Available with type G, E and D lenses",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "矩阵测光： 3D彩色矩阵测光III (G、E、D型镜头); 彩色矩阵测光III (其他CPU镜头); 提供镜头数据后，非CPU镜头支持彩色矩阵测光 中央重点测光： 75%测光权重分配给 12 mm 画面中央圆形区域; 圆形区域直径可改为 8, 15 或 20 mm, 或 也可采用全画面平均测光 (非CPU及AF-S鱼眼尼克尔8-15mm f/3.5-4.5E ED镜头使用12mm圆形区域) 点测光： 测量 4 mm 圆形区域 (约占画面的1.5%) 以所选对焦点为中心 (使用非CPU或AF-S鱼眼尼克尔8-15mm f/3.5-4.5E ED镜头时以中央对焦点为中心) 亮部重点测光：适用于 G、E、D型镜头",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Matrix: 3D color matrix metering III (type G, E and D lenses); color matrix metering III (other CPU lenses); color matrix metering available with non-CPU lenses if user provides lens data Center-weighted: Weight of 75% given to 12 mm circle in center of frame; diameter of circle can be changed to 8, 15 or 20 mm, or weighting can be based on average of entire frame (non-CPU and AF-S Fisheye NIKKOR 8-15mm f/3.5-4.5E ED lenses use 12-mm circle) Spot: Meters 4 mm circle (about 1.5% of frame) centered on selected focus point (on center focus point when non-CPU or AF-S Fisheye NIKKOR 8-15mm f/3.5-4.5E ED lens is used) Highlight-weighted: Available with type G, E and D lenses"
         },
         {
-          "label": "测光范围 (ISO 100, f/1.4 lens, 20°C/68°F)",
-          "value": "Matrix or center-weighted metering: -3 to 20 EV Spot metering: 2 to 20 EV Highlight-weighted metering: 0 to 20 EV",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "label": "测光范围 (ISO 100, f/1.4 镜头, 20°C/68°F)",
+          "value": "矩阵测光 或 中央重点 测光: -3 至 20 EV 点测光: 2 至 20 EV 亮部重点测光: 0 至 20 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Matrix or center-weighted metering: -3 to 20 EV Spot metering: 2 to 20 EV Highlight-weighted metering: 0 to 20 EV"
         },
         {
           "label": "测光耦合",
-          "value": "Combined CPU and AI",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "CPU与AI组合",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Combined CPU and AI"
         },
         {
           "label": "模式",
-          "value": "Programmed auto with flexible program (P); shutter-priority auto (S); aperture-priority auto (A); manual (M)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "带柔性程序的程序自动曝光 (P); 快门优先自动 (S); 光圈优先自动 (A); 手动 (M)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Programmed auto with flexible program (P); shutter-priority auto (S); aperture-priority auto (A); manual (M)"
         },
         {
           "label": "曝光补偿",
-          "value": "-5 to +5 EV in increments of 1/3, 1/2 or 1 EV",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "-5 至 +5 EV 步长为 1/3, 1/2 或 1 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "-5 to +5 EV in increments of 1/3, 1/2 or 1 EV"
         },
         {
           "label": "曝光锁定",
-          "value": "Luminosity locked at detected value",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "锁定当前测得的亮度值",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Luminosity locked at detected value"
         },
         {
           "label": "感光度（推荐曝光指数）",
-          "value": "ISO 64 to 25600 in steps of 1/3, 1/2 or 1 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 32 equivalent) below ISO 64 or to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 102400 equivalent) above ISO 25600; auto ISO sensitivity control available",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "ISO 64 至 25600 步进为 1/3, 1/2 或 1 EV; 也可扩展至 约 0.3, 0.5, 0.7 或 1 EV (ISO 32 等效) 低于ISO 64 或 至 约 0.3, 0.5, 0.7, 1 或 2 EV (ISO 102400 等效) 高于ISO 25600; 支持自动ISO感光度控制",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "ISO 64 to 25600 in steps of 1/3, 1/2 or 1 EV; can also be set to 约 0.3, 0.5, 0.7 or 1 EV (ISO 32 equivalent) below ISO 64 or to 约 0.3, 0.5, 0.7, 1 or 2 EV (ISO 102400 equivalent) above ISO 25600; auto ISO sensitivity control available"
         },
         {
           "label": "动态D-Lighting",
-          "value": "Can be selected from auto, extra high, high, normal, low or off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "可选自动、极高、高、标准、低或关闭",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Can be selected from auto, extra high, high, normal, low or off"
         }
       ]
     },
@@ -321,43 +360,51 @@
       "rows": [
         {
           "label": "无线连接",
-          "value": "Standards: IEEE 802.11b, IEEE 802.11g Operating frequency: 2412 to 2462 MHz (channels 1 to 11) Maximum output power: 8.5 dBm (EIRP) Authentication: Open system, WPA2-PSK",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "标准： IEEE 802.11b, IEEE 802.11g 工作频率： 2412 至 2462 MHz (信道 1 至 11) 最大输出功率： 8.5 dBm (EIRP) 验证方式：开放系统, WPA2-PSK",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Standards: IEEE 802.11b, IEEE 802.11g Operating frequency: 2412 to 2462 MHz (channels 1 to 11) Maximum output power: 8.5 dBm (EIRP) Authentication: Open system, WPA2-PSK"
         },
         {
           "label": "Bluetooth无线连接",
-          "value": "Communication protocols: Bluetooth Specification Version 4.1 Operating frequency: 2402 to 2480 MHz (Bluetooth), 2402 to 2480 MHz (Bluetooth Low Energy)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "通信协议：蓝牙规范版本 4.1 工作频率： 2402 至 2480 MHz (Bluetooth), 2402 至 2480 MHz (低功耗蓝牙)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Communication protocols: Bluetooth Specification Version 4.1 Operating frequency: 2402 to 2480 MHz (Bluetooth), 2402 to 2480 MHz (Bluetooth Low Energy)"
         },
         {
-          "label": "测光范围 (line of sight)",
-          "value": "约 10 m/32 ft without interference; range may vary with signal strength and presence or absence of obstacles",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "label": "测光范围 (无遮挡直线距离)",
+          "value": "约 10 m/32 ft 无干扰条件下；范围因信号强度及障碍物而异",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "约 10 m/32 ft without interference; range may vary with signal strength and presence or absence of obstacles"
         },
         {
           "label": "USB接口",
-          "value": "SuperSpeed USB (USB 3.0 Micro-B connector); connection to built-in USB port is recommended",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "SuperSpeed USB (USB 3.0 Micro-B接口); 建议连接电脑内置USB端口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "SuperSpeed USB (USB 3.0 Micro-B connector); connection to built-in USB port is recommended"
         },
         {
           "label": "HDMI输出",
-          "value": "Type C HDMI connector",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "HDMI Type-C接口",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Type C HDMI connector"
         },
         {
           "label": "音频输入",
-          "value": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "立体声迷你插孔 (3.5-mm 直径; 支持插入供电)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Stereo mini-pin jack (3.5-mm diameter; plug-in power supported)"
         },
         {
           "label": "音频输出",
-          "value": "Stereo mini-pin jack (3.5-mm diameter)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "立体声迷你插孔 (3.5-mm 直径)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Stereo mini-pin jack (3.5-mm diameter)"
         },
         {
           "label": "十针遥控端口",
-          "value": "Can be used to connect optional MC-30A/MC-36A Remote Cord, ML-3 Modulite Remote Control Set, WR-R10 (requires WR-A10 Wireless Remote Adapter) or WR-1 Wireless Remote Controller, GP-1/GP-1A GPS Unit",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "可连接另购的 MC-30A/MC-36A 遥控线, ML-3 Modulite遥控套装, WR-R10 (需要 WR-A10 无线遥控适配器) 或 WR-1 无线遥控器, GP-1/GP-1A GPS装置",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Can be used to connect optional MC-30A/MC-36A Remote Cord, ML-3 Modulite Remote Control Set, WR-R10 (requires WR-A10 Wireless Remote Adapter) or WR-1 Wireless Remote Controller, GP-1/GP-1A GPS Unit"
         }
       ]
     },
@@ -367,33 +414,39 @@
       "rows": [
         {
           "label": "自动对焦（光学取景）",
-          "value": "Multi-CAM 20K autofocus sensor module with TTL phase detection, fine-tuning and 153 focus points (including 99 cross-type sensors and 15 sensors that support f/8), of which 55 (35 cross-type sensors and 9 f/8 sensors) are available for selection",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "Multi-CAM 20K自动对焦模块，支持TTL相位检测及AF微调 、 153 个对焦点 (包括 99 十字型传感器 、 15 支持f/8的传感器), 其中55点 (35 十字型传感器 、 9 支持f/8的传感器) 可供选择",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Multi-CAM 20K autofocus sensor module with TTL phase detection, fine-tuning and 153 focus points (including 99 cross-type sensors and 15 sensors that support f/8), of which 55 (35 cross-type sensors and 9 f/8 sensors) are available for selection"
         },
         {
           "label": "对焦检测范围 ",
-          "value": "-4 to +20 EV (ISO 100, 20°C/68°F)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "-4 至 +20 EV (ISO 100, 20°C/68°F)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "-4 to +20 EV (ISO 100, 20°C/68°F)"
         },
         {
           "label": "对焦驱动模式（光学取景）",
-          "value": "Autofocus (AF): Single-servo AF (AF-S); continuous-servo AF (AF-C); predictive focus tracking automatically activated according to subject status Manual focus (M): Electronic rangefinder can be used",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "自动对焦（AF）： 单次伺服AF (AF-S); 连续伺服AF (AF-C); 根据主体状态自动启用预测对焦跟踪 手动 对焦（M）: 可使用电子测距仪",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Autofocus (AF): Single-servo AF (AF-S); continuous-servo AF (AF-C); predictive focus tracking automatically activated according to subject status Manual focus (M): Electronic rangefinder can be used"
         },
         {
           "label": "对焦点",
-          "value": "153 focus points, of which 55 or 15 are available for selection",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "153个对焦点，可选择其中55点或15点",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "153 focus points, of which 55 or 15 are available for selection"
         },
         {
           "label": "自动对焦区域（光学取景）",
-          "value": "Single-point AF, 9-, 25-, 72- or 153-point dynamic-area AF, 3D-tracking, group-area AF, auto-area AF",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "单点 AF, 9-, 25-, 72- 或 153点 动态区域 AF, 3D跟踪, 群组区域AF, 自动区域AF",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Single-point AF, 9-, 25-, 72- or 153-point dynamic-area AF, 3D-tracking, group-area AF, auto-area AF"
         },
         {
           "label": "对焦锁定",
-          "value": "Focus can be locked by pressing shutter-release button halfway (single-servo AF) or by pressing the center of the sub-selector",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "半按快门释放按钮（单次伺服AF）或按下副选择器中央可锁定对焦",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Focus can be locked by pressing shutter-release button halfway (single-servo AF) or by pressing the center of the sub-selector"
         }
       ]
     },
@@ -403,23 +456,27 @@
       "rows": [
         {
           "label": "模式",
-          "value": "Photo live view, movie live view",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "照片实时取景、视频实时取景",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Photo live view, movie live view"
         },
         {
           "label": "对焦驱动模式（实时取景）",
-          "value": "Autofocus (AF): Single-servo AF (AF-S); full-time-servo AF (AF-F) Manual focus (M)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "自动对焦（AF）： 单次伺服AF (AF-S); 全时伺服AF (AF-F) 手动 对焦（M）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Autofocus (AF): Single-servo AF (AF-S); full-time-servo AF (AF-F) Manual focus (M)"
         },
         {
           "label": "自动对焦区域（实时取景）",
-          "value": "Face-priority AF, wide-area AF, normal-area AF, pinpoint AF, subject-tracking AF",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "脸部优先 AF, 宽区域 AF, 标准区域AF, 微点AF, 对象跟踪AF",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Face-priority AF, wide-area AF, normal-area AF, pinpoint AF, subject-tracking AF"
         },
         {
           "label": "自动对焦（实时取景）",
-          "value": "Contrast-detect AF anywhere in frame (camera selects focus point automatically when face-priority AF or subject-tracking AF is selected)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "全画面反差检测AF（选择脸部优先AF或对象跟踪AF时，相机自动选择对焦点）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Contrast-detect AF anywhere in frame (camera selects focus point automatically when face-priority AF or subject-tracking AF is selected)"
         }
       ]
     },
@@ -429,38 +486,45 @@
       "rows": [
         {
           "label": "闪光控制",
-          "value": "TTL: i-TTL flash control using RGB sensor with 约 180K (180,000) pixels; i-TTL balanced fill-flash for digital SLR is used with matrix, center-weighted and highlight-weighted metering, standard i-TTL fill-flash for digital SLR with spot metering",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "TTL: i-TTL闪光控制 使用RGB传感器，像素数为 约 180K (180,000) 像素; 数码单反相机i-TTL均衡补光用于 矩阵, 中央重点 、 亮部重点测光, 数码单反相机标准i-TTL补光用于 点测光",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "TTL: i-TTL flash control using RGB sensor with 约 180K (180,000) pixels; i-TTL balanced fill-flash for digital SLR is used with matrix, center-weighted and highlight-weighted metering, standard i-TTL fill-flash for digital SLR with spot metering"
         },
         {
           "label": "闪光模式",
-          "value": "Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, slow rear-curtain sync, off",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "前帘同步, 慢速同步, 后帘同步, 防红眼, 慢速同步防红眼, 慢速后帘同步, 关闭",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Front-curtain sync, slow sync, rear-curtain sync, red-eye reduction, red-eye reduction with slow sync, slow rear-curtain sync, off"
         },
         {
           "label": "闪光补偿",
-          "value": "-3 to +1 EV in increments of 1/3, 1/2 or 1 EV",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "-3 至 +1 EV 步长为 1/3, 1/2 或 1 EV",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "-3 to +1 EV in increments of 1/3, 1/2 or 1 EV"
         },
         {
           "label": "闪光就绪提示",
-          "value": "Lights when optional flash unit is fully charged; flashes after flash is fired at full output",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "另购闪光灯充满电时点亮；全功率闪光后闪烁",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Lights when optional flash unit is fully charged; flashes after flash is fired at full output"
         },
         {
           "label": "热靴",
-          "value": "ISO 518 hot-shoe with sync and data contacts and safety lock",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "ISO 518热靴，带同步与数据触点及安全锁",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "ISO 518 hot-shoe with sync and data contacts and safety lock"
         },
         {
           "label": "尼康创意闪光系统",
-          "value": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, color information communication, auto FP high-speed sync, AF-assist for multi-area AF, unified flash control",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "i-TTL闪光控制, 无线电控制高级无线闪光, 光学控制高级无线闪光, 模拟照明, FV锁定, 色彩信息传达, 自动FP高速同步, 多区域AF辅助照明, 统一闪光控制",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "i-TTL flash control, radio-controlled Advanced Wireless Lighting, optical Advanced Wireless Lighting, modeling illumination, FV lock, color information communication, auto FP high-speed sync, AF-assist for multi-area AF, unified flash control"
         },
         {
           "label": "同步端口",
-          "value": "ISO 519 sync terminal with locking thread",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "ISO 519同步端口，带锁紧螺纹",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "ISO 519 sync terminal with locking thread"
         }
       ]
     },
@@ -470,7 +534,7 @@
       "rows": [
         {
           "label": "白平衡",
-          "value": "Auto (3 types), natural light auto, incandescent, fluorescent (7 types), direct sunlight, flash, cloudy,shade, preset manual (最高 6 values can be stored, spot white balance measurement available during live view), choose color temperature (2500 K to 10000 K), all with fine-tuning",
+          "value": "自动 (3 种), 自然光自动, 白炽灯, 荧光灯 (7 种), 晴天, 闪光, 阴天,阴影, 手动预设 (最高 6 组设定可存储, 即时取景时支持点白平衡测量), 选择色温 (2500 K 至 10000 K), 均支持微调",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
           "originalValue": "Auto (3 types), natural light auto, incandescent, fluorescent (7 types), direct sunlight, flash, cloudy,shade, preset manual (up to 6 values can be stored, spot white balance measurement available during live view), choose color temperature (2500 K to 10000 K), all with fine-tuning"
         }
@@ -482,8 +546,9 @@
       "rows": [
         {
           "label": "包围拍摄类型",
-          "value": "Exposure, flash, white balance and ADL",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "曝光、闪光、白平衡和动态D-Lighting包围",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Exposure, flash, white balance and ADL"
         }
       ]
     },
@@ -493,8 +558,9 @@
       "rows": [
         {
           "label": "工作环境",
-          "value": "Temperature: 0 to 40°C/32 to 104°F Humidity: 85% or less (no condensation)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "温度： 0 至 40°C/32 至 104°F 湿度： 85% 以下 （无凝露）",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Temperature: 0 to 40°C/32 to 104°F Humidity: 85% or less (no condensation)"
         },
         {
           "label": "三脚架接口",
@@ -508,7 +574,7 @@
         },
         {
           "label": "重量",
-          "value": "约 1005 g/2 lb 3.5 oz with battery and XQD memory card but without body cap; 约 915 g/2 lb 0.3 oz (camera 仅机身)",
+          "value": "约 1005 g/2 lb 3.5 oz 含电池和XQD存储卡，不含机身盖; 约 915 g/2 lb 0.3 oz (仅机身)",
           "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
           "originalValue": "约 1005 g/2 lb 3.5 oz with battery and XQD memory card but without body cap; 约 915 g/2 lb 0.3 oz (camera body only)"
         }
@@ -520,8 +586,9 @@
       "rows": [
         {
           "label": "显示屏",
-          "value": "8-cm/3.2-in., 约 2359k-dot (XGA) tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, and manual monitor brightness control",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "8-cm/3.2-in., 约 2359k-dot (XGA) 可翻折 TFT触控液晶显示屏 可视角170°, 约 100% 画面覆盖率、 手动显示屏亮度调节",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "8-cm/3.2-in., 约 2359k-dot (XGA) tilting TFT touch-sensitive LCD with 170° viewing angle, 约 100% frame coverage, and manual monitor brightness control"
         }
       ]
     },
@@ -531,8 +598,9 @@
       "rows": [
         {
           "label": "回放功能",
-          "value": "Full-frame and thumbnail (4, 9 or 72 images) playback with playback zoom, playback zoom cropping, movie playback, photo and/or movie slide shows, histogram display, highlights, photo information, location data display, picture rating and auto image rotation",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "全屏及缩略图 (4, 9 或 72 张) 回放，支持回放缩放及裁切、视频回放、照片及／或视频幻灯片、直方图、亮部、照片信息及位置数据显示, 照片评级 、 自动图像旋转",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Full-frame and thumbnail (4, 9 or 72 images) playback with playback zoom, playback zoom cropping, movie playback, photo and/or movie slide shows, histogram display, highlights, photo information, location data display, picture rating and auto image rotation"
         }
       ]
     },
@@ -542,18 +610,21 @@
       "rows": [
         {
           "label": "电池",
-          "value": "One EN-EL15a/EN-EL15* Rechargeable Li-ion Battery",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "一块EN-EL15a/EN-EL15* 可充电锂离子电池",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "One EN-EL15a/EN-EL15* Rechargeable Li-ion Battery"
         },
         {
           "label": "电池手柄",
-          "value": "Optional MB-D18 Multi-Power Battery Pack with one EN-EL18b/EN-EL18a/EN-EL18* Rechargeable Li-ion Battery (available separately), one EN-EL15a/EN-EL15* Rechargeable Li-ion Battery or eight AA alkaline, Ni-MH or lithium batteries; an MH-26a/MH-26 Battery Charger and BL-5 Battery Chamber Cover (both available separately) are required when using EN-EL18b/EN-EL18a/EN-EL18* batteries",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "另购MB-D18多功能电池匣，可装一块 EN-EL18b/EN-EL18a/EN-EL18* 可充电锂离子电池 (另售), 一块EN-EL15a/EN-EL15* 可充电锂离子电池 或 八节AA碱性、镍氢或锂电池; 需另购MH-26a／MH-26充电器及BL-5电池仓盖，适用于 EN-EL18b/EN-EL18a/EN-EL18* 电池",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "Optional MB-D18 Multi-Power Battery Pack with one EN-EL18b/EN-EL18a/EN-EL18* Rechargeable Li-ion Battery (available separately), one EN-EL15a/EN-EL15* Rechargeable Li-ion Battery or eight AA alkaline, Ni-MH or lithium batteries; an MH-26a/MH-26 Battery Charger and BL-5 Battery Chamber Cover (both available separately) are required when using EN-EL18b/EN-EL18a/EN-EL18* batteries"
         },
         {
           "label": "交流适配器",
-          "value": "EH-5c/EH-5b AC Adapter; requires EP-5B Power Connector (available separately)",
-          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html"
+          "value": "EH-5c/EH-5b 交流适配器; 需要 EP-5B 电源连接器 (另售)",
+          "sourceUrl": "https://imaging.nikon.com/imaging/lineup/dslr/d850/index.html",
+          "originalValue": "EH-5c/EH-5b AC Adapter; requires EP-5B Power Connector (available separately)"
         }
       ]
     }

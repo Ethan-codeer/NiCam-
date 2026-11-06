@@ -4,9 +4,9 @@ import photos from './photos.json';
 import { existsSync, readFileSync } from 'node:fs';
 
 const officialHosts: Record<string, string[]> = {
-  nikon: ['nikon.com', 'nikonusa.com'],
-  canon: ['canon.com', 'canon-europe.com', 'global.canon'],
-  sony: ['sony.com', 'sony.co.uk','sony.ie','sony.com.sg'],
+  nikon: ['nikon.com', 'nikonusa.com', 'nikonimaging.com', 'nikonimglib.com'],
+  canon: ['canon.com', 'canon-europe.com', 'global.canon', 'cam.start.canon'],
+  sony: ['sony.com', 'sony.co.uk','sony.ie','sony.com.sg', 'sony.net', 'sony.co.jp'],
   fujifilm: ['fujifilm.com', 'fujifilm-x.com','fujifilm-dsc.com','fujifilm.com.mx'],
   leica: ['leica-camera.com'],
   hasselblad: ['hasselblad.com'],
@@ -71,8 +71,8 @@ describe('editorial data integrity', () => {
 });
 
 
-describe('100 digital cameras with detailed sourced specifications', () => {
-  it('has exactly100 distinct cameras, each with an attributed bundled real photo', () => {
+describe('digital catalog with detailed sourced specifications', () => {
+  it('has at least100 distinct cameras, each with an attributed bundled real photo', () => {
     expect(cameras.length).toBeGreaterThanOrEqual(100);
     for (const camera of cameras) {
       expect(camera.digital, camera.id).toBe(true);
@@ -86,10 +86,11 @@ describe('100 digital cameras with detailed sourced specifications', () => {
           expect(row.label.trim().length, camera.id).toBeGreaterThan(0);
           expect(row.value.trim(), `${camera.id}: ${row.label}`).not.toMatch(/^(未知|待核验|N\/A|暂无可靠资料)$/i);
           expect(new URL(row.sourceUrl).protocol).toBe('https:');
+          expect(isOfficialHost(new URL(row.sourceUrl).hostname, officialHosts[camera.brand] ?? []), `${camera.id}: ${row.label}`).toBe(true);
         }
       }
     }
-    expect(Object.keys(photos)).toHaveLength(100);
+    expect(Object.keys(photos).sort()).toEqual(cameras.map(camera => camera.id).sort());
     for (const camera of cameras) {
       const photo = (photos as Record<string, {src:string;author:string;license:string;licenseUrl:string;sourceUrl:string;width:number;height:number}>)[camera.id];
       expect(photo, camera.id).toBeTruthy();

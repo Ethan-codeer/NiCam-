@@ -7,7 +7,7 @@
   "type": "单反相机",
   "megapixels": 36.4,
   "width": 136.5,
-  "height": 110.0,
+  "height": 110,
   "depth": 85.5,
   "description": "Pentax K-1 数码相机。技术参数依据厂家规格表或官方说明书整理，具体模式及测试条件可通过逐项来源查阅。",
   "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
@@ -20,28 +20,33 @@
       "rows": [
         {
           "label": "图像传感器",
-          "value": "Primary color filter, CMOS. Size: 35.9 x 24.0 (mm)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "原色滤镜 CMOS，35.9×24.0 mm",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Primary color filter, CMOS. Size: 35.9 x 24.0 (mm)"
         },
         {
           "label": "有效像素",
-          "value": "约 36.40 mega像素",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "约 3640 万像素",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 36.40 mega像素"
         },
         {
           "label": "总像素",
-          "value": "约 36.77 mega像素",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "约 3677 万像素",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 36.77 mega像素"
         },
         {
           "label": "低通滤镜模拟",
-          "value": "Moiré reduction using SR unit. OFF/Type1/Type2/Bracket (3 images)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "利用 SR 防抖单元抑制摩尔纹；关闭／类型 1／类型 2／3 张包围",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Moiré reduction using SR unit. OFF/Type1/Type2/Bracket (3 images)"
         },
         {
           "label": "记录像素",
-          "value": "[35mm 全画幅] JPEG: L(36M:7360x4912), M(22M:5760x3840), S(12M:4224x2816), XS(2M:1920x1280) RAW: (36M:7360x4912) [APS-C size] JPEG: L(15M:4800x3200), M(12M:4224x2816), S(8M:3456x2304), XS(2M:1920x1280) RAW: (15M:4800x3200)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "全画幅 JPEG：L 3600 万（7360×4912）、M 2200 万（5760×3840）、S 1200 万（4224×2816）、XS 200 万（1920×1280）；RAW 3600 万（7360×4912）。APS-C JPEG：L 1500 万（4800×3200）、M 1200 万（4224×2816）、S 800 万（3456×2304）、XS 200 万（1920×1280）；RAW 1500 万（4800×3200）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "[35mm 全画幅] JPEG: L(36M:7360x4912), M(22M:5760x3840), S(12M:4224x2816), XS(2M:1920x1280) RAW: (36M:7360x4912) [APS-C size] JPEG: L(15M:4800x3200), M(12M:4224x2816), S(8M:3456x2304), XS(2M:1920x1280) RAW: (15M:4800x3200)"
         },
         {
           "label": "色彩空间",
@@ -50,33 +55,39 @@
         },
         {
           "label": "对焦传感器",
-          "value": "SAFOX 12, 33 point (25 cross type focus points in the center)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "SAFOX 12，33 点，中央 25 点为十字型",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "SAFOX 12, 33 point (25 cross type focus points in the center)"
         },
         {
           "label": "数码滤镜",
-          "value": "Extract Color, Replace Color, Toy Camera, Retro, High Contrast, Shading, Invert Color, Unicolor Bold, Bold Monochrome",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "提取颜色、替换颜色、玩具相机、复古、高对比度、暗角、反色、单色强化、浓重单色",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Extract Color, Replace Color, Toy Camera, Retro, High Contrast, Shading, Invert Color, Unicolor Bold, Bold Monochrome"
         },
         {
           "label": "像素偏移分辨率",
-          "value": "Available, Motion Correction ON/OFF",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "支持；运动校正可开／关",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Available, Motion Correction ON/OFF"
         },
         {
           "label": "记录像素",
-          "value": "Full HD(1920x1080, 60i/50i/30p/25p/24p） HD (1280x720, 60p/50p)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "全高清(1920x1080, 60i/50i/30p/25p/24p） HD (1280x720, 60p/50p)",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Full HD(1920x1080, 60i/50i/30p/25p/24p） HD (1280x720, 60p/50p)"
         },
         {
           "label": "数码滤镜",
-          "value": "Base Parameter Adj, Extract Color, Replace Color, Toy Camera, Retro, High Contrast, Shading, Invert Color, Unicolor Bold, Bold Monochrome, Tone Expansion, Sketch, Water Color, Pastel, Posterization, Miniature, Soft, Starburst, Fish-eye, Slim, Monochrome",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "基本参数调整、提取颜色、替换颜色、玩具相机、复古、高对比度、暗角、反色、单色强化、浓重单色、色调扩展、素描、水彩、粉彩、色调分离、微缩景观、柔焦、星芒、鱼眼、瘦身、单色",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Base Parameter Adj, Extract Color, Replace Color, Toy Camera, Retro, High Contrast, Shading, Invert Color, Unicolor Bold, Bold Monochrome, Tone Expansion, Sketch, Water Color, Pastel, Posterization, Miniature, Soft, Starburst, Fish-eye, Slim, Monochrome"
         },
         {
           "label": "RAW 机内处理",
-          "value": "RAW file select： Select Single Image, Select Multiple Images, Select a folder RAW Development Parameter: White Balance, Custom Image, Sensitivity, Clarity, Skin Tone, Digital filter, HDR, Pixel Shift Resolution, Shadow Correction, High-ISO NR, Distortion Correction, Peripheral Illumin. Corr., Lateral Chromatic Aberration Correction, Diffraction Correction, Color Fringe Correction, File Format (JPEG/TIFF), Aspect Ratio, JPEG Recorded Pixels, JPEG Quality, Color Space",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "可选单张、多张或文件夹；可调白平衡、自定义影像、感光度、清晰度、肤色、数码滤镜、HDR、像素偏移高分辨率、阴影校正、高 ISO 降噪、畸变／周边光量／横向色差／衍射／色边校正；输出 JPEG／TIFF，可设画幅比例、JPEG 像素和画质、色彩空间",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "RAW file select： Select Single Image, Select Multiple Images, Select a folder RAW Development Parameter: White Balance, Custom Image, Sensitivity, Clarity, Skin Tone, Digital filter, HDR, Pixel Shift Resolution, Shadow Correction, High-ISO NR, Distortion Correction, Peripheral Illumin. Corr., Lateral Chromatic Aberration Correction, Diffraction Correction, Color Fringe Correction, File Format (JPEG/TIFF), Aspect Ratio, JPEG Recorded Pixels, JPEG Quality, Color Space"
         }
       ]
     },
@@ -86,57 +97,67 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "PENTAX KAF2 bayonet mount (AF coupler, lens information contacts, K-mount with power contacts)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "PENTAX KAF2 卡口，含 AF 耦合器、镜头信息触点和电源触点",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "PENTAX KAF2 bayonet mount (AF coupler, lens information contacts, K-mount with power contacts)"
         },
         {
           "label": "兼容镜头",
-          "value": "K AF3 , K AF2 (power zoom compatible), K AF , K A mount lens",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "KAF3、KAF2（支持电动变焦）、KAF、KA 卡口镜头",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "K AF3 , K AF2 (power zoom compatible), K AF , K A mount lens"
         },
         {
           "label": "影像防抖",
-          "value": "Sensor-shift shake reduction (SR II : Shake Reduction)(5-axis)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "传感器位移式 5 轴 SR II 防抖",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Sensor-shift shake reduction (SR II : Shake Reduction)(5-axis)"
         },
         {
           "label": "对焦屏",
-          "value": "Fixed Natural-Bright-Matte III focusing screen",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "固定式 Natural-Bright-Matte III 对焦屏",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Fixed Natural-Bright-Matte III focusing screen"
         },
         {
           "label": "对焦机构",
-          "value": "Contrast detection (Face detection, Tracking, Multiple AF points, Select, Spot) Focus Peaking: ON/OFF",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "反差检测；人脸、追踪、多点、选择、点对焦；峰值可开／关",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Contrast detection (Face detection, Tracking, Multiple AF points, Select, Spot) Focus Peaking: ON/OFF"
         },
         {
           "label": "自动对焦模式",
-          "value": "Single AF (AF.S), Continuous AF (AF.C)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "单张 AF (AF.S), 连续 AF (AF.C)",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Single AF (AF.S), Continuous AF (AF.C)"
         },
         {
           "label": "对焦点选择",
-          "value": "Spot, Select, Expanded Area (S, M, L), Zone select, Auto (33 AF points)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "点、选择、扩展区（小／中／大）、分区选择、自动（33 点）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Spot, Select, Expanded Area (S, M, L), Zone select, Auto (33 AF points)"
         },
         {
           "label": "自动对焦辅助灯",
-          "value": "Dedicated LED AF assist light",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "专用 LED 自动对焦辅助灯",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Dedicated LED AF assist light"
         },
         {
           "label": "镜头校正",
-          "value": "Distortion Correction, Peripheral Illumin. Correction, Lateral Chromatic Aberration Correction, Diffraction Correction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "畸变、周边光量、横向色差、衍射校正",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Distortion Correction, Peripheral Illumin. Correction, Lateral Chromatic Aberration Correction, Diffraction Correction"
         },
         {
           "label": "自动对焦自定义",
-          "value": "AF.S: Focus-priority/ Release-priority 1st Frame Action in AF.C: Release-priority/Auto/Focus-priority Action in AF.C Continuous: Focus-priority, Auto, FPS-priority Hold AF Status: OFF, Low, Medium, High AF in Interval Shooting: Locks focus at 1st exposure, Adjusts focus for each shot AF with Remote Control: Off/On",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "AF.S：对焦／快门优先；AF.C 首张：快门优先／自动／对焦优先；AF.C 连拍：对焦优先／自动／帧率优先；保持 AF 状态：关／低／中／高；间隔拍摄：首张锁焦或逐张对焦；遥控 AF：开／关",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "AF.S: Focus-priority/ Release-priority 1st Frame Action in AF.C: Release-priority/Auto/Focus-priority Action in AF.C Continuous: Focus-priority, Auto, FPS-priority Hold AF Status: OFF, Low, Medium, High AF in Interval Shooting: Locks focus at 1st exposure, Adjusts focus for each shot AF with Remote Control: Off/On"
         },
         {
           "label": "自动对焦微调",
-          "value": "±10 step, Uniform adjustment, Individual adjustment (最高 20 can be saved)",
+          "value": "±10 级；统一或单镜头调节，最多保存 20 组",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "±10 step, Uniform adjustment, Individual adjustment (up to 20 can be saved)"
         }
@@ -148,34 +169,39 @@
       "rows": [
         {
           "label": "放大倍率",
-          "value": "约 0.70x (50mmF1.4 at infinity)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "约 0.70×（50 mm F1.4 镜头，无限远）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 0.70x (50mmF1.4 at infinity)"
         },
         {
           "label": "屈光度调节",
-          "value": "约 -3.5m to + 1.2m -1",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "约 −3.5 至 +1.2m⁻¹",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 -3.5m to + 1.2m -1"
         },
         {
           "label": "取景信息叠加",
-          "value": "AF Points, Grid Display, Electronic Level, AF Frame, Spot Metering Frame, Crop",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "对焦点、网格、电子水平仪、AF 框、点测光框、裁切框",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "AF Points, Grid Display, Electronic Level, AF Frame, Spot Metering Frame, Crop"
         },
         {
           "label": "显示屏",
-          "value": "Field of View 约 100%, Magnified view (最高 16x), Grid Display (4x4 Grid, Golden Section, Scale display, Square 1, Square 2, Grid Color: Black/White ), Histogram, Bright area warning, Composition Adjustment",
+          "value": "视野约 100%；最高 16× 放大；4×4／黄金分割／刻度／方格 1／方格 2 网格，网格色黑／白；直方图、高光警告、构图调整",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "Field of View 约 100%, Magnified view (up to 16x), Grid Display (4x4 Grid, Golden Section, Scale display, Square 1, Square 2, Grid Color: Black/White ), Histogram, Bright area warning, Composition Adjustment"
         },
         {
           "label": "显示屏",
-          "value": "1280 x 1024 点, 24 bit full-color or more",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "1280×1024 点；24 位全彩或以上",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "1280 x 1024 点, 24 bit full-color or more"
         },
         {
           "label": "显示屏",
-          "value": "1280 x 1024 像素, 24 bit full-color or more",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "1280×1024 像素；24 位全彩或以上",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "1280 x 1024 像素, 24 bit full-color or more"
         }
       ]
     },
@@ -185,34 +211,39 @@
       "rows": [
         {
           "label": "标准输出感光度",
-          "value": "ISO AUTO/100 to 204800 (EV steps can be set to 1EV, 1/2EV or 1/3EV)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "自动 ISO／ISO 100–204800；可选 1／1/2／1/3 EV 步长",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "ISO AUTO/100 to 204800 (EV steps can be set to 1EV, 1/2EV or 1/3EV)"
         },
         {
           "label": "白平衡",
-          "value": "AUTO WB, Multi Auto WB, Daylight, Shade, Cloudy, Fluorescent Light (D:Daylight Color, N:Daylight White, W:Cool White, L:Warm White), Tungsten Light, CTE, Manual WB (最高 3 settings), Color Temperature Configuration (最高 3 settings), Copying the white balance setting of a captured image",
+          "value": "自动、多重自动、日光、阴影、阴天、荧光灯（日光色 D／日光白 N／冷白 W／暖白 L）、白炽灯、CTE；手动白平衡最多 3 组，色温最多 3 组；可复制已拍照片白平衡",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "AUTO WB, Multi Auto WB, Daylight, Shade, Cloudy, Fluorescent Light (D:Daylight Color, N:Daylight White, W:Cool White, L:Warm White), Tungsten Light, CTE, Manual WB (up to 3 settings), Color Temperature Configuration (up to 3 settings), Copying the white balance setting of a captured image"
         },
         {
           "label": "测光范围",
-          "value": "EV-3 to 20 (ISO100 at 50mm F1.4)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "EV −3 至 20（ISO 100，50 mm F1.4）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "EV-3 to 20 (ISO100 at 50mm F1.4)"
         },
         {
           "label": "曝光模式",
-          "value": "Scene Analyze Auto, Program, Sensitivity Priority, Shutter Priority, Aperture Priority, Shutter & Aperture Priority, Manual, Bulb, Flash X-sync Speed, USER1, USER2, USER3, USER4, USER5",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "场景分析自动、程序、感光度优先、快门优先、光圈优先、快门与光圈优先、手动、B 门、X 闪光同步、USER1–USER5",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Scene Analyze Auto, Program, Sensitivity Priority, Shutter Priority, Aperture Priority, Shutter & Aperture Priority, Manual, Bulb, Flash X-sync Speed, USER1, USER2, USER3, USER4, USER5"
         },
         {
           "label": "多重曝光",
-          "value": "Composite Mode(Additive/Average/Bright) Number of Shots(2 to 2000 images)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "叠加／平均／亮化合成；2–2000 张",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Composite Mode(Additive/Average/Bright) Number of Shots(2 to 2000 images)"
         },
         {
           "label": "闪光曝光补偿",
-          "value": "'-2.0～+1.0EV",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "−2.0 至 +1.0 EV",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "'-2.0～+1.0EV"
         }
       ]
     },
@@ -222,18 +253,21 @@
       "rows": [
         {
           "label": "快门速度",
-          "value": "Auto:1/8000 to 30 sec., Manual:1/8000 to 30 sec. (1/3EV steps or 1/2EV steps), Bulb",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "自动或手动：1/8000–30 秒；手动可选 1/3 或 1/2 EV 步长；支持 B 门",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Auto:1/8000 to 30 sec., Manual:1/8000 to 30 sec. (1/3EV steps or 1/2EV steps), Bulb"
         },
         {
           "label": "闪光模式",
-          "value": "Auto Flash Discharge, Auto Flash + Red-eye Reduction, Flash On, Flash On + Red-eye Reduction, Slow-speed Sync, Slow-speed Sync + Red-eye, P-TTL, Contrast-control-sync, High-speed sync, Wireless sync * Contrast-control-sync and High-speed sync requires 2 or more dedicated external flash",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "自动、自动防红眼、开启、开启防红眼、慢速同步、慢速同步防红眼、P-TTL、对比度控制同步、高速同步、无线同步；对比度控制及高速同步须至少两只专用外接闪光灯（按原始规格记录）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Auto Flash Discharge, Auto Flash + Red-eye Reduction, Flash On, Flash On + Red-eye Reduction, Slow-speed Sync, Slow-speed Sync + Red-eye, P-TTL, Contrast-control-sync, High-speed sync, Wireless sync * Contrast-control-sync and High-speed sync requires 2 or more dedicated external flash"
         },
         {
           "label": "同步速度",
-          "value": "1/200sec",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "1/200秒",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "1/200sec"
         }
       ]
     },
@@ -243,39 +277,45 @@
       "rows": [
         {
           "label": "相机类型",
-          "value": "TTL autofocus, auto-exposure SLR digital-still camera",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "TTL 自动对焦、自动曝光数码单反相机",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "TTL autofocus, auto-exposure SLR digital-still camera"
         },
         {
           "label": "除尘",
-          "value": "影像传感器 cleaning using ultrasonic vibrations \"DR II\"",
+          "value": "DR II 超声波振动传感器清洁",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "Image sensor cleaning using ultrasonic vibrations \"DR II\""
         },
         {
           "label": "文件格式",
-          "value": "RAW (PEF/DNG), JPEG (Exif 2.3), DCF2.0 compliant",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "RAW（PEF／DNG）、JPEG（Exif 2.3），符合 DCF 2.0",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "RAW (PEF/DNG), JPEG (Exif 2.3), DCF2.0 compliant"
         },
         {
           "label": "画质等级",
-          "value": "RAW (14bit): PEF, DNG JPEG: ★★★ (Best), ★★ (Better), ★ (Good), RAW + JPEG simultaneous capturing available",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "14 位 RAW：PEF／DNG；JPEG：★★★ 最佳、★★ 较好、★ 标准；支持 RAW+JPEG 同时记录",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "RAW (14bit): PEF, DNG JPEG: ★★★ (Best), ★★ (Better), ★ (Good), RAW + JPEG simultaneous capturing available"
         },
         {
           "label": "双SD卡槽功能",
-          "value": "Sequential Use, Save to Both, Separate RAW / JPEG, Image copy between slots possible",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "顺序存储、双卡同时存储、RAW／JPEG 分开存储；支持卡槽间复制",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Sequential Use, Save to Both, Separate RAW / JPEG, Image copy between slots possible"
         },
         {
           "label": "记录文件命名",
-          "value": "File Name: \"IMGP****\" or User assigned file name File name numbering: Sequential, Reset",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "文件名 IMGP**** 或用户自定；编号可连续或重置",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "File Name: \"IMGP****\" or User assigned file name File name numbering: Sequential, Reset"
         },
         {
           "label": "光学取景器",
-          "value": "Pentaprism Finder",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "五棱镜光学取景器",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Pentaprism Finder"
         },
         {
           "label": "取景覆盖率",
@@ -284,23 +324,27 @@
         },
         {
           "label": "眼距",
-          "value": "约 20.6mm (from the view window), 约 21.7mm (from the center of lens)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "距取景窗约 20.6 mm；距镜片中心约 21.7 mm",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 20.6mm (from the view window), 约 21.7mm (from the center of lens)"
         },
         {
           "label": "实时取景测光",
-          "value": "TTL method using image sensor",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "图像传感器 TTL 测光",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "TTL method using image sensor"
         },
         {
           "label": "显示屏类型",
-          "value": "Wide viewing angle TFT color LCD, Air-gapless glass. Flexible-tilt",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "宽视角 TFT 彩色液晶屏；无空气间隙玻璃；多向翻转",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Wide viewing angle TFT color LCD, Air-gapless glass. Flexible-tilt"
         },
         {
           "label": "尺寸",
-          "value": "3.2 inch (aspect ratio 3:2)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "3.2 英寸，3:2",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "3.2 inch (aspect ratio 3:2)"
         },
         {
           "label": "显示屏像素",
@@ -309,105 +353,123 @@
         },
         {
           "label": "显示调节",
-          "value": "Brightness, Saturation and Colors adjustable",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "可调亮度、饱和度和色彩",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Brightness, Saturation and Colors adjustable"
         },
         {
           "label": "户外显示设置",
-          "value": "Adjustable ±2 step",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "±2 级",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Adjustable ±2 step"
         },
         {
           "label": "白平衡检测系统",
-          "value": "Method using a combination of the image sensor and the light source detection sensor",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "结合图像传感器与光源检测传感器",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Method using a combination of the image sensor and the light source detection sensor"
         },
         {
           "label": "白平衡微调",
-          "value": "Adjustable ±7 steps on A-B axis or G-M axis",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "A–B 或 G–M 轴 ±7 级",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Adjustable ±7 steps on A-B axis or G-M axis"
         },
         {
           "label": "相机类型",
-          "value": "TTL: Phase-matching autofocus",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "TTL 相位检测自动对焦",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "TTL: Phase-matching autofocus"
         },
         {
           "label": "测光亮度范围",
-          "value": "EV-3 to 18 (ISO 100 / at normal temperature)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "EV −3 至 18（ISO 100，常温）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "EV-3 to 18 (ISO 100 / at normal temperature)"
         },
         {
           "label": "测光系统",
-          "value": "TTL open aperture metering using 86K pixel RGB sensor, Multi-segment, Center-weighted and Spot metering",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "8.6 万像素 RGB 传感器 TTL 全开光圈测光；多区、中央重点、点测光",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "TTL open aperture metering using 86K pixel RGB sensor, Multi-segment, Center-weighted and Spot metering"
         },
         {
           "label": "曝光补偿",
-          "value": "±5EV (1/2EV steps or 1/3EV steps can be selected)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "±5 EV，可选 1/2 或 1/3 EV 步长",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "±5EV (1/2EV steps or 1/3EV steps can be selected)"
         },
         {
           "label": "自动曝光锁定",
-          "value": "Button type (timer type: two times the meter operating time set in Custom Setting); Continuous as long as the shutter button is halfway pressed",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "按钮式；定时为自定义测光工作时间的两倍；半按快门期间持续锁定",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Button type (timer type: two times the meter operating time set in Custom Setting); Continuous as long as the shutter button is halfway pressed"
         },
         {
           "label": "快门类型",
-          "value": "Electronically controlled vertical-run focal plane shutter * 电子快门 when using Pixel Shift Resolution",
+          "value": "电子控制纵走式焦平面快门；像素偏移高分辨率使用电子快门",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "Electronically controlled vertical-run focal plane shutter * Electronic shutter when using Pixel Shift Resolution"
         },
         {
           "label": "驱动模式",
-          "value": "Still Image: Single Frame, Continuous (H, M, L), Self-timer (12s, 2s, Continuous), Remote Control (0s., 3s., Continuous), Bracketing (2, 3 or 5 frames), Mirror-up (Possible to use with Remote Control), Multi-Exposure (Possible to use with Continuous, Self-timer or Remote Control), Interval Shooting, Interval Composite, Interval Movie Record, Star Stream Movie: Remote Control * Bracketing, Interval Shooting, Interval Composite, Interval Movie Record and Star Stream are possible to use with Self-timer/Remote Control",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "照片：单张、高／中／低速连拍、12 秒／2 秒／连续自拍、即时／3 秒／连续遥控、2／3／5 张包围、反光镜预升（可结合遥控）、多重曝光（可结合连拍／自拍／遥控）、间隔拍摄、间隔合成、间隔视频、星流；视频支持遥控；包围、各间隔及星流模式可结合自拍／遥控",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Still Image: Single Frame, Continuous (H, M, L), Self-timer (12s, 2s, Continuous), Remote Control (0s., 3s., Continuous), Bracketing (2, 3 or 5 frames), Mirror-up (Possible to use with Remote Control), Multi-Exposure (Possible to use with Continuous, Self-timer or Remote Control), Interval Shooting, Interval Composite, Interval Movie Record, Star Stream Movie: Remote Control * Bracketing, Interval Shooting, Interval Composite, Interval Movie Record and Star Stream are possible to use with Self-timer/Remote Control"
         },
         {
           "label": "连拍",
-          "value": "[35mm full-frame] Max. 约 4.4 fps, JPEG ( L: ★★★ at Continuous H): 最高 约 70 frames, RAW: 最高 约 17 frames Max. 约 3.0 fps, JPEG ( L: ★★★ at Continuous M): 最高 约 100 frames, RAW: 最高 约 20 frames Max. 约 0.7 fps, JPEG ( L: ★★★ at Continuous L): 最高 约 100 frames, RAW: 最高 约 100 frames [APS-C size] Max. 约 6.5 fps, JPEG ( L: ★★★ at Continuous H): 最高 约 100 frames, RAW: 最高 约 50 frames Max. 约 3.0 fps, JPEG ( L: ★★★ at Continuous M): 最高 约 100 frames, RAW: 最高 约 70 frames Max. 约 1.0 fps, JPEG ( L: ★★★ at Continuous L): 最高 约 100 frames, RAW: 最高 约 100 frames *ISO100",
+          "value": "ISO 100：全画幅高速约 4.4 张/秒，JPEG L ★★★ 约 70 张／RAW 约 17 张；中速 3.0 张/秒，JPEG 约 100／RAW 约 20 张；低速 0.7 张/秒，JPEG／RAW 均约 100 张。APS-C 高速约 6.5 张/秒，JPEG 约 100／RAW 约 50 张；中速 3.0 张/秒，JPEG 约 100／RAW 约 70 张；低速 1.0 张/秒，JPEG／RAW 均约 100 张；所列张数均为最高约值",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "[35mm full-frame] Max. 约 4.4 fps, JPEG ( L: ★★★ at Continuous H): up to 约 70 frames, RAW: up to 约 17 frames Max. 约 3.0 fps, JPEG ( L: ★★★ at Continuous M): up to 约 100 frames, RAW: up to 约 20 frames Max. 约 0.7 fps, JPEG ( L: ★★★ at Continuous L): up to 约 100 frames, RAW: up to 约 100 frames [APS-C size] Max. 约 6.5 fps, JPEG ( L: ★★★ at Continuous H): up to 约 100 frames, RAW: up to 约 50 frames Max. 约 3.0 fps, JPEG ( L: ★★★ at Continuous M): up to 约 100 frames, RAW: up to 约 70 frames Max. 约 1.0 fps, JPEG ( L: ★★★ at Continuous L): up to 约 100 frames, RAW: up to 约 100 frames *ISO100"
         },
         {
           "label": "间隔拍摄",
-          "value": "[Interval Shooting] Interval: 2s. to 24h./ Standby Interval: Min.･1s. to 24h., Number of shots: 2 to 2000 images, Start Interval: Now/Self-timer/Remote Control/Set Time [Interval Composite] Interval: 2s. to 24h./ Standby Interval: Min.･1s. to 24h., Number of shots: 2 to 2000 images, Start Interval: Now/Self-timer/Remote Control/Set Time, Composite Mode: Additive/Average/Bright, Save Process: On/Off [Interval Movie] Recorded Pixels: 4K/FullHD/HD, File Format: Motion JPEG (AVI), Interval:2s. to 24h./ Standby Interval: Min･1s. to 24h., Number of shots: 8 to 2000 images (8 to 500 images at 4K), Start Interval:Now/Self-timer/Remote Control/Set Time [Star Stream] Recorded Pixels: 4K/FullHD/HD, File Format: Motion JPEG (AVI), Interval: Min･1s. to 24h., Number of shots: 8 to 2000 images (8 to 500 images at 4K), Start Interval: Now/Self-timer/Remote Control/Set Time, Fade-out: Off/Low/Medium/High",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "间隔照片／合成：间隔 2 秒–24 小时，待机间隔最短 1 秒–24 小时，2–2000 张；合成可选叠加／平均／亮化，可开关保存过程图像。间隔视频：4K／全高清／高清，Motion JPEG（AVI），间隔 2 秒–24 小时、待机最短 1 秒–24 小时，8–2000 张（4K 为 8–500 张）。星流：相同视频格式与张数范围，间隔最短 1 秒–24 小时，渐隐关／低／中／高。各模式可立即／自拍／遥控／定时开始",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "[Interval Shooting] Interval: 2s. to 24h./ Standby Interval: Min.･1s. to 24h., Number of shots: 2 to 2000 images, Start Interval: Now/Self-timer/Remote Control/Set Time [Interval Composite] Interval: 2s. to 24h./ Standby Interval: Min.･1s. to 24h., Number of shots: 2 to 2000 images, Start Interval: Now/Self-timer/Remote Control/Set Time, Composite Mode: Additive/Average/Bright, Save Process: On/Off [Interval Movie] Recorded Pixels: 4K/FullHD/HD, File Format: Motion JPEG (AVI), Interval:2s. to 24h./ Standby Interval: Min･1s. to 24h., Number of shots: 8 to 2000 images (8 to 500 images at 4K), Start Interval:Now/Self-timer/Remote Control/Set Time [Star Stream] Recorded Pixels: 4K/FullHD/HD, File Format: Motion JPEG (AVI), Interval: Min･1s. to 24h., Number of shots: 8 to 2000 images (8 to 500 images at 4K), Start Interval: Now/Self-timer/Remote Control/Set Time, Fade-out: Off/Low/Medium/High"
         },
         {
           "label": "自定义影像",
-          "value": "Auto Select, Bright, Natural, Portrait, Landscape, Vibrant, Radiant, Muted, Flat, Bleach Bypass, Reversal Film, Monochrome, Cross Processing",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "自动选择、明亮、自然、人像、风景、鲜艳、光彩、柔和、平面、漂白旁路、反转片、单色、正负逆冲",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Auto Select, Bright, Natural, Portrait, Landscape, Vibrant, Radiant, Muted, Flat, Bleach Bypass, Reversal Film, Monochrome, Cross Processing"
         },
         {
           "label": "交叉处理",
-          "value": "Random, Preset 1-3, Favorite 1-3",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "随机、预设 1–3、收藏 1–3",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Random, Preset 1-3, Favorite 1-3"
         },
         {
           "label": "清晰度",
-          "value": "'Adjustable ±4",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "可调 ±4",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "'Adjustable ±4"
         },
         {
           "label": "肤色",
-          "value": "Type1/Type2",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "类型 1／类型 2",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Type1/Type2"
         },
         {
           "label": "高动态范围 HDR",
-          "value": "Auto, HDR1, HDR2, HDR3, Advanced HDR, Exposure bracket value adjustable, Automatic composition correction function",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "自动、HDR1／2／3、高级 HDR；可调曝光包围值；自动构图校正",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Auto, HDR1, HDR2, HDR3, Advanced HDR, Exposure bracket value adjustable, Automatic composition correction function"
         },
         {
           "label": "动态范围补偿",
-          "value": "Highlight Correction, Shadow Correction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "高光和阴影校正",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Highlight Correction, Shadow Correction"
         },
         {
           "label": "降噪",
-          "value": "Slow Shutter Speed NR, High-ISO NR",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "慢速快门降噪、高 ISO 降噪",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Slow Shutter Speed NR, High-ISO NR"
         },
         {
           "label": "电子罗盘",
@@ -417,24 +479,27 @@
         },
         {
           "label": "天体追踪",
-          "value": "Possible",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "支持",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Possible"
         },
         {
           "label": "水平校正",
-          "value": "SR On: correction 最高 1 degrees, SR Off: correction 最高 2 degrees",
+          "value": "SR 开启时最高校正 1°；关闭时最高 2°",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "SR On: correction up to 1 degrees, SR Off: correction up to 2 degrees"
         },
         {
           "label": "构图调整",
-          "value": "Adjustment range of ±1.5mm up, down, left or right (1mm when rotated); Rotating range of 1 degree",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "上下左右 ±1.5 mm（旋转时 1 mm）；旋转范围 1°",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Adjustment range of ±1.5mm up, down, left or right (1mm when rotated); Rotating range of 1 degree"
         },
         {
           "label": "电子水平仪",
-          "value": "Displayed in viewfinder (Horizontal and vertical); Displayed on LCD monitor (Horizontal and vertical)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "取景器及液晶屏均显示水平和垂直水平仪",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Displayed in viewfinder (Horizontal and vertical); Displayed on LCD monitor (Horizontal and vertical)"
         },
         {
           "label": "文件格式",
@@ -443,45 +508,51 @@
         },
         {
           "label": "录音",
-          "value": "Built-in stereo microphone, external microphone (立体声 recording compatible) Recording Sound Level adjustable, Wind Noise Reduction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "内置立体声麦克风；支持外接立体声麦克风；录音电平可调，支持风噪抑制",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Built-in stereo microphone, external microphone (立体声 recording compatible) Recording Sound Level adjustable, Wind Noise Reduction"
         },
         {
           "label": "记录时长",
-          "value": "最高 25 minutes or 4GB ; automatically stops recording if the internal temperature of the camera becomes high",
+          "value": "最长 25 分钟或 4GB；机内温度过高时自动停止",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "Up to 25 minutes or 4GB ; automatically stops recording if the internal temperature of the camera becomes high"
         },
         {
           "label": "用户模式",
-          "value": "最高 5 settings can be saved",
+          "value": "最多保存 5 组",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "Up to 5 settings can be saved"
         },
         {
           "label": "自定义功能",
-          "value": "26 items",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "26 项",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "26 items"
         },
         {
           "label": "按键自定义",
-          "value": "Fx1 Button, Fx2 Button (One Push File Format, Outdoor View Setting, Flash Mode, Pixel Shift Resolution, Shake Reduction, Horizon Correction, Electronic Level) AF Button (AF1/ AF2/ Cancel AF) Preview Dial (Optical Preview/Digital Preview) Various settings for the action of the e-dials in each exposure mode can also be saved",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "Fx1／Fx2：一键文件格式、户外显示、闪光模式、像素偏移高分辨率、防抖、水平校正、电子水平仪；AF 按钮：AF1／AF2／取消 AF；预览拨杆：光学／数码预览；可保存各曝光模式下电子拨盘操作设置",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Fx1 Button, Fx2 Button (One Push File Format, Outdoor View Setting, Flash Mode, Pixel Shift Resolution, Shake Reduction, Horizon Correction, Electronic Level) AF Button (AF1/ AF2/ Cancel AF) Preview Dial (Optical Preview/Digital Preview) Various settings for the action of the e-dials in each exposure mode can also be saved"
         },
         {
           "label": "操作锁定",
-          "value": "Type1: E-Dial, EV Compensation, ISO, Green Button, AE Lock Type2: 4-way controller, AF point change button, Change AF Point/Card slot switch button, OK Button, Menu Button",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "类型 1：电子拨盘、曝光补偿、ISO、绿色按钮、AE 锁定；类型 2：四向键、AF 点变更键、AF 点／卡槽切换键、OK 键、菜单键",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Type1: E-Dial, EV Compensation, ISO, Green Button, AE Lock Type2: 4-way controller, AF point change button, Change AF Point/Card slot switch button, OK Button, Menu Button"
         },
         {
           "label": "照明设置",
-          "value": "LCD Panel (High/Low/Off), Backside Controls (High/Low/Off), Lens Mount (On/Off), Card Slot/Connector (On/Off)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "液晶面板及机背操作区：高／低／关；镜头卡口及卡槽／接口：开／关",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "LCD Panel (High/Low/Off), Backside Controls (High/Low/Off), Lens Mount (On/Off), Card Slot/Connector (On/Off)"
         },
         {
           "label": "指示灯",
-          "value": "Wi-Fi (High/Low/Off), GPS (High/Low/Off), Self-timer (On/Off), Remote Control (On/Off)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "Wi-Fi／GPS：高／低／关；自拍／遥控：开／关",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Wi-Fi (High/Low/Off), GPS (High/Low/Off), Self-timer (On/Off), Remote Control (On/Off)"
         },
         {
           "label": "卫星系统",
@@ -495,18 +566,21 @@
         },
         {
           "label": "记录定位信息",
-          "value": "Latitude, Longitude, Altitude, Time (UTC), Direction",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "纬度、经度、海拔、UTC 时间、方向",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Latitude, Longitude, Altitude, Time (UTC), Direction"
         },
         {
           "label": "大地坐标系",
-          "value": "World Geodetic System (WGS84)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "世界大地坐标系 WGS84",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "World Geodetic System (WGS84)"
         },
         {
           "label": "电子罗盘",
-          "value": "Azimuth calculation using triaxial geomagnetic sensor and triaxial acceleration sensor, True north standard",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "三轴地磁及三轴加速度传感器计算方位角，以真北为基准",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Azimuth calculation using triaxial geomagnetic sensor and triaxial acceleration sensor, True north standard"
         },
         {
           "label": "无线标准",
@@ -515,13 +589,15 @@
         },
         {
           "label": "中心频率",
-          "value": "2412MHz～2462MHz (1ch～11ch)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "2412–2462MHz，1–11 信道",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "2412MHz～2462MHz (1ch～11ch)"
         },
         {
           "label": "无线安全",
-          "value": "Authentication: WPA2, Encryption: AES",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "WPA2 认证，AES 加密",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Authentication: WPA2, Encryption: AES"
         }
       ]
     },
@@ -531,34 +607,39 @@
       "rows": [
         {
           "label": "存储介质",
-          "value": "SD, SDHC and SDXC Memory Card (Conforms to USH-I standards)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "SD／SDHC／SDXC 存储卡；符合 UHS-I 标准（原文拼作 USH-I）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "SD, SDHC and SDXC Memory Card (Conforms to USH-I standards)"
         },
         {
           "label": "存储文件夹",
-          "value": "Folder Name: Date (100_1018,101_1019...) or User assigned folder name (Default \"PENTX\")",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "日期文件夹（100_1018、101_1019 等）或用户自定；默认 PENTX",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Folder Name: Date (100_1018,101_1019...) or User assigned folder name (Default \"PENTX\")"
         },
         {
           "label": "定位 GPS",
-          "value": "GPS Logging (Logging Interval, Logging Duration, Memory Card Options), GPS Time Sync",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "GPS 轨迹记录（可设间隔、时长、存储卡）；GPS 时间同步",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "GPS Logging (Logging Interval, Logging Duration, Memory Card Options), GPS Time Sync"
         },
         {
           "label": "模式记忆",
-          "value": "16 items",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "16 项",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "16 items"
         },
         {
           "label": "GPS轨迹记录",
-          "value": "KML format, Logging Interval: 5/10/15/30sec. /1min., Logging Duration: 1-24hr. (最高 9hours at Logging Interval 5sec. 最高 18hrs. at Logging Interval 10sec.)",
+          "value": "KML 格式；间隔 5／10／15／30 秒或 1 分钟；时长 1–24 小时；5 秒间隔最长 9 小时，10 秒间隔最长 18 小时",
           "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
           "originalValue": "KML format, Logging Interval: 5/10/15/30sec. /1min., Logging Duration: 1-24hr. (Up to 9hours at Logging Interval 5sec. Up to 18hrs. at Logging Interval 10sec.)"
         },
         {
           "label": "连接端口",
-          "value": "USB2.0 (micro B), External power supply terminal, External cable switch terminal, X-sync socket, HDMI output terminal (Type D) , 立体声 microphone input terminal, Headphone terminal",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "USB 2.0 Micro-B、外接电源、快门线、X 闪光同步、Micro HDMI Type-D、立体声麦克风输入、耳机接口",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "USB2.0 (micro B), External power supply terminal, External cable switch terminal, X-sync socket, HDMI output terminal (Type D) , 立体声 microphone input terminal, Headphone terminal"
         },
         {
           "label": "USB连接方式",
@@ -573,33 +654,39 @@
       "rows": [
         {
           "label": "电池类型",
-          "value": "Rechargeable Lithium-ion Battery D-LI90P",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "D-LI90P 可充锂离子电池",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Rechargeable Lithium-ion Battery D-LI90P"
         },
         {
           "label": "电池续航",
-          "value": "Number of recordable images: 约: 760 images Playback time: 约 390 minutes * With a fully-recharged Rechargeable Lithium-ion Battery. Tested in compliance with CIPA standard. Actual results may vary depending on the shooting condition",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "约 760 张，回放约 390 分钟；满电可充锂离子电池，CIPA 标准测试；实际结果随拍摄条件变化",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "Number of recordable images: 约: 760 images Playback time: 约 390 minutes * With a fully-recharged Rechargeable Lithium-ion Battery. Tested in compliance with CIPA standard. Actual results may vary depending on the shooting condition"
         },
         {
           "label": "机身尺寸",
-          "value": "约 136.5mm (W) x110mm (H) x 85.5mm (D) (excluding protrusions)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "约 136.5×110×85.5 mm（宽×高×深），不含突出部分",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 136.5mm (W) x110mm (H) x 85.5mm (D) (excluding protrusions)"
         },
         {
           "label": "重量",
-          "value": "约 1010g (Including dedicated battery and an SD Memory Card),约 925g (仅机身)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "含专用电池和 SD 卡约 1010g；仅机身约 925g",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "约 1010g (Including dedicated battery and an SD Memory Card),约 925g (仅机身)"
         },
         {
           "label": "工作温度",
-          "value": "'-10°C～40°C (14°F～104°F)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "−10 至 40°C（14–104°F）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "'-10°C～40°C (14°F～104°F)"
         },
         {
           "label": "工作湿度",
-          "value": "85% or less (no condensation)",
-          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/"
+          "value": "85% 以下 （无凝露）",
+          "sourceUrl": "https://www.ricoh-imaging.co.jp/english/products/k-1/spec/",
+          "originalValue": "85% or less (no condensation)"
         }
       ]
     }

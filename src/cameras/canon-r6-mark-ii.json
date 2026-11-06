@@ -20,7 +20,7 @@
       "rows": [
         {
           "label": "类型",
-          "value": "35.9 x 23.9 mm CMOS",
+          "value": "35.9×23.9mm CMOS传感器",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
@@ -45,8 +45,9 @@
         },
         {
           "label": "除尘系统",
-          "value": "EOS integrated cleaning system",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "EOS综合除尘系统",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "EOS integrated cleaning system"
         },
         {
           "label": "彩色滤镜",
@@ -55,9 +56,10 @@
         },
         {
           "label": "机身防抖",
-          "value": "支持, 最高 8-Stops advantage depending on the lens used",
+          "value": "支持；使用兼容镜头时最高8档",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "* 8-stops based on the CIPA standard 使用 RF 24-105mm F4 L IS USM at a focal length of 105mm"
+          "condition": "最高8档；CIPA标准，使用RF 24-105mm F4 L IS USM，焦距105mm。",
+          "originalValue": "支持, 最高 8-Stops advantage depending on the lens used"
         }
       ]
     },
@@ -78,12 +80,13 @@
       "rows": [
         {
           "label": "镜头卡口",
-          "value": "RF (EF and EF-S lenses can be attached using: Mount Adapter EF-EOS R, Control Ring Mount Adapter EF-EOS R, Drop-In Filter Mount Adapter EF-EOS R) EF-M lenses are not compatible",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "RF卡口；EF／EF-S镜头可通过EF-EOS R普通、控制环或插入式滤镜卡口适配器转接；不兼容EF-M镜头",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "RF (EF and EF-S lenses can be attached using: Mount Adapter EF-EOS R, Control Ring Mount Adapter EF-EOS R, Drop-In Filter Mount Adapter EF-EOS R) EF-M lenses are not compatible"
         },
         {
           "label": "焦距换算",
-          "value": "Equivalent to 1.0x the focal length of the lens 使用 RF and EF lenses 1.6x 使用 RF-S and EF-S",
+          "value": "RF/EF镜头为1.0倍视角；EF-S/RF-S镜头为1.6倍裁切视角",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         }
       ]
@@ -94,14 +97,15 @@
       "rows": [
         {
           "label": "类型",
-          "value": "Dual Pixel CMOS AF II",
+          "value": "第二代全像素双核CMOS自动对焦",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "自动对焦系统与点数",
-          "value": "100% horizontal and 100% vertical 使用 Face + Tracking and 自动 Selection modes 100% horizontal and 90% vertical 使用 manual selection and large zone modes",
+          "value": "自动选择/面部追踪：水平/垂直各100％；手动选择/大区域：水平100％、垂直90％",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "The AF area available vary depending on the lens used"
+          "condition": "可用AF范围随镜头而变。",
+          "originalValue": "100% horizontal and 100% vertical 使用 Face + Tracking and 自动 Selection modes 100% horizontal and 90% vertical 使用 manual selection and large zone modes"
         },
         {
           "label": "对焦工作范围",
@@ -111,33 +115,38 @@
         },
         {
           "label": "对焦模式",
-          "value": "单次自动对焦, 伺服自动对焦, AI Focus AF",
+          "value": "单次AF、伺服AF、人工智能自动对焦",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "对焦点选择",
-          "value": "Automatic selection: 1053 Available AF areas when automatically selected, / 手动 selection: 1-point AF (AF frame size can be changed) 4897AF positions available stills ( 4067 Movies) / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 999 maximum focusing zones)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "自动选择： 1053 个可自动选择的AF区域,；手动选择： 单点AF (AF框尺寸可更改) 4897个照片AF位置 ( 4067 视频)；手动选择： AF点扩展（上、下、左、右4点）；手动选择： AF点扩展（周围）；手动选择： 灵活区域AF 1-3 (所有AF点可划分为9～999个对焦区域)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Automatic selection: 1053 Available AF areas when automatically selected, / 手动 selection: 1-point AF (AF frame size can be changed) 4897AF positions available stills ( 4067 Movies) / 手动 selection: AF point Expansion 4 points (up, down, left, right) / 手动 selection: AF point Expansion surrounding / 手动 selection: Flexible Zone AF 1-3 (all AF points divided into minimum 9 to 999 maximum focusing zones)"
         },
         {
           "label": "追踪对焦",
-          "value": "Humans, Animals (Dogs, Cats, Birds and horses) or Vehicles (Racing cars or Motor bikes, Aircraft and Trains)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "人物（眼睛、面部、头部、身体）；动物（狗、猫、鸟、马）；车辆（赛车、摩托车、飞机、火车）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Humans, Animals (Dogs, Cats, Birds and horses) or Vehicles (Racing cars or Motor bikes, Aircraft and Trains)"
         },
         {
           "label": "对焦锁定",
-          "value": "Locked when shutter button is pressed halfway or AF ON is pressed in 单次自动对焦 AF mode. Using customised button set to AF stop in AI servo",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "单次AF模式下，半按快门或按AF-ON锁定对焦；伺服AF模式下可通过设为AF停止的自定义按钮操作",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Locked when shutter button is pressed halfway or AF ON is pressed in 单次自动对焦 AF mode. Using customised button set to AF stop in AI servo"
         },
         {
           "label": "对焦辅助灯",
-          "value": "Emitted by built in LED or optional dedicated Speedlite (flash)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "由内置LED或另售专用Speedlite闪光灯发出",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Emitted by built in LED or optional dedicated Speedlite (flash)"
         },
         {
           "label": "手动对焦",
-          "value": "Selected on lens",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "在镜头上选择",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Selected on lens"
         }
       ]
     },
@@ -147,40 +156,44 @@
       "rows": [
         {
           "label": "测光模式",
-          "value": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (约 5.9% of viewfinder at centre) / (3) Spot metering: Centre spot metering (约 3% viewfinder at centre)- AF point-linked spot metering not provided / (4) Centre weighted average metering",
+          "value": "图像传感器实时384区测光；评价测光联动所有AF点；局部测光约占中央5.9％；点测光约占中央3％，不联动AF点；中央重点平均测光",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
           "originalValue": "Real-time 使用图像传感器, 384-zone metering. / (1) Evaluative metering (linked to All AF points) / (2) Partial metering (approx. 5.9% of viewfinder at centre) / (3) Spot metering: Centre spot metering (approx. 3% viewfinder at centre)- AF point-linked spot metering not provided / (4) Centre weighted average metering"
         },
         {
           "label": "测光范围",
-          "value": "EV -3 – 20 (23°C时, ISO100, 使用 evaluative metering)",
+          "value": "−3～20EV（23℃、ISO 100、评价测光）",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "自动曝光锁定",
-          "value": "自动: AE lock takes effect when focus is achieved / 手动: By AE lock button in P, Av, Fv, Tv and M modes",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "自动：合焦时锁定曝光；手动：在P、Av、Fv、Tv和M模式下通过AE锁定按钮操作",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "自动: AE lock takes effect when focus is achieved / 手动: By AE lock button in P, Av, Fv, Tv and M modes"
         },
         {
           "label": "曝光补偿",
-          "value": "+/-3 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "+/-3 EV 以1/3或1/2档步进 (可结合自动曝光包围使用)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "+/-3 EV in 1/3 or 1/2 stop increments (can be combined 使用 AEB)"
         },
         {
           "label": "自动包围曝光",
-          "value": "+/-3 EV in 1/3 or 1/2 stop increments",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "+/-3 EV 以1/3或1/2档步进",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "+/-3 EV in 1/3 or 1/2 stop increments"
         },
         {
           "label": "防闪烁拍摄",
-          "value": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz. Maximum continuous shooting speed may decrease available 使用 both electronic and 机械快门 / High Frequency anti flicker shooting for M and TV modes",
+          "value": "支持. 可检测100Hz或120Hz闪烁。 机械与电子快门均支持；最高连拍速度可能降低；M及Tv模式支持高频防闪烁拍摄",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
           "originalValue": "支持. Flicker detected at a frequency of 100 Hz or 120 Hz. Maximum continuous shooting speed may decrease available 使用 both electronic and mechanical shutter / High Frequency anti flicker shooting for M and TV modes"
         },
         {
           "label": "感光度",
-          "value": "自动 100-102400 (in 1/3-stop or 1 stop increments) ISO can be expanded to L:50, H:204,801",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "自动 100-102400 （1/3或1档步长） ISO可扩展至 L:50, H:204,801",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "自动 100-102400 (in 1/3-stop or 1 stop increments) ISO can be expanded to L:50, H:204,801"
         }
       ]
     },
@@ -190,19 +203,21 @@
       "rows": [
         {
           "label": "类型",
-          "value": "电子控制 焦平面快门 and 电子快门 function on sensor",
+          "value": "电子控制焦平面快门；传感器电子快门",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "快门速度",
-          "value": "Mechanical: 30-1/8000 sec (1/2 or 1/3 stop increments), Bulb / Electronic: 30-1/16000 (1/2 or 1/3 stop increments 最高 1/8000 then 1 stop to 1/16000) (Total shutter speed range. Available range varies by shooting mode)",
+          "value": "机械：30秒～1/8000秒，B门；电子：30秒～1/16000秒。支持1/2或1/3档步长；电子快门快于1/8000秒后为1档步长；可用范围依拍摄模式",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "电子快门 speed 1/16000th not available in H+ mode"
+          "condition": "H+连拍模式不可使用电子快门1/16000秒。",
+          "originalValue": "Mechanical: 30-1/8000 sec (1/2 or 1/3 stop increments), Bulb / Electronic: 30-1/16000 (1/2 or 1/3 stop increments 最高 1/8000 then 1 stop to 1/16000) (Total shutter speed range. Available range varies by shooting mode)"
         },
         {
           "label": "快门释放",
-          "value": "Soft touch electromagnetic release",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "轻触式电磁释放",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Soft touch electromagnetic release"
         }
       ]
     },
@@ -212,23 +227,26 @@
       "rows": [
         {
           "label": "类型",
-          "value": "自动白平衡 使用 the imaging sensor",
+          "value": "图像传感器自动白平衡",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "设置",
-          "value": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置 / White balance compensation: / 1. Blue/Amber +/-10 / 2. Magenta/Green +/-11",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, 闪光, 自定义, 色温设置；白平衡补偿:；1. 蓝色／琥珀色 +/-10；2. 洋红／绿色 +/-11",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "自动白平衡（氛围优先／白色优先）, 日光, 阴影, 阴天, 钨丝灯, 白色荧光灯, Flash, 自定义, 色温设置 / White balance compensation: / 1. Blue/Amber +/-10 / 2. Magenta/Green +/-11"
         },
         {
           "label": "自定义白平衡",
-          "value": "支持, 1 setting can be registered - From image or Live View",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "支持保存一组设置，可从照片或实时取景取样",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "支持, 1 setting can be registered - From image or Live View"
         },
         {
           "label": "白平衡包围",
-          "value": "+/-3 levels in single level increments 3, 2, 5 or 7 bracketed 张图像 per shutter release / Selectable Blue/Amber bias or Magenta/Green bias",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "±3级，1级步长；每次快门可记录2、3、5或7张；可选蓝/琥珀或洋红/绿色偏移",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "+/-3 levels in single level increments 3, 2, 5 or 7 bracketed 张图像 per shutter release / Selectable Blue/Amber bias or Magenta/Green bias"
         }
       ]
     },
@@ -238,12 +256,13 @@
       "rows": [
         {
           "label": "类型",
-          "value": "0.5-inch OLED colour EVF",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "0.5英寸OLED彩色电子取景器",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "0.5-inch OLED colour EVF"
         },
         {
           "label": "显示点数",
-          "value": "3.69 Million dots",
+          "value": "369万点",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
@@ -255,33 +274,38 @@
           "label": "放大倍率",
           "value": "约 0.76x",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "使用 50mm lens at 无限远, -1m-1 dpt"
+          "condition": "使用50mm镜头、对焦无限远，屈光度−1m⁻¹。"
         },
         {
           "label": "眼点",
-          "value": "约 23mm (from eyepiece lens centre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "约 23mm (从目镜透镜中心起)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "约 23mm (from eyepiece lens centre)"
         },
         {
           "label": "屈光度调节",
-          "value": "-4 to +2 m-1 (dioptre)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "-4 to +2 m-1 (屈光度)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "-4 to +2 m-1 (dioptre)"
         },
         {
           "label": "显示性能",
-          "value": "Power saving: 59.94 fps Smooth 119.98 fps , supress low frame rate 60 -119.8fps",
+          "value": "节电模式59.94fps；流畅模式119.98fps；抑制低帧率时60–119.8fps",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "Low light AF performance will be reduced when supress low frames is used"
+          "condition": "启用抑制低帧率显示时，低光照AF性能会下降。",
+          "originalValue": "Power saving: 59.94 fps Smooth 119.98 fps , supress low frame rate 60 -119.8fps"
         },
         {
           "label": "取景信息",
-          "value": "Shutter speed, Aperture, ISO speed, AF point information, Exposure level indicator, Number of remaining exposures, Exposure compensation, Battery level, 电子快门, HDR shooting, Highlight tone priority, Multiple-exposure shooting, Self-timer shooting mode, Maximum burst, AF method, Subject to Track setting, Exposure simulation, Drive mode, AEB, Metering mode, FEB, Anti-flicker shooting, Still/video cropping, Shooting mode, Aspect ratio, Scene icons 自动 Lighting Optimizer, AE lock Picture Style, Flash-ready, White balance, FE lock, Image Quality, High-speed sync, Bluetooth function, Wi-Fi on/off, Histogram, Electronic level, Focus distance scale in manual focus, SA control ring setting, IS system. / Audio Level – 手动 (video), recording time remaining (video), headphone level (video), Video recording resolution frame rate and compression (video) Rec indicator (video), Overheat indicator ( Video)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "显示曝光参数、拍摄模式、AF区域与对焦状态；剩余张数、电量、存储状态；白平衡、图像画质、闪光状态；直方图、电子水平仪及构图辅助；视频录制状态、时长与音频信息。完整图标与显示条件见官方规格。",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Shutter speed, Aperture, ISO speed, AF point information, Exposure level indicator, Number of remaining exposures, Exposure compensation, Battery level, 电子快门, HDR shooting, Highlight tone priority, Multiple-exposure shooting, Self-timer shooting mode, Maximum burst, AF method, Subject to Track setting, Exposure simulation, Drive mode, AEB, Metering mode, FEB, Anti-flicker shooting, Still/video cropping, Shooting mode, Aspect ratio, Scene icons 自动 Lighting Optimizer, AE lock Picture Style, Flash-ready, White balance, FE lock, Image Quality, High-speed sync, Bluetooth function, Wi-Fi on/off, Histogram, Electronic level, Focus distance scale in manual focus, SA control ring setting, IS system. / Audio Level – 手动 (video), recording time remaining (video), headphone level (video), Video recording resolution frame rate and compression (video) Rec indicator (video), Overheat indicator ( Video)"
         },
         {
           "label": "景深预览",
-          "value": "支持, via customised button or 使用 \"Exposure +DOP\" ( 最高 F8)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "支持自定义按钮，或曝光与景深联合预览（最大f/8）",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "支持, via customised button or 使用 \"Exposure +DOP\" ( 最高 F8)"
         }
       ]
     },
@@ -291,7 +315,7 @@
       "rows": [
         {
           "label": "类型",
-          "value": "7.5cm (3.0\") Clear View LCD II, 约 1.62 百万点",
+          "value": "7.5cm（3.0英寸）TFT彩色液晶屏，约162万点",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
           "originalValue": "7.5cm (3.0\") Clear View LCD II, approx. 1.62 million dots"
         },
@@ -302,28 +326,33 @@
         },
         {
           "label": "可视角度",
-          "value": "约 170° vertically and horizontally",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "约 170° 水平和垂直",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "约 170° vertically and horizontally"
         },
         {
           "label": "表面涂层",
-          "value": "Anti-smudge.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "防污涂层",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Anti-smudge."
         },
         {
           "label": "亮度调节",
-          "value": "手动: Adjustable to one of seven levels Colour Tone Adjustment: 4 settings",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "亮度手动7级；色调4档",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "手动: Adjustable to one of seven levels Colour Tone Adjustment: 4 settings"
         },
         {
           "label": "触控操作",
-          "value": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting.",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "电容式触控；支持菜单、速控、回放与放大操作，照片和视频可触控选择AF点，照片模式支持触摸快门",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Capacitive method 使用 menu functions, Quick Control settings, playback operations, and magnified display. AF point selection in still and Movies, touch shutter is possible in still photo shooting."
         },
         {
           "label": "显示选项",
-          "value": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "(1) 基本相机设置；(2) 高级相机设置；(3) 相机设置、直方图及双轴电子水平仪；(4) 无信息；(5) 速控屏幕",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "(1) Basic Camera settings / (2) Advance Camera settings / (3) Camera settings plus histogram and dual level display / (4) 不支持 info / (5) Quick Control Screen"
         }
       ]
     },
@@ -333,24 +362,27 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "E-TTL II 自动 Flash, Metered 手动",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "E-TTL II自动闪光；测光手动闪光",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "E-TTL II 自动 Flash, Metered 手动"
         },
         {
           "label": "闪光同步速度",
-          "value": "1/200sec 机械快门 / 1/250th electronic 1st curtain",
+          "value": "机械1/200秒；电子前帘1/250秒",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
           "originalValue": "1/200sec mechanical shutter / 1/250th electronic 1st curtain"
         },
         {
           "label": "闪光曝光补偿",
-          "value": "+/- 3EV in 1/3 or 1/2 stop increments 使用 EX series Speedlite flashes",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "+/- 3EV 以1/3或1/2档步进 使用 EX系列Speedlite闪光灯",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "+/- 3EV in 1/3 or 1/2 stop increments 使用 EX series Speedlite flashes"
         },
         {
           "label": "闪光包围曝光",
-          "value": "支持, 使用 compatible External Flash",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "支持, 使用 兼容的外接闪光灯",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "支持, 使用 compatible External Flash"
         },
         {
           "label": "闪光曝光锁定",
@@ -359,7 +391,7 @@
         },
         {
           "label": "后帘同步",
-          "value": "支持 via Speedlite",
+          "value": "支持，通过Speedlite",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
@@ -369,13 +401,15 @@
         },
         {
           "label": "外接闪光灯兼容",
-          "value": "E-TTL II 使用 EX / EL series Speedlite, wireless multi-flash support",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "E-TTL II，兼容EX／EL系列Speedlite，支持无线多灯闪光",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "E-TTL II 使用 EX / EL series Speedlite, wireless multi-flash support"
         },
         {
           "label": "外接闪光灯控制",
-          "value": "via camera menu screen",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "通过相机菜单设置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "via camera menu screen"
         }
       ]
     },
@@ -385,8 +419,9 @@
       "rows": [
         {
           "label": "工作模式",
-          "value": "Stills; Scene Intelligent 自动, Flexible priority AE, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (x3) / Movie: 自动 Exposure, TV, AV 手动 and 自定义 (x3)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "照片：场景智能自动、Fv灵活优先、P程序、Tv快门优先、Av光圈优先、M手动、B门、自定义3组；视频：P/Tv/Av/M及自定义3组",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Stills; Scene Intelligent 自动, Flexible priority AE, Program AE, Shutter priority AE, Aperture priority AE, 手动, Bulb and 自定义 (x3) / Movie: 自动 Exposure, TV, AV 手动 and 自定义 (x3)"
         },
         {
           "label": "照片风格",
@@ -395,30 +430,34 @@
         },
         {
           "label": "色彩空间",
-          "value": "sRGB and Adobe RGB",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "sRGB及Adobe RGB",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "sRGB and Adobe RGB"
         },
         {
           "label": "图像处理",
-          "value": "Highlight Tone Priority (2 settings) / 自动 Lighting Optimizer (3 settings) / Long exposure noise reduction / Clarity / High ISO speed noise reduction (4 settings) (stills and video) / Lens optical correction / - Peripheral illumination correction, Chromatic aberration correction Distortion correction (during/after still photo shooting, during video only) / Diffraction correction, / Digital Lens Optimizer (during/after still photo shooting only) / Focus Bracketing including image compositing / Resize to M, S1, S2 / Cropping of 张图像 (JPEG/HEIF) / - Aspect ratios 3:2, 4:3, 16:9, 1:1 x1.6crop / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using 触摸屏 operation / RAW image processing / Dual Pixel RAW – 人像 Relighting, Background Clarity ( in camera) / Raw Cloud processing / Multiple exposure / HDR - 使用 moving subject supression / HEIF to Jpeg conversion (single or batch)",
+          "value": "支持高光色调优先、自动亮度优化、长曝光降噪、高ISO降噪、清晰度调整、镜头光学补偿、衍射校正、数码镜头优化、对焦包围与合成、缩小尺寸、裁切、机内RAW处理、双像素RAW处理、云端RAW处理、多重曝光、HDR、HEIF转JPEG；各功能适用格式、拍摄阶段与详细设置见官方规格。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
           "originalValue": "Highlight Tone Priority (2 settings) / 自动 Lighting Optimizer (3 settings) / Long exposure noise reduction / Clarity / High ISO speed noise reduction (4 settings) (stills and video) / Lens optical correction / - Peripheral illumination correction, Chromatic aberration correction Distortion correction (during/after still photo shooting, during video only) / Diffraction correction, / Digital Lens Optimizer (during/after still photo shooting only) / Focus Bracketing including image compositing / Resize to M, S1, S2 / Cropping of 张图像 (JPEG/HEIF) / - Aspect ratios 3:2, 4:3, 16:9, 1:1 x1.6crop / - Switch between vertical and horizontal cropping orientation / - Image straightening / - Cropping frame can be moved using touch screen operation / RAW image processing / Dual Pixel RAW – 人像 Relighting, Background Clarity ( in camera) / Raw Cloud processing / Multiple exposure / HDR - 使用 moving subject supression / HEIF to Jpeg conversion (single or batch)"
         },
         {
           "label": "驱动模式",
-          "value": "Single, Continuous High+, Continuous High, Continuous Low, Self timer (2s+remote, 10s+remote)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "单张、高速连拍+、高速连拍、低速连拍；2秒/10秒自拍及遥控",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Single, Continuous High+, Continuous High, Continuous Low, Self timer (2s+remote, 10s+remote)"
         },
         {
           "label": "连续拍摄",
-          "value": "最高 约 12fps. 使用 机械快门, speed maintained for 1000+ JPEG or 110 RAW 1000 CRAW 张图像.最高 约 40fps. 使用 电子快门 , speed maintained for 190 JPEG or 75 RAW, 140 CRAW 张图像 / RAW Burst 30fps 使用 0.3 or 0.5 seconds pre record for max approx 191 frames",
+          "value": "机械快门最高约12张/秒，可连拍1000张以上JPEG、110张RAW或1000张C-RAW；电子快门最高约40张/秒，可连拍190张JPEG、75张RAW或140张C-RAW。RAW连拍为30张/秒，预录0.3或0.5秒，最多约191张。",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "Max Frames per second will vary depending on the battery type, and charge, if Wi-Fi is turned on, operating temperature lens used and file size. The number of possible 张 and maximum burst vary depending on shooting conditions, aspect ratio, subject, memory card brand, ISO speed, Picture Style, and 自定义 Function). The speeds quoted are based on Canon testing 使用 the following settings: Shutter speed 1/1000 sec. or faster, Aperture Maximum aperture, Flash Not used, Flicker reduction Not used, Battery pack Fully charged LP-6NH, Temperature Room temperature (23°C / 73°F). Battery grip Not used, Wi-Fi settings OFF / The continuous shooting speed may be reduced by the lens, shutter speed, aperture, flash, flicker reduction processing, subject conditions, and brightness (for example, when shooting in a dark place). When High speed continuous shooting (H+) is set, continuous shooting speed will not decline."
+          "condition": "测试设置：快门1/1000秒或更快、最大光圈、不闪光、关闭防闪烁、满电LP-E6NH、23℃、无手柄、关闭Wi-Fi。速度受电池型号/电量、温度、镜头、文件大小及设置影响；连拍数量还受画幅比例、主体、卡品牌、ISO、照片风格及自定义功能影响。镜头、快门、光圈、闪光、防闪烁处理、主体与亮度可能降速；官方注明H+模式下连拍速度不下降。",
+          "originalValue": "最高 约 12fps. 使用 机械快门, speed maintained for 1000+ JPEG or 110 RAW 1000 CRAW 张图像.最高 约 40fps. 使用 电子快门 , speed maintained for 190 JPEG or 75 RAW, 140 CRAW 张图像 / RAW Burst 30fps 使用 0.3 or 0.5 seconds pre record for max approx 191 frames"
         },
         {
           "label": "间隔定时器",
-          "value": "Built in",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "内置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Built in"
         }
       ]
     },
@@ -428,32 +467,37 @@
       "rows": [
         {
           "label": "静态图像格式",
-          "value": "JPEG: 2 compression options / RAW: RAW, C-RAW 14 bit (14-bit 使用 机械快门 and Electronic 1st Curtain, 12-bit A/D conversion 使用 电子快门, Canon original RAW 3rd edition) / HEIF: 10bit HEIF is available in HDR shooting 使用 [HDR PQ] set to [Enable] / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.2",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "JPEG: 2 种压缩选项；RAW: RAW, C-RAW 14位 (机械快门和电子前帘为14位, 12位 模数转换 使用 电子快门, 佳能第三版原始RAW格式)；HEIF: 10位 HEIF可用于HDR拍摄，需 将HDR PQ设为开启；兼容Exif 2.31及DCF 2.0；兼容DPOF 1.2",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "JPEG: 2 compression options / RAW: RAW, C-RAW 14 bit (14-bit 使用 机械快门 and Electronic 1st Curtain, 12-bit A/D conversion 使用 电子快门, Canon original RAW 3rd edition) / HEIF: 10bit HEIF is available in HDR shooting 使用 [HDR PQ] set to [Enable] / Complies 使用 Exif 2.31 and Design rule for Camera File system 2.0 / Complies 使用 Digital Print Order Format [DPOF] Version 1.2"
         },
         {
           "label": "RAW与JPEG同时记录",
-          "value": "支持, any combination of RAW + JPEG or RAW + HEIF possible",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "支持RAW＋JPEG或RAW＋HEIF的任意组合",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "支持, any combination of RAW + JPEG or RAW + HEIF possible"
         },
         {
           "label": "图像尺寸",
-          "value": "3:2 ratio (L, RAW, C-RAW) 6000 x 4000, (M) 3984 x 2656, (S1) 2976x 11984, (S2) 2400 x 1600 / 1.6x (crop) (L) 3744 x 2496, (S2) 2400 x 1600 / 4:3 ratio (L) 5328 x 4000, (M) 3552 x2664 (S1) 2656 x 1992 (S2) 2112 x 1600 / 16:9 ratio (L) 6000 x 3368, (M) 3984 x 2240, (S1) 2976 x 1680, (S2) 2400 x 1344 / 1:1 ratio (L) 4000 x 400, (M) 2656x 2656, (S1) 1984 x 1984, (S2) 1600 x 1600",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "3:2画幅比例 (L, RAW, C-RAW) 6000 x 4000, (M) 3984 x 2656, (S1) 2976x 11984, (S2) 2400 x 1600；1.6倍裁切 (L) 3744 x 2496, (S2) 2400 x 1600；4:3画幅比例 (L) 5328 x 4000, (M) 3552 x2664 (S1) 2656 x 1992 (S2) 2112 x 1600；16:9画幅比例 (L) 6000 x 3368, (M) 3984 x 2240, (S1) 2976 x 1680, (S2) 2400 x 1344；1:1画幅比例 (L) 4000 x 400, (M) 2656x 2656, (S1) 1984 x 1984, (S2) 1600 x 1600",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "3:2 ratio (L, RAW, C-RAW) 6000 x 4000, (M) 3984 x 2656, (S1) 2976x 11984, (S2) 2400 x 1600 / 1.6x (crop) (L) 3744 x 2496, (S2) 2400 x 1600 / 4:3 ratio (L) 5328 x 4000, (M) 3552 x2664 (S1) 2656 x 1992 (S2) 2112 x 1600 / 16:9 ratio (L) 6000 x 3368, (M) 3984 x 2240, (S1) 2976 x 1680, (S2) 2400 x 1344 / 1:1 ratio (L) 4000 x 400, (M) 2656x 2656, (S1) 1984 x 1984, (S2) 1600 x 1600"
         },
         {
           "label": "文件夹",
-          "value": "New folders can be manually created, named and selected",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "可手动创建、命名和选择文件夹",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "New folders can be manually created, named and selected"
         },
         {
           "label": "文件编号",
-          "value": "File Numbering / (1) Consecutive numbering / (2) 自动 reset / (3) 手动 reset",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "(1) 连续编号；(2) 自动 重置；(3) 手动 重置",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "File Numbering / (1) Consecutive numbering / (2) 自动 reset / (3) 手动 reset"
         },
         {
           "label": "文件命名",
-          "value": "3 User presets",
+          "value": "支持2组用户预设",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         }
       ]
@@ -464,20 +508,23 @@
       "rows": [
         {
           "label": "视频格式",
-          "value": "MP4 Video: 4K UHD, 全高清 (16:9) Audio: Linear PCM / AAC",
+          "value": "MP4 视频： 4K UHD, 全高清 (16:9) 音频： 线性PCM；AAC",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "4K UHD and 全高清 is 100%, 4K movie cropping mode is 62% of the horizonal area"
+          "condition": "4K UHD及全高清水平范围100％，4K裁切62％。",
+          "originalValue": "MP4 Video: 4K UHD, 全高清 (16:9) Audio: Linear PCM / AAC"
         },
         {
           "label": "视频尺寸与帧率",
-          "value": "4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 4K UHD Timelapse (16:9) 3840 x 2160 (29.97, 25fps) intra frame (All-I) / 全高清 (16:9) 1920 x 1080 (179.82, 150, 119.88, 100, 59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 全高清 Timelapse (16:9) 1920 x 1080 (29.97, 25fps) intra frame (All-I), 全高清 HDR (16:9) 1920 x 1080 (29.97, 25fps) intra frame (All-I)",
+          "value": "4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98fps) 帧间压缩 (IPB)；(IPB 轻量)；4K UHD 延时摄影 (16:9) 3840 x 2160 (29.97, 25fps) 帧内压缩 (All-I)；全高清 (16:9) 1920 x 1080 (179.82, 150, 119.88, 100, 59.94, 50, 29.97, 25, 23.98fps) 帧间压缩 (IPB)；(IPB 轻量)；全高清 延时摄影 (16:9) 1920 x 1080 (29.97, 25fps) 帧内压缩 (All-I), 全高清 HDR (16:9) 1920 x 1080 (29.97, 25fps) 帧内压缩 (All-I)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "In High frame Rate Movie mode sound is not recorded / In High frame Rate Movie mode sound is not recorded / In High frame Rate Movie mode sound is not recorded"
+          "condition": "高帧率视频模式不录音。",
+          "originalValue": "4K UHD (16:9) 3840 x 2160 (59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 4K UHD Timelapse (16:9) 3840 x 2160 (29.97, 25fps) intra frame (All-I) / 全高清 (16:9) 1920 x 1080 (179.82, 150, 119.88, 100, 59.94, 50, 29.97, 25, 23.98fps) inter frame (IPB) / (IPB Light) / 全高清 Timelapse (16:9) 1920 x 1080 (29.97, 25fps) intra frame (All-I), 全高清 HDR (16:9) 1920 x 1080 (29.97, 25fps) intra frame (All-I)"
         },
         {
           "label": "内部记录色彩采样",
-          "value": "4K/ 全高清 - YCbCr4:2:0 8-bit or YCbCr4:2:2 10bit",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "4K/ 全高清 - YCbCr4:2:0 8位或YCbCr4:2:2 10位",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "4K/ 全高清 - YCbCr4:2:0 8-bit or YCbCr4:2:2 10bit"
         },
         {
           "label": "Canon Log",
@@ -486,52 +533,59 @@
         },
         {
           "label": "单段视频长度",
-          "value": "Max duration 6 hours (excluding High Frame Rate movies, and power and storage limitations ). / Upto 5 seconds pre record possible. / 不支持 4GB file limit 使用 exFAT formatted SD card.",
+          "value": "最长6小时，受供电与存储容量限制，高帧率视频除外；支持最多5秒预录。exFAT格式SD卡无4GB文件大小限制",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "If the cameras internal temperature becomes too high the maximum recording time will be reduced"
+          "condition": "机内温度过高时，最长录制时间会缩短。",
+          "originalValue": "Max duration 6 hours (excluding High Frame Rate movies, and power and storage limitations ). / Upto 5 seconds pre record possible. / 不支持 4GB file limit 使用 exFAT formatted SD card."
         },
         {
           "label": "高帧率视频",
-          "value": "全高清 at 180fps, 150fps, 100fps or 119.9fps / Recorded as 1/6-speed slow motion movie / Single scene maximum recording 最高 approx 1 hour 180/150fps 1hour 30mins 120/100fps",
+          "value": "全高清180/150/119.9/100fps，记录为1/6倍速慢动作视频；180/150fps单段最长约1小时，120/100fps最长约1小时30分钟",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "In High frame Rate Movie mode sound is not recorded"
+          "condition": "高帧率视频模式不录音。",
+          "originalValue": "全高清 at 180fps, 150fps, 100fps or 119.9fps / Recorded as 1/6-speed slow motion movie / Single scene maximum recording 最高 approx 1 hour 180/150fps 1hour 30mins 120/100fps"
         },
         {
           "label": "视频截帧",
-          "value": "8.3-MP JPEG/HEIF still image frame grab from 4K UHD movie possible (HEIF only possible when HDR PQ is set)",
+          "value": "可从4K UHD视频截取约830万像素JPEG／HEIF照片；HEIF仅在HDR PQ设定下可用",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "Frame grab is not available for RAW movies or Canon Log 3 movies",
+          "condition": "RAW视频及Canon Log 3视频不可截帧。",
           "originalValue": "8.3-megapixel JPEG/HEIF still image frame grab from 4K UHD movie possible (HEIF only possible when HDR PQ is set)"
         },
         {
           "label": "视频码率",
-          "value": "MP4 H.264 Canon Log Off / 4K (59.94p/50.00p): IPB 约 230 Mbps / 4K (59.94p/50.00p): IPB (Light ) 约 120 Mbps / 4K (29.97p/25.00p/23.98p): IPB 约 120 Mbps / 4K (29.97p/25.00p/23.98p): IPB (Light ) 约 60 Mbps / 4K Timelapse (29.97, 25fps) All-I 约 470Mbps / 全高清 (179.82p/150.00p): IPB 约 180 Mbps / 全高清 (179.82p/150.00p): IPB (Light) 约 105Mbps / 全高清 (119.88p/100.00p): IPB 约 120 Mbps / 全高清 (119.88p/100.00p): IPB (Light) 约 70 Mbps / 全高清 (59.94p/50.00p): IPB 约 60 Mbps / 全高清 (59.94p/50.00p): IPB (Light) 约 35 Mbps / 全高清 (29.94p/25.00p/23.93p): IPB 约 30 Mbps / 全高清 (29.94p/25.00p): IPB (Light) 约 12 Mbps / 全高清 Timelapse (29.97, 25fps) All-I 约 90Mbps / Full HDR Movies (29.97, 25fps) IPB 约 30 Mbps / MP4 H.265 Canon Log / HDR PQ: On / 4K (59.94p/50.00p): IPB 约 340 Mbps / 4K (59.94p/50.00p): IPB (Light) 约 170 Mbps / 4K (29.97p/25.00p/23.98p): IPB 约 170 Mbps / 4K (29.97p/25.00p/23.98p): IPB (Light) 约 85 Mbps / 4K Timelapse (29.97, 25fps) All-I 约 470Mbps / 全高清 (179.82p/150.00p): IPB 约 270 Mbps / 全高清 (179.82p/150.00p): IPB (Light) 约 150 Mbps / 全高清 (119.88p/100.00p): IPB 约 180 Mbps / 全高清 (119.88p/100.00p): IPB (Light) 约 100 Mbps / 全高清 (59.94p/50.00p): IPB 约 90 Mbps / 全高清 (59.94p/50.00p): IPB (Light) 约 50 Mbps / 全高清 (29.94p/25.00p/23.93p): IPB 约 45 Mbps / 全高清 (29.94p/25.00p): IPB (Light) 约 28 Mbps / 全高清 Timelapse (29.97, 25fps) All-I 约 135Mbps",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "MP4 H.264 Canon Log 关闭；4K (59.94p/50.00p): IPB 约 230 Mbps；4K (59.94p/50.00p): IPB (轻量 ) 约 120 Mbps；4K (29.97p/25.00p/23.98p): IPB 约 120 Mbps；4K (29.97p/25.00p/23.98p): IPB (轻量 ) 约 60 Mbps；4K 延时摄影 (29.97, 25fps) All-I 约 470Mbps；全高清 (179.82p/150.00p): IPB 约 180 Mbps；全高清 (179.82p/150.00p): IPB (轻量) 约 105Mbps；全高清 (119.88p/100.00p): IPB 约 120 Mbps；全高清 (119.88p/100.00p): IPB (轻量) 约 70 Mbps；全高清 (59.94p/50.00p): IPB 约 60 Mbps；全高清 (59.94p/50.00p): IPB (轻量) 约 35 Mbps；全高清 (29.94p/25.00p/23.93p): IPB 约 30 Mbps；全高清 (29.94p/25.00p): IPB (轻量) 约 12 Mbps；全高清 延时摄影 (29.97, 25fps) All-I 约 90Mbps；全高清R 视频 (29.97, 25fps) IPB 约 30 Mbps；MP4 H.265 Canon Log；HDR PQ： 开启；4K (59.94p/50.00p): IPB 约 340 Mbps；4K (59.94p/50.00p): IPB (轻量) 约 170 Mbps；4K (29.97p/25.00p/23.98p): IPB 约 170 Mbps；4K (29.97p/25.00p/23.98p): IPB (轻量) 约 85 Mbps；4K 延时摄影 (29.97, 25fps) All-I 约 470Mbps；全高清 (179.82p/150.00p): IPB 约 270 Mbps；全高清 (179.82p/150.00p): IPB (轻量) 约 150 Mbps；全高清 (119.88p/100.00p): IPB 约 180 Mbps；全高清 (119.88p/100.00p): IPB (轻量) 约 100 Mbps；全高清 (59.94p/50.00p): IPB 约 90 Mbps；全高清 (59.94p/50.00p): IPB (轻量) 约 50 Mbps；全高清 (29.94p/25.00p/23.93p): IPB 约 45 Mbps；全高清 (29.94p/25.00p): IPB (轻量) 约 28 Mbps；全高清 延时摄影 (29.97, 25fps) All-I 约 135Mbps",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "MP4 H.264 Canon Log Off / 4K (59.94p/50.00p): IPB 约 230 Mbps / 4K (59.94p/50.00p): IPB (Light ) 约 120 Mbps / 4K (29.97p/25.00p/23.98p): IPB 约 120 Mbps / 4K (29.97p/25.00p/23.98p): IPB (Light ) 约 60 Mbps / 4K Timelapse (29.97, 25fps) All-I 约 470Mbps / 全高清 (179.82p/150.00p): IPB 约 180 Mbps / 全高清 (179.82p/150.00p): IPB (Light) 约 105Mbps / 全高清 (119.88p/100.00p): IPB 约 120 Mbps / 全高清 (119.88p/100.00p): IPB (Light) 约 70 Mbps / 全高清 (59.94p/50.00p): IPB 约 60 Mbps / 全高清 (59.94p/50.00p): IPB (Light) 约 35 Mbps / 全高清 (29.94p/25.00p/23.93p): IPB 约 30 Mbps / 全高清 (29.94p/25.00p): IPB (Light) 约 12 Mbps / 全高清 Timelapse (29.97, 25fps) All-I 约 90Mbps / Full HDR Movies (29.97, 25fps) IPB 约 30 Mbps / MP4 H.265 Canon Log / HDR PQ: On / 4K (59.94p/50.00p): IPB 约 340 Mbps / 4K (59.94p/50.00p): IPB (Light) 约 170 Mbps / 4K (29.97p/25.00p/23.98p): IPB 约 170 Mbps / 4K (29.97p/25.00p/23.98p): IPB (Light) 约 85 Mbps / 4K Timelapse (29.97, 25fps) All-I 约 470Mbps / 全高清 (179.82p/150.00p): IPB 约 270 Mbps / 全高清 (179.82p/150.00p): IPB (Light) 约 150 Mbps / 全高清 (119.88p/100.00p): IPB 约 180 Mbps / 全高清 (119.88p/100.00p): IPB (Light) 约 100 Mbps / 全高清 (59.94p/50.00p): IPB 约 90 Mbps / 全高清 (59.94p/50.00p): IPB (Light) 约 50 Mbps / 全高清 (29.94p/25.00p/23.93p): IPB 约 45 Mbps / 全高清 (29.94p/25.00p): IPB (Light) 约 28 Mbps / 全高清 Timelapse (29.97, 25fps) All-I 约 135Mbps"
         },
         {
           "label": "双卡记录",
-          "value": "yes",
+          "value": "支持",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "麦克风",
-          "value": "内置 stereo microphone (48 Khz, 16-bit x 2 channels), external mic or Multi-Function shoe including XLR via Tascam CAXLR2dC",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "内置立体声麦克风（48kHz、16位双声道）；支持外接麦克风及多功能靴，通过Tascam CA-XLR2d-C可连接XLR",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "内置 stereo microphone (48 Khz, 16-bit x 2 channels), external mic or Multi-Function shoe including XLR via Tascam CAXLR2dC"
         },
         {
           "label": "HDMI显示",
-          "value": "Output to external monitor only (output of 张图像 and shooting information, 张图像 are recorded to the card)",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "仅向外接显示器输出 (输出影像和拍摄信息，影像记录到存储卡)",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Output to external monitor only (output of 张图像 and shooting information, 张图像 are recorded to the card)"
         },
         {
           "label": "HDMI输出",
-          "value": "Camera screen and External Monitor output (no recording to the card, camera screen shows 张图像 使用 shooting information) / 4K (UHD) 59.94p / 29.97p / 23.98p, / 全高清 59.94p / 59.94i, 50.00p / 50.00i / 480p 59.94p / 576p 50p / Uncompressed YCbCr 4:2:2, 8-bit or 10-bit, sound output via HDMI is also possible / 6k upto 60p RAW to Atomos Ninja V+ recorded as ProRes RAW or 3.7k RAW 使用 crop",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "机身屏幕和外接显示器同时输出 (不记录到存储卡，机身屏幕显示影像和拍摄信息)；4K (UHD) 59.94p；29.97p；23.98p,；全高清 59.94p；59.94i, 50.00p；50.00i；480p 59.94p；576p 50p；未压缩 YCbCr 4:2:2, 8位或10位, 支持通过HDMI输出声音；可向Atomos Ninja V+输出最高6K 60p RAW并记录为ProRes RAW，或输出裁切3.7K RAW",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Camera screen and External Monitor output (no recording to the card, camera screen shows 张图像 使用 shooting information) / 4K (UHD) 59.94p / 29.97p / 23.98p, / 全高清 59.94p / 59.94i, 50.00p / 50.00i / 480p 59.94p / 576p 50p / Uncompressed YCbCr 4:2:2, 8-bit or 10-bit, sound output via HDMI is also possible / 6k upto 60p RAW to Atomos Ninja V+ recorded as ProRes RAW or 3.7k RAW 使用 crop"
         },
         {
           "label": "视频感光度",
-          "value": "自动: 100-6400, H: 204800 / 手动: 100-25600, H: 204801",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "自动: 100-6400, H: 204800；手动: 100-25600, H: 204801",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "自动: 100-6400, H: 204800 / 手动: 100-25600, H: 204801"
         }
       ]
     },
@@ -541,19 +595,22 @@
       "rows": [
         {
           "label": "电脑接口",
-          "value": "SuperSpeed USB 3.2 Gen 2 USB C connector UVC/UAC support Windows / Mac OS compatible 使用 Zoom / Skype / Teams / Meet / Webex",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "USB 3.2 Gen 2，USB Type-C接口；支持UVC/UAC，兼容Windows/macOS及Zoom、Skype、Teams、Meet、Webex",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "SuperSpeed USB 3.2 Gen 2 USB C connector UVC/UAC support Windows / Mac OS compatible 使用 Zoom / Skype / Teams / Meet / Webex"
         },
         {
           "label": "无线网络",
-          "value": "Wireless LAN (IEEE802.11AC/ab/g/n) (5/2.4 GHz), 使用 Bluetooth v5.0 support. Features supported: EOS Utility, Smartphone (使用 Wi-Fi Handover to 2.4GHz or 5GHz), Upload to image.canon, FTP, FTPS, SFTP (using the latest firmware)",
+          "value": "无线局域网 (IEEE802.11AC/ab/g/n) (5/2.4 GHz), 支持蓝牙5.0. 支持功能: EOS Utility, 智能手机 (通过Wi-Fi切换到2.4GHz或5GHz), 上传至image.canon, FTP, FTPS, SFTP (使用最新固件)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "Wi-Fi use may be restricted in certain countries or regions"
+          "condition": "部分国家或地区限制Wi-Fi使用。",
+          "originalValue": "Wireless LAN (IEEE802.11AC/ab/g/n) (5/2.4 GHz), 使用 Bluetooth v5.0 support. Features supported: EOS Utility, Smartphone (使用 Wi-Fi Handover to 2.4GHz or 5GHz), Upload to image.canon, FTP, FTPS, SFTP (using the latest firmware)"
         },
         {
           "label": "其他接口",
-          "value": "HDMI micro out (Type D), External Microphone In (Stereo mini jack), Headphone socket (Stereo mini jack), E3-type terminal (remote control terminal), Multi-Function shoe",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "Micro HDMI输出 (Type D), 外接麦克风输入 (立体声迷你插孔), 耳机输出 (立体声迷你插孔), E3端口 (遥控端口), 多功能热靴",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "HDMI micro out (Type D), External Microphone In (Stereo mini jack), Headphone socket (Stereo mini jack), E3-type terminal (remote control terminal), Multi-Function shoe"
         }
       ]
     },
@@ -563,7 +620,7 @@
       "rows": [
         {
           "label": "类型",
-          "value": "2x SD/SDHC/SDXC and UHS-II",
+          "value": "双SD/SDHC/SDXC卡槽，支持UHS-II",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         }
       ]
@@ -574,24 +631,27 @@
       "rows": [
         {
           "label": "电池",
-          "value": "可充电锂离子电池 LP-E6NH (supplied)/LP-E6N",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "可充电锂离子电池 LP-E6NH（随附）/LP-E6N",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "可充电锂离子电池 LP-E6NH (supplied)/LP-E6N"
         },
         {
           "label": "电池续航",
-          "value": "使用 LCD 约 760 张 (23°C时) / 使用 Viewfinder 约 450 张 (23°C时)",
+          "value": "液晶屏 约 760 张 (23°C时)；取景器 约 450 张 (23°C时)",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
-          "condition": "Based on the CIPA 标准 and using the battery supplied 使用 the camera, except where indicated. In power saving mode"
+          "condition": "依据CIPA标准，使用随附电池并设为节电模式；另有注明除外。",
+          "originalValue": "使用 LCD 约 760 张 (23°C时) / 使用 Viewfinder 约 450 张 (23°C时)"
         },
         {
           "label": "电量显示",
-          "value": "7 levels + percentage",
+          "value": "7级电量显示及百分比",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "节电",
-          "value": "Power turns off after 30 seconds, 1, 3, 5, 10 or 30mins",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "自动关机时间：30秒, 1, 3, 5, 10或30分钟",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "Power turns off after 30 seconds, 1, 3, 5, 10 or 30mins"
         }
       ]
     },
@@ -601,13 +661,14 @@
       "rows": [
         {
           "label": "机身材质",
-          "value": "镁合金 chassis, outer panels are polycarbonate resin 使用 glass fiber",
+          "value": "镁合金骨架，外壳为玻璃纤维增强聚碳酸酯",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         },
         {
           "label": "工作环境",
-          "value": "2 – 40 °C, 85% or less humidity",
-          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
+          "value": "2 – 40 °C, 85% 以下湿度",
+          "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/",
+          "originalValue": "2 – 40 °C, 85% or less humidity"
         },
         {
           "label": "外形尺寸（宽×高×深）",
@@ -616,7 +677,7 @@
         },
         {
           "label": "机身重量",
-          "value": "约 588 g (670 g 使用 card and battery)",
+          "value": "仅机身约588g；含存储卡和电池约670g",
           "sourceUrl": "https://www.canon-europe.com/cameras/eos-r6-mark-ii/specifications/"
         }
       ]
